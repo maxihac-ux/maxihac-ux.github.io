@@ -57,7 +57,7 @@
  */
 "use strict";
 
-const SHELL_VER = "v2.60.28-521"; // №53: build_export подставляет v{версия}-{код} — каждая сборка имеет свои кэши, activate стирает чужие
+const SHELL_VER = "v2.60.29-522"; // №53: build_export подставляет v{версия}-{код} — каждая сборка имеет свои кэши, activate стирает чужие
 const SHELL_CACHE = "srpski-shell-" + SHELL_VER;
 const STATIC_CACHE = "srpski-static-" + SHELL_VER;
 const MEDIA_CACHE = "srpski-media-" + SHELL_VER;
