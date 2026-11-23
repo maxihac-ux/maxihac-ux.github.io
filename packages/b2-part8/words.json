@@ -1,0 +1,4213 @@
+[
+ {
+  "id": "w4752",
+  "order": 4752,
+  "level": "B2",
+  "cyr": "акатист",
+  "lat": "akatist",
+  "tr": "акатист",
+  "ru": "акафист",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Акатист је читан целу ноћ.",
+   "lat": "Akatist je čitan celu noć.",
+   "ru": "Акафист читан всю ночь."
+  }
+ },
+ {
+  "id": "w4753",
+  "order": 4753,
+  "level": "B2",
+  "cyr": "алијанса",
+  "lat": "alijansa",
+  "tr": "алијанса",
+  "ru": "альянс",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Алијанса је објединила четири државе.",
+   "lat": "Alijansa je objedinila četiri države.",
+   "ru": "Альянс объединил четыре государства."
+  }
+ },
+ {
+  "id": "w4754",
+  "order": 4754,
+  "level": "B2",
+  "cyr": "апостол",
+  "lat": "apostol",
+  "tr": "апостол",
+  "ru": "апостол",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Апостоли је писали посланице.",
+   "lat": "Apostoli je pisali poslanice.",
+   "ru": "Апостолы писали послания."
+  }
+ },
+ {
+  "id": "w4755",
+  "order": 4755,
+  "level": "B2",
+  "cyr": "апсолутан",
+  "lat": "apsolutan",
+  "tr": "апсолутан",
+  "ru": "абсолютный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Апсолутан је није био.",
+   "lat": "Apsolutan je nije bio.",
+   "ru": "Абсолютным не был."
+  }
+ },
+ {
+  "id": "w4756",
+  "order": 4756,
+  "level": "B2",
+  "cyr": "аксиома",
+  "lat": "aksioma",
+  "tr": "аксиома",
+  "ru": "аксиома",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Аксиома је трајала вјековима.",
+   "lat": "Aksioma je trajala vjekovima.",
+   "ru": "Аксиома продолжалась веками."
+  }
+ },
+ {
+  "id": "w4757",
+  "order": 4757,
+  "level": "B2",
+  "cyr": "заговарати",
+  "lat": "zagovarati",
+  "tr": "заговарати",
+  "ru": "отстаивать; выступать за",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Заговарали су слободу људи.",
+   "lat": "Zagovarali su slobodu ljudi.",
+   "ru": "Отстаивали свободу людей."
+  }
+ },
+ {
+  "id": "w4758",
+  "order": 4758,
+  "level": "B2",
+  "cyr": "званично",
+  "lat": "zvanično",
+  "tr": "званично",
+  "ru": "официально",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Званично је није објављено.",
+   "lat": "Zvanično je nije objavljeno.",
+   "ru": "Официально не объявлено."
+  }
+ },
+ {
+  "id": "w4759",
+  "order": 4759,
+  "level": "B2",
+  "cyr": "келија",
+  "lat": "kelija",
+  "tr": "келија",
+  "ru": "келья",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Келија је била скучена.",
+   "lat": "Kelija je bila skučena.",
+   "ru": "Келья была тесная."
+  }
+ },
+ {
+  "id": "w4760",
+  "order": 4760,
+  "level": "B2",
+  "cyr": "атеизам",
+  "lat": "ateizam",
+  "tr": "атеизам",
+  "ru": "атеизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Атеизам је проширен међу младима.",
+   "lat": "Ateizam je proširen među mladima.",
+   "ru": "Атеизм распространён среди молодых."
+  }
+ },
+ {
+  "id": "w4761",
+  "order": 4761,
+  "level": "B2",
+  "cyr": "богослов",
+  "lat": "bogoslov",
+  "tr": "богослов",
+  "ru": "богослов",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Богослов је писао о милости.",
+   "lat": "Bogoslov je pisao o milosti.",
+   "ru": "Богослов писал о милости."
+  }
+ },
+ {
+  "id": "w4762",
+  "order": 4762,
+  "level": "B2",
+  "cyr": "верник",
+  "lat": "vernik",
+  "tr": "верник",
+  "ru": "верующий",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Верници је испунили цркву.",
+   "lat": "Vernici je ispunili crkvu.",
+   "ru": "Верующие заполнили церковь."
+  }
+ },
+ {
+  "id": "w4763",
+  "order": 4763,
+  "level": "B2",
+  "cyr": "вечит",
+  "lat": "večit",
+  "tr": "вечит",
+  "ru": "вечный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Вечит сан је остао.",
+   "lat": "Večit san je ostao.",
+   "ru": "Вечный сон остался."
+  }
+ },
+ {
+  "id": "w4764",
+  "order": 4764,
+  "level": "B2",
+  "cyr": "богословље",
+  "lat": "bogoslovlje",
+  "tr": "богословле",
+  "ru": "богословие",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Богословље је проучавало списе.",
+   "lat": "Bogoslovlje je proučavalo spise.",
+   "ru": "Богословие изучало сочинения."
+  }
+ },
+ {
+  "id": "w4765",
+  "order": 4765,
+  "level": "B2",
+  "cyr": "претпоставити",
+  "lat": "pretpostaviti",
+  "tr": "претпоставити",
+  "ru": "предположить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Претпоставили су најбољи исход.",
+   "lat": "Pretpostavili su najbolji ishod.",
+   "ru": "Предположили лучший исход."
+  }
+ },
+ {
+  "id": "w4766",
+  "order": 4766,
+  "level": "B2",
+  "cyr": "поштено",
+  "lat": "pošteno",
+  "tr": "поштено",
+  "ru": "честно",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Поштено је служио цео век.",
+   "lat": "Pošteno je služio ceo vek.",
+   "ru": "Честно служил целый век."
+  }
+ },
+ {
+  "id": "w4767",
+  "order": 4767,
+  "level": "B2",
+  "cyr": "биће",
+  "lat": "biće",
+  "tr": "биче",
+  "ru": "бытие; существо",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Биће је тајанствено.",
+   "lat": "Biće je tajanstveno.",
+   "ru": "Бытие таинственно."
+  }
+ },
+ {
+  "id": "w4768",
+  "order": 4768,
+  "level": "B2",
+  "cyr": "дипломата",
+  "lat": "diplomata",
+  "tr": "дипломата",
+  "ru": "дипломат",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дипломата је стигао пре поноћи.",
+   "lat": "Diplomata je stigao pre ponoći.",
+   "ru": "Дипломат прибыл перед полуночью."
+  }
+ },
+ {
+  "id": "w4769",
+  "order": 4769,
+  "level": "B2",
+  "cyr": "грешник",
+  "lat": "grešnik",
+  "tr": "грешник",
+  "ru": "грешник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Грешник је тражио опроштај.",
+   "lat": "Grešnik je tražio oproštaj.",
+   "ru": "Грешник просил прощения."
+  }
+ },
+ {
+  "id": "w4770",
+  "order": 4770,
+  "level": "B2",
+  "cyr": "достојан",
+  "lat": "dostojan",
+  "tr": "достојан",
+  "ru": "достойный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Достојан је пријао награде.",
+   "lat": "Dostojan je prijao nagrade.",
+   "ru": "Достойный принял награду."
+  }
+ },
+ {
+  "id": "w4771",
+  "order": 4771,
+  "level": "B2",
+  "cyr": "веронаука",
+  "lat": "veronauka",
+  "tr": "веронаука",
+  "ru": "закон Божий (предмет)",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Веронаука је постојала у школама.",
+   "lat": "Veronauka je postojala u školama.",
+   "ru": "Закон Божий существовал в школах."
+  }
+ },
+ {
+  "id": "w4772",
+  "order": 4772,
+  "level": "B2",
+  "cyr": "разматрати",
+  "lat": "razmatrati",
+  "tr": "разматрати",
+  "ru": "рассматривать; обсуждать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Разматрају сваки предлог са свих страна.",
+   "lat": "Razmatraju svaki predlog sa svih strana.",
+   "ru": "Рассматривают каждое предложение со всех сторон."
+  }
+ },
+ {
+  "id": "w4773",
+  "order": 4773,
+  "level": "B2",
+  "cyr": "праведно",
+  "lat": "pravedno",
+  "tr": "праведно",
+  "ru": "справедливо",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Праведно је судио свима.",
+   "lat": "Pravedno je sudio svima.",
+   "ru": "Справедливо судил всем."
+  }
+ },
+ {
+  "id": "w4774",
+  "order": 4774,
+  "level": "B2",
+  "cyr": "благодат",
+  "lat": "blagodat",
+  "tr": "благодат",
+  "ru": "благодать",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Благодат је сијала над свим.",
+   "lat": "Blagodat je sijala nad svim.",
+   "ru": "Благодать сияла над всем."
+  }
+ },
+ {
+  "id": "w4775",
+  "order": 4775,
+  "level": "B2",
+  "cyr": "дипломатија",
+  "lat": "diplomatija",
+  "tr": "дипломатија",
+  "ru": "дипломатия",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дипломатија је спречила рат.",
+   "lat": "Diplomatija je sprečila rat.",
+   "ru": "Дипломатия предотвратила войну."
+  }
+ },
+ {
+  "id": "w4776",
+  "order": 4776,
+  "level": "B2",
+  "cyr": "државник",
+  "lat": "državnik",
+  "tr": "државник",
+  "ru": "государственный деятель",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Државник је говорио без папира.",
+   "lat": "Državnik je govorio bez papira.",
+   "ru": "Государственный деятель говорил без бумаги."
+  }
+ },
+ {
+  "id": "w4777",
+  "order": 4777,
+  "level": "B2",
+  "cyr": "екзистенцијалан",
+  "lat": "ekzistencijalan",
+  "tr": "екзистенцијалан",
+  "ru": "экзистенциальный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Екзистенцијалан страх га је пратио.",
+   "lat": "Ekzistencijalan strah ga je pratio.",
+   "ru": "Экзистенциальный страх его сопровождал."
+  }
+ },
+ {
+  "id": "w4778",
+  "order": 4778,
+  "level": "B2",
+  "cyr": "дефиниција",
+  "lat": "definicija",
+  "tr": "дефиниција",
+  "ru": "определение",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дефиниција је није била јасна.",
+   "lat": "Definicija je nije bila jasna.",
+   "ru": "Определение не было ясное."
+  }
+ },
+ {
+  "id": "w4779",
+  "order": 4779,
+  "level": "B2",
+  "cyr": "сматрати",
+  "lat": "smatrati",
+  "tr": "сматрати",
+  "ru": "считать; рассматривать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Сматрали су га најмудријим.",
+   "lat": "Smatrali su ga najmudrijim.",
+   "ru": "Считали его мудрейшим."
+  }
+ },
+ {
+  "id": "w4780",
+  "order": 4780,
+  "level": "B2",
+  "cyr": "благослов",
+  "lat": "blagoslov",
+  "tr": "благослов",
+  "ru": "благословение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Благослов је добио сваки пут.",
+   "lat": "Blagoslov je dobio svaki put.",
+   "ru": "Благослов получал каждый раз."
+  }
+ },
+ {
+  "id": "w4781",
+  "order": 4781,
+  "level": "B2",
+  "cyr": "ембарго",
+  "lat": "embargo",
+  "tr": "ембарго",
+  "ru": "эмбарго",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ембарго је угашило трговину.",
+   "lat": "Embargo je ugašilo trgovinu.",
+   "ru": "Эмбарго задушило торговлю."
+  }
+ },
+ {
+  "id": "w4782",
+  "order": 4782,
+  "level": "B2",
+  "cyr": "епископ",
+  "lat": "episkop",
+  "tr": "епископ",
+  "ru": "епископ",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Епископ је обишао све парохије.",
+   "lat": "Episkop je obišao sve parohije.",
+   "ru": "Епископ обошёл все приходы."
+  }
+ },
+ {
+  "id": "w4783",
+  "order": 4783,
+  "level": "B2",
+  "cyr": "етички",
+  "lat": "etički",
+  "tr": "етички",
+  "ru": "этический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Етички кодекс је био строг.",
+   "lat": "Etički kodeks je bio strog.",
+   "ru": "Этический кодекс был строгий."
+  }
+ },
+ {
+  "id": "w4784",
+  "order": 4784,
+  "level": "B2",
+  "cyr": "естетика",
+  "lat": "estetika",
+  "tr": "естетика",
+  "ru": "эстетика",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Естетика је његова страст.",
+   "lat": "Estetika je njegova strast.",
+   "ru": "Эстетика — его страсть."
+  }
+ },
+ {
+  "id": "w4785",
+  "order": 4785,
+  "level": "B2",
+  "cyr": "спорити",
+  "lat": "sporiti",
+  "tr": "спорити",
+  "ru": "оспаривать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Скептици споре сваку тврдњу.",
+   "lat": "Skeptici spore svaku tvrdnju.",
+   "ru": "Скептики оспаривают каждое утверждение."
+  }
+ },
+ {
+  "id": "w4786",
+  "order": 4786,
+  "level": "B2",
+  "cyr": "богиња",
+  "lat": "boginja",
+  "tr": "богинья",
+  "ru": "богиня",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Богиња је чувала град.",
+   "lat": "Boginja je čuvala grad.",
+   "ru": "Богиня хранила город."
+  }
+ },
+ {
+  "id": "w4787",
+  "order": 4787,
+  "level": "B2",
+  "cyr": "законик",
+  "lat": "zakonik",
+  "tr": "законик",
+  "ru": "кодекс",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Законик је заменио старе прописе.",
+   "lat": "Zakonik je zamenio stare propise.",
+   "ru": "Кодекс заменил старые правила."
+  }
+ },
+ {
+  "id": "w4788",
+  "order": 4788,
+  "level": "B2",
+  "cyr": "игуман",
+  "lat": "iguman",
+  "tr": "игуман",
+  "ru": "игумен",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Игуман је примио ходочаснике.",
+   "lat": "Iguman je primio hodočasnike.",
+   "ru": "Игумен принял паломников."
+  }
+ },
+ {
+  "id": "w4789",
+  "order": 4789,
+  "level": "B2",
+  "cyr": "крштени",
+  "lat": "kršteni",
+  "tr": "крштени",
+  "ru": "крещёный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Крштени је добио ново име.",
+   "lat": "Kršteni je dobio novo ime.",
+   "ru": "Крещёный получил новое имя."
+  }
+ },
+ {
+  "id": "w4790",
+  "order": 4790,
+  "level": "B2",
+  "cyr": "метода",
+  "lat": "metoda",
+  "tr": "метода",
+  "ru": "метода; метод",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Метода је биола проста.",
+   "lat": "Metoda je biola prosta.",
+   "ru": "Метода была простая."
+  }
+ },
+ {
+  "id": "w4791",
+  "order": 4791,
+  "level": "B2",
+  "cyr": "богомоља",
+  "lat": "bogomolja",
+  "tr": "богомоля",
+  "ru": "молельня",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Богомоља је стајала уз пут.",
+   "lat": "Bogomolja je stajala uz put.",
+   "ru": "Молельня стояла у дороги."
+  }
+ },
+ {
+  "id": "w4792",
+  "order": 4792,
+  "level": "B2",
+  "cyr": "заступање",
+  "lat": "zastupanje",
+  "tr": "заступанье",
+  "ru": "представительство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Заступање интереса је трајало месецима.",
+   "lat": "Zastupanje interesa je trajalo mesecima.",
+   "ru": "Представительство интересов продолжалось месяцами."
+  }
+ },
+ {
+  "id": "w4793",
+  "order": 4793,
+  "level": "B2",
+  "cyr": "изабраник",
+  "lat": "izabranik",
+  "tr": "изабраник",
+  "ru": "избранник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Изабраник је јавности није био познат.",
+   "lat": "Izabranik je javnosti nije bio poznat.",
+   "ru": "Избранник публике не был известен."
+  }
+ },
+ {
+  "id": "w4794",
+  "order": 4794,
+  "level": "B2",
+  "cyr": "медијски",
+  "lat": "medijski",
+  "tr": "медијски",
+  "ru": "медийный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Медијски простор је није мирав.",
+   "lat": "Medijski prostor je nije mirav.",
+   "ru": "Медиапростор не был мирный."
+  }
+ },
+ {
+  "id": "w4795",
+  "order": 4795,
+  "level": "B2",
+  "cyr": "поука",
+  "lat": "pouka",
+  "tr": "поука",
+  "ru": "наставление; урок",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Поука је остала за вјекове.",
+   "lat": "Pouka je ostala za vjekove.",
+   "ru": "Урок остался на веки."
+  }
+ },
+ {
+  "id": "w4796",
+  "order": 4796,
+  "level": "B2",
+  "cyr": "богослужење",
+  "lat": "bogosluženje",
+  "tr": "богослуженье",
+  "ru": "богослужение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Богослужење је трајало три сата.",
+   "lat": "Bogosluženje je trajalo tri sata.",
+   "ru": "Богослужение продолжалось три часа."
+  }
+ },
+ {
+  "id": "w4797",
+  "order": 4797,
+  "level": "B2",
+  "cyr": "звонар",
+  "lat": "zvonar",
+  "tr": "звонар",
+  "ru": "колокольник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Звонар је звонио све празнике.",
+   "lat": "Zvonar je zvonio sve praznike.",
+   "ru": "Звонарь звонил все праздники."
+  }
+ },
+ {
+  "id": "w4798",
+  "order": 4798,
+  "level": "B2",
+  "cyr": "имам",
+  "lat": "imam",
+  "tr": "имам",
+  "ru": "имам",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Имам је призвао на молитву.",
+   "lat": "Imam je prizvao na molitvu.",
+   "ru": "Имам призвал на молитву."
+  }
+ },
+ {
+  "id": "w4799",
+  "order": 4799,
+  "level": "B2",
+  "cyr": "међународан",
+  "lat": "međunarodan",
+  "tr": "меджународан",
+  "ru": "международный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Међународан одазив је био јак.",
+   "lat": "Međunarodan odaziv je bio jak.",
+   "ru": "Международный отклик был сильный."
+  }
+ },
+ {
+  "id": "w4800",
+  "order": 4800,
+  "level": "B2",
+  "cyr": "синтеза",
+  "lat": "sinteza",
+  "tr": "синтеза",
+  "ru": "синтез",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Синтеза је трајала годину дана.",
+   "lat": "Sinteza je trajala godinu dana.",
+   "ru": "Синтез продолжался год."
+  }
+ },
+ {
+  "id": "w4801",
+  "order": 4801,
+  "level": "B2",
+  "cyr": "богохуљење",
+  "lat": "bogohuljenje",
+  "tr": "богохуленье",
+  "ru": "богохульство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Богохуљење је строго казњавано.",
+   "lat": "Bogohuljenje je strogo kaznjavano.",
+   "ru": "Богохульство строго каралось."
+  }
+ },
+ {
+  "id": "w4802",
+  "order": 4802,
+  "level": "B2",
+  "cyr": "интеграција",
+  "lat": "integracija",
+  "tr": "интеграција",
+  "ru": "интеграция",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Интеграција је трајала деценијама.",
+   "lat": "Integracija je trajala decenijama.",
+   "ru": "Интеграция продолжалась десятилетиями."
+  }
+ },
+ {
+  "id": "w4803",
+  "order": 4803,
+  "level": "B2",
+  "cyr": "миротворац",
+  "lat": "mirotvorac",
+  "tr": "миротворац",
+  "ru": "миротворец",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Миротворци су стајали између страна.",
+   "lat": "Mirotvorci su stajali između strana.",
+   "ru": "Миротворцы стояли между сторонами."
+  }
+ },
+ {
+  "id": "w4804",
+  "order": 4804,
+  "level": "B2",
+  "cyr": "мировни",
+  "lat": "mirovni",
+  "tr": "мировни",
+  "ru": "мирный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Мировни преговори је почели рано.",
+   "lat": "Mirovni pregovori je počeli rano.",
+   "ru": "Мирные переговоры начались рано."
+  }
+ },
+ {
+  "id": "w4805",
+  "order": 4805,
+  "level": "B2",
+  "cyr": "теологија",
+  "lat": "teologija",
+  "tr": "теологија",
+  "ru": "теология",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Теологија је његов живот.",
+   "lat": "Teologija je njegov život.",
+   "ru": "Теология — его жизнь."
+  }
+ },
+ {
+  "id": "w4806",
+  "order": 4806,
+  "level": "B2",
+  "cyr": "будизам",
+  "lat": "budizam",
+  "tr": "будизам",
+  "ru": "буддизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Будизам учи умирењу жеља.",
+   "lat": "Budizam uči umirenju želja.",
+   "ru": "Буддизм учит умиротворению желаний."
+  }
+ },
+ {
+  "id": "w4807",
+  "order": 4807,
+  "level": "B2",
+  "cyr": "кандидатура",
+  "lat": "kandidatura",
+  "tr": "кандидатура",
+  "ru": "кандидатура",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кандидатура је предлођена одмах.",
+   "lat": "Kandidatura je predlođena odmah.",
+   "ru": "Кандидатура предложена сразу."
+  }
+ },
+ {
+  "id": "w4808",
+  "order": 4808,
+  "level": "B2",
+  "cyr": "мисионар",
+  "lat": "misionar",
+  "tr": "мисионар",
+  "ru": "миссионер",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мисионар је путовао све до мора.",
+   "lat": "Misionar je putovao sve do mora.",
+   "ru": "Миссионер путешествовал до самого моря."
+  }
+ },
+ {
+  "id": "w4809",
+  "order": 4809,
+  "level": "B2",
+  "cyr": "објективан",
+  "lat": "objektivan",
+  "tr": "објективан",
+  "ru": "объективный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Објективан суд је требао.",
+   "lat": "Objektivan sud je trebao.",
+   "ru": "Объективный суд требовался."
+  }
+ },
+ {
+  "id": "w4810",
+  "order": 4810,
+  "level": "B2",
+  "cyr": "трактат",
+  "lat": "traktat",
+  "tr": "трактат",
+  "ru": "трактат",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Трактат је имао триста страна.",
+   "lat": "Traktat je imao trista strana.",
+   "ru": "Трактат имел триста страниц."
+  }
+ },
+ {
+  "id": "w4811",
+  "order": 4811,
+  "level": "B2",
+  "cyr": "васкрсење",
+  "lat": "vaskrsenje",
+  "tr": "васкрсенье",
+  "ru": "воскресение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Васкрсење је симбол наде.",
+   "lat": "Vaskrsenje je simbol nade.",
+   "ru": "Воскресение — символ надежды."
+  }
+ },
+ {
+  "id": "w4812",
+  "order": 4812,
+  "level": "B2",
+  "cyr": "компромис",
+  "lat": "kompromis",
+  "tr": "компромис",
+  "ru": "компромисс",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Компромис је задовојио обе стране.",
+   "lat": "Kompromis je zadovojio obe strane.",
+   "ru": "Компромисс удовлетворил обе стороны."
+  }
+ },
+ {
+  "id": "w4813",
+  "order": 4813,
+  "level": "B2",
+  "cyr": "монахиња",
+  "lat": "monahinja",
+  "tr": "монахинья",
+  "ru": "монахиня",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "f",
+  "ex": {
+   "cyr": "Монахиње праве ручне сапуне.",
+   "lat": "Monahinje prave ručne sapune.",
+   "ru": "Монахини делают ручные мыла."
+  }
+ },
+ {
+  "id": "w4814",
+  "order": 4814,
+  "level": "B2",
+  "cyr": "побожан",
+  "lat": "pobožan",
+  "tr": "побожан",
+  "ru": "благочестивый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Побожан је стајао тихо.",
+   "lat": "Pobožan je stajao tiho.",
+   "ru": "Благочестивый стоял тихо."
+  }
+ },
+ {
+  "id": "w4815",
+  "order": 4815,
+  "level": "B2",
+  "cyr": "философија",
+  "lat": "filosofija",
+  "tr": "философија",
+  "ru": "философия",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Философија је његов позив.",
+   "lat": "Filosofija je njegov poziv.",
+   "ru": "Философия — его призвание."
+  }
+ },
+ {
+  "id": "w4816",
+  "order": 4816,
+  "level": "B2",
+  "cyr": "величање",
+  "lat": "veličanje",
+  "tr": "величанье",
+  "ru": "прославление",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Величање светаца је трајало сате.",
+   "lat": "Veličanje svetaca je trajalo sate.",
+   "ru": "Прославление святого продолжалось часами."
+  }
+ },
+ {
+  "id": "w4817",
+  "order": 4817,
+  "level": "B2",
+  "cyr": "консензус",
+  "lat": "konsenzus",
+  "tr": "консензус",
+  "ru": "консенсус",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Консензус је постигнут тек ујутру.",
+   "lat": "Konsenzus je postignut tek ujutru.",
+   "ru": "Консенсус достигнут только утром."
+  }
+ },
+ {
+  "id": "w4818",
+  "order": 4818,
+  "level": "B2",
+  "cyr": "мудрац",
+  "lat": "mudrac",
+  "tr": "мудрац",
+  "ru": "мудрец",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мудрац је ћутао.",
+   "lat": "Mudrac je ćutao.",
+   "ru": "Мудрец молчал."
+  }
+ },
+ {
+  "id": "w4819",
+  "order": 4819,
+  "level": "B2",
+  "cyr": "политички",
+  "lat": "politički",
+  "tr": "политички",
+  "ru": "политический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Политички притисак је јачао.",
+   "lat": "Politički pritisak je jačao.",
+   "ru": "Политический напор усиливался."
+  }
+ },
+ {
+  "id": "w4820",
+  "order": 4820,
+  "level": "B2",
+  "cyr": "верност",
+  "lat": "vernost",
+  "tr": "верност",
+  "ru": "верность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Верност је трајала вјекове.",
+   "lat": "Vernost je trajala vjekove.",
+   "ru": "Верность продолжалась веки."
+  }
+ },
+ {
+  "id": "w4821",
+  "order": 4821,
+  "level": "B2",
+  "cyr": "мисија",
+  "lat": "misija",
+  "tr": "мисија",
+  "ru": "миссия",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мисија је трајала месец.",
+   "lat": "Misija je trajala mesec.",
+   "ru": "Миссия продолжалась месяц."
+  }
+ },
+ {
+  "id": "w4822",
+  "order": 4822,
+  "level": "B2",
+  "cyr": "мученик",
+  "lat": "mučenik",
+  "tr": "мученик",
+  "ru": "мученик",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мученик није одустао.",
+   "lat": "Mučenik nije odustao.",
+   "ru": "Мученик не отступился."
+  }
+ },
+ {
+  "id": "w4823",
+  "order": 4823,
+  "level": "B2",
+  "cyr": "поштен",
+  "lat": "pošten",
+  "tr": "поштен",
+  "ru": "честный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Поштен човек је првије.",
+   "lat": "Pošten čovek je prvije.",
+   "ru": "Честный человек первый."
+  }
+ },
+ {
+  "id": "w4824",
+  "order": 4824,
+  "level": "B2",
+  "cyr": "вероисповест",
+  "lat": "veroispovest",
+  "tr": "вероисповест",
+  "ru": "вероисповедание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Слобода вероисповести је загарантована.",
+   "lat": "Sloboda veroispovesti je zagarantovana.",
+   "ru": "Свобода вероисповедания гарантирована."
+  }
+ },
+ {
+  "id": "w4825",
+  "order": 4825,
+  "level": "B2",
+  "cyr": "мислилац",
+  "lat": "mislilac",
+  "tr": "мислилац",
+  "ru": "мыслитель",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мислилац је тражио одговоре.",
+   "lat": "Mislilac je tražio odgovore.",
+   "ru": "Мыслитель искал ответы."
+  }
+ },
+ {
+  "id": "w4826",
+  "order": 4826,
+  "level": "B2",
+  "cyr": "оптимиста",
+  "lat": "optimista",
+  "tr": "оптимиста",
+  "ru": "оптимист",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Оптимиста је веровао у боље.",
+   "lat": "Optimista je verovao u bolje.",
+   "ru": "Оптимист веровал в лучшее."
+  }
+ },
+ {
+  "id": "w4827",
+  "order": 4827,
+  "level": "B2",
+  "cyr": "праведан",
+  "lat": "pravedan",
+  "tr": "праведан",
+  "ru": "праведный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Праведан је није био никад сам.",
+   "lat": "Pravedan je nije bio nikad sam.",
+   "ru": "Праведный никогда не был один."
+  }
+ },
+ {
+  "id": "w4828",
+  "order": 4828,
+  "level": "B2",
+  "cyr": "вероучење",
+  "lat": "veroučenje",
+  "tr": "вероученье",
+  "ru": "вероучение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Вероучење се преносило с колена.",
+   "lat": "Veroučenje se prenosilo s kolena.",
+   "ru": "Вероучение передавалось из поколения."
+  }
+ },
+ {
+  "id": "w4829",
+  "order": 4829,
+  "level": "B2",
+  "cyr": "напуштање",
+  "lat": "napuštanje",
+  "tr": "напуштанье",
+  "ru": "покидание",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Напуштање савеза је није био лако.",
+   "lat": "Napuštanje saveza je nije bio lako.",
+   "ru": "Покидание союза не было лёгким."
+  }
+ },
+ {
+  "id": "w4830",
+  "order": 4830,
+  "level": "B2",
+  "cyr": "паганин",
+  "lat": "paganin",
+  "tr": "паганин",
+  "ru": "язычник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пагани су тражили знамења.",
+   "lat": "Pagani su tražili znamenja.",
+   "ru": "Язычники искали знамения."
+  }
+ },
+ {
+  "id": "w4831",
+  "order": 4831,
+  "level": "B2",
+  "cyr": "пријатељски",
+  "lat": "prijateljski",
+  "tr": "пријательски",
+  "ru": "дружественный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Пријатељски односи су се топлили.",
+   "lat": "Prijateljski odnosi su se toplili.",
+   "ru": "Дружественные отношения теплились."
+  }
+ },
+ {
+  "id": "w4832",
+  "order": 4832,
+  "level": "B2",
+  "cyr": "водиља",
+  "lat": "vodilja",
+  "tr": "водиля",
+  "ru": "путеводитель; вожак",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Водиља је није издао.",
+   "lat": "Vodilja je nije izdao.",
+   "ru": "Проводник не подвёл."
+  }
+ },
+ {
+  "id": "w4833",
+  "order": 4833,
+  "level": "B2",
+  "cyr": "опозив",
+  "lat": "opoziv",
+  "tr": "опозив",
+  "ru": "отзыв",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Опозив је јављен око подне.",
+   "lat": "Opoziv je javljen oko podne.",
+   "ru": "Отзыв объявлен к полудню."
+  }
+ },
+ {
+  "id": "w4834",
+  "order": 4834,
+  "level": "B2",
+  "cyr": "патријарх",
+  "lat": "patrijarh",
+  "tr": "патријарх",
+  "ru": "патриарх",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Патријарх је служио литургију.",
+   "lat": "Patrijarh je služio liturgiju.",
+   "ru": "Патриарх служил литургию."
+  }
+ },
+ {
+  "id": "w4835",
+  "order": 4835,
+  "level": "B2",
+  "cyr": "ратни",
+  "lat": "ratni",
+  "tr": "ратни",
+  "ru": "военный; боевой",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ратни штаб је се преселио.",
+   "lat": "Ratni štab je se preselio.",
+   "ru": "Военный штаб переехал."
+  }
+ },
+ {
+  "id": "w4836",
+  "order": 4836,
+  "level": "B2",
+  "cyr": "грађанство",
+  "lat": "građanstvo",
+  "tr": "граджанство",
+  "ru": "гражданство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Грађанство је пружило мишљење.",
+   "lat": "Građanstvo je pružilo mišljenje.",
+   "ru": "Гражданство подало мнение."
+  }
+ },
+ {
+  "id": "w4837",
+  "order": 4837,
+  "level": "B2",
+  "cyr": "опуномоћеник",
+  "lat": "opunomoćenik",
+  "tr": "опуномоченик",
+  "ru": "полномочный представитель",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Опуномоћеник је имао пуна овлашћења.",
+   "lat": "Opunomoćenik je imao puna ovlašćenja.",
+   "ru": "Полномочный представитель имел полные полномочия."
+  }
+ },
+ {
+  "id": "w4838",
+  "order": 4838,
+  "level": "B2",
+  "cyr": "подвижник",
+  "lat": "podvižnik",
+  "tr": "подвижник",
+  "ru": "подвижник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Подвижник је живио у самоћи.",
+   "lat": "Podvižnik je živio u samoći.",
+   "ru": "Подвижник жил в одиночестве."
+  }
+ },
+ {
+  "id": "w4839",
+  "order": 4839,
+  "level": "B2",
+  "cyr": "скептичан",
+  "lat": "skeptičan",
+  "tr": "скептичан",
+  "ru": "скептический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Скептичан је према обећањима.",
+   "lat": "Skeptičan je prema obećanjima.",
+   "ru": "Скептичен к обещаниям."
+  }
+ },
+ {
+  "id": "w4840",
+  "order": 4840,
+  "level": "B2",
+  "cyr": "двојственост",
+  "lat": "dvojstvenost",
+  "tr": "двојственост",
+  "ru": "двойственность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Двојственост је остала до краја.",
+   "lat": "Dvojstvenost je ostala do kraja.",
+   "ru": "Двойственность осталась до конца."
+  }
+ },
+ {
+  "id": "w4841",
+  "order": 4841,
+  "level": "B2",
+  "cyr": "пакт",
+  "lat": "pakt",
+  "tr": "пакт",
+  "ru": "пакт",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пакт је потписан у зору.",
+   "lat": "Pakt je potpisan u zoru.",
+   "ru": "Пакт подписан на рассвете."
+  }
+ },
+ {
+  "id": "w4842",
+  "order": 4842,
+  "level": "B2",
+  "cyr": "поклоњик",
+  "lat": "poklonjik",
+  "tr": "поклоник",
+  "ru": "поклонник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Поклоњици је дошли са све страна.",
+   "lat": "Poklonjici je došli sa sve strana.",
+   "ru": "Поклонники пришли со всех сторон."
+  }
+ },
+ {
+  "id": "w4843",
+  "order": 4843,
+  "level": "B2",
+  "cyr": "спољашњи",
+  "lat": "spoljašnji",
+  "tr": "споляшни",
+  "ru": "внешний",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Спољашњи изглед је варао.",
+   "lat": "Spoljašnji izgled je varao.",
+   "ru": "Внешний вид обманывал."
+  }
+ },
+ {
+  "id": "w4844",
+  "order": 4844,
+  "level": "B2",
+  "cyr": "димензија",
+  "lat": "dimenzija",
+  "tr": "димензија",
+  "ru": "измерение; размер",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Трећа димензија је дубина.",
+   "lat": "Treća dimenzija je dubina.",
+   "ru": "Третья размерность — глубина."
+  }
+ },
+ {
+  "id": "w4845",
+  "order": 4845,
+  "level": "B2",
+  "cyr": "парламент",
+  "lat": "parlament",
+  "tr": "парламент",
+  "ru": "парламент",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Парламент је гласао цео дан.",
+   "lat": "Parlament je glasao ceo dan.",
+   "ru": "Парламент голосовал весь день."
+  }
+ },
+ {
+  "id": "w4846",
+  "order": 4846,
+  "level": "B2",
+  "cyr": "првосвештеник",
+  "lat": "prvosveštenik",
+  "tr": "првосвештеник",
+  "ru": "первосвященник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Првосвештеник је служио саборну литургију.",
+   "lat": "Prvosveštenik je služio sabornu liturgiju.",
+   "ru": "Первосвященник служил соборную литургию."
+  }
+ },
+ {
+  "id": "w4847",
+  "order": 4847,
+  "level": "B2",
+  "cyr": "сујетан",
+  "lat": "sujetan",
+  "tr": "сујетан",
+  "ru": "тщеславный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Сујетан је био све до краја.",
+   "lat": "Sujetan je bio sve do kraja.",
+   "ru": "Тщеславным был до конца."
+  }
+ },
+ {
+  "id": "w4848",
+  "order": 4848,
+  "level": "B2",
+  "cyr": "доктрина",
+  "lat": "doktrina",
+  "tr": "доктрина",
+  "ru": "доктрина",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Доктрина је водила све одлуке.",
+   "lat": "Doktrina je vodila sve odluke.",
+   "ru": "Доктрина вела все решения."
+  }
+ },
+ {
+  "id": "w4849",
+  "order": 4849,
+  "level": "B2",
+  "cyr": "повеља",
+  "lat": "povelja",
+  "tr": "повеля",
+  "ru": "грамота; хартия",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Повеља је написана златним словима.",
+   "lat": "Povelja je napisana zlatnim slovima.",
+   "ru": "Грамота написана золотыми буквами."
+  }
+ },
+ {
+  "id": "w4850",
+  "order": 4850,
+  "level": "B2",
+  "cyr": "пророк",
+  "lat": "prorok",
+  "tr": "пророк",
+  "ru": "пророк",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пророк је предвидео све.",
+   "lat": "Prorok je predvideo sve.",
+   "ru": "Пророк предвидел всё."
+  }
+ },
+ {
+  "id": "w4851",
+  "order": 4851,
+  "level": "B2",
+  "cyr": "теолошки",
+  "lat": "teološki",
+  "tr": "теолошки",
+  "ru": "теологический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Теолошки списи је сачувани.",
+   "lat": "Teološki spisi je sačuvani.",
+   "ru": "Теологические сочинения сохранены."
+  }
+ },
+ {
+  "id": "w4852",
+  "order": 4852,
+  "level": "B2",
+  "cyr": "домовина",
+  "lat": "domovina",
+  "tr": "домовина",
+  "ru": "отчизна",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Домовина је чекао своје синове.",
+   "lat": "Domovina je čekao svoje sinove.",
+   "ru": "Отчизна ждала своих сыновей."
+  }
+ },
+ {
+  "id": "w4853",
+  "order": 4853,
+  "level": "B2",
+  "cyr": "политичар",
+  "lat": "političar",
+  "tr": "политичар",
+  "ru": "политик",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Политичар је обећао много.",
+   "lat": "Političar je obećao mnogo.",
+   "ru": "Политик обещал много."
+  }
+ },
+ {
+  "id": "w4854",
+  "order": 4854,
+  "level": "B2",
+  "cyr": "светац",
+  "lat": "svetac",
+  "tr": "светац",
+  "ru": "святой",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Светац је чувао град.",
+   "lat": "Svetac je čuvao grad.",
+   "ru": "Святой хранил город."
+  }
+ },
+ {
+  "id": "w4855",
+  "order": 4855,
+  "level": "B2",
+  "cyr": "узајаман",
+  "lat": "uzajaman",
+  "tr": "узајаман",
+  "ru": "взаимный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Узајамно поверење је растло.",
+   "lat": "Uzajamno poverenje je rastlo.",
+   "ru": "Взаимное доверие росло."
+  }
+ },
+ {
+  "id": "w4856",
+  "order": 4856,
+  "level": "B2",
+  "cyr": "досељавање",
+  "lat": "doseljavanje",
+  "tr": "доселяванье",
+  "ru": "переселение (иммиграция)",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Досељавање је променило град.",
+   "lat": "Doseljavanje je promenilo grad.",
+   "ru": "Переселение изменило город."
+  }
+ },
+ {
+  "id": "w4857",
+  "order": 4857,
+  "level": "B2",
+  "cyr": "помоћник",
+  "lat": "pomoćnik",
+  "tr": "помочник",
+  "ru": "помощник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Помоћник је припремио документове.",
+   "lat": "Pomoćnik je pripremio dokumentove.",
+   "ru": "Помощник подготовил документы."
+  }
+ },
+ {
+  "id": "w4858",
+  "order": 4858,
+  "level": "B2",
+  "cyr": "свештеник",
+  "lat": "sveštenik",
+  "tr": "свештеник",
+  "ru": "священник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Свештеник је читао молитву.",
+   "lat": "Sveštenik je čitao molitvu.",
+   "ru": "Священник читал молитву."
+  }
+ },
+ {
+  "id": "w4859",
+  "order": 4859,
+  "level": "B2",
+  "cyr": "унутрашњи",
+  "lat": "unutrašnji",
+  "tr": "унутрашни",
+  "ru": "внутренний",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Унутрашњи мир је цењенији од злата.",
+   "lat": "Unutrašnji mir je cenjeniji od zlata.",
+   "ru": "Внутренний мир дороже золота."
+  }
+ },
+ {
+  "id": "w4860",
+  "order": 4860,
+  "level": "B2",
+  "cyr": "достојанство",
+  "lat": "dostojanstvo",
+  "tr": "достојанство",
+  "ru": "достоинство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Достојанство је сачувао до краја.",
+   "lat": "Dostojanstvo je sačuvao do kraja.",
+   "ru": "Достоинство сохранил до конца."
+  }
+ },
+ {
+  "id": "w4861",
+  "order": 4861,
+  "level": "B2",
+  "cyr": "преговарач",
+  "lat": "pregovarač",
+  "tr": "преговарач",
+  "ru": "переговорщик",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Преговарач је штедио речи.",
+   "lat": "Pregovarač je štedio reči.",
+   "ru": "Переговорщик экономил слова."
+  }
+ },
+ {
+  "id": "w4862",
+  "order": 4862,
+  "level": "B2",
+  "cyr": "скептик",
+  "lat": "skeptik",
+  "tr": "скептик",
+  "ru": "скептик",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Скептик је све мерјио.",
+   "lat": "Skeptik je sve merjio.",
+   "ru": "Скептик всё измерял."
+  }
+ },
+ {
+  "id": "w4863",
+  "order": 4863,
+  "level": "B2",
+  "cyr": "духовност",
+  "lat": "duhovnost",
+  "tr": "духовност",
+  "ru": "духовность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Духовност је важнија од свега.",
+   "lat": "Duhovnost je važnija od svega.",
+   "ru": "Духовность важнее всего."
+  }
+ },
+ {
+  "id": "w4864",
+  "order": 4864,
+  "level": "B2",
+  "cyr": "преговарање",
+  "lat": "pregovaranje",
+  "tr": "преговаранье",
+  "ru": "ведение переговоров",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Преговарање је трајало цијелу ноћ.",
+   "lat": "Pregovaranje je trajalo cijelu noć.",
+   "ru": "Ведение переговоров продолжалось всю ночь."
+  }
+ },
+ {
+  "id": "w4865",
+  "order": 4865,
+  "level": "B2",
+  "cyr": "творац",
+  "lat": "tvorac",
+  "tr": "творац",
+  "ru": "творец; создатель",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Творац је остао непознат.",
+   "lat": "Tvorac je ostao nepoznat.",
+   "ru": "Творец остался неизвестен."
+  }
+ },
+ {
+  "id": "w4866",
+  "order": 4866,
+  "level": "B2",
+  "cyr": "екзистенција",
+  "lat": "ekzistencija",
+  "tr": "екзистенција",
+  "ru": "существование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Екзистенција је биола тешка.",
+   "lat": "Ekzistencija je biola teška.",
+   "ru": "Существование было тяжёлое."
+  }
+ },
+ {
+  "id": "w4867",
+  "order": 4867,
+  "level": "B2",
+  "cyr": "преговори",
+  "lat": "pregovori",
+  "tr": "преговори",
+  "ru": "переговоры",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Преговори је трајали до зоре.",
+   "lat": "Pregovori je trajali do zore.",
+   "ru": "Переговоры продолжались до зари."
+  }
+ },
+ {
+  "id": "w4868",
+  "order": 4868,
+  "level": "B2",
+  "cyr": "ходочасник",
+  "lat": "hodočasnik",
+  "tr": "ходочасник",
+  "ru": "паломник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ходочасници ноће под небом.",
+   "lat": "Hodočasnici noće pod nebom.",
+   "ru": "Паломники ночуют под небом."
+  }
+ },
+ {
+  "id": "w4869",
+  "order": 4869,
+  "level": "B2",
+  "cyr": "жртвеник",
+  "lat": "žrtvenik",
+  "tr": "жртвеник",
+  "ru": "жертвенник",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Жртвеник је стајао испред храма.",
+   "lat": "Žrtvenik je stajao ispred hrama.",
+   "ru": "Жертвенник стоял перед храмом."
+  }
+ },
+ {
+  "id": "w4870",
+  "order": 4870,
+  "level": "B2",
+  "cyr": "предсједник",
+  "lat": "predsjednik",
+  "tr": "предсједник",
+  "ru": "председатель; президент",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Предсједник је отворио сједницу.",
+   "lat": "Predsjednik je otvorio sjednicu.",
+   "ru": "Председатель открыл заседание."
+  }
+ },
+ {
+  "id": "w4871",
+  "order": 4871,
+  "level": "B2",
+  "cyr": "хришћанин",
+  "lat": "hrišćanin",
+  "tr": "хришчанин",
+  "ru": "христианин",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Хришћанин је прошао велики пут.",
+   "lat": "Hrišćanin je prošao veliki put.",
+   "ru": "Христианин прошёл большой путь."
+  }
+ },
+ {
+  "id": "w4872",
+  "order": 4872,
+  "level": "B2",
+  "cyr": "жртвовање",
+  "lat": "žrtvovanje",
+  "tr": "жртвованье",
+  "ru": "жертвоприношение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Жртвовање је обављено.",
+   "lat": "Žrtvovanje je obavljeno.",
+   "ru": "Жертвоприношение совершено."
+  }
+ },
+ {
+  "id": "w4873",
+  "order": 4873,
+  "level": "B2",
+  "cyr": "пресуда",
+  "lat": "presuda",
+  "tr": "пресуда",
+  "ru": "приговор",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пресуда је јављена истог дана.",
+   "lat": "Presuda je javljena istog dana.",
+   "ru": "Приговор объявлен в тот же день."
+  }
+ },
+ {
+  "id": "w4874",
+  "order": 4874,
+  "level": "B2",
+  "cyr": "ђакон",
+  "lat": "đakon",
+  "tr": "джакон",
+  "ru": "диакон",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ђакон је помагаао свештенику.",
+   "lat": "Đakon je pomagaao svešteniku.",
+   "ru": "Диакон помогал священнику."
+  }
+ },
+ {
+  "id": "w4875",
+  "order": 4875,
+  "level": "B2",
+  "cyr": "завет",
+  "lat": "zavet",
+  "tr": "завет",
+  "ru": "завет",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Завет је чувао читав народ.",
+   "lat": "Zavet je čuvao čitav narod.",
+   "ru": "Завет хранил целый народ."
+  }
+ },
+ {
+  "id": "w4876",
+  "order": 4876,
+  "level": "B2",
+  "cyr": "присега",
+  "lat": "prisega",
+  "tr": "присега",
+  "ru": "присяга",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Присега је прихваћена без узбране.",
+   "lat": "Prisega je prihvaćena bez uzbrane.",
+   "ru": "Присяга принята без возражений."
+  }
+ },
+ {
+  "id": "w4877",
+  "order": 4877,
+  "level": "B2",
+  "cyr": "заруке",
+  "lat": "zaruke",
+  "tr": "заруке",
+  "ru": "помолвка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Заруке је објављене ујутру.",
+   "lat": "Zaruke je objavljene ujutru.",
+   "ru": "Помолвка объявлена утром."
+  }
+ },
+ {
+  "id": "w4878",
+  "order": 4878,
+  "level": "B2",
+  "cyr": "приступање",
+  "lat": "pristupanje",
+  "tr": "приступанье",
+  "ru": "присоединение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Приступање је трајало године.",
+   "lat": "Pristupanje je trajalo godine.",
+   "ru": "Присоединение продолжалось годами."
+  }
+ },
+ {
+  "id": "w4879",
+  "order": 4879,
+  "level": "B2",
+  "cyr": "идеал",
+  "lat": "ideal",
+  "tr": "идеал",
+  "ru": "идеал",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Идеал је остао недостижим.",
+   "lat": "Ideal je ostao nedostižim.",
+   "ru": "Идеал остался недостижим."
+  }
+ },
+ {
+  "id": "w4880",
+  "order": 4880,
+  "level": "B2",
+  "cyr": "проширење",
+  "lat": "proširenje",
+  "tr": "проширенье",
+  "ru": "расширение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Проширење је погодило све.",
+   "lat": "Proširenje je pogodilo sve.",
+   "ru": "Расширение затронуло всех."
+  }
+ },
+ {
+  "id": "w4881",
+  "order": 4881,
+  "level": "B2",
+  "cyr": "идеализам",
+  "lat": "idealizam",
+  "tr": "идеализам",
+  "ru": "идеализм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Идеализам је јачао у младости.",
+   "lat": "Idealizam je jačao u mladosti.",
+   "ru": "Идеализм усиливался в молодости."
+  }
+ },
+ {
+  "id": "w4882",
+  "order": 4882,
+  "level": "B2",
+  "cyr": "резолуција",
+  "lat": "rezolucija",
+  "tr": "резолуција",
+  "ru": "резолюция",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Резолуција је једногласно прошла.",
+   "lat": "Rezolucija je jednoglasno prošla.",
+   "ru": "Резолюция прошла единогласно."
+  }
+ },
+ {
+  "id": "w4883",
+  "order": 4883,
+  "level": "B2",
+  "cyr": "идол",
+  "lat": "idol",
+  "tr": "идол",
+  "ru": "идол",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Идоли је покорањени?",
+   "lat": "Idoli je pokoranjeni?",
+   "ru": "Идолы поклонялись?"
+  }
+ },
+ {
+  "id": "w4884",
+  "order": 4884,
+  "level": "B2",
+  "cyr": "руковођење",
+  "lat": "rukovođenje",
+  "tr": "руководженье",
+  "ru": "руководство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Руковођење је захтевало стрпљење.",
+   "lat": "Rukovođenje je zahtevalo strpljenje.",
+   "ru": "Руководство требовало терпение."
+  }
+ },
+ {
+  "id": "w4885",
+  "order": 4885,
+  "level": "B2",
+  "cyr": "издаја",
+  "lat": "izdaja",
+  "tr": "издаја",
+  "ru": "предательство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Издаја је није орроштена.",
+   "lat": "Izdaja je nije orroštena.",
+   "ru": "Предательство не прощено."
+  }
+ },
+ {
+  "id": "w4886",
+  "order": 4886,
+  "level": "B2",
+  "cyr": "савезник",
+  "lat": "saveznik",
+  "tr": "савезник",
+  "ru": "союзник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Савезник је стигао у помоћ.",
+   "lat": "Saveznik je stigao u pomoć.",
+   "ru": "Союзник пришёл на помощь."
+  }
+ },
+ {
+  "id": "w4887",
+  "order": 4887,
+  "level": "B2",
+  "cyr": "иконостас",
+  "lat": "ikonostas",
+  "tr": "иконостас",
+  "ru": "иконостас",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Иконостас је красила злато.",
+   "lat": "Ikonostas je krasila zlato.",
+   "ru": "Иконостас красило золото."
+  }
+ },
+ {
+  "id": "w4888",
+  "order": 4888,
+  "level": "B2",
+  "cyr": "савјетник",
+  "lat": "savjetnik",
+  "tr": "савјетник",
+  "ru": "советник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Савјетник је шапутао на уво.",
+   "lat": "Savjetnik je šaputao na uvo.",
+   "ru": "Советник шептал на ухо."
+  }
+ },
+ {
+  "id": "w4889",
+  "order": 4889,
+  "level": "B2",
+  "cyr": "илузија",
+  "lat": "iluzija",
+  "tr": "илузија",
+  "ru": "иллюзия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Илузије су се распале.",
+   "lat": "Iluzije su se raspale.",
+   "ru": "Иллюзии распались."
+  }
+ },
+ {
+  "id": "w4890",
+  "order": 4890,
+  "level": "B2",
+  "cyr": "сазив",
+  "lat": "saziv",
+  "tr": "сазив",
+  "ru": "созыв",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сазив је састављен од младих.",
+   "lat": "Saziv je sastavljen od mladih.",
+   "ru": "Созыв составлен из молодых."
+  }
+ },
+ {
+  "id": "w4891",
+  "order": 4891,
+  "level": "B2",
+  "cyr": "имиграција",
+  "lat": "imigracija",
+  "tr": "имиграција",
+  "ru": "иммиграция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Имиграција је растла сваке године.",
+   "lat": "Imigracija je rastla svake godine.",
+   "ru": "Иммиграция росла каждый год."
+  }
+ },
+ {
+  "id": "w4892",
+  "order": 4892,
+  "level": "B2",
+  "cyr": "свештеништво",
+  "lat": "svešteništvo",
+  "tr": "свештеништво",
+  "ru": "священство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Свештеништво је преузео рано.",
+   "lat": "Svešteništvo je preuzeo rano.",
+   "ru": "Священство принял рано."
+  }
+ },
+ {
+  "id": "w4893",
+  "order": 4893,
+  "level": "B2",
+  "cyr": "искупљење",
+  "lat": "iskupljenje",
+  "tr": "искупленье",
+  "ru": "искупление",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Искуплљење је трајало читав живот.",
+   "lat": "Iskuplljenje je trajalo čitav život.",
+   "ru": "Искупление продолжалось всю жизнь."
+  }
+ },
+ {
+  "id": "w4894",
+  "order": 4894,
+  "level": "B2",
+  "cyr": "секретаријат",
+  "lat": "sekretarijat",
+  "tr": "секретаријат",
+  "ru": "секретариат",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Секретаријат је припремио све.",
+   "lat": "Sekretarijat je pripremio sve.",
+   "ru": "Секретариат подготовил всё."
+  }
+ },
+ {
+  "id": "w4895",
+  "order": 4895,
+  "level": "B2",
+  "cyr": "искушење",
+  "lat": "iskušenje",
+  "tr": "искушенье",
+  "ru": "искушение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Искушење је било свугде.",
+   "lat": "Iskušenje je bilo svugde.",
+   "ru": "Искушение было всюду."
+  }
+ },
+ {
+  "id": "w4896",
+  "order": 4896,
+  "level": "B2",
+  "cyr": "сукоб",
+  "lat": "sukob",
+  "tr": "сукоб",
+  "ru": "конфликт",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сукоб је трајао генерацијама.",
+   "lat": "Sukob je trajao generacijama.",
+   "ru": "Конфликт продолжался поколениями."
+  }
+ },
+ {
+  "id": "w4897",
+  "order": 4897,
+  "level": "B2",
+  "cyr": "ислам",
+  "lat": "islam",
+  "tr": "ислам",
+  "ru": "ислам",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ислам је друга вера по бројности.",
+   "lat": "Islam je druga vera po brojnosti.",
+   "ru": "Ислам — вторая вера по численности."
+  }
+ },
+ {
+  "id": "w4898",
+  "order": 4898,
+  "level": "B2",
+  "cyr": "сједиште",
+  "lat": "sjedište",
+  "tr": "сједиште",
+  "ru": "штаб-квартира",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Сједиште је премештено у град.",
+   "lat": "Sjedište je premešteno u grad.",
+   "ru": "Штаб-квартира перенесена в город."
+  }
+ },
+ {
+  "id": "w4899",
+  "order": 4899,
+  "level": "B2",
+  "cyr": "исповест",
+  "lat": "ispovest",
+  "tr": "исповест",
+  "ru": "исповедь",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Исповест је трајала до јутра.",
+   "lat": "Ispovest je trajala do jutra.",
+   "ru": "Исповедь продолжалась до утра."
+  }
+ },
+ {
+  "id": "w4900",
+  "order": 4900,
+  "level": "B2",
+  "cyr": "сједница",
+  "lat": "sjednica",
+  "tr": "сједница",
+  "ru": "заседание",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сједница је потрајала до поноћи.",
+   "lat": "Sjednica je potrajala do ponoći.",
+   "ru": "Заседание продолжалось до полуночи."
+  }
+ },
+ {
+  "id": "w4901",
+  "order": 4901,
+  "level": "B2",
+  "cyr": "кадионица",
+  "lat": "kadionica",
+  "tr": "кадионица",
+  "ru": "кадильница",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кадионица је напунила храм мирисом.",
+   "lat": "Kadionica je napunila hram mirisom.",
+   "ru": "Кадильница наполнила храм ароматом."
+  }
+ },
+ {
+  "id": "w4902",
+  "order": 4902,
+  "level": "B2",
+  "cyr": "територија",
+  "lat": "teritorija",
+  "tr": "територија",
+  "ru": "территория",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Територија је била спорна.",
+   "lat": "Teritorija je bila sporna.",
+   "ru": "Территория была спорная."
+  }
+ },
+ {
+  "id": "w4903",
+  "order": 4903,
+  "level": "B2",
+  "cyr": "кандило",
+  "lat": "kandilo",
+  "tr": "кандило",
+  "ru": "лампада",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Кандило је треперило.",
+   "lat": "Kandilo je treperilo.",
+   "ru": "Лампада мерцала."
+  }
+ },
+ {
+  "id": "w4904",
+  "order": 4904,
+  "level": "B2",
+  "cyr": "ултиматум",
+  "lat": "ultimatum",
+  "tr": "ултиматум",
+  "ru": "ультиматум",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ултиматум је истекао у поноћ.",
+   "lat": "Ultimatum je istekao u ponoć.",
+   "ru": "Ультиматум истёк в полночь."
+  }
+ },
+ {
+  "id": "w4905",
+  "order": 4905,
+  "level": "B2",
+  "cyr": "катехеза",
+  "lat": "kateheza",
+  "tr": "катехеза",
+  "ru": "катехизис",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Катехеза је трајала целу зиму.",
+   "lat": "Kateheza je trajala celu zimu.",
+   "ru": "Катехизис продолжался всю зиму."
+  }
+ },
+ {
+  "id": "w4906",
+  "order": 4906,
+  "level": "B2",
+  "cyr": "управљање",
+  "lat": "upravljanje",
+  "tr": "управлянье",
+  "ru": "управление",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Управљање је прећућано.",
+   "lat": "Upravljanje je prećućano.",
+   "ru": "Управление оставлено в тени?"
+  }
+ },
+ {
+  "id": "w4907",
+  "order": 4907,
+  "level": "B2",
+  "cyr": "католичанство",
+  "lat": "katoličanstvo",
+  "tr": "католичанство",
+  "ru": "католичество",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Католичанство је јаче на северу.",
+   "lat": "Katoličanstvo je jače na severu.",
+   "ru": "Католичество сильнее на севере."
+  }
+ },
+ {
+  "id": "w4908",
+  "order": 4908,
+  "level": "B2",
+  "cyr": "устав",
+  "lat": "ustav",
+  "tr": "устав",
+  "ru": "конституция; устав",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Устав је проглашен ујутру.",
+   "lat": "Ustav je proglašen ujutru.",
+   "ru": "Устав провозглашён утром."
+  }
+ },
+ {
+  "id": "w4909",
+  "order": 4909,
+  "level": "B2",
+  "cyr": "кајање",
+  "lat": "kajanje",
+  "tr": "кајанье",
+  "ru": "раскаяние",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Кајање је дошло касније.",
+   "lat": "Kajanje je došlo kasnije.",
+   "ru": "Раскаяние пришло позже."
+  }
+ },
+ {
+  "id": "w4910",
+  "order": 4910,
+  "level": "B2",
+  "cyr": "учешће",
+  "lat": "učešće",
+  "tr": "учешче",
+  "ru": "участие",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Учешће је биоло бесплатно.",
+   "lat": "Učešće je biolo besplatno.",
+   "ru": "Участие было бесплатное."
+  }
+ },
+ {
+  "id": "w4911",
+  "order": 4911,
+  "level": "B2",
+  "cyr": "крстионица",
+  "lat": "krstionica",
+  "tr": "крстионица",
+  "ru": "купель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Крстионица је била од мермера.",
+   "lat": "Krstionica je bila od mermera.",
+   "ru": "Купель была из мрамора."
+  }
+ },
+ {
+  "id": "w4912",
+  "order": 4912,
+  "level": "B2",
+  "cyr": "уједињење",
+  "lat": "ujedinjenje",
+  "tr": "ујединьенье",
+  "ru": "объединение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Уједињење је трајало годину.",
+   "lat": "Ujedinjenje je trajalo godinu.",
+   "ru": "Объединение продолжалось год."
+  }
+ },
+ {
+  "id": "w4913",
+  "order": 4913,
+  "level": "B2",
+  "cyr": "крштење",
+  "lat": "krštenje",
+  "tr": "крштенье",
+  "ru": "крещение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Крштење је обављено на рођењу.",
+   "lat": "Krštenje je obavljeno na rođenju.",
+   "ru": "Крещение проведено при рождении."
+  }
+ },
+ {
+  "id": "w4914",
+  "order": 4914,
+  "level": "B2",
+  "cyr": "филозоф",
+  "lat": "filozof",
+  "tr": "филозоф",
+  "ru": "философ",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Филозоф је дискутао све ноћи.",
+   "lat": "Filozof je diskutao sve noći.",
+   "ru": "Философ дискутировал все ночи."
+  }
+ },
+ {
+  "id": "w4915",
+  "order": 4915,
+  "level": "B2",
+  "cyr": "кумир",
+  "lat": "kumir",
+  "tr": "кумир",
+  "ru": "кумир",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кумири су падали један по један.",
+   "lat": "Kumiri su padali jedan po jedan.",
+   "ru": "Кумиры падали один за другим."
+  }
+ },
+ {
+  "id": "w4916",
+  "order": 4916,
+  "level": "B2",
+  "cyr": "церемонија",
+  "lat": "ceremonija",
+  "tr": "церемонија",
+  "ru": "церемония",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Церемонија је трајала сат времена.",
+   "lat": "Ceremonija je trajala sat vremena.",
+   "ru": "Церемония продолжалась час."
+  }
+ },
+ {
+  "id": "w4917",
+  "order": 4917,
+  "level": "B2",
+  "cyr": "литија",
+  "lat": "litija",
+  "tr": "литија",
+  "ru": "крестный ход",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Литија је обишла цело село.",
+   "lat": "Litija je obišla celo selo.",
+   "ru": "Крестный ход обошёл целое село."
+  }
+ },
+ {
+  "id": "w4918",
+  "order": 4918,
+  "level": "B2",
+  "cyr": "чиновник",
+  "lat": "činovnik",
+  "tr": "чиновник",
+  "ru": "чиновник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Чиновник је потписао све исправе.",
+   "lat": "Činovnik je potpisao sve isprave.",
+   "ru": "Чиновник подписал все бумаги."
+  }
+ },
+ {
+  "id": "w4919",
+  "order": 4919,
+  "level": "B2",
+  "cyr": "литургија",
+  "lat": "liturgija",
+  "tr": "литургија",
+  "ru": "литургия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Литургија је почела ујутру.",
+   "lat": "Liturgija je počela ujutru.",
+   "ru": "Литургия началась утром."
+  }
+ },
+ {
+  "id": "w4920",
+  "order": 4920,
+  "level": "B2",
+  "cyr": "чланица",
+  "lat": "članica",
+  "tr": "чланица",
+  "ru": "член (организации)",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Чланице су се окупиле ујутру.",
+   "lat": "Članice su se okupile ujutru.",
+   "ru": "Члены собрались утром."
+  }
+ },
+ {
+  "id": "w4921",
+  "order": 4921,
+  "level": "B2",
+  "cyr": "лојалност",
+  "lat": "lojalnost",
+  "tr": "лојалност",
+  "ru": "лояльность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Лојалност је била услов.",
+   "lat": "Lojalnost je bila uslov.",
+   "ru": "Лояльность была условие."
+  }
+ },
+ {
+  "id": "w4922",
+  "order": 4922,
+  "level": "B2",
+  "cyr": "међународно право",
+  "lat": "međunarodno pravo",
+  "tr": "меджународно право",
+  "ru": "международное право",
+  "pos": "phrase",
+  "cat": "work",
+  "ex": {
+   "cyr": "Међународно право је штитило слабије.",
+   "lat": "Međunarodno pravo je štitilo slabije.",
+   "ru": "Международное право защищало слабейших."
+  }
+ },
+ {
+  "id": "w4923",
+  "order": 4923,
+  "level": "B2",
+  "cyr": "материјализам",
+  "lat": "materijalizam",
+  "tr": "материјализам",
+  "ru": "материализм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Материјализам је јачао међу грађанима.",
+   "lat": "Materijalizam je jačao među građanima.",
+   "ru": "Материализм усиливался среди горожан."
+  }
+ },
+ {
+  "id": "w4924",
+  "order": 4924,
+  "level": "B2",
+  "cyr": "мировна мисија",
+  "lat": "mirovna misija",
+  "tr": "мировна мисија",
+  "ru": "миротворческая миссия",
+  "pos": "phrase",
+  "cat": "work",
+  "ex": {
+   "cyr": "Мировна мисија је трајала годину.",
+   "lat": "Mirovna misija je trajala godinu.",
+   "ru": "Миротворческая миссия продолжалась год."
+  }
+ },
+ {
+  "id": "w4925",
+  "order": 4925,
+  "level": "B2",
+  "cyr": "монаштво",
+  "lat": "monaštvo",
+  "tr": "монаштво",
+  "ru": "монашество",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Монаштво је јачало у планинама.",
+   "lat": "Monaštvo je jačalo u planinama.",
+   "ru": "Монашество усиливалось в горах."
+  }
+ },
+ {
+  "id": "w4926",
+  "order": 4926,
+  "level": "B2",
+  "cyr": "мировни споразум",
+  "lat": "mirovni sporazum",
+  "tr": "мировни споразум",
+  "ru": "мирное соглашение",
+  "pos": "phrase",
+  "cat": "work",
+  "ex": {
+   "cyr": "Мировни споразум је окончао борбе.",
+   "lat": "Mirovni sporazum je okončao borbe.",
+   "ru": "Мирное соглашение окончило бои."
+  }
+ },
+ {
+  "id": "w4927",
+  "order": 4927,
+  "level": "B2",
+  "cyr": "мошти",
+  "lat": "mošti",
+  "tr": "мошти",
+  "ru": "мощи",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мошти је изнесени на светлост.",
+   "lat": "Mošti je izneseni na svetlost.",
+   "ru": "Мощи вынесены на свет."
+  }
+ },
+ {
+  "id": "w4928",
+  "order": 4928,
+  "level": "B2",
+  "cyr": "хуманитарна помоћ",
+  "lat": "humanitarna pomoć",
+  "tr": "хуманитарна помоч",
+  "ru": "гуманитарная помощь",
+  "pos": "phrase",
+  "cat": "work",
+  "ex": {
+   "cyr": "Хуманитарна помоћ је стигла првим возом.",
+   "lat": "Humanitarna pomoć je stigla prvim vozom.",
+   "ru": "Гуманитарная помощь прибыла первым поездом."
+  }
+ },
+ {
+  "id": "w4929",
+  "order": 4929,
+  "level": "B2",
+  "cyr": "несагласност",
+  "lat": "nesaglasnost",
+  "tr": "несагласност",
+  "ru": "разногласие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Несагласност је растла савез.",
+   "lat": "Nesaglasnost je rastla savez.",
+   "ru": "Разногласие разрушило союз."
+  }
+ },
+ {
+  "id": "w4930",
+  "order": 4930,
+  "level": "B2",
+  "cyr": "нихилизам",
+  "lat": "nihilizam",
+  "tr": "нихилизам",
+  "ru": "нигилизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Нихилизам је све одбацио.",
+   "lat": "Nihilizam je sve odbacio.",
+   "ru": "Нигилизм отверг всё."
+  }
+ },
+ {
+  "id": "w4931",
+  "order": 4931,
+  "level": "B2",
+  "cyr": "олтар",
+  "lat": "oltar",
+  "tr": "олтар",
+  "ru": "алтарь",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Олтар је реставриран.",
+   "lat": "Oltar je restavriran.",
+   "ru": "Алтарь отреставрирован."
+  }
+ },
+ {
+  "id": "w4932",
+  "order": 4932,
+  "level": "B2",
+  "cyr": "опело",
+  "lat": "opelo",
+  "tr": "опело",
+  "ru": "отпевание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Опело је трајало све до подне.",
+   "lat": "Opelo je trajalo sve do podne.",
+   "ru": "Отпевание продолжалось до полудня."
+  }
+ },
+ {
+  "id": "w4933",
+  "order": 4933,
+  "level": "B2",
+  "cyr": "опроштај",
+  "lat": "oproštaj",
+  "tr": "опроштај",
+  "ru": "прощение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Опроштај је тражио вјеру.",
+   "lat": "Oproštaj je tražio vjeru.",
+   "ru": "Прощение требовало веру."
+  }
+ },
+ {
+  "id": "w4934",
+  "order": 4934,
+  "level": "B2",
+  "cyr": "освећење",
+  "lat": "osvećenje",
+  "tr": "освеченье",
+  "ru": "освящение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Освећење је обављено ујутру.",
+   "lat": "Osvećenje je obavljeno ujutru.",
+   "ru": "Освящение проведено утром."
+  }
+ },
+ {
+  "id": "w4935",
+  "order": 4935,
+  "level": "B2",
+  "cyr": "отаџбина",
+  "lat": "otadžbina",
+  "tr": "отаджбина",
+  "ru": "отечество",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Отаџбина је важнија од злата.",
+   "lat": "Otadžbina je važnija od zlata.",
+   "ru": "Отечество важнее золота."
+  }
+ },
+ {
+  "id": "w4936",
+  "order": 4936,
+  "level": "B2",
+  "cyr": "перцепција",
+  "lat": "percepcija",
+  "tr": "перцепција",
+  "ru": "восприятие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Перцепција је измењена стресом.",
+   "lat": "Percepcija je izmenjena stresom.",
+   "ru": "Восприятие изменено стрессом."
+  }
+ },
+ {
+  "id": "w4937",
+  "order": 4937,
+  "level": "B2",
+  "cyr": "побожност",
+  "lat": "pobožnost",
+  "tr": "побожност",
+  "ru": "благочестие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Побожност је се видела у свему.",
+   "lat": "Pobožnost je se videla u svemu.",
+   "ru": "Благочестие видно во всём."
+  }
+ },
+ {
+  "id": "w4938",
+  "order": 4938,
+  "level": "B2",
+  "cyr": "подвиг",
+  "lat": "podvig",
+  "tr": "подвиг",
+  "ru": "подвиг",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Подвиг је се преносио причама.",
+   "lat": "Podvig je se prenosio pričama.",
+   "ru": "Подвиг передавался рассказами."
+  }
+ },
+ {
+  "id": "w4939",
+  "order": 4939,
+  "level": "B2",
+  "cyr": "поклоњење",
+  "lat": "poklonjenje",
+  "tr": "поклоньенье",
+  "ru": "поклонение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Поклоњење икони је трајало сате.",
+   "lat": "Poklonjenje ikoni je trajalo sate.",
+   "ru": "Поклонение иконе продолжалось часами."
+  }
+ },
+ {
+  "id": "w4940",
+  "order": 4940,
+  "level": "B2",
+  "cyr": "покора",
+  "lat": "pokora",
+  "tr": "покора",
+  "ru": "покаяние; покорность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Покора је дошла пред крај.",
+   "lat": "Pokora je došla pred kraj.",
+   "ru": "Покаяние пришло перед концом."
+  }
+ },
+ {
+  "id": "w4941",
+  "order": 4941,
+  "level": "B2",
+  "cyr": "посебност",
+  "lat": "posebnost",
+  "tr": "посебност",
+  "ru": "особенность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Посебност је се видела одмах.",
+   "lat": "Posebnost je se videla odmah.",
+   "ru": "Особенность видна сразу."
+  }
+ },
+ {
+  "id": "w4942",
+  "order": 4942,
+  "level": "B2",
+  "cyr": "посланица",
+  "lat": "poslanica",
+  "tr": "посланица",
+  "ru": "послание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Посланице је читане у свим црквама.",
+   "lat": "Poslanice je čitane u svim crkvama.",
+   "ru": "Послания читаны во всех церквах."
+  }
+ },
+ {
+  "id": "w4943",
+  "order": 4943,
+  "level": "B2",
+  "cyr": "послушање",
+  "lat": "poslušanje",
+  "tr": "послушанье",
+  "ru": "послушание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Послушање је било примерно.",
+   "lat": "Poslušanje je bilo primerno.",
+   "ru": "Послушание было примерное."
+  }
+ },
+ {
+  "id": "w4944",
+  "order": 4944,
+  "level": "B2",
+  "cyr": "пост",
+  "lat": "post",
+  "tr": "пост",
+  "ru": "пост (религиозный)",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пост је трајао четрдесет дана.",
+   "lat": "Post je trajao četrdeset dana.",
+   "ru": "Пост продолжался сорок дней."
+  }
+ },
+ {
+  "id": "w4945",
+  "order": 4945,
+  "level": "B2",
+  "cyr": "постојање",
+  "lat": "postojanje",
+  "tr": "постојанье",
+  "ru": "существование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Постојање је питање без одговора.",
+   "lat": "Postojanje je pitanje bez odgovora.",
+   "ru": "Существование — вопрос без ответа."
+  }
+ },
+ {
+  "id": "w4946",
+  "order": 4946,
+  "level": "B2",
+  "cyr": "појање",
+  "lat": "pojanje",
+  "tr": "појанье",
+  "ru": "пение (церковное)",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Појање је испунило храм.",
+   "lat": "Pojanje je ispunilo hram.",
+   "ru": "Пение наполнило храм."
+  }
+ },
+ {
+  "id": "w4947",
+  "order": 4947,
+  "level": "B2",
+  "cyr": "православље",
+  "lat": "pravoslavlje",
+  "tr": "православле",
+  "ru": "православие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Православље је главна вера овде.",
+   "lat": "Pravoslavlje je glavna vera ovde.",
+   "ru": "Православие — главная вера здесь."
+  }
+ },
+ {
+  "id": "w4948",
+  "order": 4948,
+  "level": "B2",
+  "cyr": "празновање",
+  "lat": "praznovanje",
+  "tr": "празнованье",
+  "ru": "празднование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Празновање је трајало све ноћи.",
+   "lat": "Praznovanje je trajalo sve noći.",
+   "ru": "Празднование продолжалось всю ночь."
+  }
+ },
+ {
+  "id": "w4949",
+  "order": 4949,
+  "level": "B2",
+  "cyr": "претпоставка",
+  "lat": "pretpostavka",
+  "tr": "претпоставка",
+  "ru": "предположение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Претпоставка је биола изјена.",
+   "lat": "Pretpostavka je biola izjena.",
+   "ru": "Предположение было изложено."
+  }
+ },
+ {
+  "id": "w4950",
+  "order": 4950,
+  "level": "B2",
+  "cyr": "причешће",
+  "lat": "pričešće",
+  "tr": "причешче",
+  "ru": "причастие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Причешће је подељено.",
+   "lat": "Pričešće je podeljeno.",
+   "ru": "Причастие разделено."
+  }
+ },
+ {
+  "id": "w4951",
+  "order": 4951,
+  "level": "B2",
+  "cyr": "псалам",
+  "lat": "psalam",
+  "tr": "псалам",
+  "ru": "псалом",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Псалми су пјевани цело јутро.",
+   "lat": "Psalmi su pjevani celo jutro.",
+   "ru": "Псалмы пелись всё утро."
+  }
+ },
+ {
+  "id": "w4952",
+  "order": 4952,
+  "level": "B2",
+  "cyr": "псалтир",
+  "lat": "psaltir",
+  "tr": "псалтир",
+  "ru": "псалтирь",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Псалтир је стајао најстолу.",
+   "lat": "Psaltir je stajao najstolu.",
+   "ru": "Псалтирь лежал на столе."
+  }
+ },
+ {
+  "id": "w4953",
+  "order": 4953,
+  "level": "B2",
+  "cyr": "псовка",
+  "lat": "psovka",
+  "tr": "псовка",
+  "ru": "божба; ругательство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Псовка је покварила разговор.",
+   "lat": "Psovka je pokvarila razgovor.",
+   "ru": "Ругательство испортило разговор."
+  }
+ },
+ {
+  "id": "w4954",
+  "order": 4954,
+  "level": "B2",
+  "cyr": "разумевање",
+  "lat": "razumevanje",
+  "tr": "разумеванье",
+  "ru": "понимание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Разумевање је стигло касније.",
+   "lat": "Razumevanje je stiglo kasnije.",
+   "ru": "Понимание пришло позже."
+  }
+ },
+ {
+  "id": "w4955",
+  "order": 4955,
+  "level": "B2",
+  "cyr": "распеће",
+  "lat": "raspeće",
+  "tr": "распече",
+  "ru": "распятие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Распеће је стајало уз олтар.",
+   "lat": "Raspeće je stajalo uz oltar.",
+   "ru": "Распятие стояло у алтаря."
+  }
+ },
+ {
+  "id": "w4956",
+  "order": 4956,
+  "level": "B2",
+  "cyr": "релативност",
+  "lat": "relativnost",
+  "tr": "релативност",
+  "ru": "относительность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Релативност је није ником сметала.",
+   "lat": "Relativnost je nije nikom smetala.",
+   "ru": "Относительность никому не мешала."
+  }
+ },
+ {
+  "id": "w4957",
+  "order": 4957,
+  "level": "B2",
+  "cyr": "реликвија",
+  "lat": "relikvija",
+  "tr": "реликвија",
+  "ru": "реликвия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Реликвије је чуване у кивоту.",
+   "lat": "Relikvije je čuvane u kivotu.",
+   "ru": "Реликвии хранились в ковчеге."
+  }
+ },
+ {
+  "id": "w4958",
+  "order": 4958,
+  "level": "B2",
+  "cyr": "сабор",
+  "lat": "sabor",
+  "tr": "сабор",
+  "ru": "собор; сбор",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сабор је потврдио одлуке.",
+   "lat": "Sabor je potvrdio odluke.",
+   "ru": "Собор подтвердил решения."
+  }
+ },
+ {
+  "id": "w4959",
+  "order": 4959,
+  "level": "B2",
+  "cyr": "самосвест",
+  "lat": "samosvest",
+  "tr": "самосвест",
+  "ru": "самосознание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Самосвест је изграђена годинама.",
+   "lat": "Samosvest je izgrađena godinama.",
+   "ru": "Самосознание построено годами."
+  }
+ },
+ {
+  "id": "w4960",
+  "order": 4960,
+  "level": "B2",
+  "cyr": "сахрана",
+  "lat": "sahrana",
+  "tr": "сахрана",
+  "ru": "похороны",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сахрана је обављена ујутру.",
+   "lat": "Sahrana je obavljena ujutru.",
+   "ru": "Похороны проведены утром."
+  }
+ },
+ {
+  "id": "w4961",
+  "order": 4961,
+  "level": "B2",
+  "cyr": "светиња",
+  "lat": "svetinja",
+  "tr": "светинья",
+  "ru": "святыня",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Светиње су чуване вјековима.",
+   "lat": "Svetinje su čuvane vjekovima.",
+   "ru": "Святыни хранились веками."
+  }
+ },
+ {
+  "id": "w4962",
+  "order": 4962,
+  "level": "B2",
+  "cyr": "светлост",
+  "lat": "svetlost",
+  "tr": "светлост",
+  "ru": "свет",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Светлост је пробила кроз прозор.",
+   "lat": "Svetlost je probila kroz prozor.",
+   "ru": "Свет пробился через окно."
+  }
+ },
+ {
+  "id": "w4963",
+  "order": 4963,
+  "level": "B2",
+  "cyr": "светост",
+  "lat": "svetost",
+  "tr": "светост",
+  "ru": "святость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Светост је се видела у лицу.",
+   "lat": "Svetost je se videla u licu.",
+   "ru": "Святость виднелась в лице."
+  }
+ },
+ {
+  "id": "w4964",
+  "order": 4964,
+  "level": "B2",
+  "cyr": "свећњак",
+  "lat": "svećnjak",
+  "tr": "свечньяк",
+  "ru": "подсвечник",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Свећњаци је били златни.",
+   "lat": "Svećnjaci je bili zlatni.",
+   "ru": "Подсвечники были золотые."
+  }
+ },
+ {
+  "id": "w4965",
+  "order": 4965,
+  "level": "B2",
+  "cyr": "симбол",
+  "lat": "simbol",
+  "tr": "симбол",
+  "ru": "символ",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Симбол мира је голуб.",
+   "lat": "Simbol mira je golub.",
+   "ru": "Символ мира — голубь."
+  }
+ },
+ {
+  "id": "w4966",
+  "order": 4966,
+  "level": "B2",
+  "cyr": "слагање",
+  "lat": "slaganje",
+  "tr": "слаганье",
+  "ru": "согласие; договорённость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Слагање је трајало до зоре.",
+   "lat": "Slaganje je trajalo do zore.",
+   "ru": "Согласование продолжалось до зари."
+  }
+ },
+ {
+  "id": "w4967",
+  "order": 4967,
+  "level": "B2",
+  "cyr": "смелост",
+  "lat": "smelost",
+  "tr": "смелост",
+  "ru": "смелость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Смелост је била јача од страха.",
+   "lat": "Smelost je bila jača od straha.",
+   "ru": "Смелость была сильнее страха."
+  }
+ },
+ {
+  "id": "w4968",
+  "order": 4968,
+  "level": "B2",
+  "cyr": "смирење",
+  "lat": "smirenje",
+  "tr": "смиренье",
+  "ru": "смирение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Смирење је врлина.",
+   "lat": "Smirenje je vrlina.",
+   "ru": "Смирение — добродетель."
+  }
+ },
+ {
+  "id": "w4969",
+  "order": 4969,
+  "level": "B2",
+  "cyr": "стварање",
+  "lat": "stvaranje",
+  "tr": "стваранье",
+  "ru": "созидание; создание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Стварање је трајало деценије.",
+   "lat": "Stvaranje je trajalo decenije.",
+   "ru": "Созидание продолжалось десятилетия."
+  }
+ },
+ {
+  "id": "w4970",
+  "order": 4970,
+  "level": "B2",
+  "cyr": "стварност",
+  "lat": "stvarnost",
+  "tr": "стварност",
+  "ru": "действительность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стварност је биола груба.",
+   "lat": "Stvarnost je biola gruba.",
+   "ru": "Действительность была грубая."
+  }
+ },
+ {
+  "id": "w4971",
+  "order": 4971,
+  "level": "B2",
+  "cyr": "стоицизам",
+  "lat": "stoicizam",
+  "tr": "стоицизам",
+  "ru": "стоицизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стоицизам је уче о стрпљењу.",
+   "lat": "Stoicizam je uče o strpljenju.",
+   "ru": "Стоицизм учил о терпении."
+  }
+ },
+ {
+  "id": "w4972",
+  "order": 4972,
+  "level": "B2",
+  "cyr": "страдање",
+  "lat": "stradanje",
+  "tr": "страданье",
+  "ru": "страдание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Страдање је учило стрпљењу.",
+   "lat": "Stradanje je učilo strpljenju.",
+   "ru": "Страдание учило терпению."
+  }
+ },
+ {
+  "id": "w4973",
+  "order": 4973,
+  "level": "B2",
+  "cyr": "субстанца",
+  "lat": "substanca",
+  "tr": "субстанца",
+  "ru": "субстанция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Субстанца је није мењана.",
+   "lat": "Substanca je nije menjana.",
+   "ru": "Субстанция не менялась."
+  }
+ },
+ {
+  "id": "w4974",
+  "order": 4974,
+  "level": "B2",
+  "cyr": "сујета",
+  "lat": "sujeta",
+  "tr": "сујета",
+  "ru": "тщеславие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сујета је покварила све.",
+   "lat": "Sujeta je pokvarila sve.",
+   "ru": "Тщеславие испортило всё."
+  }
+ },
+ {
+  "id": "w4975",
+  "order": 4975,
+  "level": "B2",
+  "cyr": "тамјан",
+  "lat": "tamjan",
+  "tr": "тамјан",
+  "ru": "ладан",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тамјан је мирисао цео храм.",
+   "lat": "Tamjan je mirisao ceo hram.",
+   "ru": "Ладан пах весь храм."
+  }
+ },
+ {
+  "id": "w4976",
+  "order": 4976,
+  "level": "B2",
+  "cyr": "трагање",
+  "lat": "traganje",
+  "tr": "траганье",
+  "ru": "искание; поиск",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Трагање је трајало цео живот.",
+   "lat": "Traganje je trajalo ceo život.",
+   "ru": "Искание продолжалось всю жизнь."
+  }
+ },
+ {
+  "id": "w4977",
+  "order": 4977,
+  "level": "B2",
+  "cyr": "удварање",
+  "lat": "udvaranje",
+  "tr": "удваранье",
+  "ru": "сватовство; ухаживание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Удварање је трајало годину.",
+   "lat": "Udvaranje je trajalo godinu.",
+   "ru": "Сватовство продолжалось год."
+  }
+ },
+ {
+  "id": "w4978",
+  "order": 4978,
+  "level": "B2",
+  "cyr": "умереност",
+  "lat": "umerenost",
+  "tr": "умереност",
+  "ru": "умеренность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Умереност је биола кључ.",
+   "lat": "Umerenost je biola ključ.",
+   "ru": "Умеренность была ключ."
+  }
+ },
+ {
+  "id": "w4979",
+  "order": 4979,
+  "level": "B2",
+  "cyr": "унутрашњост",
+  "lat": "unutrašnjost",
+  "tr": "унутрашньост",
+  "ru": "внутренность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Унутрашњост храма је се сијала.",
+   "lat": "Unutrašnjost hrama je se sijala.",
+   "ru": "Внутренность храма сияла."
+  }
+ },
+ {
+  "id": "w4980",
+  "order": 4980,
+  "level": "B2",
+  "cyr": "усменост",
+  "lat": "usmenost",
+  "tr": "усменост",
+  "ru": "устная традиция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Усменост је чувала старе приче.",
+   "lat": "Usmenost je čuvala stare priče.",
+   "ru": "Устность хранила старые рассказы."
+  }
+ },
+ {
+  "id": "w4981",
+  "order": 4981,
+  "level": "B2",
+  "cyr": "утопија",
+  "lat": "utopija",
+  "tr": "утопија",
+  "ru": "утопия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Утопија је свет без борби.",
+   "lat": "Utopija je svet bez borbi.",
+   "ru": "Утопия — мир без борьбы."
+  }
+ },
+ {
+  "id": "w4982",
+  "order": 4982,
+  "level": "B2",
+  "cyr": "фреска",
+  "lat": "freska",
+  "tr": "фреска",
+  "ru": "фреска",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Фреске је рестауриране прошле године.",
+   "lat": "Freske je restaurirane prošle godine.",
+   "ru": "Фрески отреставрированы в прошлом году."
+  }
+ },
+ {
+  "id": "w4983",
+  "order": 4983,
+  "level": "B2",
+  "cyr": "хармонија",
+  "lat": "harmonija",
+  "tr": "хармонија",
+  "ru": "гармония",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хармонија је све умирила.",
+   "lat": "Harmonija je sve umirila.",
+   "ru": "Гармония всё умиротворила."
+  }
+ },
+ {
+  "id": "w4984",
+  "order": 4984,
+  "level": "B2",
+  "cyr": "ходочашће",
+  "lat": "hodočašće",
+  "tr": "ходочашче",
+  "ru": "паломничество",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ходочашће је окупило хиљаде.",
+   "lat": "Hodočašće je okupilo hiljade.",
+   "ru": "Паломничество собрало тысячи."
+  }
+ },
+ {
+  "id": "w4985",
+  "order": 4985,
+  "level": "B2",
+  "cyr": "хришћанство",
+  "lat": "hrišćanstvo",
+  "tr": "хришчанство",
+  "ru": "христианство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Хришћанство је стигло рано овде.",
+   "lat": "Hrišćanstvo je stiglo rano ovde.",
+   "ru": "Христианство пришло рано сюда."
+  }
+ },
+ {
+  "id": "w4986",
+  "order": 4986,
+  "level": "B2",
+  "cyr": "чиненица",
+  "lat": "činenica",
+  "tr": "чиненица",
+  "ru": "факт",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пред чиненицом је ћутао.",
+   "lat": "Pred činenicom je ćutao.",
+   "ru": "Перед фактом молчал."
+  }
+ },
+ {
+  "id": "w4987",
+  "order": 4987,
+  "level": "B2",
+  "cyr": "човечанство",
+  "lat": "čovečanstvo",
+  "tr": "човечанство",
+  "ru": "человечество",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Човечанство је учило из грешака.",
+   "lat": "Čovečanstvo je učilo iz grešaka.",
+   "ru": "Человечество училось из ошибок."
+  }
+ },
+ {
+  "id": "w4988",
+  "order": 4988,
+  "level": "B2",
+  "cyr": "јеванђеље",
+  "lat": "jevanđelje",
+  "tr": "јеванджеле",
+  "ru": "евангелие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Јеванђеље је читано свима.",
+   "lat": "Jevanđelje je čitano svima.",
+   "ru": "Евангелие читано всем."
+  }
+ },
+ {
+  "id": "w4989",
+  "order": 4989,
+  "level": "B2",
+  "cyr": "јединственост",
+  "lat": "jedinstvenost",
+  "tr": "јединственост",
+  "ru": "уникальность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Јединственост је цењена.",
+   "lat": "Jedinstvenost je cenjena.",
+   "ru": "Уникальность ценилась."
+  }
+ },
+ {
+  "id": "w4990",
+  "order": 4990,
+  "level": "B2",
+  "cyr": "јутрење",
+  "lat": "jutrenje",
+  "tr": "јутренье",
+  "ru": "утреня",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Јутрење је почело пре зоре.",
+   "lat": "Jutrenje je počelo pre zore.",
+   "ru": "Утреня началась до зари."
+  }
+ },
+ {
+  "id": "w4991",
+  "order": 4991,
+  "level": "B2",
+  "cyr": "џамија",
+  "lat": "džamija",
+  "tr": "джамија",
+  "ru": "мечеть",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Џамија је имала тонки минарет.",
+   "lat": "Džamija je imala tonki minaret.",
+   "ru": "Мечеть имала тонкий минарет."
+  }
+ },
+ {
+  "id": "w4992",
+  "order": 4992,
+  "level": "B2",
+  "cyr": "вечни мир",
+  "lat": "večni mir",
+  "tr": "вечни мир",
+  "ru": "вечный мир",
+  "pos": "phrase",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Вечни мир је трајао само годину.",
+   "lat": "Večni mir je trajao samo godinu.",
+   "ru": "Вечный мир продолжался только год."
+  }
+ },
+ {
+  "id": "w4993",
+  "order": 4993,
+  "level": "B2",
+  "cyr": "добра воља",
+  "lat": "dobra volja",
+  "tr": "добра воля",
+  "ru": "добрая воля",
+  "pos": "phrase",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Добра воља је није стигла.",
+   "lat": "Dobra volja je nije stigla.",
+   "ru": "Добрая воля не пришла."
+  }
+ },
+ {
+  "id": "w4994",
+  "order": 4994,
+  "level": "B2",
+  "cyr": "загробни живот",
+  "lat": "zagrobni život",
+  "tr": "загробни живот",
+  "ru": "загробная жизнь",
+  "pos": "phrase",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Загробни живот је вјековима занимао људе.",
+   "lat": "Zagrobni život je vjekovima zanimao ljude.",
+   "ru": "Загробная жизнь веками интересовала людей."
+  }
+ },
+ {
+  "id": "w4995",
+  "order": 4995,
+  "level": "B2",
+  "cyr": "опште добро",
+  "lat": "opšte dobro",
+  "tr": "опште добро",
+  "ru": "общее благо",
+  "pos": "phrase",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Опште добро је стао изнад свега.",
+   "lat": "Opšte dobro je stao iznad svega.",
+   "ru": "Общее благо стало выше всего."
+  }
+ },
+ {
+  "id": "w4996",
+  "order": 4996,
+  "level": "B2",
+  "cyr": "света вода",
+  "lat": "sveta voda",
+  "tr": "света вода",
+  "ru": "святая вода",
+  "pos": "phrase",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Света вода је чувана у бакрењу.",
+   "lat": "Sveta voda je čuvana u bakrenju.",
+   "ru": "Святая вода хранилась в медном."
+  }
+ },
+ {
+  "id": "w4997",
+  "order": 4997,
+  "level": "B2",
+  "cyr": "свето писмо",
+  "lat": "sveto pismo",
+  "tr": "свето писмо",
+  "ru": "Святое писание",
+  "pos": "phrase",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Свето писмо је читано најзглас.",
+   "lat": "Sveto pismo je čitano najzglas.",
+   "ru": "Святое писание читано вслух."
+  }
+ },
+ {
+  "id": "w4998",
+  "order": 4998,
+  "level": "B2",
+  "cyr": "слобода вероисповести",
+  "lat": "sloboda veroispovesti",
+  "tr": "слобода вероисповести",
+  "ru": "свобода вероисповедания",
+  "pos": "phrase",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Слобода вероисповести је није била свугде.",
+   "lat": "Sloboda veroispovesti je nije bila svugde.",
+   "ru": "Свобода вероисповедания была не везде."
+  }
+ },
+ {
+  "id": "w4999",
+  "order": 4999,
+  "level": "B2",
+  "cyr": "слобода воље",
+  "lat": "sloboda volje",
+  "tr": "слобода воле",
+  "ru": "свобода воли",
+  "pos": "phrase",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Слобода воље је остала нерешена.",
+   "lat": "Sloboda volje je ostala nerešena.",
+   "ru": "Свобода воли осталась нерешённой."
+  }
+ },
+ {
+  "id": "w5000",
+  "order": 5000,
+  "level": "B2",
+  "cyr": "смисао живота",
+  "lat": "smisao života",
+  "tr": "смисао живота",
+  "ru": "смысл жизни",
+  "pos": "phrase",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Смисао живота је тражио цео век.",
+   "lat": "Smisao života je tražio ceo vek.",
+   "ru": "Смысл жизни искал целый век."
+  }
+ },
+ {
+  "id": "w5001",
+  "order": 5001,
+  "level": "B2",
+  "cyr": "чиста савест",
+  "lat": "čista savest",
+  "tr": "чиста савест",
+  "ru": "чистая совесть",
+  "pos": "phrase",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Чиста савест је најбољи јастук.",
+   "lat": "Čista savest je najbolji jastuk.",
+   "ru": "Чистая совесть — лучшая подушка."
+  }
+ }
+]

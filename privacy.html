@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Политика конфиденциальности — Српски од нуле</title>
+<style>
+  :root {
+    --bg: #f2f2f7; --card: #ffffff; --text: #1c1c1e; --muted: #6c6c70;
+    --link: #007AFF; --line: rgba(0,0,0,.08);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #000000; --card: #1c1c1e; --text: #f2f2f7; --muted: #98989f; --link: #0A84FF; --line: rgba(255,255,255,.12); }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    padding: max(20px, env(safe-area-inset-top)) 16px 40px; }
+  .wrap { max-width: 720px; margin: 0 auto; }
+  h1 { font-size: 28px; letter-spacing: -.02em; margin: 18px 0 4px; }
+  .meta { color: var(--muted); font-size: 13px; margin-bottom: 18px; }
+  .card { background: var(--card); border-radius: 18px; padding: 20px; margin: 14px 0;
+    box-shadow: 0 1px 2px rgba(0,0,0,.06); }
+  h2 { font-size: 17px; margin: 0 0 8px; }
+  p, li { font-size: 14.5px; color: var(--text); margin: 8px 0; }
+  .muted { color: var(--muted); }
+  a { color: var(--link); text-decoration: none; }
+  .lead { font-size: 15px; font-weight: 500; }
+  ul { padding-left: 20px; margin: 6px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Политика конфиденциальности</h1>
+  <p class="meta">«Српски од нуле» · вступила в силу 2 октября 2026 · v2.25.0</p>
+
+  <div class="card">
+    <p class="lead">Коротко: приложение работает без аккаунтов, без аналитики и без рекламы. Весь ваш прогресс хранится только на вашем устройстве. Разработчик не имеет доступа к вашим данным.</p>
+  </div>
+
+  <div class="card">
+    <h2>1. Что хранится и где</h2>
+    <p>Прогресс обучения (слова, серия дней, XP, настройки, копилка ошибок) — локально: в localStorage приложения и в резервной автокопии (IndexedDB). На Android система дополнительно резервирует эти данные в ваш личный Google Drive средствами платформы (Android Auto Backup) — доступ есть только у вас. Приложение не имеет серверов и не отправляет прогресс по сети.</p>
+    <p>Загруженные пакеты озвучки хранятся локально и служат только для звука без интернета.</p>
+  </div>
+
+  <div class="card">
+    <h2>2. Сетевая активность</h2>
+    <ul>
+      <li><b>Обновления</b> — проверка версии и загрузка APK с GitHub (srpski-packs).</li>
+      <li><b>Докачка пакетов озвучки</b> — ZIP-паки с того же публичного репозитория.</li>
+      <li><b>Дневник разработки</b> — открытие по вашей кнопке.</li>
+    </ul>
+    <p class="muted">Приложение не передаёт третьим лицам ничего, кроме стандартных запросов этих файлов. GitHub видит ваш IP по своим правилам.</p>
+  </div>
+
+  <div class="card">
+    <h2>3. Микрофон</h2>
+    <p>Только для упражнения «Говорение». Аудио обрабатывается на устройстве (встроенная модель Whisper или системный распознаватель). Записи не сохраняются и не отправляются. Разрешение отзывается в настройках системы.</p>
+  </div>
+
+  <div class="card">
+    <h2>4. Журнал и сообщения о сбоях</h2>
+    <p>Журнал (по желанию) — технические события и ошибки, хранится локально. Покидает устройство только по вашей инициативе: кнопка «В Telegram»/«Экспорт в файл» или автоотчёт при сбое (хвост журнала, не чаще раза в 2 минуты, только при включённом логировании). В журнале нет имени, контактов и прогресса.</p>
+  </div>
+
+  <div class="card">
+    <h2>5. Напоминания</h2>
+    <p>Локальное уведомление самого устройства, без сети. Включается только вашим нажатием (онбординг/настройки) и выключается там же.</p>
+  </div>
+
+  <div class="card">
+    <h2>6. Чего нет</h2>
+    <p>Аккаунтов и регистрации · аналитики · рекламы · трекеров · доступа к контактам и файлам (кроме выбранного вами файла импорта).</p>
+  </div>
+
+  <div class="card">
+    <h2>7. Удаление данных</h2>
+    <p>Настройки → «Сбросить весь прогресс», либо удалить приложение — система удалит все локальные данные. Резервная копия в Google Drive управляется настройками Android (Настройки → Google → Резервное копирование).</p>
+  </div>
+
+  <div class="card">
+    <h2>8. Обратная связь</h2>
+    <p>Почта <a href="mailto:maxihac@gmail.com">maxihac@gmail.com</a>. Мы видим только то, что вы сами написали.</p>
+    <p class="muted">Изменения публикуются на этой странице и в <a href="https://github.com/maxihac-ux/srpski-packs/blob/main/devlog.md">дневнике разработки</a>.</p>
+  </div>
+
+  <p class="muted" style="text-align:center; font-size:12px; margin-top:20px">Српски од нуле — курс сербского языка с нуля</p>
+</div>
+</body>
+</html>

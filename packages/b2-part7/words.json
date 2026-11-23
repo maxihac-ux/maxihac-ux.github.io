@@ -1,0 +1,4226 @@
+[
+ {
+  "id": "w4502",
+  "order": 4502,
+  "level": "B2",
+  "cyr": "аналгетик",
+  "lat": "analgetik",
+  "tr": "аналгетик",
+  "ru": "анальгетик",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Аналгетик је донео олакшање тек ујутру.",
+   "lat": "Analgetik je doneo olakšanje tek ujutru.",
+   "ru": "Анальгетик принёс облегчение только утром."
+  }
+ },
+ {
+  "id": "w4503",
+  "order": 4503,
+  "level": "B2",
+  "cyr": "авијација",
+  "lat": "avijacija",
+  "tr": "авијација",
+  "ru": "авиация",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Авијација је доминирала небом.",
+   "lat": "Avijacija je dominirala nebom.",
+   "ru": "Авиация доминировала небом."
+  }
+ },
+ {
+  "id": "w4504",
+  "order": 4504,
+  "level": "B2",
+  "cyr": "адмирал",
+  "lat": "admiral",
+  "tr": "адмирал",
+  "ru": "адмирал",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Адмирал је водио флоту кроз олују.",
+   "lat": "Admiral je vodio flotu kroz oluju.",
+   "ru": "Адмирал вёл флот через бурю."
+  }
+ },
+ {
+  "id": "w4505",
+  "order": 4505,
+  "level": "B2",
+  "cyr": "археолог",
+  "lat": "arheolog",
+  "tr": "археолог",
+  "ru": "археолог",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Археолог је копао цело лето.",
+   "lat": "Arheolog je kopao celo leto.",
+   "ru": "Археолог копал всё лето."
+  }
+ },
+ {
+  "id": "w4506",
+  "order": 4506,
+  "level": "B2",
+  "cyr": "аорта",
+  "lat": "aorta",
+  "tr": "аорта",
+  "ru": "аорта",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Аорта је била сужена.",
+   "lat": "Aorta je bila sužena.",
+   "ru": "Аорта была сужена."
+  }
+ },
+ {
+  "id": "w4507",
+  "order": 4507,
+  "level": "B2",
+  "cyr": "бедем",
+  "lat": "bedem",
+  "tr": "бедем",
+  "ru": "крепостная стена",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "m",
+  "ex": {
+   "cyr": "Бедем је делимично срушен.",
+   "lat": "Bedem je delimično srušen.",
+   "ru": "Крепостная стена частично разрушена."
+  }
+ },
+ {
+  "id": "w4508",
+  "order": 4508,
+  "level": "B2",
+  "cyr": "кремен",
+  "lat": "kremen",
+  "tr": "кремен",
+  "ru": "кремень",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кремен је искрењао варницу.",
+   "lat": "Kremen je iskrenjao varnicu.",
+   "ru": "Кремень высекал искру."
+  }
+ },
+ {
+  "id": "w4509",
+  "order": 4509,
+  "level": "B2",
+  "cyr": "кацига",
+  "lat": "kaciga",
+  "tr": "кацига",
+  "ru": "каска",
+  "pos": "noun",
+  "cat": "clothes",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кацига је сачувала главу.",
+   "lat": "Kaciga je sačuvala glavu.",
+   "ru": "Каска спасла голову."
+  }
+ },
+ {
+  "id": "w4510",
+  "order": 4510,
+  "level": "B2",
+  "cyr": "караван",
+  "lat": "karavan",
+  "tr": "караван",
+  "ru": "караван",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Караван је кренуо ујутру.",
+   "lat": "Karavan je krenuo ujutru.",
+   "ru": "Караван отправился утром."
+  }
+ },
+ {
+  "id": "w4511",
+  "order": 4511,
+  "level": "B2",
+  "cyr": "данак",
+  "lat": "danak",
+  "tr": "данак",
+  "ru": "дань",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Данак је плаћан сваке године.",
+   "lat": "Danak je plaćan svake godine.",
+   "ru": "Дань платили каждый год."
+  }
+ },
+ {
+  "id": "w4512",
+  "order": 4512,
+  "level": "B2",
+  "cyr": "чаршија",
+  "lat": "čaršija",
+  "tr": "чаршија",
+  "ru": "базар",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "f",
+  "ex": {
+   "cyr": "Чаршија је оживела у зору.",
+   "lat": "Čaršija je oživela u zoru.",
+   "ru": "Базар ожил на рассвете."
+  }
+ },
+ {
+  "id": "w4513",
+  "order": 4513,
+  "level": "B2",
+  "cyr": "излечивати",
+  "lat": "izlečivati",
+  "tr": "излечивати",
+  "ru": "лечить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Излечивали су га лековитим биљем.",
+   "lat": "Izlečivali su ga lekovitim biljem.",
+   "ru": "Лечили его целебными травами."
+  }
+ },
+ {
+  "id": "w4514",
+  "order": 4514,
+  "level": "B2",
+  "cyr": "анестетик",
+  "lat": "anestetik",
+  "tr": "анестетик",
+  "ru": "анестетик",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Анестетик је брзо дејствовао.",
+   "lat": "Anestetik je brzo dejstvovao.",
+   "ru": "Анестетик подействовал быстро."
+  }
+ },
+ {
+  "id": "w4515",
+  "order": 4515,
+  "level": "B2",
+  "cyr": "антика",
+  "lat": "antika",
+  "tr": "антика",
+  "ru": "античность",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Антика је оставила мноштво споменика.",
+   "lat": "Antika je ostavila mnoštvo spomenika.",
+   "ru": "Античность оставила множество памятников."
+  }
+ },
+ {
+  "id": "w4516",
+  "order": 4516,
+  "level": "B2",
+  "cyr": "бегунац",
+  "lat": "begunac",
+  "tr": "бегунац",
+  "ru": "беглец",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Бегунац је прешао границу.",
+   "lat": "Begunac je prešao granicu.",
+   "ru": "Беглец пересёк границу."
+  }
+ },
+ {
+  "id": "w4517",
+  "order": 4517,
+  "level": "B2",
+  "cyr": "грнчар",
+  "lat": "grnčar",
+  "tr": "грнчар",
+  "ru": "гончар",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Грнчар је обликовао десет амфора.",
+   "lat": "Grnčar je oblikovao deset amfora.",
+   "ru": "Гончар вылепил десять амфор."
+  }
+ },
+ {
+  "id": "w4518",
+  "order": 4518,
+  "level": "B2",
+  "cyr": "вентил",
+  "lat": "ventil",
+  "tr": "вентил",
+  "ru": "клапан; вентил",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Вентил срца је цурио.",
+   "lat": "Ventil srca je curio.",
+   "ru": "Клапан сердца протекал."
+  }
+ },
+ {
+  "id": "w4519",
+  "order": 4519,
+  "level": "B2",
+  "cyr": "гробница",
+  "lat": "grobnica",
+  "tr": "гробница",
+  "ru": "гробница",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Гробница је била скривена у стени.",
+   "lat": "Grobnica je bila skrivena u steni.",
+   "ru": "Гробница была скрыта в скале."
+  }
+ },
+ {
+  "id": "w4520",
+  "order": 4520,
+  "level": "B2",
+  "cyr": "селидба",
+  "lat": "selidba",
+  "tr": "селидба",
+  "ru": "переселение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Селидба је трајала читавог лета.",
+   "lat": "Selidba je trajala čitavog leta.",
+   "ru": "Переселение продолжалось всё лето."
+  }
+ },
+ {
+  "id": "w4521",
+  "order": 4521,
+  "level": "B2",
+  "cyr": "оклоп",
+  "lat": "oklop",
+  "tr": "оклоп",
+  "ru": "броня; доспехи",
+  "pos": "noun",
+  "cat": "clothes",
+  "gender": "m",
+  "ex": {
+   "cyr": "Оклоп је био јак али тежак.",
+   "lat": "Oklop je bio jak ali težak.",
+   "ru": "Броня была крепкая, но тяжёлая."
+  }
+ },
+ {
+  "id": "w4522",
+  "order": 4522,
+  "level": "B2",
+  "cyr": "кочија",
+  "lat": "kočija",
+  "tr": "кочија",
+  "ru": "карета; повозка",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кочија је скрипела на сваком удару.",
+   "lat": "Kočija je skripela na svakom udaru.",
+   "ru": "Карета скрипела на каждой кочке."
+  }
+ },
+ {
+  "id": "w4523",
+  "order": 4523,
+  "level": "B2",
+  "cyr": "десетина",
+  "lat": "desetina",
+  "tr": "десетина",
+  "ru": "десятина",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Десетина је ишла цркви и владару.",
+   "lat": "Desetina je išla crkvi i vladaru.",
+   "ru": "Десятина шла церкви и правителю."
+  }
+ },
+ {
+  "id": "w4524",
+  "order": 4524,
+  "level": "B2",
+  "cyr": "апнеа",
+  "lat": "apnea",
+  "tr": "апнеа",
+  "ru": "апноэ",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Апнеа је ремила његов сан.",
+   "lat": "Apnea je remila njegov san.",
+   "ru": "Апноэ нарушало его сон."
+  }
+ },
+ {
+  "id": "w4525",
+  "order": 4525,
+  "level": "B2",
+  "cyr": "артефакт",
+  "lat": "artefakt",
+  "tr": "артефакт",
+  "ru": "артефакт",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Артефакт је сврстан у музеј.",
+   "lat": "Artefakt je svrstan u muzej.",
+   "ru": "Артефакт отнесён к музею."
+  }
+ },
+ {
+  "id": "w4526",
+  "order": 4526,
+  "level": "B2",
+  "cyr": "болесник",
+  "lat": "bolesnik",
+  "tr": "болесник",
+  "ru": "больной",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Болесник је спавао цео дан.",
+   "lat": "Bolesnik je spavao ceo dan.",
+   "ru": "Больной спал весь день."
+  }
+ },
+ {
+  "id": "w4527",
+  "order": 4527,
+  "level": "B2",
+  "cyr": "грнчарија",
+  "lat": "grnčarija",
+  "tr": "грнчарија",
+  "ru": "гончарное дело",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Грнчарија је напредовала у равници.",
+   "lat": "Grnčarija je napredovala u ravnici.",
+   "ru": "Гончарное дело развивалось в равнине."
+  }
+ },
+ {
+  "id": "w4528",
+  "order": 4528,
+  "level": "B2",
+  "cyr": "гркљан",
+  "lat": "grkljan",
+  "tr": "грклян",
+  "ru": "гортань",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гркљан је забољео од вике.",
+   "lat": "Grkljan je zaboljeo od vike.",
+   "ru": "Гортань заболела от крика."
+  }
+ },
+ {
+  "id": "w4529",
+  "order": 4529,
+  "level": "B2",
+  "cyr": "надгробје",
+  "lat": "nadgrobje",
+  "tr": "надгробје",
+  "ru": "надгробие",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "n",
+  "ex": {
+   "cyr": "Надгробје је покрила трава.",
+   "lat": "Nadgrobje je pokrila trava.",
+   "ru": "Надгробие покрыла трава."
+  }
+ },
+ {
+  "id": "w4530",
+  "order": 4530,
+  "level": "B2",
+  "cyr": "трпљење",
+  "lat": "trpljenje",
+  "tr": "трпленье",
+  "ru": "терпение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Трпљење је његова највећа врлина.",
+   "lat": "Trpljenje je njegova najveća vrlina.",
+   "ru": "Терпение — его величайшая добродетель."
+  }
+ },
+ {
+  "id": "w4531",
+  "order": 4531,
+  "level": "B2",
+  "cyr": "аритмија",
+  "lat": "aritmija",
+  "tr": "аритмија",
+  "ru": "аритмия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Аритмија је забележена током сна.",
+   "lat": "Aritmija je zabeležena tokom sna.",
+   "ru": "Аритмия зафиксирована во время сна."
+  }
+ },
+ {
+  "id": "w4532",
+  "order": 4532,
+  "level": "B2",
+  "cyr": "артиљерија",
+  "lat": "artiljerija",
+  "tr": "артилерија",
+  "ru": "артиллерия",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Артиљерија је отворила ватру у зору.",
+   "lat": "Artiljerija je otvorila vatru u zoru.",
+   "ru": "Артиллерия открыла огонь на рассвете."
+  }
+ },
+ {
+  "id": "w4533",
+  "order": 4533,
+  "level": "B2",
+  "cyr": "варвар",
+  "lat": "varvar",
+  "tr": "варвар",
+  "ru": "варвар",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Варвари су напали јутрос.",
+   "lat": "Varvari su napali jutros.",
+   "ru": "Варвары атаковали утром."
+  }
+ },
+ {
+  "id": "w4534",
+  "order": 4534,
+  "level": "B2",
+  "cyr": "дерматолог",
+  "lat": "dermatolog",
+  "tr": "дерматолог",
+  "ru": "дерматолог",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дерматолог је прописао ново мазило.",
+   "lat": "Dermatolog je propisao novo mazilo.",
+   "ru": "Дерматолог прописал новую мазь."
+  }
+ },
+ {
+  "id": "w4535",
+  "order": 4535,
+  "level": "B2",
+  "cyr": "ждрело",
+  "lat": "ždrelo",
+  "tr": "ждрело",
+  "ru": "глотка; зев",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ждрело је црвено и натечено.",
+   "lat": "Ždrelo je crveno i natečeno.",
+   "ru": "Глотка красная и опухшая."
+  }
+ },
+ {
+  "id": "w4536",
+  "order": 4536,
+  "level": "B2",
+  "cyr": "насеобина",
+  "lat": "naseobina",
+  "tr": "насеобина",
+  "ru": "поселение",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Насеобина је настала уз извор.",
+   "lat": "Naseobina je nastala uz izvor.",
+   "ru": "Поселение возникло у источника."
+  }
+ },
+ {
+  "id": "w4537",
+  "order": 4537,
+  "level": "B2",
+  "cyr": "челик",
+  "lat": "čelik",
+  "tr": "челик",
+  "ru": "сталь",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мач је од најбољег челика.",
+   "lat": "Mač je od najboljeg čelika.",
+   "ru": "Меч из лучшей стали."
+  }
+ },
+ {
+  "id": "w4538",
+  "order": 4538,
+  "level": "B2",
+  "cyr": "биопсија",
+  "lat": "biopsija",
+  "tr": "биопсија",
+  "ru": "биопсия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Биопсија је обављена под локалном анестезијом.",
+   "lat": "Biopsija je obavljena pod lokalnom anestezijom.",
+   "ru": "Биопсия проведена под местной анестезией."
+  }
+ },
+ {
+  "id": "w4539",
+  "order": 4539,
+  "level": "B2",
+  "cyr": "археологија",
+  "lat": "arheologija",
+  "tr": "археологија",
+  "ru": "археология",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Археологија је проучавала старе градове.",
+   "lat": "Arheologija je proučavala stare gradove.",
+   "ru": "Археология исследовала старые города."
+  }
+ },
+ {
+  "id": "w4540",
+  "order": 4540,
+  "level": "B2",
+  "cyr": "владар",
+  "lat": "vladar",
+  "tr": "владар",
+  "ru": "правитель",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Владар је стигао пред зору.",
+   "lat": "Vladar je stigao pred zoru.",
+   "ru": "Правитель прибыл перед рассветом."
+  }
+ },
+ {
+  "id": "w4541",
+  "order": 4541,
+  "level": "B2",
+  "cyr": "ендокринолог",
+  "lat": "endokrinolog",
+  "tr": "ендокринолог",
+  "ru": "эндокринолог",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ендокринолог је подесио дозу инсулина.",
+   "lat": "Endokrinolog je podesio dozu insulina.",
+   "ru": "Эндокринолог настроил дозу инсулина."
+  }
+ },
+ {
+  "id": "w4542",
+  "order": 4542,
+  "level": "B2",
+  "cyr": "жлезда",
+  "lat": "žlezda",
+  "tr": "жлезда",
+  "ru": "железа",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Жлезда је набрекла од умора.",
+   "lat": "Žlezda je nabrekla od umora.",
+   "ru": "Железа распухла от усталости."
+  }
+ },
+ {
+  "id": "w4543",
+  "order": 4543,
+  "level": "B2",
+  "cyr": "саркофаг",
+  "lat": "sarkofag",
+  "tr": "саркофаг",
+  "ru": "саркофаг",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "m",
+  "ex": {
+   "cyr": "Саркофаг је тежак више од тона.",
+   "lat": "Sarkofag je težak više od tona.",
+   "ru": "Саркофаг тяжелее тонны."
+  }
+ },
+ {
+  "id": "w4544",
+  "order": 4544,
+  "level": "B2",
+  "cyr": "јачање",
+  "lat": "jačanje",
+  "tr": "јачанье",
+  "ru": "укрепление",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Јачање тела је трајало месецима.",
+   "lat": "Jačanje tela je trajalo mesecima.",
+   "ru": "Укрепление тела продолжалось месяцами."
+  }
+ },
+ {
+  "id": "w4545",
+  "order": 4545,
+  "level": "B2",
+  "cyr": "бородавица",
+  "lat": "borodavica",
+  "tr": "бородавица",
+  "ru": "бородавка",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Бородавица је нестала за месец.",
+   "lat": "Borodavica je nestala za mesec.",
+   "ru": "Бородавка исчезла за месяц."
+  }
+ },
+ {
+  "id": "w4546",
+  "order": 4546,
+  "level": "B2",
+  "cyr": "барут",
+  "lat": "barut",
+  "tr": "барут",
+  "ru": "порох",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Барут је мирисао у ваздуху.",
+   "lat": "Barut je mirisao u vazduhu.",
+   "ru": "Порох пах в воздухе."
+  }
+ },
+ {
+  "id": "w4547",
+  "order": 4547,
+  "level": "B2",
+  "cyr": "владелац",
+  "lat": "vladelac",
+  "tr": "владелац",
+  "ru": "владетель; правитель",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Владелац је делио земљу племићима.",
+   "lat": "Vladelac je delio zemlju plemićima.",
+   "ru": "Владетель раздавал землю дворянам."
+  }
+ },
+ {
+  "id": "w4548",
+  "order": 4548,
+  "level": "B2",
+  "cyr": "историчар",
+  "lat": "istoričar",
+  "tr": "историчар",
+  "ru": "историк",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Историчар је упоредио оба извора.",
+   "lat": "Istoričar je uporedio oba izvora.",
+   "ru": "Историк сравнил оба источника."
+  }
+ },
+ {
+  "id": "w4549",
+  "order": 4549,
+  "level": "B2",
+  "cyr": "жуч",
+  "lat": "žuč",
+  "tr": "жуч",
+  "ru": "желчь",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Жуч је поремећио варење.",
+   "lat": "Žuč je poremećio varenje.",
+   "ru": "Желчь расстроило пищеварение."
+  }
+ },
+ {
+  "id": "w4550",
+  "order": 4550,
+  "level": "B2",
+  "cyr": "сиротиште",
+  "lat": "sirotište",
+  "tr": "сиротиште",
+  "ru": "сиротский дом",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "n",
+  "ex": {
+   "cyr": "Сиротиште је сакупљало дечаке из села.",
+   "lat": "Sirotište je sakupljalo dečake iz sela.",
+   "ru": "Сиротский дом собирал мальчиков из села."
+  }
+ },
+ {
+  "id": "w4551",
+  "order": 4551,
+  "level": "B2",
+  "cyr": "гастроскопија",
+  "lat": "gastroskopija",
+  "tr": "гастроскопија",
+  "ru": "гастроскопия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Гастроскопија је заказана за уторак.",
+   "lat": "Gastroskopija je zakazana za utorak.",
+   "ru": "Гастроскопия назначена на вторник."
+  }
+ },
+ {
+  "id": "w4552",
+  "order": 4552,
+  "level": "B2",
+  "cyr": "барјак",
+  "lat": "barjak",
+  "tr": "барјак",
+  "ru": "знамя",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Барјак је сејао на ветру.",
+   "lat": "Barjak je sejao na vetru.",
+   "ru": "Знамя развевалось на ветру."
+  }
+ },
+ {
+  "id": "w4553",
+  "order": 4553,
+  "level": "B2",
+  "cyr": "војвода",
+  "lat": "vojvoda",
+  "tr": "војвода",
+  "ru": "воевода",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Војвода је предводио јединицу у зору.",
+   "lat": "Vojvoda je predvodio jedinicu u zoru.",
+   "ru": "Воевода возглавил отряд на рассвете."
+  }
+ },
+ {
+  "id": "w4554",
+  "order": 4554,
+  "level": "B2",
+  "cyr": "кардиолог",
+  "lat": "kardiolog",
+  "tr": "кардиолог",
+  "ru": "кардиолог",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кардиолог је прописао нову терапију.",
+   "lat": "Kardiolog je propisao novu terapiju.",
+   "ru": "Кардиолог прописал новую терапию."
+  }
+ },
+ {
+  "id": "w4555",
+  "order": 4555,
+  "level": "B2",
+  "cyr": "костур",
+  "lat": "kostur",
+  "tr": "костур",
+  "ru": "скелет",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Костур је издржао цео удар.",
+   "lat": "Kostur je izdržao ceo udar.",
+   "ru": "Скелет выдержал весь удар."
+  }
+ },
+ {
+  "id": "w4556",
+  "order": 4556,
+  "level": "B2",
+  "cyr": "горушица",
+  "lat": "gorušica",
+  "tr": "горушица",
+  "ru": "изжога",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Горушица је јачала после зачињеног јела.",
+   "lat": "Gorušica je jačala posle začinjenog jela.",
+   "ru": "Изжога усиливалась после пряной еды."
+  }
+ },
+ {
+  "id": "w4557",
+  "order": 4557,
+  "level": "B2",
+  "cyr": "битка",
+  "lat": "bitka",
+  "tr": "битка",
+  "ru": "битва",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Битка је почела у зору.",
+   "lat": "Bitka je počela u zoru.",
+   "ru": "Битва началась на рассвете."
+  }
+ },
+ {
+  "id": "w4558",
+  "order": 4558,
+  "level": "B2",
+  "cyr": "војсковођа",
+  "lat": "vojskovođa",
+  "tr": "војсководжа",
+  "ru": "полководец",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Војсковођа је планирао све до детаља.",
+   "lat": "Vojskovođa je planirao sve do detalja.",
+   "ru": "Полководец планировал всё до деталей."
+  }
+ },
+ {
+  "id": "w4559",
+  "order": 4559,
+  "level": "B2",
+  "cyr": "ковач",
+  "lat": "kovač",
+  "tr": "ковач",
+  "ru": "кузнец",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ковач је ковао све јутро.",
+   "lat": "Kovač je kovao sve jutro.",
+   "ru": "Кузнец ковал всё утро."
+  }
+ },
+ {
+  "id": "w4560",
+  "order": 4560,
+  "level": "B2",
+  "cyr": "метаболизам",
+  "lat": "metabolizam",
+  "tr": "метаболизам",
+  "ru": "метаболизм",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Метаболизам је успорен зими.",
+   "lat": "Metabolizam je usporen zimi.",
+   "ru": "Метаболизм замедлен зимой."
+  }
+ },
+ {
+  "id": "w4561",
+  "order": 4561,
+  "level": "B2",
+  "cyr": "гутање",
+  "lat": "gutanje",
+  "tr": "гутанье",
+  "ru": "глотание",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Гутање је било болно.",
+   "lat": "Gutanje je bilo bolno.",
+   "ru": "Глотание было болезненно."
+  }
+ },
+ {
+  "id": "w4562",
+  "order": 4562,
+  "level": "B2",
+  "cyr": "бомбардовање",
+  "lat": "bombardovanje",
+  "tr": "бомбардованье",
+  "ru": "бомбардировка",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Бомбардовање је потрајало све ноћи.",
+   "lat": "Bombardovanje je potrajalo sve noći.",
+   "ru": "Бомбардировка продолжалась все ночи."
+  }
+ },
+ {
+  "id": "w4563",
+  "order": 4563,
+  "level": "B2",
+  "cyr": "генерал",
+  "lat": "general",
+  "tr": "генерал",
+  "ru": "генерал",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Генерал је наредио повлачење у ноћи.",
+   "lat": "General je naredio povlačenje u noći.",
+   "ru": "Генерал приказал отступление ночью."
+  }
+ },
+ {
+  "id": "w4564",
+  "order": 4564,
+  "level": "B2",
+  "cyr": "кочијаш",
+  "lat": "kočijaš",
+  "tr": "кочијаш",
+  "ru": "кучер",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кочијаш је зауставио коње.",
+   "lat": "Kočijaš je zaustavio konje.",
+   "ru": "Кучер остановил коней."
+  }
+ },
+ {
+  "id": "w4565",
+  "order": 4565,
+  "level": "B2",
+  "cyr": "мокраћа",
+  "lat": "mokraća",
+  "tr": "мокрача",
+  "ru": "моча",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мокраћа је била мутна.",
+   "lat": "Mokraća je bila mutna.",
+   "ru": "Моча была мутная."
+  }
+ },
+ {
+  "id": "w4566",
+  "order": 4566,
+  "level": "B2",
+  "cyr": "гутљај",
+  "lat": "gutljaj",
+  "tr": "гутляј",
+  "ru": "глоток",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гутљај воде је га умирио.",
+   "lat": "Gutljaj vode je ga umirio.",
+   "ru": "Глоток воды его успокоил."
+  }
+ },
+ {
+  "id": "w4567",
+  "order": 4567,
+  "level": "B2",
+  "cyr": "буна",
+  "lat": "buna",
+  "tr": "буна",
+  "ru": "бунт",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Буна је јачала.",
+   "lat": "Buna je jačala.",
+   "ru": "Бунт усиливался."
+  }
+ },
+ {
+  "id": "w4568",
+  "order": 4568,
+  "level": "B2",
+  "cyr": "господар",
+  "lat": "gospodar",
+  "tr": "господар",
+  "ru": "господар; хозяин",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Господар је био строг, али праведан.",
+   "lat": "Gospodar je bio strog, ali pravedan.",
+   "ru": "Господар был строг, но справедлив."
+  }
+ },
+ {
+  "id": "w4569",
+  "order": 4569,
+  "level": "B2",
+  "cyr": "невролог",
+  "lat": "nevrolog",
+  "tr": "невролог",
+  "ru": "невролог",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Невролог је испитао све рефлексе.",
+   "lat": "Nevrolog je ispitao sve reflekse.",
+   "ru": "Невролог исследовал все рефлексы."
+  }
+ },
+ {
+  "id": "w4570",
+  "order": 4570,
+  "level": "B2",
+  "cyr": "потиљак",
+  "lat": "potiljak",
+  "tr": "потиляк",
+  "ru": "затылок",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Потиљак га је забољео.",
+   "lat": "Potiljak ga je zaboljeo.",
+   "ru": "Затылок у него заболел."
+  }
+ },
+ {
+  "id": "w4571",
+  "order": 4571,
+  "level": "B2",
+  "cyr": "гљивица",
+  "lat": "gljivica",
+  "tr": "гливица",
+  "ru": "грибок",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Гљивица је напала нокте обе руке.",
+   "lat": "Gljivica je napala nokte obe ruke.",
+   "ru": "Грибок атаковал ногти обеих рук."
+  }
+ },
+ {
+  "id": "w4572",
+  "order": 4572,
+  "level": "B2",
+  "cyr": "бункер",
+  "lat": "bunker",
+  "tr": "бункер",
+  "ru": "бункер",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Бункер је служио као склониште.",
+   "lat": "Bunker je služio kao sklonište.",
+   "ru": "Бункер служил укрытием."
+  }
+ },
+ {
+  "id": "w4573",
+  "order": 4573,
+  "level": "B2",
+  "cyr": "дародавац",
+  "lat": "darodavac",
+  "tr": "дародавац",
+  "ru": "донор",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дародавац је потписао сагласност.",
+   "lat": "Darodavac je potpisao saglasnost.",
+   "ru": "Донор подписал согласие."
+  }
+ },
+ {
+  "id": "w4574",
+  "order": 4574,
+  "level": "B2",
+  "cyr": "онколог",
+  "lat": "onkolog",
+  "tr": "онколог",
+  "ru": "онколог",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Онколог је примио резултате одмах.",
+   "lat": "Onkolog je primio rezultate odmah.",
+   "ru": "Онколог принял результаты сразу."
+  }
+ },
+ {
+  "id": "w4575",
+  "order": 4575,
+  "level": "B2",
+  "cyr": "пробава",
+  "lat": "probava",
+  "tr": "пробава",
+  "ru": "пищеварение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пробава је поремећена после тог оброка.",
+   "lat": "Probava je poremećena posle tog obroka.",
+   "ru": "Пищеварение расстроено после того обеда."
+  }
+ },
+ {
+  "id": "w4576",
+  "order": 4576,
+  "level": "B2",
+  "cyr": "дезинфекција",
+  "lat": "dezinfekcija",
+  "tr": "дезинфекција",
+  "ru": "дезинфекция",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дезинфекција је обављена два пута дневно.",
+   "lat": "Dezinfekcija je obavljena dva puta dnevno.",
+   "ru": "Дезинфекция проведена дважды в день."
+  }
+ },
+ {
+  "id": "w4577",
+  "order": 4577,
+  "level": "B2",
+  "cyr": "вазал",
+  "lat": "vazal",
+  "tr": "вазал",
+  "ru": "вассал",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Вазал је дужан бити веран.",
+   "lat": "Vazal je dužan biti veran.",
+   "ru": "Вассал обязан быть верным."
+  }
+ },
+ {
+  "id": "w4578",
+  "order": 4578,
+  "level": "B2",
+  "cyr": "заробљеник",
+  "lat": "zarobljenik",
+  "tr": "заробленик",
+  "ru": "пленный",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Заробљеници су изведени ујутру.",
+   "lat": "Zarobljenici su izvedeni ujutru.",
+   "ru": "Пленные выведены утром."
+  }
+ },
+ {
+  "id": "w4579",
+  "order": 4579,
+  "level": "B2",
+  "cyr": "ортопед",
+  "lat": "ortoped",
+  "tr": "ортопед",
+  "ru": "ортопед",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ортопед је посаветовао улошке за ципеле.",
+   "lat": "Ortoped je posavetovao uloške za cipele.",
+   "ru": "Ортопед посоветовал стельки для обуви."
+  }
+ },
+ {
+  "id": "w4580",
+  "order": 4580,
+  "level": "B2",
+  "cyr": "пршљен",
+  "lat": "pršljen",
+  "tr": "пршлен",
+  "ru": "позвонок",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пршљен је померан при паду.",
+   "lat": "Pršljen je pomeran pri padu.",
+   "ru": "Позвонок смещён при падении."
+  }
+ },
+ {
+  "id": "w4581",
+  "order": 4581,
+  "level": "B2",
+  "cyr": "дисање",
+  "lat": "disanje",
+  "tr": "дисанье",
+  "ru": "дыхание",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Дисање је било отежано.",
+   "lat": "Disanje je bilo otežano.",
+   "ru": "Дыхание было затруднено."
+  }
+ },
+ {
+  "id": "w4582",
+  "order": 4582,
+  "level": "B2",
+  "cyr": "гарда",
+  "lat": "garda",
+  "tr": "гарда",
+  "ru": "гвардия",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Гарда је бранила дворац.",
+   "lat": "Garda je branila dvorac.",
+   "ru": "Гвардия защищала дворец."
+  }
+ },
+ {
+  "id": "w4583",
+  "order": 4583,
+  "level": "B2",
+  "cyr": "изгнаник",
+  "lat": "izgnanik",
+  "tr": "изгнаник",
+  "ru": "изгнанник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Изгнаник се никад није вратио.",
+   "lat": "Izgnanik se nikad nije vratio.",
+   "ru": "Изгнанник так и не вернулся."
+  }
+ },
+ {
+  "id": "w4584",
+  "order": 4584,
+  "level": "B2",
+  "cyr": "офталмолог",
+  "lat": "oftalmolog",
+  "tr": "офталмолог",
+  "ru": "офтальмолог",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Офталмолог је прегледао очно дно.",
+   "lat": "Oftalmolog je pregledao očno dno.",
+   "ru": "Офтальмолог осмотрел глазное дно."
+  }
+ },
+ {
+  "id": "w4585",
+  "order": 4585,
+  "level": "B2",
+  "cyr": "слезина",
+  "lat": "slezina",
+  "tr": "слезина",
+  "ru": "селезёнка",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Слезина је повећана код болесника.",
+   "lat": "Slezina je povećana kod bolesnika.",
+   "ru": "Селезёнка увеличена у больного."
+  }
+ },
+ {
+  "id": "w4586",
+  "order": 4586,
+  "level": "B2",
+  "cyr": "дијагностика",
+  "lat": "dijagnostika",
+  "tr": "дијагностика",
+  "ru": "диагностика",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дијагностика је почела одмах после напада.",
+   "lat": "Dijagnostika je počela odmah posle napada.",
+   "ru": "Диагностика началась сразу после приступа."
+  }
+ },
+ {
+  "id": "w4587",
+  "order": 4587,
+  "level": "B2",
+  "cyr": "гарнизон",
+  "lat": "garnizon",
+  "tr": "гарнизон",
+  "ru": "гарнизон",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гарнизон је издржао целу опсаду.",
+   "lat": "Garnizon je izdržao celu opsadu.",
+   "ru": "Гарнизон выдержал всю осаду."
+  }
+ },
+ {
+  "id": "w4588",
+  "order": 4588,
+  "level": "B2",
+  "cyr": "кмет",
+  "lat": "kmet",
+  "tr": "кмет",
+  "ru": "крепостной",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кмет је јачао целу недељу.",
+   "lat": "Kmet je jačao celu nedelju.",
+   "ru": "Крепостной пахал всю неделю."
+  }
+ },
+ {
+  "id": "w4589",
+  "order": 4589,
+  "level": "B2",
+  "cyr": "психијатар",
+  "lat": "psihijatar",
+  "tr": "психијатар",
+  "ru": "психиатр",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Психијатар је пажљиво слушао цео разговор.",
+   "lat": "Psihijatar je pažljivo slušao ceo razgovor.",
+   "ru": "Психиатр внимательно слушал весь разговор."
+  }
+ },
+ {
+  "id": "w4590",
+  "order": 4590,
+  "level": "B2",
+  "cyr": "једњак",
+  "lat": "jednjak",
+  "tr": "једньяк",
+  "ru": "пищевод",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Једњак је запален од киселина.",
+   "lat": "Jednjak je zapalen od kiselina.",
+   "ru": "Пищевод воспалён от кислот."
+  }
+ },
+ {
+  "id": "w4591",
+  "order": 4591,
+  "level": "B2",
+  "cyr": "дијареја",
+  "lat": "dijareja",
+  "tr": "дијареја",
+  "ru": "диарея",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дијареја је уследила после тог оброка.",
+   "lat": "Dijareja je usledila posle tog obroka.",
+   "ru": "Диарея последовала после того обеда."
+  }
+ },
+ {
+  "id": "w4592",
+  "order": 4592,
+  "level": "B2",
+  "cyr": "грамота",
+  "lat": "gramota",
+  "tr": "грамота",
+  "ru": "грамота",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Грамота је писана старом ћирилицом.",
+   "lat": "Gramota je pisana starom ćirilicom.",
+   "ru": "Грамота писана старой кириллицей."
+  }
+ },
+ {
+  "id": "w4593",
+  "order": 4593,
+  "level": "B2",
+  "cyr": "кнез",
+  "lat": "knez",
+  "tr": "кнез",
+  "ru": "князь",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кнез је сазвао народни сбор.",
+   "lat": "Knez je sazvao narodni sbor.",
+   "ru": "Князь созвал народное собрание."
+  }
+ },
+ {
+  "id": "w4594",
+  "order": 4594,
+  "level": "B2",
+  "cyr": "пулмолог",
+  "lat": "pulmolog",
+  "tr": "пулмолог",
+  "ru": "пульмонолог",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пулмолог је тражио слику плућа.",
+   "lat": "Pulmolog je tražio sliku pluća.",
+   "ru": "Пульмонолог запросил снимок лёгких."
+  }
+ },
+ {
+  "id": "w4595",
+  "order": 4595,
+  "level": "B2",
+  "cyr": "плућни",
+  "lat": "plućni",
+  "tr": "плучни",
+  "ru": "лёгочный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Плућни капацитет је повећан.",
+   "lat": "Plućni kapacitet je povećan.",
+   "ru": "Лёгочная ёмкость увеличена."
+  }
+ },
+ {
+  "id": "w4596",
+  "order": 4596,
+  "level": "B2",
+  "cyr": "дозирање",
+  "lat": "doziranje",
+  "tr": "дозиранье",
+  "ru": "дозирование",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Дозирање је зависило од година болесника.",
+   "lat": "Doziranje je zavisilo od godina bolesnika.",
+   "ru": "Дозирование зависило от возраста больного."
+  }
+ },
+ {
+  "id": "w4597",
+  "order": 4597,
+  "level": "B2",
+  "cyr": "династија",
+  "lat": "dinastija",
+  "tr": "династија",
+  "ru": "династия",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Династија је владала столећима.",
+   "lat": "Dinastija je vladala stolećima.",
+   "ru": "Династия правила столетиями."
+  }
+ },
+ {
+  "id": "w4598",
+  "order": 4598,
+  "level": "B2",
+  "cyr": "монарх",
+  "lat": "monarh",
+  "tr": "монарх",
+  "ru": "монарх",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Монарх је јачао престо.",
+   "lat": "Monarh je jačao presto.",
+   "ru": "Монарх укреплял престол."
+  }
+ },
+ {
+  "id": "w4599",
+  "order": 4599,
+  "level": "B2",
+  "cyr": "радиолог",
+  "lat": "radiolog",
+  "tr": "радиолог",
+  "ru": "рентгенолог",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Радиолог је описао снимак истог дана.",
+   "lat": "Radiolog je opisao snimak istog dana.",
+   "ru": "Рентгенолог описал снимок в тот же день."
+  }
+ },
+ {
+  "id": "w4600",
+  "order": 4600,
+  "level": "B2",
+  "cyr": "штитна жлезда",
+  "lat": "štitna žlezda",
+  "tr": "штитна жлезда",
+  "ru": "щитовидная железа",
+  "pos": "phrase",
+  "cat": "body",
+  "ex": {
+   "cyr": "Штитна жлезда је радила преспоро.",
+   "lat": "Štitna žlezda je radila presporo.",
+   "ru": "Щитовидная железа работала слишком медленно."
+  }
+ },
+ {
+  "id": "w4601",
+  "order": 4601,
+  "level": "B2",
+  "cyr": "екцем",
+  "lat": "ekcem",
+  "tr": "екцем",
+  "ru": "экзема",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Екцем је погоршан стресом.",
+   "lat": "Ekcem je pogoršan stresom.",
+   "ru": "Экзема ухудшена стрессом."
+  }
+ },
+ {
+  "id": "w4602",
+  "order": 4602,
+  "level": "B2",
+  "cyr": "задужбина",
+  "lat": "zadužbina",
+  "tr": "задужбина",
+  "ru": "задужбина; пожертвование",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Задужбина је остала до данас.",
+   "lat": "Zadužbina je ostala do danas.",
+   "ru": "Задужбина осталась до сих пор."
+  }
+ },
+ {
+  "id": "w4603",
+  "order": 4603,
+  "level": "B2",
+  "cyr": "наредник",
+  "lat": "narednik",
+  "tr": "наредник",
+  "ru": "сержант",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Наредник је викао на регруте.",
+   "lat": "Narednik je vikao na regrute.",
+   "ru": "Сержант кричал на новобранцев."
+  }
+ },
+ {
+  "id": "w4604",
+  "order": 4604,
+  "level": "B2",
+  "cyr": "разбој",
+  "lat": "razboj",
+  "tr": "разбој",
+  "ru": "ткацкий станок",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Разбој је стајао у великој соби.",
+   "lat": "Razboj je stajao u velikoj sobi.",
+   "ru": "Станок стоял в большой комнате."
+  }
+ },
+ {
+  "id": "w4605",
+  "order": 4605,
+  "level": "B2",
+  "cyr": "ендоскоп",
+  "lat": "endoskop",
+  "tr": "ендоскоп",
+  "ru": "эндоскоп",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ендоскоп је ушао свега пар центиметара.",
+   "lat": "Endoskop je ušao svega par centimetara.",
+   "ru": "Эндоскоп вошёл всего пару сантиметров."
+  }
+ },
+ {
+  "id": "w4606",
+  "order": 4606,
+  "level": "B2",
+  "cyr": "запис",
+  "lat": "zapis",
+  "tr": "запис",
+  "ru": "запись",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Запис је пронађен у архиви.",
+   "lat": "Zapis je pronađen u arhivi.",
+   "ru": "Запись найдена в архиве."
+  }
+ },
+ {
+  "id": "w4607",
+  "order": 4607,
+  "level": "B2",
+  "cyr": "најамник",
+  "lat": "najamnik",
+  "tr": "најамник",
+  "ru": "наёмник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Најамници су били плаћени у злату.",
+   "lat": "Najamnici su bili plaćeni u zlatu.",
+   "ru": "Наёмники были оплачены золотом."
+  }
+ },
+ {
+  "id": "w4608",
+  "order": 4608,
+  "level": "B2",
+  "cyr": "реуматолог",
+  "lat": "reumatolog",
+  "tr": "реуматолог",
+  "ru": "ревматолог",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Реуматолог је тражио нове анализе.",
+   "lat": "Reumatolog je tražio nove analize.",
+   "ru": "Ревматолог запросил новые анализы."
+  }
+ },
+ {
+  "id": "w4609",
+  "order": 4609,
+  "level": "B2",
+  "cyr": "епидемија",
+  "lat": "epidemija",
+  "tr": "епидемија",
+  "ru": "эпидемия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Епидемија грипа је обухватила регију.",
+   "lat": "Epidemija gripa je obuhvatila regiju.",
+   "ru": "Эпидемия гриппа охватила регион."
+  }
+ },
+ {
+  "id": "w4610",
+  "order": 4610,
+  "level": "B2",
+  "cyr": "заробљеништво",
+  "lat": "zarobljeništvo",
+  "tr": "зароблеништво",
+  "ru": "плен",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Заробљеништво је трајало године.",
+   "lat": "Zarobljeništvo je trajalo godine.",
+   "ru": "Плен продолжался годами."
+  }
+ },
+ {
+  "id": "w4611",
+  "order": 4611,
+  "level": "B2",
+  "cyr": "освајач",
+  "lat": "osvajač",
+  "tr": "освајач",
+  "ru": "завоеватель",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Освајачи су стигли до мора.",
+   "lat": "Osvajači su stigli do mora.",
+   "ru": "Завоеватели дошли до моря."
+  }
+ },
+ {
+  "id": "w4612",
+  "order": 4612,
+  "level": "B2",
+  "cyr": "ткање",
+  "lat": "tkanje",
+  "tr": "тканье",
+  "ru": "ткачество",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ткање је било женски посао.",
+   "lat": "Tkanje je bilo ženski posao.",
+   "ru": "Ткачество было женской работой."
+  }
+ },
+ {
+  "id": "w4613",
+  "order": 4613,
+  "level": "B2",
+  "cyr": "задах",
+  "lat": "zadah",
+  "tr": "задах",
+  "ru": "запах изо рта",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Задах је пропао после прања зуба.",
+   "lat": "Zadah je propao posle pranja zuba.",
+   "ru": "Запах пропал после чистки зубов."
+  }
+ },
+ {
+  "id": "w4614",
+  "order": 4614,
+  "level": "B2",
+  "cyr": "ископавање",
+  "lat": "iskopavanje",
+  "tr": "ископаванье",
+  "ru": "раскопки",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ископавање је почело ујутру.",
+   "lat": "Iskopavanje je počelo ujutru.",
+   "ru": "Раскопки начались утром."
+  }
+ },
+ {
+  "id": "w4615",
+  "order": 4615,
+  "level": "B2",
+  "cyr": "партизан",
+  "lat": "partizan",
+  "tr": "партизан",
+  "ru": "партизан",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Партизани су кретали ноћу.",
+   "lat": "Partizani su kretali noću.",
+   "ru": "Партизаны передвигались ночью."
+  }
+ },
+ {
+  "id": "w4616",
+  "order": 4616,
+  "level": "B2",
+  "cyr": "физијатар",
+  "lat": "fizijatar",
+  "tr": "физијатар",
+  "ru": "физиотерапевт",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Физијатар је прописао вежбе.",
+   "lat": "Fizijatar je propisao vežbe.",
+   "ru": "Физиотерапевт прописал упражнения."
+  }
+ },
+ {
+  "id": "w4617",
+  "order": 4617,
+  "level": "B2",
+  "cyr": "запек",
+  "lat": "zapek",
+  "tr": "запек",
+  "ru": "запор",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Запек је мучио цео викенд.",
+   "lat": "Zapek je mučio ceo vikend.",
+   "ru": "Запор мучил весь выходной."
+  }
+ },
+ {
+  "id": "w4618",
+  "order": 4618,
+  "level": "B2",
+  "cyr": "капитулација",
+  "lat": "kapitulacija",
+  "tr": "капитулација",
+  "ru": "капитуляция",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Капитулација је окончала борбе.",
+   "lat": "Kapitulacija je okončala borbe.",
+   "ru": "Капитуляция окончила бои."
+  }
+ },
+ {
+  "id": "w4619",
+  "order": 4619,
+  "level": "B2",
+  "cyr": "племић",
+  "lat": "plemić",
+  "tr": "племич",
+  "ru": "дворянин; аристократ",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Племић је носио оклоп.",
+   "lat": "Plemić je nosio oklop.",
+   "ru": "Дворянин носил доспехи."
+  }
+ },
+ {
+  "id": "w4620",
+  "order": 4620,
+  "level": "B2",
+  "cyr": "хроничар",
+  "lat": "hroničar",
+  "tr": "хроничар",
+  "ru": "летописец",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Хроничар је бележио сваки догађај.",
+   "lat": "Hroničar je beležio svaki događaj.",
+   "ru": "Летописец записывал каждое событие."
+  }
+ },
+ {
+  "id": "w4621",
+  "order": 4621,
+  "level": "B2",
+  "cyr": "зарастање",
+  "lat": "zarastanje",
+  "tr": "зарастанье",
+  "ru": "заживление",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Зарастање ране је трајало недељу.",
+   "lat": "Zarastanje rane je trajalo nedelju.",
+   "ru": "Заживление раны продолжалось неделю."
+  }
+ },
+ {
+  "id": "w4622",
+  "order": 4622,
+  "level": "B2",
+  "cyr": "кнежевина",
+  "lat": "kneževina",
+  "tr": "кнежевина",
+  "ru": "княжество",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кнежевина је проширила своје земље ка југу.",
+   "lat": "Kneževina je proširila svoje zemlje ka jugu.",
+   "ru": "Княжество расширило свои земли к югу."
+  }
+ },
+ {
+  "id": "w4623",
+  "order": 4623,
+  "level": "B2",
+  "cyr": "племство",
+  "lat": "plemstvo",
+  "tr": "племство",
+  "ru": "дворянство",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "n",
+  "ex": {
+   "cyr": "Племство је плаћало мање порезе.",
+   "lat": "Plemstvo je plaćalo manje poreze.",
+   "ru": "Дворянство платило меньшие налоги."
+  }
+ },
+ {
+  "id": "w4624",
+  "order": 4624,
+  "level": "B2",
+  "cyr": "излечење",
+  "lat": "izlečenje",
+  "tr": "излеченье",
+  "ru": "излечение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Излечење је донело олакшање.",
+   "lat": "Izlečenje je donelo olakšanje.",
+   "ru": "Излечение принесло облегчение."
+  }
+ },
+ {
+  "id": "w4625",
+  "order": 4625,
+  "level": "B2",
+  "cyr": "копље",
+  "lat": "koplje",
+  "tr": "копле",
+  "ru": "копьё",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Копље је пробило оклоп.",
+   "lat": "Koplje je probilo oklop.",
+   "ru": "Копьё пробило броню."
+  }
+ },
+ {
+  "id": "w4626",
+  "order": 4626,
+  "level": "B2",
+  "cyr": "прималац",
+  "lat": "primalac",
+  "tr": "прималац",
+  "ru": "реципиент",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Прималац је реаговао мирно.",
+   "lat": "Primalac je reagovao mirno.",
+   "ru": "Реципиент отреагировал спокойно."
+  }
+ },
+ {
+  "id": "w4627",
+  "order": 4627,
+  "level": "B2",
+  "cyr": "инкубација",
+  "lat": "inkubacija",
+  "tr": "инкубација",
+  "ru": "инкубация",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Инкубација траје од три до седам дана.",
+   "lat": "Inkubacija traje od tri do sedam dana.",
+   "ru": "Инкубация длится от трёх до семи дней."
+  }
+ },
+ {
+  "id": "w4628",
+  "order": 4628,
+  "level": "B2",
+  "cyr": "коњица",
+  "lat": "konjica",
+  "tr": "коница",
+  "ru": "кавалерия",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Коњица је јурила цео дан.",
+   "lat": "Konjica je jurila ceo dan.",
+   "ru": "Кавалерия преследовала весь день."
+  }
+ },
+ {
+  "id": "w4629",
+  "order": 4629,
+  "level": "B2",
+  "cyr": "пуковник",
+  "lat": "pukovnik",
+  "tr": "пуковник",
+  "ru": "полковник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пуковник је водио прве нападе.",
+   "lat": "Pukovnik je vodio prve napade.",
+   "ru": "Полковник вёл первые атаки."
+  }
+ },
+ {
+  "id": "w4630",
+  "order": 4630,
+  "level": "B2",
+  "cyr": "искривљење",
+  "lat": "iskrivljenje",
+  "tr": "искривленье",
+  "ru": "искривление",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Искривљење кичме је напредовало.",
+   "lat": "Iskrivljenje kičme je napredovalo.",
+   "ru": "Искривление позвоночника прогрессировало."
+  }
+ },
+ {
+  "id": "w4631",
+  "order": 4631,
+  "level": "B2",
+  "cyr": "краљевина",
+  "lat": "kraljevina",
+  "tr": "кралевина",
+  "ru": "королевство",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Краљевина је прогласила устав.",
+   "lat": "Kraljevina je proglasila ustav.",
+   "ru": "Королевство провозгласило конституцию."
+  }
+ },
+ {
+  "id": "w4632",
+  "order": 4632,
+  "level": "B2",
+  "cyr": "пљачкаш",
+  "lat": "pljačkaš",
+  "tr": "плячкаш",
+  "ru": "грабитель",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пљачкаш је понио читав амбар.",
+   "lat": "Pljačkaš je ponio čitav ambar.",
+   "ru": "Грабитель унёс весь амбар."
+  }
+ },
+ {
+  "id": "w4633",
+  "order": 4633,
+  "level": "B2",
+  "cyr": "истегнуће",
+  "lat": "istegnuće",
+  "tr": "истегнуче",
+  "ru": "растяжение (мышцы)",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Истегнуће је зацелило за две недеље.",
+   "lat": "Istegnuće je zacelilo za dve nedelje.",
+   "ru": "Растяжение зажило за две недели."
+  }
+ },
+ {
+  "id": "w4634",
+  "order": 4634,
+  "level": "B2",
+  "cyr": "круна",
+  "lat": "kruna",
+  "tr": "круна",
+  "ru": "корона",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Круна је предата без борбе.",
+   "lat": "Kruna je predata bez borbe.",
+   "ru": "Корона отдана без боя."
+  }
+ },
+ {
+  "id": "w4635",
+  "order": 4635,
+  "level": "B2",
+  "cyr": "ратник",
+  "lat": "ratnik",
+  "tr": "ратник",
+  "ru": "воин",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ратник је тренирао од малена.",
+   "lat": "Ratnik je trenirao od malena.",
+   "ru": "Воин тренировался с малолетства."
+  }
+ },
+ {
+  "id": "w4636",
+  "order": 4636,
+  "level": "B2",
+  "cyr": "капи",
+  "lat": "kapi",
+  "tr": "капи",
+  "ru": "капли",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Капи за нос су ублажиле застој.",
+   "lat": "Kapi za nos su ublažile zastoj.",
+   "ru": "Капли для носа облегчили заложенность."
+  }
+ },
+ {
+  "id": "w4637",
+  "order": 4637,
+  "level": "B2",
+  "cyr": "логор",
+  "lat": "logor",
+  "tr": "логор",
+  "ru": "лагерь",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Логор је подигнут уз реку.",
+   "lat": "Logor je podignut uz reku.",
+   "ru": "Лагерь поднят у реки."
+  }
+ },
+ {
+  "id": "w4638",
+  "order": 4638,
+  "level": "B2",
+  "cyr": "рањеник",
+  "lat": "ranjenik",
+  "tr": "раньеник",
+  "ru": "раненый",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Рањеници су смештени у подруму школе.",
+   "lat": "Ranjenici su smešteni u podrumu škole.",
+   "ru": "Раненые размещены в подвале школы."
+  }
+ },
+ {
+  "id": "w4639",
+  "order": 4639,
+  "level": "B2",
+  "cyr": "карантин",
+  "lat": "karantin",
+  "tr": "карантин",
+  "ru": "карантин",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Карантин је трајао десет дана.",
+   "lat": "Karantin je trajao deset dana.",
+   "ru": "Карантин продолжался десять дней."
+  }
+ },
+ {
+  "id": "w4640",
+  "order": 4640,
+  "level": "B2",
+  "cyr": "мач",
+  "lat": "mač",
+  "tr": "мач",
+  "ru": "меч",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мач је висио око појаса.",
+   "lat": "Mač je visio oko pojasa.",
+   "ru": "Меч висел у пояса."
+  }
+ },
+ {
+  "id": "w4641",
+  "order": 4641,
+  "level": "B2",
+  "cyr": "регрут",
+  "lat": "regrut",
+  "tr": "регрут",
+  "ru": "новобранец",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Регрути су вежбали цело јутро.",
+   "lat": "Regruti su vežbali celo jutro.",
+   "ru": "Новобранцы тренировались всё утро."
+  }
+ },
+ {
+  "id": "w4642",
+  "order": 4642,
+  "level": "B2",
+  "cyr": "колоноскопија",
+  "lat": "kolonoskopija",
+  "tr": "колоноскопија",
+  "ru": "колоноскопия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Колоноскопија је тражила припрему.",
+   "lat": "Kolonoskopija je tražila pripremu.",
+   "ru": "Колоноскопия требовала подготовку."
+  }
+ },
+ {
+  "id": "w4643",
+  "order": 4643,
+  "level": "B2",
+  "cyr": "метак",
+  "lat": "metak",
+  "tr": "метак",
+  "ru": "пуля",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Метак је зарезао раме.",
+   "lat": "Metak je zarezao rame.",
+   "ru": "Пуля задела плечо."
+  }
+ },
+ {
+  "id": "w4644",
+  "order": 4644,
+  "level": "B2",
+  "cyr": "краста",
+  "lat": "krasta",
+  "tr": "краста",
+  "ru": "струп; корка",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Краста је отпала за дан.",
+   "lat": "Krasta je otpala za dan.",
+   "ru": "Корка отпала за день."
+  }
+ },
+ {
+  "id": "w4645",
+  "order": 4645,
+  "level": "B2",
+  "cyr": "мина",
+  "lat": "mina",
+  "tr": "мина",
+  "ru": "мина",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мине су очишћене за седмицу.",
+   "lat": "Mine su očišćene za sedmicu.",
+   "ru": "Мины очищены за неделю."
+  }
+ },
+ {
+  "id": "w4646",
+  "order": 4646,
+  "level": "B2",
+  "cyr": "лекарство",
+  "lat": "lekarstvo",
+  "tr": "лекарство",
+  "ru": "лекарство; средство",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Лекарство је узето пре јела.",
+   "lat": "Lekarstvo je uzeto pre jela.",
+   "ru": "Лекарство принято перед едой."
+  }
+ },
+ {
+  "id": "w4647",
+  "order": 4647,
+  "level": "B2",
+  "cyr": "минообацач",
+  "lat": "minoobacač",
+  "tr": "минообацач",
+  "ru": "миномёт",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Минообацач је тукао све ноћи.",
+   "lat": "Minoobacač je tukao sve noći.",
+   "ru": "Миномёт бил все ночи."
+  }
+ },
+ {
+  "id": "w4648",
+  "order": 4648,
+  "level": "B2",
+  "cyr": "лечење",
+  "lat": "lečenje",
+  "tr": "леченье",
+  "ru": "лечение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Лечење је трајало цео пролеће.",
+   "lat": "Lečenje je trajalo ceo proleće.",
+   "ru": "Лечение продолжалось всю весну."
+  }
+ },
+ {
+  "id": "w4649",
+  "order": 4649,
+  "level": "B2",
+  "cyr": "мобилизација",
+  "lat": "mobilizacija",
+  "tr": "мобилизација",
+  "ru": "мобилизация",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мобилизација је обухватила село.",
+   "lat": "Mobilizacija je obuhvatila selo.",
+   "ru": "Мобилизация охватила село."
+  }
+ },
+ {
+  "id": "w4650",
+  "order": 4650,
+  "level": "B2",
+  "cyr": "мажење",
+  "lat": "maženje",
+  "tr": "маженье",
+  "ru": "намазывание",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Мажење је трајало неколико дана.",
+   "lat": "Maženje je trajalo nekoliko dana.",
+   "ru": "Намазывание продолжалось несколько дней."
+  }
+ },
+ {
+  "id": "w4651",
+  "order": 4651,
+  "level": "B2",
+  "cyr": "наезда",
+  "lat": "naezda",
+  "tr": "наезда",
+  "ru": "нашествие",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Наезда је дошла са севера.",
+   "lat": "Naezda je došla sa severa.",
+   "ru": "Нашествие пришло с севера."
+  }
+ },
+ {
+  "id": "w4652",
+  "order": 4652,
+  "level": "B2",
+  "cyr": "мазило",
+  "lat": "mazilo",
+  "tr": "мазило",
+  "ru": "мазь",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Мазило је ублажило свраб за ноћ.",
+   "lat": "Mazilo je ublažilo svrab za noć.",
+   "ru": "Мазь облегчила зуд за ночь."
+  }
+ },
+ {
+  "id": "w4653",
+  "order": 4653,
+  "level": "B2",
+  "cyr": "наоружање",
+  "lat": "naoružanje",
+  "tr": "наоружанье",
+  "ru": "вооружение",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Наоружање је обновљено.",
+   "lat": "Naoružanje je obnovljeno.",
+   "ru": "Вооружение обновлено."
+  }
+ },
+ {
+  "id": "w4654",
+  "order": 4654,
+  "level": "B2",
+  "cyr": "мамограф",
+  "lat": "mamograf",
+  "tr": "мамограф",
+  "ru": "маммограф",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мамограф је снимао пола сата.",
+   "lat": "Mamograf je snimao pola sata.",
+   "ru": "Маммограф снимал полчаса."
+  }
+ },
+ {
+  "id": "w4655",
+  "order": 4655,
+  "level": "B2",
+  "cyr": "натпис",
+  "lat": "natpis",
+  "tr": "натпис",
+  "ru": "надпис",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Натпис је изгризао ветар.",
+   "lat": "Natpis je izgrizao vetar.",
+   "ru": "Надпис источил ветер."
+  }
+ },
+ {
+  "id": "w4656",
+  "order": 4656,
+  "level": "B2",
+  "cyr": "масажа",
+  "lat": "masaža",
+  "tr": "масажа",
+  "ru": "массаж",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Масажа је опустила читава леђа.",
+   "lat": "Masaža je opustila čitava leđa.",
+   "ru": "Массаж расслабил всю спину."
+  }
+ },
+ {
+  "id": "w4657",
+  "order": 4657,
+  "level": "B2",
+  "cyr": "опсада",
+  "lat": "opsada",
+  "tr": "опсада",
+  "ru": "осада",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Опсада је трајала целу зиму.",
+   "lat": "Opsada je trajala celu zimu.",
+   "ru": "Осада продолжалась всю зиму."
+  }
+ },
+ {
+  "id": "w4658",
+  "order": 4658,
+  "level": "B2",
+  "cyr": "метастаза",
+  "lat": "metastaza",
+  "tr": "метастаза",
+  "ru": "метастаз",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Метастазе су јављене у плућима.",
+   "lat": "Metastaze su javljene u plućima.",
+   "ru": "Метастазы обнаружены в лёгких."
+  }
+ },
+ {
+  "id": "w4659",
+  "order": 4659,
+  "level": "B2",
+  "cyr": "оружје",
+  "lat": "oružje",
+  "tr": "оружје",
+  "ru": "оружие",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Оружје је предато после пораза.",
+   "lat": "Oružje je predato posle poraza.",
+   "ru": "Оружие отдано после поражения."
+  }
+ },
+ {
+  "id": "w4660",
+  "order": 4660,
+  "level": "B2",
+  "cyr": "мучнина",
+  "lat": "mučnina",
+  "tr": "мучнина",
+  "ru": "тошнота",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мучнина је потрајала све до подне.",
+   "lat": "Mučnina je potrajala sve do podne.",
+   "ru": "Тошнота продолжалась до полудня."
+  }
+ },
+ {
+  "id": "w4661",
+  "order": 4661,
+  "level": "B2",
+  "cyr": "оруђа",
+  "lat": "oruđa",
+  "tr": "оруджа",
+  "ru": "орудия",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Оруђа су направљена од камена и кости.",
+   "lat": "Oruđa su napravljena od kamena i kosti.",
+   "ru": "Орудия сделаны из камня и кости."
+  }
+ },
+ {
+  "id": "w4662",
+  "order": 4662,
+  "level": "B2",
+  "cyr": "несвест",
+  "lat": "nesvest",
+  "tr": "несвест",
+  "ru": "обморок; сознание",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Несвест је потрајала свега тренутак.",
+   "lat": "Nesvest je potrajala svega trenutak.",
+   "ru": "Обморок продолжался всего мгновение."
+  }
+ },
+ {
+  "id": "w4663",
+  "order": 4663,
+  "level": "B2",
+  "cyr": "освајање",
+  "lat": "osvajanje",
+  "tr": "освајанье",
+  "ru": "завоевание",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Освајање је трајало године.",
+   "lat": "Osvajanje je trajalo godine.",
+   "ru": "Завоевание продолжалось годами."
+  }
+ },
+ {
+  "id": "w4664",
+  "order": 4664,
+  "level": "B2",
+  "cyr": "облога",
+  "lat": "obloga",
+  "tr": "облога",
+  "ru": "компресс",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Облога је хладила читаву ноћ.",
+   "lat": "Obloga je hladila čitavu noć.",
+   "ru": "Компресс холодил всю ночь."
+  }
+ },
+ {
+  "id": "w4665",
+  "order": 4665,
+  "level": "B2",
+  "cyr": "отпор",
+  "lat": "otpor",
+  "tr": "отпор",
+  "ru": "сопротивление",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Отпор је трајао до зоре.",
+   "lat": "Otpor je trajao do zore.",
+   "ru": "Сопротивление продолжалось до зари."
+  }
+ },
+ {
+  "id": "w4666",
+  "order": 4666,
+  "level": "B2",
+  "cyr": "ожиљак",
+  "lat": "ožiljak",
+  "tr": "ожиляк",
+  "ru": "рубец; шрам",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ожиљак је остао видљив.",
+   "lat": "Ožiljak je ostao vidljiv.",
+   "ru": "Рубец остался видимым."
+  }
+ },
+ {
+  "id": "w4667",
+  "order": 4667,
+  "level": "B2",
+  "cyr": "палица",
+  "lat": "palica",
+  "tr": "палица",
+  "ru": "дубина",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Палица је била од храстовог дрвета.",
+   "lat": "Palica je bila od hrastovog drveta.",
+   "ru": "Дубина была из дубового дерева."
+  }
+ },
+ {
+  "id": "w4668",
+  "order": 4668,
+  "level": "B2",
+  "cyr": "онкологија",
+  "lat": "onkologija",
+  "tr": "онкологија",
+  "ru": "онкология",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Онкологија је постала његова специјалност.",
+   "lat": "Onkologija je postala njegova specijalnost.",
+   "ru": "Онкология стала его специальностью."
+  }
+ },
+ {
+  "id": "w4669",
+  "order": 4669,
+  "level": "B2",
+  "cyr": "пешадија",
+  "lat": "pešadija",
+  "tr": "пешадија",
+  "ru": "пехота",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пешадија је кренула прва.",
+   "lat": "Pešadija je krenula prva.",
+   "ru": "Пехота пошла первой."
+  }
+ },
+ {
+  "id": "w4670",
+  "order": 4670,
+  "level": "B2",
+  "cyr": "опорављање",
+  "lat": "oporavljanje",
+  "tr": "опоравлянье",
+  "ru": "выздоровление",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Опорављање је трајало месец.",
+   "lat": "Oporavljanje je trajalo mesec.",
+   "ru": "Выздоровление продолжалось месяц."
+  }
+ },
+ {
+  "id": "w4671",
+  "order": 4671,
+  "level": "B2",
+  "cyr": "плен",
+  "lat": "plen",
+  "tr": "плен",
+  "ru": "добыча; плен",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Плен је пренет у логор.",
+   "lat": "Plen je prenet u logor.",
+   "ru": "Добыча перенесена в лагерь."
+  }
+ },
+ {
+  "id": "w4672",
+  "order": 4672,
+  "level": "B2",
+  "cyr": "ординација",
+  "lat": "ordinacija",
+  "tr": "ординација",
+  "ru": "кабинет врача",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ординација је отворена од шест сати.",
+   "lat": "Ordinacija je otvorena od šest sati.",
+   "ru": "Кабинет открыт с шести часов."
+  }
+ },
+ {
+  "id": "w4673",
+  "order": 4673,
+  "level": "B2",
+  "cyr": "побуна",
+  "lat": "pobuna",
+  "tr": "побуна",
+  "ru": "мятеж",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Побуна је угушена за три дана.",
+   "lat": "Pobuna je ugušena za tri dana.",
+   "ru": "Мятеж подавлен за три дня."
+  }
+ },
+ {
+  "id": "w4674",
+  "order": 4674,
+  "level": "B2",
+  "cyr": "пандемија",
+  "lat": "pandemija",
+  "tr": "пандемија",
+  "ru": "пандемия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пандемија је изменила свакодневни живот.",
+   "lat": "Pandemija je izmenila svakodnevni život.",
+   "ru": "Пандемия изменила повседневную жизнь."
+  }
+ },
+ {
+  "id": "w4675",
+  "order": 4675,
+  "level": "B2",
+  "cyr": "повлачење",
+  "lat": "povlačenje",
+  "tr": "повлаченье",
+  "ru": "отступление",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Повлачење је почело у мраку.",
+   "lat": "Povlačenje je počelo u mraku.",
+   "ru": "Отступление началось в темноте."
+  }
+ },
+ {
+  "id": "w4676",
+  "order": 4676,
+  "level": "B2",
+  "cyr": "прегледница",
+  "lat": "preglednica",
+  "tr": "прегледница",
+  "ru": "смотровая; амбулатория",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Прегледница је била пуна ујутру.",
+   "lat": "Preglednica je bila puna ujutru.",
+   "ru": "Смотровая была полна утром."
+  }
+ },
+ {
+  "id": "w4677",
+  "order": 4677,
+  "level": "B2",
+  "cyr": "подкоп",
+  "lat": "podkop",
+  "tr": "подкоп",
+  "ru": "подкоп",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Подкоп је се срушио.",
+   "lat": "Podkop je se srušio.",
+   "ru": "Подкоп обвалился."
+  }
+ },
+ {
+  "id": "w4678",
+  "order": 4678,
+  "level": "B2",
+  "cyr": "приштић",
+  "lat": "prištić",
+  "tr": "приштич",
+  "ru": "прыщ",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Приштић је испао за ноћ.",
+   "lat": "Prištić je ispao za noć.",
+   "ru": "Прыщ пропал за ночь."
+  }
+ },
+ {
+  "id": "w4679",
+  "order": 4679,
+  "level": "B2",
+  "cyr": "покоравање",
+  "lat": "pokoravanje",
+  "tr": "покораванье",
+  "ru": "покорение",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Покоравање је трајало деценије.",
+   "lat": "Pokoravanje je trajalo decenije.",
+   "ru": "Покорение продолжалось десятилетиями."
+  }
+ },
+ {
+  "id": "w4680",
+  "order": 4680,
+  "level": "B2",
+  "cyr": "промрзлина",
+  "lat": "promrzlina",
+  "tr": "промрзлина",
+  "ru": "обморожение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Промрзлина на прстима је поцрвенела.",
+   "lat": "Promrzlina na prstima je pocrvenela.",
+   "ru": "Обморожение на пальцах покраснело."
+  }
+ },
+ {
+  "id": "w4681",
+  "order": 4681,
+  "level": "B2",
+  "cyr": "потписивање",
+  "lat": "potpisivanje",
+  "tr": "потписиванье",
+  "ru": "подписание",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Потписивање је трајало свега тренутка.",
+   "lat": "Potpisivanje je trajalo svega trenutka.",
+   "ru": "Подписание продолжалось всего мгновение."
+  }
+ },
+ {
+  "id": "w4682",
+  "order": 4682,
+  "level": "B2",
+  "cyr": "протеза",
+  "lat": "proteza",
+  "tr": "протеза",
+  "ru": "протез",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Нова протеза колена је стигла.",
+   "lat": "Nova proteza kolena je stigla.",
+   "ru": "Новый протез колена прибыл."
+  }
+ },
+ {
+  "id": "w4683",
+  "order": 4683,
+  "level": "B2",
+  "cyr": "праисторија",
+  "lat": "praistorija",
+  "tr": "праисторија",
+  "ru": "первобытность; предыстория",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Праисторија проучава време без писма.",
+   "lat": "Praistorija proučava vreme bez pisma.",
+   "ru": "Первобытность исследует время без письма."
+  }
+ },
+ {
+  "id": "w4684",
+  "order": 4684,
+  "level": "B2",
+  "cyr": "реанимација",
+  "lat": "reanimacija",
+  "tr": "реанимација",
+  "ru": "реанимация",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Реанимација је трајала целу ноћ.",
+   "lat": "Reanimacija je trajala celu noć.",
+   "ru": "Реанимация продолжалась всю ночь."
+  }
+ },
+ {
+  "id": "w4685",
+  "order": 4685,
+  "level": "B2",
+  "cyr": "престо",
+  "lat": "presto",
+  "tr": "престо",
+  "ru": "престол",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Престо је остао празан.",
+   "lat": "Presto je ostao prazan.",
+   "ru": "Престол остался пустым."
+  }
+ },
+ {
+  "id": "w4686",
+  "order": 4686,
+  "level": "B2",
+  "cyr": "реума",
+  "lat": "reuma",
+  "tr": "реума",
+  "ru": "ревматизм",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Реума је јача зими.",
+   "lat": "Reuma je jača zimi.",
+   "ru": "Ревматизм усиливается зимой."
+  }
+ },
+ {
+  "id": "w4687",
+  "order": 4687,
+  "level": "B2",
+  "cyr": "примирје",
+  "lat": "primirje",
+  "tr": "примирје",
+  "ru": "перемирие",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Примирје је потписано ујутру.",
+   "lat": "Primirje je potpisano ujutru.",
+   "ru": "Перемирие подписано утром."
+  }
+ },
+ {
+  "id": "w4688",
+  "order": 4688,
+  "level": "B2",
+  "cyr": "санаторијум",
+  "lat": "sanatorijum",
+  "tr": "санаторијум",
+  "ru": "санаторий",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Санаторијум је смештен уз саму шуму.",
+   "lat": "Sanatorijum je smešten uz samu šumu.",
+   "ru": "Санаторий расположен у самого леса."
+  }
+ },
+ {
+  "id": "w4689",
+  "order": 4689,
+  "level": "B2",
+  "cyr": "прогон",
+  "lat": "progon",
+  "tr": "прогон",
+  "ru": "преследование",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Прогон је трајао цео век.",
+   "lat": "Progon je trajao ceo vek.",
+   "ru": "Преследование продолжалось целый век."
+  }
+ },
+ {
+  "id": "w4690",
+  "order": 4690,
+  "level": "B2",
+  "cyr": "сируп",
+  "lat": "sirup",
+  "tr": "сируп",
+  "ru": "сироп",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сирруп од јове је смирио кашаљ.",
+   "lat": "Sirrup od jove je smirio kašalj.",
+   "ru": "Сироп от ивы успокоил кашель."
+  }
+ },
+ {
+  "id": "w4691",
+  "order": 4691,
+  "level": "B2",
+  "cyr": "протеривање",
+  "lat": "proterivanje",
+  "tr": "протериванье",
+  "ru": "изгнание",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Протеривање је погођило цело село.",
+   "lat": "Proterivanje je pogođilo celo selo.",
+   "ru": "Изгнание затронуло целое село."
+  }
+ },
+ {
+  "id": "w4692",
+  "order": 4692,
+  "level": "B2",
+  "cyr": "стетоскоп",
+  "lat": "stetoskop",
+  "tr": "стетоскоп",
+  "ru": "стетоскоп",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стетоскоп је чуо најситније шуштање.",
+   "lat": "Stetoskop je čuo najsitnije šuštanje.",
+   "ru": "Стетоскоп услышал малейшее шуршание."
+  }
+ },
+ {
+  "id": "w4693",
+  "order": 4693,
+  "level": "B2",
+  "cyr": "пуцање",
+  "lat": "pucanje",
+  "tr": "пуцанье",
+  "ru": "стрельба",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пуцање је трајало све до сумрака.",
+   "lat": "Pucanje je trajalo sve do sumraka.",
+   "ru": "Стрельба продолжалась до заката."
+  }
+ },
+ {
+  "id": "w4694",
+  "order": 4694,
+  "level": "B2",
+  "cyr": "томографија",
+  "lat": "tomografija",
+  "tr": "томографија",
+  "ru": "томография",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Томографија је показала све детаље.",
+   "lat": "Tomografija je pokazala sve detalje.",
+   "ru": "Томография показала все детали."
+  }
+ },
+ {
+  "id": "w4695",
+  "order": 4695,
+  "level": "B2",
+  "cyr": "пуцњава",
+  "lat": "pucnjava",
+  "tr": "пуцньява",
+  "ru": "перестрелка",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пуцњава је јачала у даљини.",
+   "lat": "Pucnjava je jačala u daljini.",
+   "ru": "Перестрелка усиливалась вдали."
+  }
+ },
+ {
+  "id": "w4696",
+  "order": 4696,
+  "level": "B2",
+  "cyr": "трансплантација",
+  "lat": "transplantacija",
+  "tr": "трансплантација",
+  "ru": "трансплантация",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Трансплантација бубрега је успела.",
+   "lat": "Transplantacija bubrega je uspela.",
+   "ru": "Трансплантация почки удалась."
+  }
+ },
+ {
+  "id": "w4697",
+  "order": 4697,
+  "level": "B2",
+  "cyr": "пљачка",
+  "lat": "pljačka",
+  "tr": "плячка",
+  "ru": "грабёж",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пљачка је трајала цео дан.",
+   "lat": "Pljačka je trajala ceo dan.",
+   "ru": "Грабёж продолжался весь день."
+  }
+ },
+ {
+  "id": "w4698",
+  "order": 4698,
+  "level": "B2",
+  "cyr": "трансфузија",
+  "lat": "transfuzija",
+  "tr": "трансфузија",
+  "ru": "переливание",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Трансфузија је трајала два сата.",
+   "lat": "Transfuzija je trajala dva sata.",
+   "ru": "Переливание продолжалось два часа."
+  }
+ },
+ {
+  "id": "w4699",
+  "order": 4699,
+  "level": "B2",
+  "cyr": "разминавање",
+  "lat": "razminavanje",
+  "tr": "разминаванье",
+  "ru": "разминирование",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Разминавање је трајало месецима.",
+   "lat": "Razminavanje je trajalo mesecima.",
+   "ru": "Разминирование продолжалось месяцами."
+  }
+ },
+ {
+  "id": "w4700",
+  "order": 4700,
+  "level": "B2",
+  "cyr": "трљање",
+  "lat": "trljanje",
+  "tr": "трлянье",
+  "ru": "растирание",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Трљање је побољшало циркулацију у рукама.",
+   "lat": "Trljanje je poboljšalo cirkulaciju u rukama.",
+   "ru": "Растирание улучшило циркуляцию в руках."
+  }
+ },
+ {
+  "id": "w4701",
+  "order": 4701,
+  "level": "B2",
+  "cyr": "ратовање",
+  "lat": "ratovanje",
+  "tr": "ратованье",
+  "ru": "ведение войны",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ратовање је исцрпело оба народа.",
+   "lat": "Ratovanje je iscrpelo oba naroda.",
+   "ru": "Ведение войны истощило оба народа."
+  }
+ },
+ {
+  "id": "w4702",
+  "order": 4702,
+  "level": "B2",
+  "cyr": "угануће",
+  "lat": "uganuće",
+  "tr": "угануче",
+  "ru": "растяжение (связок)",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Угануће зглоба је болело седмицу.",
+   "lat": "Uganuće zgloba je bolelo sedmicu.",
+   "ru": "Растяжение сустава болело неделю."
+  }
+ },
+ {
+  "id": "w4703",
+  "order": 4703,
+  "level": "B2",
+  "cyr": "револуција",
+  "lat": "revolucija",
+  "tr": "револуција",
+  "ru": "революция",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Револуција је променила све.",
+   "lat": "Revolucija je promenila sve.",
+   "ru": "Революция изменила всё."
+  }
+ },
+ {
+  "id": "w4704",
+  "order": 4704,
+  "level": "B2",
+  "cyr": "упала",
+  "lat": "upala",
+  "tr": "упала",
+  "ru": "воспаление; падение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Упала је захтевала антибиотик.",
+   "lat": "Upala je zahtevala antibiotik.",
+   "ru": "Воспаление потребовало антибиотик."
+  }
+ },
+ {
+  "id": "w4705",
+  "order": 4705,
+  "level": "B2",
+  "cyr": "ров",
+  "lat": "rov",
+  "tr": "ров",
+  "ru": "ров; окоп",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ров је копан око тврђаве.",
+   "lat": "Rov je kopan oko tvrđave.",
+   "ru": "Ров копан вокруг крепости."
+  }
+ },
+ {
+  "id": "w4706",
+  "order": 4706,
+  "level": "B2",
+  "cyr": "физиотерапија",
+  "lat": "fizioterapija",
+  "tr": "физиотерапија",
+  "ru": "физиотерапия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Физиотерапија је ојачала мишиће.",
+   "lat": "Fizioterapija je ojačala mišiće.",
+   "ru": "Физиотерапия укрепила мышцы."
+  }
+ },
+ {
+  "id": "w4707",
+  "order": 4707,
+  "level": "B2",
+  "cyr": "сабља",
+  "lat": "sablja",
+  "tr": "сабля",
+  "ru": "сабля",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сабља је сијала на сунцу.",
+   "lat": "Sablja je sijala na suncu.",
+   "ru": "Сабля сияла на солнце."
+  }
+ },
+ {
+  "id": "w4708",
+  "order": 4708,
+  "level": "B2",
+  "cyr": "хемоглобин",
+  "lat": "hemoglobin",
+  "tr": "хемоглобин",
+  "ru": "гемоглобин",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Хемоглобин је још увек низак.",
+   "lat": "Hemoglobin je još uvek nizak.",
+   "ru": "Гемоглобин всё ещё низкий."
+  }
+ },
+ {
+  "id": "w4709",
+  "order": 4709,
+  "level": "B2",
+  "cyr": "тенк",
+  "lat": "tenk",
+  "tr": "тенк",
+  "ru": "танк",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тенк је заглибио у блато.",
+   "lat": "Tenk je zaglibio u blato.",
+   "ru": "Танк застрял в грязи."
+  }
+ },
+ {
+  "id": "w4710",
+  "order": 4710,
+  "level": "B2",
+  "cyr": "хемотерапија",
+  "lat": "hemoterapija",
+  "tr": "хемотерапија",
+  "ru": "химиотерапия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хемотерапија је трајала читавог пролећа.",
+   "lat": "Hemoterapija je trajala čitavog proleća.",
+   "ru": "Химиотерапия продолжалась всю весну."
+  }
+ },
+ {
+  "id": "w4711",
+  "order": 4711,
+  "level": "B2",
+  "cyr": "тријумф",
+  "lat": "trijumf",
+  "tr": "тријумф",
+  "ru": "триумф",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тријумф је био потпун.",
+   "lat": "Trijumf je bio potpun.",
+   "ru": "Триумф был полный."
+  }
+ },
+ {
+  "id": "w4712",
+  "order": 4712,
+  "level": "B2",
+  "cyr": "хигијена",
+  "lat": "higijena",
+  "tr": "хигијена",
+  "ru": "гигиена",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хигијена је прва брана против болести.",
+   "lat": "Higijena je prva brana protiv bolesti.",
+   "ru": "Гигиена — первая преграда против болезней."
+  }
+ },
+ {
+  "id": "w4713",
+  "order": 4713,
+  "level": "B2",
+  "cyr": "уништење",
+  "lat": "uništenje",
+  "tr": "уништенье",
+  "ru": "уничтожение",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Уништење града је трајало ноћ.",
+   "lat": "Uništenje grada je trajalo noć.",
+   "ru": "Уничтожение города продолжалось ночь."
+  }
+ },
+ {
+  "id": "w4714",
+  "order": 4714,
+  "level": "B2",
+  "cyr": "хипертензија",
+  "lat": "hipertenzija",
+  "tr": "хипертензија",
+  "ru": "гипертония",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хипертензија је откривена на прегледу.",
+   "lat": "Hipertenzija je otkrivena na pregledu.",
+   "ru": "Гипертония обнаружена на осмотре."
+  }
+ },
+ {
+  "id": "w4715",
+  "order": 4715,
+  "level": "B2",
+  "cyr": "устанак",
+  "lat": "ustanak",
+  "tr": "устанак",
+  "ru": "восстание",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Устанак је букнуо у пролеће.",
+   "lat": "Ustanak je buknuo u proleće.",
+   "ru": "Восстание вспыхнуло весной."
+  }
+ },
+ {
+  "id": "w4716",
+  "order": 4716,
+  "level": "B2",
+  "cyr": "хирургија",
+  "lat": "hirurgija",
+  "tr": "хирургија",
+  "ru": "хирургия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хирургија је трајала четири сата.",
+   "lat": "Hirurgija je trajala četiri sata.",
+   "ru": "Хирургия продолжалась четыре часа."
+  }
+ },
+ {
+  "id": "w4717",
+  "order": 4717,
+  "level": "B2",
+  "cyr": "утврђење",
+  "lat": "utvrđenje",
+  "tr": "утврдженье",
+  "ru": "укрепление",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Утврђење је реновирано прошле године.",
+   "lat": "Utvrđenje je renovirano prošle godine.",
+   "ru": "Укрепление отремонтировано в прошлом году."
+  }
+ },
+ {
+  "id": "w4718",
+  "order": 4718,
+  "level": "B2",
+  "cyr": "чир",
+  "lat": "čir",
+  "tr": "чир",
+  "ru": "язва",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Чир на желуцу је зарастао.",
+   "lat": "Čir na želucu je zarastao.",
+   "ru": "Язва на желудке заживала."
+  }
+ },
+ {
+  "id": "w4719",
+  "order": 4719,
+  "level": "B2",
+  "cyr": "феуд",
+  "lat": "feud",
+  "tr": "феуд",
+  "ru": "феод",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Феуд је прешао на најстаријег сина.",
+   "lat": "Feud je prešao na najstarijeg sina.",
+   "ru": "Феод перешёл к старшему сыну."
+  }
+ },
+ {
+  "id": "w4720",
+  "order": 4720,
+  "level": "B2",
+  "cyr": "шивање",
+  "lat": "šivanje",
+  "tr": "шиванье",
+  "ru": "зашивание",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Шивање ране је трајало сат.",
+   "lat": "Šivanje rane je trajalo sat.",
+   "ru": "Зашивание раны продолжалось час."
+  }
+ },
+ {
+  "id": "w4721",
+  "order": 4721,
+  "level": "B2",
+  "cyr": "феудализам",
+  "lat": "feudalizam",
+  "tr": "феудализам",
+  "ru": "феодализм",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Феудализам је трајао столећима.",
+   "lat": "Feudalizam je trajao stolećima.",
+   "ru": "Феодализм продолжался столетиями."
+  }
+ },
+ {
+  "id": "w4722",
+  "order": 4722,
+  "level": "B2",
+  "cyr": "акутан",
+  "lat": "akutan",
+  "tr": "акутан",
+  "ru": "острый (о болезни)",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Акутна упала је захтевала операцију.",
+   "lat": "Akutna upala je zahtevala operaciju.",
+   "ru": "Острое воспаление потребовало операции."
+  }
+ },
+ {
+  "id": "w4723",
+  "order": 4723,
+  "level": "B2",
+  "cyr": "флота",
+  "lat": "flota",
+  "tr": "флота",
+  "ru": "флот",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Флота је испловила рано ујутру.",
+   "lat": "Flota je isplovila rano ujutru.",
+   "ru": "Флот вышла рано утром."
+  }
+ },
+ {
+  "id": "w4724",
+  "order": 4724,
+  "level": "B2",
+  "cyr": "бенигни",
+  "lat": "benigni",
+  "tr": "бенигни",
+  "ru": "доброкачественный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Бенигни чвор није захтевао терапију.",
+   "lat": "Benigni čvor nije zahtevao terapiju.",
+   "ru": "Доброкачественный узел не потребовал терапии."
+  }
+ },
+ {
+  "id": "w4725",
+  "order": 4725,
+  "level": "B2",
+  "cyr": "фронт",
+  "lat": "front",
+  "tr": "фронт",
+  "ru": "фронт",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Фронт је померан за десет километара.",
+   "lat": "Front je pomeran za deset kilometara.",
+   "ru": "Фронт сдвигался на десять километров."
+  }
+ },
+ {
+  "id": "w4726",
+  "order": 4726,
+  "level": "B2",
+  "cyr": "гипсани",
+  "lat": "gipsani",
+  "tr": "гипсани",
+  "ru": "гипсовый",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Гипсана нога је сврабела.",
+   "lat": "Gipsana noga je svrabela.",
+   "ru": "Гипсовая нога зудела."
+  }
+ },
+ {
+  "id": "w4727",
+  "order": 4727,
+  "level": "B2",
+  "cyr": "хроника",
+  "lat": "hronika",
+  "tr": "хроника",
+  "ru": "хроника",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хроника је забележила све догађаје.",
+   "lat": "Hronika je zabeležila sve događaje.",
+   "ru": "Хроника зафиксировала все события."
+  }
+ },
+ {
+  "id": "w4728",
+  "order": 4728,
+  "level": "B2",
+  "cyr": "зарастао",
+  "lat": "zarastao",
+  "tr": "зарастао",
+  "ru": "заживший",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Рана је коначно зарастала.",
+   "lat": "Rana je konačno zarastala.",
+   "ru": "Рана наконец зажила."
+  }
+ },
+ {
+  "id": "w4729",
+  "order": 4729,
+  "level": "B2",
+  "cyr": "хронологија",
+  "lat": "hronologija",
+  "tr": "хронологија",
+  "ru": "хронология",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хронологија је јасна.",
+   "lat": "Hronologija je jasna.",
+   "ru": "Хронология ясна."
+  }
+ },
+ {
+  "id": "w4730",
+  "order": 4730,
+  "level": "B2",
+  "cyr": "здравствен",
+  "lat": "zdravstven",
+  "tr": "здравствен",
+  "ru": "санитарный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Здравствена карта је обавезна.",
+   "lat": "Zdravstvena karta je obavezna.",
+   "ru": "Санитарная карта обязательна."
+  }
+ },
+ {
+  "id": "w4731",
+  "order": 4731,
+  "level": "B2",
+  "cyr": "шлем",
+  "lat": "šlem",
+  "tr": "шлем",
+  "ru": "шлем",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Шлем је остао неоштећен.",
+   "lat": "Šlem je ostao neoštećen.",
+   "ru": "Шлем остался неповреждённым."
+  }
+ },
+ {
+  "id": "w4732",
+  "order": 4732,
+  "level": "B2",
+  "cyr": "злоћудан",
+  "lat": "zloćudan",
+  "tr": "злочудан",
+  "ru": "злокачественный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Злоћудна је потврђена биопсијом.",
+   "lat": "Zloćudna je potvrđena biopsijom.",
+   "ru": "Злокачественная подтверждена биопсией."
+  }
+ },
+ {
+  "id": "w4733",
+  "order": 4733,
+  "level": "B2",
+  "cyr": "штит",
+  "lat": "štit",
+  "tr": "штит",
+  "ru": "щит",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Штит је зауставио ударац.",
+   "lat": "Štit je zaustavio udarac.",
+   "ru": "Щит остановил удар."
+  }
+ },
+ {
+  "id": "w4734",
+  "order": 4734,
+  "level": "B2",
+  "cyr": "излечив",
+  "lat": "izlečiv",
+  "tr": "излечив",
+  "ru": "излечимый",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Овај облик је потпуно излечив.",
+   "lat": "Ovaj oblik je potpuno izlečiv.",
+   "ru": "Эта форма полностью излечима."
+  }
+ },
+ {
+  "id": "w4735",
+  "order": 4735,
+  "level": "B2",
+  "cyr": "археолошки",
+  "lat": "arheološki",
+  "tr": "археолошки",
+  "ru": "археологический",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Археолошки парк је отворен за посетице.",
+   "lat": "Arheološki park je otvoren za posetice.",
+   "ru": "Археологический парк открыт для визитов."
+  }
+ },
+ {
+  "id": "w4736",
+  "order": 4736,
+  "level": "B2",
+  "cyr": "медицински",
+  "lat": "medicinski",
+  "tr": "медицински",
+  "ru": "медицинский",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Медицински картон је прегледан.",
+   "lat": "Medicinski karton je pregledan.",
+   "ru": "Медицинская карта проверена."
+  }
+ },
+ {
+  "id": "w4737",
+  "order": 4737,
+  "level": "B2",
+  "cyr": "војни",
+  "lat": "vojni",
+  "tr": "војни",
+  "ru": "военный",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Војни логор је испражњен.",
+   "lat": "Vojni logor je ispražnjen.",
+   "ru": "Военный лагерь опустел."
+  }
+ },
+ {
+  "id": "w4738",
+  "order": 4738,
+  "level": "B2",
+  "cyr": "нежељен",
+  "lat": "neželjen",
+  "tr": "нежелен",
+  "ru": "побочный; нежелательный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Нежељено дејство је јављено одмах.",
+   "lat": "Neželjeno dejstvo je javljeno odmah.",
+   "ru": "Побочное действие сообщено сразу."
+  }
+ },
+ {
+  "id": "w4739",
+  "order": 4739,
+  "level": "B2",
+  "cyr": "мирољубив",
+  "lat": "miroljubiv",
+  "tr": "миролюбив",
+  "ru": "миролюбивый",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Мирољубив народ је избегавао све.",
+   "lat": "Miroljubiv narod je izbegavao sve.",
+   "ru": "Миролюбивый народ избегал всего."
+  }
+ },
+ {
+  "id": "w4740",
+  "order": 4740,
+  "level": "B2",
+  "cyr": "неизлечив",
+  "lat": "neizlečiv",
+  "tr": "неизлечив",
+  "ru": "неизлечимый",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Неизлечив бол је пратила годинама.",
+   "lat": "Neizlečiv bol je pratila godinama.",
+   "ru": "Неизлечимая боль сопровождала годами."
+  }
+ },
+ {
+  "id": "w4741",
+  "order": 4741,
+  "level": "B2",
+  "cyr": "победоносан",
+  "lat": "pobedonosan",
+  "tr": "победоносан",
+  "ru": "победоносный",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Победоносна војска је стигла ујутру.",
+   "lat": "Pobedonosna vojska je stigla ujutru.",
+   "ru": "Победоносное войско прибыло утром."
+  }
+ },
+ {
+  "id": "w4742",
+  "order": 4742,
+  "level": "B2",
+  "cyr": "оперисан",
+  "lat": "operisan",
+  "tr": "оперисан",
+  "ru": "прооперированный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Оперисан је јутрос и добро се осећа.",
+   "lat": "Operisan je jutros i dobro se oseća.",
+   "ru": "Прооперирован утром и чувствует себя хорошо."
+  }
+ },
+ {
+  "id": "w4743",
+  "order": 4743,
+  "level": "B2",
+  "cyr": "побеђен",
+  "lat": "pobeđen",
+  "tr": "победжен",
+  "ru": "побеждённый",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Побеђени је признао пораз.",
+   "lat": "Pobeđeni je priznao poraz.",
+   "ru": "Побеждённый признал поражение."
+  }
+ },
+ {
+  "id": "w4744",
+  "order": 4744,
+  "level": "B2",
+  "cyr": "пагубан",
+  "lat": "paguban",
+  "tr": "пагубан",
+  "ru": "пагубный; вредный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Пагубно дејство дима је познато.",
+   "lat": "Pagubno dejstvo dima je poznato.",
+   "ru": "Пагубное действие дыма известно."
+  }
+ },
+ {
+  "id": "w4745",
+  "order": 4745,
+  "level": "B2",
+  "cyr": "римски",
+  "lat": "rimski",
+  "tr": "римски",
+  "ru": "римский",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Римски пут је водио ка мору.",
+   "lat": "Rimski put je vodio ka moru.",
+   "ru": "Римская дорога вела к морю."
+  }
+ },
+ {
+  "id": "w4746",
+  "order": 4746,
+  "level": "B2",
+  "cyr": "превентиван",
+  "lat": "preventivan",
+  "tr": "превентиван",
+  "ru": "профилактический",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Превентиван преглед је обавезан.",
+   "lat": "Preventivan pregled je obavezan.",
+   "ru": "Профилактический осмотр обязателен."
+  }
+ },
+ {
+  "id": "w4747",
+  "order": 4747,
+  "level": "B2",
+  "cyr": "средњовекован",
+  "lat": "srednjovekovan",
+  "tr": "средньовекован",
+  "ru": "средневековый",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Средњовековни град је бранио престоницу.",
+   "lat": "Srednjovekovni grad je branio prestonicu.",
+   "ru": "Средневековый город защищал столицу."
+  }
+ },
+ {
+  "id": "w4748",
+  "order": 4748,
+  "level": "B2",
+  "cyr": "рендгенски",
+  "lat": "rendgenski",
+  "tr": "рендгенски",
+  "ru": "рентгеновский",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Рендгенски снимак је јасно показао прелом.",
+   "lat": "Rendgenski snimak je jasno pokazao prelom.",
+   "ru": "Рентгеновский снимок ясно показал перелом."
+  }
+ },
+ {
+  "id": "w4749",
+  "order": 4749,
+  "level": "B2",
+  "cyr": "крсташки рат",
+  "lat": "krstaški rat",
+  "tr": "крсташки рат",
+  "ru": "крестовый поход",
+  "pos": "phrase",
+  "cat": "school",
+  "ex": {
+   "cyr": "Крсташки рат је трајао годинама.",
+   "lat": "Krstaški rat je trajao godinama.",
+   "ru": "Крестовый поход продолжался годами."
+  }
+ },
+ {
+  "id": "w4750",
+  "order": 4750,
+  "level": "B2",
+  "cyr": "хроничан",
+  "lat": "hroničan",
+  "tr": "хроничан",
+  "ru": "хронический",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Хронични бол је јачи ноћу.",
+   "lat": "Hronični bol je jači noću.",
+   "ru": "Хроническая боль сильнее ночью."
+  }
+ },
+ {
+  "id": "w4751",
+  "order": 4751,
+  "level": "B2",
+  "cyr": "дом здравља",
+  "lat": "dom zdravlja",
+  "tr": "дом здравля",
+  "ru": "поликлиника",
+  "pos": "phrase",
+  "cat": "body",
+  "ex": {
+   "cyr": "Дом здравља је отворен целе недеље.",
+   "lat": "Dom zdravlja je otvoren cele nedelje.",
+   "ru": "Поликлиника открыта всю неделю."
+  }
+ }
+]

@@ -1,0 +1,4219 @@
+[
+ {
+  "id": "w2795",
+  "order": 2795,
+  "level": "B2",
+  "cyr": "акварел",
+  "lat": "akvarel",
+  "tr": "акварел",
+  "ru": "акварель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Она је нацртала цвеће акварелом.",
+   "lat": "Ona je nacrtala cveće akvarelom.",
+   "ru": "Она нарисовала цветы акварелью."
+  }
+ },
+ {
+  "id": "w2796",
+  "order": 2796,
+  "level": "B2",
+  "cyr": "бајати",
+  "lat": "bajati",
+  "tr": "бајати",
+  "ru": "волшебствовать; колдовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Бака је бајала своје унуке.",
+   "lat": "Baka je bajala svoje unuke.",
+   "ru": "Бабушка колдовала над своими внуками."
+  }
+ },
+ {
+  "id": "w2797",
+  "order": 2797,
+  "level": "B2",
+  "cyr": "апстрактан",
+  "lat": "apstraktan",
+  "tr": "апстрактан",
+  "ru": "абстрактный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Апстрактна слика не приказује реалне објекте.",
+   "lat": "Apstraktna slika ne prikazuje realne objekte.",
+   "ru": "Абстрактная картина не изображает реальные объекты."
+  }
+ },
+ {
+  "id": "w2798",
+  "order": 2798,
+  "level": "B2",
+  "cyr": "глумити",
+  "lat": "glumiti",
+  "tr": "глумити",
+  "ru": "играть (в театре, кино)",
+  "pos": "verb",
+  "cat": "leisure",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Он глуми у позоришној представи.",
+   "lat": "On glumi u pozorišnoj predstavi.",
+   "ru": "Он играет в театральной постановке."
+  }
+ },
+ {
+  "id": "w2799",
+  "order": 2799,
+  "level": "B2",
+  "cyr": "привући",
+  "lat": "privući",
+  "tr": "привучи",
+  "ru": "привлечь; привлекать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Музика је привукла пажњу многих туриста.",
+   "lat": "Muzika je privukla pažnju mnogih turista.",
+   "ru": "Музыка привлекла внимание многих туристов."
+  }
+ },
+ {
+  "id": "w2800",
+  "order": 2800,
+  "level": "B2",
+  "cyr": "емитовати",
+  "lat": "emitovati",
+  "tr": "емитовати",
+  "ru": "передавать (по радио, ТВ)",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Станица емитује вечерње вести.",
+   "lat": "Stanica emituje večernje vesti.",
+   "ru": "Станция передает вечерние новости."
+  }
+ },
+ {
+  "id": "w2801",
+  "order": 2801,
+  "level": "B2",
+  "cyr": "гостовати",
+  "lat": "gostovati",
+  "tr": "гостовати",
+  "ru": "гостить",
+  "pos": "verb",
+  "cat": "people",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Они гостују код пријатеља у Београду.",
+   "lat": "Oni gostuju kod prijatelja u Beogradu.",
+   "ru": "Они гостят у друга в Белграде."
+  }
+ },
+ {
+  "id": "w2802",
+  "order": 2802,
+  "level": "B2",
+  "cyr": "зборник",
+  "lat": "zbornik",
+  "tr": "зборник",
+  "ru": "сборник (научный, трудов)",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Студенти су објавили зборник својих радова.",
+   "lat": "Studenti su objavili zbornik svojih radova.",
+   "ru": "Студенты опубликовали сборник своих работ."
+  }
+ },
+ {
+  "id": "w2803",
+  "order": 2803,
+  "level": "B2",
+  "cyr": "купола",
+  "lat": "kupola",
+  "tr": "купола",
+  "ru": "купола; свод",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Златна купола сјајно се одражава у води.",
+   "lat": "Zlatna kupola sjajno se odražava u vodi.",
+   "ru": "Золотая купола ярко отражается в воде."
+  }
+ },
+ {
+  "id": "w2804",
+  "order": 2804,
+  "level": "B2",
+  "cyr": "исмевати",
+  "lat": "ismevati",
+  "tr": "исмевати",
+  "ru": "смеяться над; насмехаться",
+  "pos": "verb",
+  "cat": "emotions",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Деца често исмевају друге због грешака.",
+   "lat": "Deca često ismevaju druge zbog grešaka.",
+   "ru": "Дети часто смеются над другими из-за ошибок."
+  }
+ },
+ {
+  "id": "w2805",
+  "order": 2805,
+  "level": "B2",
+  "cyr": "костим",
+  "lat": "kostim",
+  "tr": "костим",
+  "ru": "костюм",
+  "pos": "noun",
+  "cat": "clothes",
+  "gender": "m",
+  "ex": {
+   "cyr": "Глумац носи историјски костим у представи.",
+   "lat": "Glumac nosi istorijski kostim u predstavi.",
+   "ru": "Актер носит исторический костюм в спектакле."
+  }
+ },
+ {
+  "id": "w2806",
+  "order": 2806,
+  "level": "B2",
+  "cyr": "алегорија",
+  "lat": "alegorija",
+  "tr": "алегорија",
+  "ru": "аллегория",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова прича је права алегорија.",
+   "lat": "Ova priča je prava alegorija.",
+   "ru": "Эта история настоящая аллегория."
+  }
+ },
+ {
+  "id": "w2807",
+  "order": 2807,
+  "level": "B2",
+  "cyr": "бележити",
+  "lat": "beležiti",
+  "tr": "бележити",
+  "ru": "отмечать; записывать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Историчар бележи важне догађаје.",
+   "lat": "Istoričar beleži važne događaje.",
+   "ru": "Историк отмечает важные события."
+  }
+ },
+ {
+  "id": "w2808",
+  "order": 2808,
+  "level": "B2",
+  "cyr": "визуелни",
+  "lat": "vizuelni",
+  "tr": "визуелни",
+  "ru": "визуальный; зрительный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Визуелне уметности укључују сликарство.",
+   "lat": "Vizuelne umetnosti uključuju slikarstvo.",
+   "ru": "Визуальные искусства включают в себя живопись."
+  }
+ },
+ {
+  "id": "w2809",
+  "order": 2809,
+  "level": "B2",
+  "cyr": "драматизовати",
+  "lat": "dramatizovati",
+  "tr": "драматизовати",
+  "ru": "драматизировать",
+  "pos": "verb",
+  "cat": "leisure",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Он драматизује роман за позориште.",
+   "lat": "On dramatizuje roman za pozorište.",
+   "ru": "Он драматизирует роман для театра."
+  }
+ },
+ {
+  "id": "w2810",
+  "order": 2810,
+  "level": "B2",
+  "cyr": "спонзорисати",
+  "lat": "sponzorisati",
+  "tr": "спонзорисати",
+  "ru": "спонсировать; спонсировать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Фирма спонзорисат ће нашу изложбу уметности.",
+   "lat": "Firma sponzorisat će našu izložbu umetnosti.",
+   "ru": "Компания спонсирует нашу художественную выставку."
+  }
+ },
+ {
+  "id": "w2811",
+  "order": 2811,
+  "level": "B2",
+  "cyr": "монтирати",
+  "lat": "montirati",
+  "tr": "монтирати",
+  "ru": "монтировать; монтажировать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Филмски редитељ монтира сцене у студију.",
+   "lat": "Filmski reditelj montira scene u studiju.",
+   "ru": "Режиссёр монтирует сцены в студии."
+  }
+ },
+ {
+  "id": "w2812",
+  "order": 2812,
+  "level": "B2",
+  "cyr": "божанство",
+  "lat": "božanstvo",
+  "tr": "божанство",
+  "ru": "божество; божество",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "n",
+  "ex": {
+   "cyr": "Стари Грци поштују многа божанства.",
+   "lat": "Stari Grci poštuju mnoga božanstva.",
+   "ru": "Древние греки почитали многих богов."
+  }
+ },
+ {
+  "id": "w2813",
+  "order": 2813,
+  "level": "B2",
+  "cyr": "писменост",
+  "lat": "pismenost",
+  "tr": "писменост",
+  "ru": "грамотность",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Висока писменост је важна за развој друштва.",
+   "lat": "Visoka pismenost je važna za razvoj društva.",
+   "ru": "Высокая грамотность важна для развития общества."
+  }
+ },
+ {
+  "id": "w2814",
+  "order": 2814,
+  "level": "B2",
+  "cyr": "орнамент",
+  "lat": "ornament",
+  "tr": "орнамент",
+  "ru": "орнамент; украшение",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "m",
+  "ex": {
+   "cyr": "Фин орнамент украшава стару књигу.",
+   "lat": "Fin ornament ukrašava staru knjigu.",
+   "ru": "Тонкий орнамент украшает старую книгу."
+  }
+ },
+ {
+  "id": "w2815",
+  "order": 2815,
+  "level": "B2",
+  "cyr": "одушевити",
+  "lat": "oduševiti",
+  "tr": "одушевити",
+  "ru": "восхитить; вдохновить",
+  "pos": "verb",
+  "cat": "emotions",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Његова представа је одушевила цео ансамбл.",
+   "lat": "Njegova predstava je oduševila ceo ansambl.",
+   "ru": "Его представление восхитило весь ансамбль."
+  }
+ },
+ {
+  "id": "w2816",
+  "order": 2816,
+  "level": "B2",
+  "cyr": "антологија",
+  "lat": "antologija",
+  "tr": "антологија",
+  "ru": "антология",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Професор је издао антологију српске поезије.",
+   "lat": "Profesor je izdao antologiju srpske poezije.",
+   "ru": "Профессор издал антологию сербской поэзии."
+  }
+ },
+ {
+  "id": "w2817",
+  "order": 2817,
+  "level": "B2",
+  "cyr": "вајати",
+  "lat": "vajati",
+  "tr": "вајати",
+  "ru": "ваять; лепить; лепить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Деца воле да вајају од глине.",
+   "lat": "Deca vole da vajaju od gline.",
+   "ru": "Дети любят лепить из глины."
+  }
+ },
+ {
+  "id": "w2818",
+  "order": 2818,
+  "level": "B2",
+  "cyr": "вокални",
+  "lat": "vokalni",
+  "tr": "вокални",
+  "ru": "вокальный; вокальный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Вокална група је награђена за перформанс.",
+   "lat": "Vokalna grupa je nagrađena za performans.",
+   "ru": "Вокальная группа награждена за выступление."
+  }
+ },
+ {
+  "id": "w2819",
+  "order": 2819,
+  "level": "B2",
+  "cyr": "вајарство",
+  "lat": "vajarstvo",
+  "tr": "вајарство",
+  "ru": "ваяние; скульптура",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "n",
+  "ex": {
+   "cyr": "Учио је вајарство на факултету.",
+   "lat": "Učio je vajarstvo na fakultetu.",
+   "ru": "Он изучал ваяние на факультете."
+  }
+ },
+ {
+  "id": "w2820",
+  "order": 2820,
+  "level": "B2",
+  "cyr": "градитељство",
+  "lat": "graditeljstvo",
+  "tr": "градительство",
+  "ru": "строительство; архитектура",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Градитељство новог стадиона траје више година.",
+   "lat": "Graditeljstvo novog stadiona traje više godina.",
+   "ru": "Строительство нового стадиона длится несколько лет."
+  }
+ },
+ {
+  "id": "w2821",
+  "order": 2821,
+  "level": "B2",
+  "cyr": "приказивати",
+  "lat": "prikazivati",
+  "tr": "приказивати",
+  "ru": "показывать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Музеј приказује нову изложбу.",
+   "lat": "Muzej prikazuje novu izložbu.",
+   "ru": "Музей показывает новую выставку."
+  }
+ },
+ {
+  "id": "w2822",
+  "order": 2822,
+  "level": "B2",
+  "cyr": "вајар",
+  "lat": "vajar",
+  "tr": "вајар",
+  "ru": "ваятель; скульптор",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Вајар прави скулптуру од глине.",
+   "lat": "Vajar pravi skulpturu od gline.",
+   "ru": "Скульптор лепит скульптуру из глины."
+  }
+ },
+ {
+  "id": "w2823",
+  "order": 2823,
+  "level": "B2",
+  "cyr": "позајмица",
+  "lat": "pozajmica",
+  "tr": "позајмица",
+  "ru": "взаймы; библиотечный абонемент",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Позајмица књиге траје месец дана.",
+   "lat": "Pozajmica knjige traje mesec dana.",
+   "ru": "Срок возврата книги — один месяц."
+  }
+ },
+ {
+  "id": "w2824",
+  "order": 2824,
+  "level": "B2",
+  "cyr": "свод",
+  "lat": "svod",
+  "tr": "свод",
+  "ru": "свод; купол",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "m",
+  "ex": {
+   "cyr": "Архитект је пројектовао леп свод над улазом.",
+   "lat": "Arhitekt je projektovao lep svod nad ulazom.",
+   "ru": "Архитект спроектировал красивый свод над входом."
+  }
+ },
+ {
+  "id": "w2825",
+  "order": 2825,
+  "level": "B2",
+  "cyr": "дирљив",
+  "lat": "dirljiv",
+  "tr": "дирлив",
+  "ru": "волнующий; трогательный",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Ова песма је заиста дирљива.",
+   "lat": "Ova pesma je zaista dirljiva.",
+   "ru": "Эта песня действительно трогательная."
+  }
+ },
+ {
+  "id": "w2826",
+  "order": 2826,
+  "level": "B2",
+  "cyr": "апсурд",
+  "lat": "apsurd",
+  "tr": "апсурд",
+  "ru": "абсурд",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Цела ситуација је била потпуни апсурд.",
+   "lat": "Cela situacija je bila potpuni apsurd.",
+   "ru": "Вся ситуация была полным абсурдом."
+  }
+ },
+ {
+  "id": "w2827",
+  "order": 2827,
+  "level": "B2",
+  "cyr": "величати",
+  "lat": "veličati",
+  "tr": "величати",
+  "ru": "восхвалять; превозносить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Хроничар велича јунака у свом делу.",
+   "lat": "Hroničar veliča junaka u svom delu.",
+   "ru": "Хронист восхваляет героя в своём труде."
+  }
+ },
+ {
+  "id": "w2828",
+  "order": 2828,
+  "level": "B2",
+  "cyr": "жанровски",
+  "lat": "žanrovski",
+  "tr": "жанровски",
+  "ru": "жанровый; жанровый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Жанровски елементи су кључни за филмски жанр.",
+   "lat": "Žanrovski elementi su ključni za filmski žanr.",
+   "ru": "Жанровые элементы ключевы для киножанра."
+  }
+ },
+ {
+  "id": "w2829",
+  "order": 2829,
+  "level": "B2",
+  "cyr": "гледалац",
+  "lat": "gledalac",
+  "tr": "гледалац",
+  "ru": "зритель; зрительница",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гледалац аплаудира на крају филма.",
+   "lat": "Gledalac aplaudira na kraju filma.",
+   "ru": "Зрители аплодируют в конце фильма."
+  }
+ },
+ {
+  "id": "w2830",
+  "order": 2830,
+  "level": "B2",
+  "cyr": "дело",
+  "lat": "delo",
+  "tr": "дело",
+  "ru": "дело; дело",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ново дело захтева пуно пажње.",
+   "lat": "Novo delo zahteva puno pažnje.",
+   "ru": "Новое дело требует много внимания."
+  }
+ },
+ {
+  "id": "w2831",
+  "order": 2831,
+  "level": "B2",
+  "cyr": "синхронизовати",
+  "lat": "sinhronizovati",
+  "tr": "синхронизовати",
+  "ru": "синхронизировать; дублировать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Гласовни глумац синхронизује стране филмове.",
+   "lat": "Glasovni glumac sinhronizuje strane filmove.",
+   "ru": "Актер озвучивает иностранные фильмы."
+  }
+ },
+ {
+  "id": "w2832",
+  "order": 2832,
+  "level": "B2",
+  "cyr": "краљевић",
+  "lat": "kraljević",
+  "tr": "кралевич",
+  "ru": "королевич; принц",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Краљевић је отишао у потрагу за змајем.",
+   "lat": "Kraljević je otišao u potragu za zmajem.",
+   "ru": "Королевич отправился на поиски дракона."
+  }
+ },
+ {
+  "id": "w2833",
+  "order": 2833,
+  "level": "B2",
+  "cyr": "читаоница",
+  "lat": "čitaonica",
+  "tr": "читаоница",
+  "ru": "читальный зал",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Тишина у читаоници је веома важна.",
+   "lat": "Tišina u čitaonici je veoma važna.",
+   "ru": "Тишина в читальном зале очень важна."
+  }
+ },
+ {
+  "id": "w2834",
+  "order": 2834,
+  "level": "B2",
+  "cyr": "тврђава",
+  "lat": "tvrđava",
+  "tr": "тврджава",
+  "ru": "крепость; цитадель",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара тврђава је била центар града.",
+   "lat": "Stara tvrđava je bila centar grada.",
+   "ru": "Старая крепость была центром города."
+  }
+ },
+ {
+  "id": "w2835",
+  "order": 2835,
+  "level": "B2",
+  "cyr": "архива",
+  "lat": "arhiva",
+  "tr": "архива",
+  "ru": "архив; архивное учреждение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Историчари често траже материјале у државној архиви.",
+   "lat": "Istoričari često traže materijale u državnoj arhivi.",
+   "ru": "Историки часто ищут материалы в государственном архиве."
+  }
+ },
+ {
+  "id": "w2836",
+  "order": 2836,
+  "level": "B2",
+  "cyr": "гатати",
+  "lat": "gatati",
+  "tr": "гатати",
+  "ru": "гадать; пророчествовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Видовица је гатала из карата.",
+   "lat": "Vidovica je gatala iz karata.",
+   "ru": "Ведунья гадала на картах."
+  }
+ },
+ {
+  "id": "w2837",
+  "order": 2837,
+  "level": "B2",
+  "cyr": "издавачки",
+  "lat": "izdavački",
+  "tr": "издавачки",
+  "ru": "издательский",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Издавачки програм обухвата књиге свих жанрова.",
+   "lat": "Izdavački program obuhvata knjige svih žanrova.",
+   "ru": "Издательская программа включает книги всех жанров."
+  }
+ },
+ {
+  "id": "w2838",
+  "order": 2838,
+  "level": "B2",
+  "cyr": "гледалиште",
+  "lat": "gledalište",
+  "tr": "гледалиште",
+  "ru": "театр; зритель; представление",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "n",
+  "ex": {
+   "cyr": "Гледалиште је отворено за нову сезону.",
+   "lat": "Gledalište je otvoreno za novu sezonu.",
+   "ru": "Театр открывается для нового сезона."
+  }
+ },
+ {
+  "id": "w2839",
+  "order": 2839,
+  "level": "B2",
+  "cyr": "коректура",
+  "lat": "korektura",
+  "tr": "коректура",
+  "ru": "корректура; вычитка",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Коректура је најважнији део припреме књиге.",
+   "lat": "Korektura je najvažniji deo pripreme knjige.",
+   "ru": "Корректура — самая важная часть подготовки книги."
+  }
+ },
+ {
+  "id": "w2840",
+  "order": 2840,
+  "level": "B2",
+  "cyr": "титловати",
+  "lat": "titlovati",
+  "tr": "титловати",
+  "ru": "субтитрировать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Титловач додаје текст на филм.",
+   "lat": "Titlovač dodaje tekst na film.",
+   "ru": "Субтитровщик добавляет текст к фильму."
+  }
+ },
+ {
+  "id": "w2841",
+  "order": 2841,
+  "level": "B2",
+  "cyr": "патуљак",
+  "lat": "patuljak",
+  "tr": "патуляк",
+  "ru": "карлик; гном",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Патуљак је живео у шуми дуже време.",
+   "lat": "Patuljak je živeo u šumi duže vreme.",
+   "ru": "Карлик жил в лесу долгое время."
+  }
+ },
+ {
+  "id": "w2842",
+  "order": 2842,
+  "level": "B2",
+  "cyr": "неписмени",
+  "lat": "nepismeni",
+  "tr": "неписмени",
+  "ru": "неграмотный",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Неписмени сељани су тражили помоћ.",
+   "lat": "Nepismeni seljani su tražili pomoć.",
+   "ru": "Неграмотные крестьяне просили о помощи."
+  }
+ },
+ {
+  "id": "w2843",
+  "order": 2843,
+  "level": "B2",
+  "cyr": "торањ",
+  "lat": "toranj",
+  "tr": "торань",
+  "ru": "башня; шпиль",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "m",
+  "ex": {
+   "cyr": "Високи торањ доминира над хоризонтом.",
+   "lat": "Visoki toranj dominira nad horizontom.",
+   "ru": "Высокая башня доминирует над горизонтом."
+  }
+ },
+ {
+  "id": "w2844",
+  "order": 2844,
+  "level": "B2",
+  "cyr": "аукција",
+  "lat": "aukcija",
+  "tr": "аукција",
+  "ru": "аукцион; аукцион",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "На аукцију је стигла вредна слика.",
+   "lat": "Na aukciju je stigla vredna slika.",
+   "ru": "На аукцион поступила ценная картина."
+  }
+ },
+ {
+  "id": "w2845",
+  "order": 2845,
+  "level": "B2",
+  "cyr": "записати",
+  "lat": "zapisati",
+  "tr": "записати",
+  "ru": "записать; записать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Студент је записао важне напомене.",
+   "lat": "Student je zapisao važne napomene.",
+   "ru": "Студент записал важные заметки."
+  }
+ },
+ {
+  "id": "w2846",
+  "order": 2846,
+  "level": "B2",
+  "cyr": "изложбени",
+  "lat": "izložbeni",
+  "tr": "изложбени",
+  "ru": "выставочный; выставочный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Изложбени простор је велик и светлан.",
+   "lat": "Izložbeni prostor je velik i svetlan.",
+   "ru": "Выставочное пространство большое и светлое."
+  }
+ },
+ {
+  "id": "w2847",
+  "order": 2847,
+  "level": "B2",
+  "cyr": "гостовање",
+  "lat": "gostovanje",
+  "tr": "гостованье",
+  "ru": "гостевой концерт; выступление в гостях",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "n",
+  "ex": {
+   "cyr": "Гостовање бенда било је велики успех.",
+   "lat": "Gostovanje benda bilo je veliki uspeh.",
+   "ru": "Выступление группы в гостях было большим успехом."
+  }
+ },
+ {
+  "id": "w2848",
+  "order": 2848,
+  "level": "B2",
+  "cyr": "организатор",
+  "lat": "organizator",
+  "tr": "организатор",
+  "ru": "организатор",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Организатор је одговоран за цео догађај.",
+   "lat": "Organizator je odgovoran za ceo događaj.",
+   "ru": "Организатор отвечает за всё событие."
+  }
+ },
+ {
+  "id": "w2849",
+  "order": 2849,
+  "level": "B2",
+  "cyr": "монтажа",
+  "lat": "montaža",
+  "tr": "монтажа",
+  "ru": "монтаж",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Монтажа филма је најважнији део продукције.",
+   "lat": "Montaža filma je najvažniji deo produkcije.",
+   "ru": "Монтаж фильма — самая важная часть производства."
+  }
+ },
+ {
+  "id": "w2850",
+  "order": 2850,
+  "level": "B2",
+  "cyr": "јунак",
+  "lat": "junak",
+  "tr": "јунак",
+  "ru": "герой; протагонист",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Филмски јунак је победио зликовца.",
+   "lat": "Filmski junak je pobedio zlikovca.",
+   "ru": "Фильмовой герой победил злодея."
+  }
+ },
+ {
+  "id": "w2851",
+  "order": 2851,
+  "level": "B2",
+  "cyr": "писмени",
+  "lat": "pismeni",
+  "tr": "писмени",
+  "ru": "грамотный",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Писмени људи лакше проналазе посао.",
+   "lat": "Pismeni ljudi lakše pronalaze posao.",
+   "ru": "Грамотные люди легче находят работу."
+  }
+ },
+ {
+  "id": "w2852",
+  "order": 2852,
+  "level": "B2",
+  "cyr": "фасада",
+  "lat": "fasada",
+  "tr": "фасада",
+  "ru": "фасада; лицевая сторона",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара фасада зграде је реконструисана.",
+   "lat": "Stara fasada zgrade je rekonstruisana.",
+   "ru": "Фасада старого здания была реконструирована."
+  }
+ },
+ {
+  "id": "w2853",
+  "order": 2853,
+  "level": "B2",
+  "cyr": "аутобиографија",
+  "lat": "autobiografija",
+  "tr": "аутобиографија",
+  "ru": "автобиография",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Писац је објавио своју аутобиографију прошле године.",
+   "lat": "Pisac je objavio svoju autobiografiju prošle godine.",
+   "ru": "Писатель опубликовал свою автобиографию в прошлом году."
+  }
+ },
+ {
+  "id": "w2854",
+  "order": 2854,
+  "level": "B2",
+  "cyr": "издавати",
+  "lat": "izdavati",
+  "tr": "издавати",
+  "ru": "издавать; издавать (книги)",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Издавачка кућа издаје нову књигу сваке године.",
+   "lat": "Izdavačka kuća izdaje novu knjigu svake godine.",
+   "ru": "Издательство издаёт новую книгу каждый год."
+  }
+ },
+ {
+  "id": "w2855",
+  "order": 2855,
+  "level": "B2",
+  "cyr": "иронични",
+  "lat": "ironični",
+  "tr": "иронични",
+  "ru": "иронический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ироничан одговор је смушен у разговору.",
+   "lat": "Ironičan odgovor je smušen u razgovoru.",
+   "ru": "Ироничный ответ был вставлен в разговор."
+  }
+ },
+ {
+  "id": "w2856",
+  "order": 2856,
+  "level": "B2",
+  "cyr": "мјузикл",
+  "lat": "mjuzikl",
+  "tr": "мјузикл",
+  "ru": "мюзикл",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мјузикл је популаран код младих.",
+   "lat": "Mjuzikl je popularan kod mladih.",
+   "ru": "Мюзикл популярен у молодёжи."
+  }
+ },
+ {
+  "id": "w2857",
+  "order": 2857,
+  "level": "B2",
+  "cyr": "редакција",
+  "lat": "redakcija",
+  "tr": "редакција",
+  "ru": "редакция",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Уредник је предводио целу редакцију.",
+   "lat": "Urednik je predvodio celu redakciju.",
+   "ru": "Редактор возглавлял всю редакцию."
+  }
+ },
+ {
+  "id": "w2858",
+  "order": 2858,
+  "level": "B2",
+  "cyr": "синхронизација",
+  "lat": "sinhronizacija",
+  "tr": "синхронизација",
+  "ru": "синхронизация",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Глас је током синхронизација додат на филм.",
+   "lat": "Glas je tokom sinhronizacija dodat na film.",
+   "ru": "Голос во время синхронизации добавлен к фильму."
+  }
+ },
+ {
+  "id": "w2859",
+  "order": 2859,
+  "level": "B2",
+  "cyr": "ауторство",
+  "lat": "autorstvo",
+  "tr": "ауторство",
+  "ru": "авторство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ауторство књиге припада познатом писцу.",
+   "lat": "Autorstvo knjige pripada poznatom piscu.",
+   "ru": "Авторство книги принадлежит известному писателю."
+  }
+ },
+ {
+  "id": "w2860",
+  "order": 2860,
+  "level": "B2",
+  "cyr": "излагати",
+  "lat": "izlagati",
+  "tr": "излагати",
+  "ru": "излагать; изъяснять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Предавач излаже сложене концепте аудиторији.",
+   "lat": "Predavač izlaže složene koncepte auditoriji.",
+   "ru": "Лектор излагает сложные концепции аудитории."
+  }
+ },
+ {
+  "id": "w2861",
+  "order": 2861,
+  "level": "B2",
+  "cyr": "истакнут",
+  "lat": "istaknut",
+  "tr": "истакнут",
+  "ru": "выдающийся; заметный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Истакнути уметник је добио награду.",
+   "lat": "Istaknuti umetnik je dobio nagradu.",
+   "ru": "Выдающийся художник получил награду."
+  }
+ },
+ {
+  "id": "w2862",
+  "order": 2862,
+  "level": "B2",
+  "cyr": "пројекција",
+  "lat": "projekcija",
+  "tr": "пројекција",
+  "ru": "показ; демонстрация",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пројекција филма почиње у осам сати.",
+   "lat": "Projekcija filma počinje u osam sati.",
+   "ru": "Показ фильма начинается в восемь часов."
+  }
+ },
+ {
+  "id": "w2863",
+  "order": 2863,
+  "level": "B2",
+  "cyr": "штампарија",
+  "lat": "štamparija",
+  "tr": "штампарија",
+  "ru": "типография; печатня",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Штампарија ради сваког дана до касно ноћи.",
+   "lat": "Štamparija radi svakog dana do kasno noći.",
+   "ru": "Типография работает каждый день до поздней ночи."
+  }
+ },
+ {
+  "id": "w2864",
+  "order": 2864,
+  "level": "B2",
+  "cyr": "ћирилични",
+  "lat": "ćirilični",
+  "tr": "чирилични",
+  "ru": "кириллический",
+  "pos": "adj",
+  "cat": "tech",
+  "ex": {
+   "cyr": "Коришћени су ћирилични знаци.",
+   "lat": "Korišćeni su ćirilični znaci.",
+   "ru": "Используются кириллические символы."
+  }
+ },
+ {
+  "id": "w2865",
+  "order": 2865,
+  "level": "B2",
+  "cyr": "балада",
+  "lat": "balada",
+  "tr": "балада",
+  "ru": "баллада",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Она је певала тужну баладу о љубави.",
+   "lat": "Ona je pevala tužnu baladu o ljubavi.",
+   "ru": "Она пела грустную балладу о любви."
+  }
+ },
+ {
+  "id": "w2866",
+  "order": 2866,
+  "level": "B2",
+  "cyr": "илустровати",
+  "lat": "ilustrovati",
+  "tr": "илустровати",
+  "ru": "иллюстрировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Уметник ће илустровати нову књигу за децу.",
+   "lat": "Umetnik će ilustrovati novu knjigu za decu.",
+   "ru": "Художник проиллюстрирует новую книгу для детей."
+  }
+ },
+ {
+  "id": "w2867",
+  "order": 2867,
+  "level": "B2",
+  "cyr": "класичан",
+  "lat": "klasičan",
+  "tr": "класичан",
+  "ru": "классический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Класична музика се свира у концертној сали.",
+   "lat": "Klasična muzika se svira u koncertnoj sali.",
+   "ru": "Классическая музыка исполняется в концертном зале."
+  }
+ },
+ {
+  "id": "w2868",
+  "order": 2868,
+  "level": "B2",
+  "cyr": "сликарство",
+  "lat": "slikarstvo",
+  "tr": "сликарство",
+  "ru": "живопись",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "n",
+  "ex": {
+   "cyr": "Сликарство је лепа уметност.",
+   "lat": "Slikarstvo je lepa umetnost.",
+   "ru": "Живопись — это изобразительное искусство."
+  }
+ },
+ {
+  "id": "w2869",
+  "order": 2869,
+  "level": "B2",
+  "cyr": "басна",
+  "lat": "basna",
+  "tr": "басна",
+  "ru": "басня; басенный",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "У басни животиње говоре као људи.",
+   "lat": "U basni životinje govore kao ljudi.",
+   "ru": "В басне животные говорят как люди."
+  }
+ },
+ {
+  "id": "w2870",
+  "order": 2870,
+  "level": "B2",
+  "cyr": "казивати",
+  "lat": "kazivati",
+  "tr": "казивати",
+  "ru": "указывать; повелевать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Учитељ је казивао ученицима да тишине.",
+   "lat": "Učitelj je kazivao učenicima da tišine.",
+   "ru": "Учитель велел ученикам соблюдать тишину."
+  }
+ },
+ {
+  "id": "w2871",
+  "order": 2871,
+  "level": "B2",
+  "cyr": "књижевни",
+  "lat": "književni",
+  "tr": "книжевни",
+  "ru": "литературный; книжный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Књижевни критичар је написао оштру рецензију.",
+   "lat": "Književni kritičar je napisao oštru recenziju.",
+   "ru": "Литературный критик написал резкую рецензию."
+  }
+ },
+ {
+  "id": "w2872",
+  "order": 2872,
+  "level": "B2",
+  "cyr": "спектакл",
+  "lat": "spektakl",
+  "tr": "спектакл",
+  "ru": "спектакль; представление",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тај спектакл је био најбољи ове сезоне.",
+   "lat": "Taj spektakl je bio najbolji ove sezone.",
+   "ru": "Тот спектакль был лучшим в этом сезоне."
+  }
+ },
+ {
+  "id": "w2873",
+  "order": 2873,
+  "level": "B2",
+  "cyr": "баштина",
+  "lat": "baština",
+  "tr": "баштина",
+  "ru": "наследие; наследство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова књига је породична баштина.",
+   "lat": "Ova knjiga je porodična baština.",
+   "ru": "Эта книга — семейное наследие."
+  }
+ },
+ {
+  "id": "w2874",
+  "order": 2874,
+  "level": "B2",
+  "cyr": "кориговати",
+  "lat": "korigovati",
+  "tr": "кориговати",
+  "ru": "корректировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Уредник коригује граматичке грешке у чланку.",
+   "lat": "Urednik koriguje gramatičke greške u članku.",
+   "ru": "Редактор исправляет грамматические ошибки в статье."
+  }
+ },
+ {
+  "id": "w2875",
+  "order": 2875,
+  "level": "B2",
+  "cyr": "лирски",
+  "lat": "lirski",
+  "tr": "лирски",
+  "ru": "лирический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Лирски песник пева о љубави и природи.",
+   "lat": "Lirski pesnik peva o ljubavi i prirodi.",
+   "ru": "Лирический поёт о любви и природе."
+  }
+ },
+ {
+  "id": "w2876",
+  "order": 2876,
+  "level": "B2",
+  "cyr": "бајковит",
+  "lat": "bajkovit",
+  "tr": "бајковит",
+  "ru": "сказочный; волшебный",
+  "pos": "adj",
+  "cat": "leisure",
+  "ex": {
+   "cyr": "Бајковит пејзазар је био пре диван.",
+   "lat": "Bajkovit pejzazar je bio pre divan.",
+   "ru": "Сказочный пейзаж был просто дивен."
+  }
+ },
+ {
+  "id": "w2877",
+  "order": 2877,
+  "level": "B2",
+  "cyr": "бајка",
+  "lat": "bajka",
+  "tr": "бајка",
+  "ru": "сказка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Деца воле да слушају бајке пре спавања.",
+   "lat": "Deca vole da slušaju bajke pre spavanja.",
+   "ru": "Дети любят слушать сказки перед сном."
+  }
+ },
+ {
+  "id": "w2878",
+  "order": 2878,
+  "level": "B2",
+  "cyr": "критиковати",
+  "lat": "kritikovati",
+  "tr": "критиковати",
+  "ru": "критиковать; осуждать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Професор критикује лош квалитет рада студента.",
+   "lat": "Profesor kritikuje loš kvalitet rada studenta.",
+   "ru": "Профессор критикует плохое качество работы студента."
+  }
+ },
+ {
+  "id": "w2879",
+  "order": 2879,
+  "level": "B2",
+  "cyr": "литерарни",
+  "lat": "literarni",
+  "tr": "литерарни",
+  "ru": "литературный; книжный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Овај књижевни часопис има литерарни додатак.",
+   "lat": "Ovaj književni časopis ima literarni dodatak.",
+   "ru": "Этот литературный журнал имеет литературное приложение."
+  }
+ },
+ {
+  "id": "w2880",
+  "order": 2880,
+  "level": "B2",
+  "cyr": "позоришни",
+  "lat": "pozorišni",
+  "tr": "позоришни",
+  "ru": "театральный; сценический",
+  "pos": "adj",
+  "cat": "leisure",
+  "ex": {
+   "cyr": "Позоришна представа је одржана у центру града.",
+   "lat": "Pozorišna predstava je održana u centru grada.",
+   "ru": "Театральное представление состоялось в центре города."
+  }
+ },
+ {
+  "id": "w2881",
+  "order": 2881,
+  "level": "B2",
+  "cyr": "белетристика",
+  "lat": "beletristika",
+  "tr": "белетристика",
+  "ru": "беллетристика; художественная литература",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова белетристика је врло занимљива.",
+   "lat": "Ova beletristika je vrlo zanimljiva.",
+   "ru": "Эта беллетристика очень интересна."
+  }
+ },
+ {
+  "id": "w2882",
+  "order": 2882,
+  "level": "B2",
+  "cyr": "наводити",
+  "lat": "navoditi",
+  "tr": "наводити",
+  "ru": "приводить (примеры); ссылаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Аутор наводи многе реалне примере у књизи.",
+   "lat": "Autor navodi mnoge realne primere u knjizi.",
+   "ru": "Автор приводит много реальных примеров в книге."
+  }
+ },
+ {
+  "id": "w2883",
+  "order": 2883,
+  "level": "B2",
+  "cyr": "магичан",
+  "lat": "magičan",
+  "tr": "магичан",
+  "ru": "магический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Магичан момент зачињава читав спектакл.",
+   "lat": "Magičan moment začinjava čitav spektakl.",
+   "ru": "Магический момент оживляет всё представление."
+  }
+ },
+ {
+  "id": "w2884",
+  "order": 2884,
+  "level": "B2",
+  "cyr": "спектакуларан",
+  "lat": "spektakularan",
+  "tr": "спектакуларан",
+  "ru": "спектакльный; эффектный",
+  "pos": "adj",
+  "cat": "leisure",
+  "ex": {
+   "cyr": "Спектакуларан пад сунца је импресионирао туристе.",
+   "lat": "Spektakularan pad sunca je impresionirao turiste.",
+   "ru": "Эффектный закат впечатлил туристов."
+  }
+ },
+ {
+  "id": "w2885",
+  "order": 2885,
+  "level": "B2",
+  "cyr": "биографија",
+  "lat": "biografija",
+  "tr": "биографија",
+  "ru": "биография",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Професор је написао биографију славног научника.",
+   "lat": "Profesor je napisao biografiju slavnog naučnika.",
+   "ru": "Профессор написал биографию известного ученого."
+  }
+ },
+ {
+  "id": "w2886",
+  "order": 2886,
+  "level": "B2",
+  "cyr": "надахнути",
+  "lat": "nadahnuti",
+  "tr": "надахнути",
+  "ru": "вдохновить; воодушевить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Уметник је надахнут природом.",
+   "lat": "Umetnik je nadahnut prirodom.",
+   "ru": "Художник вдохновлён природой."
+  }
+ },
+ {
+  "id": "w2887",
+  "order": 2887,
+  "level": "B2",
+  "cyr": "нечитљив",
+  "lat": "nečitljiv",
+  "tr": "нечитлив",
+  "ru": "неразборчивый; нечитаемый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Нечитљиво писмо је било на папиру.",
+   "lat": "Nečitljivo pismo je bilo na papiru.",
+   "ru": "Неразборчивый почерк был на бумаге."
+  }
+ },
+ {
+  "id": "w2888",
+  "order": 2888,
+  "level": "B2",
+  "cyr": "брзалица",
+  "lat": "brzalica",
+  "tr": "брзалица",
+  "ru": "спешка; торопливость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Брзалица га је натерала да заборави кључеве.",
+   "lat": "Brzalica ga je naterala da zaboravi ključeve.",
+   "ru": "Спешка заставила его забыть ключи."
+  }
+ },
+ {
+  "id": "w2889",
+  "order": 2889,
+  "level": "B2",
+  "cyr": "наследити",
+  "lat": "naslediti",
+  "tr": "наследити",
+  "ru": "унаследовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Она је наследила кућу од своје баке.",
+   "lat": "Ona je nasledila kuću od svoje bake.",
+   "ru": "Она унаследовала дом от своей бабушки."
+  }
+ },
+ {
+  "id": "w2890",
+  "order": 2890,
+  "level": "B2",
+  "cyr": "обиман",
+  "lat": "obiman",
+  "tr": "обиман",
+  "ru": "обширный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Написао је обиман чланак.",
+   "lat": "Napisao je obiman članak.",
+   "ru": "Он написал обширную статью."
+  }
+ },
+ {
+  "id": "w2891",
+  "order": 2891,
+  "level": "B2",
+  "cyr": "вампир",
+  "lat": "vampir",
+  "tr": "вампир",
+  "ru": "вампир",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Девојка се боји вампира из филма.",
+   "lat": "Devojka se boji vampira iz filma.",
+   "ru": "Девушка боится вампира из фильма."
+  }
+ },
+ {
+  "id": "w2892",
+  "order": 2892,
+  "level": "B2",
+  "cyr": "номиновати",
+  "lat": "nominovati",
+  "tr": "номиновати",
+  "ru": "номинировать; выдвигать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Жири је номиновао три филма.",
+   "lat": "Žiri je nominovao tri filma.",
+   "ru": "Жюри номинировало три фильма."
+  }
+ },
+ {
+  "id": "w2893",
+  "order": 2893,
+  "level": "B2",
+  "cyr": "оригиналан",
+  "lat": "originalan",
+  "tr": "оригиналан",
+  "ru": "оригинальный; нешаблонный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Оригинална идеја је најбоља за представу.",
+   "lat": "Originalna ideja je najbolja za predstavu.",
+   "ru": "Оригинальная идея — лучшая для постановки."
+  }
+ },
+ {
+  "id": "w2894",
+  "order": 2894,
+  "level": "B2",
+  "cyr": "веровање",
+  "lat": "verovanje",
+  "tr": "верованье",
+  "ru": "убеждение; верование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Његово веровање у успех га је одржавало.",
+   "lat": "Njegovo verovanje u uspeh ga je održavalo.",
+   "ru": "Его вера в успех его поддерживала."
+  }
+ },
+ {
+  "id": "w2895",
+  "order": 2895,
+  "level": "B2",
+  "cyr": "обликовати",
+  "lat": "oblikovati",
+  "tr": "обликовати",
+  "ru": "формировать; создавать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Уметник обликује глинену фигуру.",
+   "lat": "Umetnik oblikuje glinenu figuru.",
+   "ru": "Художник формирует глиняную фигуру."
+  }
+ },
+ {
+  "id": "w2896",
+  "order": 2896,
+  "level": "B2",
+  "cyr": "песнички",
+  "lat": "pesnički",
+  "tr": "песнички",
+  "ru": "поэтический; стихотворный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Песнички језик је често метафоричан и сажет.",
+   "lat": "Pesnički jezik je često metaforičan i sažet.",
+   "ru": "Поэтический язык часто метафоричен и лаконичен."
+  }
+ },
+ {
+  "id": "w2897",
+  "order": 2897,
+  "level": "B2",
+  "cyr": "вештица",
+  "lat": "veštica",
+  "tr": "вештица",
+  "ru": "ведьма; колдунья",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Девојка је у игри представљала вештицу.",
+   "lat": "Devojka je u igri predstavljala vešticu.",
+   "ru": "Девушка в игре изображала ведьму."
+  }
+ },
+ {
+  "id": "w2898",
+  "order": 2898,
+  "level": "B2",
+  "cyr": "обнављати",
+  "lat": "obnavljati",
+  "tr": "обнавляти",
+  "ru": "обновлять; восстанавливать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Тим обнавља стару зграду.",
+   "lat": "Tim obnavlja staru zgradu.",
+   "ru": "Команда обновляет старое здание."
+  }
+ },
+ {
+  "id": "w2899",
+  "order": 2899,
+  "level": "B2",
+  "cyr": "поетски",
+  "lat": "poetski",
+  "tr": "поетски",
+  "ru": "поэтический; лирический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Поетски опис природе оставио је дубоки утисак.",
+   "lat": "Poetski opis prirode ostavio je duboki utisak.",
+   "ru": "Поэтическое описание природы оставило глубокое впечатление."
+  }
+ },
+ {
+  "id": "w2900",
+  "order": 2900,
+  "level": "B2",
+  "cyr": "витез",
+  "lat": "vitez",
+  "tr": "витез",
+  "ru": "рыцарь; кавалер",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Храбри витез је штитио град.",
+   "lat": "Hrabri vitez je štitio grad.",
+   "ru": "Храбрый рыцарь защищал город."
+  }
+ },
+ {
+  "id": "w2901",
+  "order": 2901,
+  "level": "B2",
+  "cyr": "обрадити",
+  "lat": "obraditi",
+  "tr": "обрадити",
+  "ru": "обработать; обрадовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Пољопривредник обради земљу за сејање.",
+   "lat": "Poljoprivrednik obradi zemlju za sejanje.",
+   "ru": "Фермер обработает землю для посева."
+  }
+ },
+ {
+  "id": "w2902",
+  "order": 2902,
+  "level": "B2",
+  "cyr": "реалистичан",
+  "lat": "realističan",
+  "tr": "реалистичан",
+  "ru": "реалистичный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Реалистичан филм приказује стварни живот.",
+   "lat": "Realističan film prikazuje stvarni život.",
+   "ru": "Реалистичный фильм показывает реальную жизнь."
+  }
+ },
+ {
+  "id": "w2903",
+  "order": 2903,
+  "level": "B2",
+  "cyr": "вукодлак",
+  "lat": "vukodlak",
+  "tr": "вукодлак",
+  "ru": "оборотень; волк",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Старији брат се претворио у вукодлака.",
+   "lat": "Stariji brat se pretvorio u vukodlaka.",
+   "ru": "Старший брат превратился в оборотня."
+  }
+ },
+ {
+  "id": "w2904",
+  "order": 2904,
+  "level": "B2",
+  "cyr": "одликовати",
+  "lat": "odlikovati",
+  "tr": "одликовати",
+  "ru": "наградить; отметить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Председник је одликовао хероја.",
+   "lat": "Predsednik je odlikovao heroja.",
+   "ru": "Президент наградил героя."
+  }
+ },
+ {
+  "id": "w2905",
+  "order": 2905,
+  "level": "B2",
+  "cyr": "стилски",
+  "lat": "stilski",
+  "tr": "стилски",
+  "ru": "стилистический; стилистический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Стилски анализи откривају ауторски рукопис.",
+   "lat": "Stilski analizi otkrivaju autorski rukopis.",
+   "ru": "Стилистические анализ раскрывают авторский почерк."
+  }
+ },
+ {
+  "id": "w2906",
+  "order": 2906,
+  "level": "B2",
+  "cyr": "гравура",
+  "lat": "gravura",
+  "tr": "гравура",
+  "ru": "гравюра",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Гравура на дрвету је стара техника.",
+   "lat": "Gravura na drvetu je stara tehnika.",
+   "ru": "Гравюра на дереве — старая техника."
+  }
+ },
+ {
+  "id": "w2907",
+  "order": 2907,
+  "level": "B2",
+  "cyr": "означавати",
+  "lat": "označavati",
+  "tr": "означавати",
+  "ru": "означать; означать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Овај знак означава улаз у забрањену зону.",
+   "lat": "Ovaj znak označava ulaz u zabranjenu zonu.",
+   "ru": "Этот знак обозначает вход в запретную зону."
+  }
+ },
+ {
+  "id": "w2908",
+  "order": 2908,
+  "level": "B2",
+  "cyr": "стиховни",
+  "lat": "stihovni",
+  "tr": "стиховни",
+  "ru": "стихотворный; поэтический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Стиховни конкурс је одржан у градској библиотеци.",
+   "lat": "Stihovni konkurs je održan u gradskoj biblioteci.",
+   "ru": "Стихотворный конкурс был проведен в городской библиотеке."
+  }
+ },
+ {
+  "id": "w2909",
+  "order": 2909,
+  "level": "B2",
+  "cyr": "графика",
+  "lat": "grafika",
+  "tr": "графика",
+  "ru": "графика",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Она је купила графику познатог уметника.",
+   "lat": "Ona je kupila grafiku poznatog umetnika.",
+   "ru": "Она купила графику известного художника."
+  }
+ },
+ {
+  "id": "w2910",
+  "order": 2910,
+  "level": "B2",
+  "cyr": "отелотворити",
+  "lat": "otelotvoriti",
+  "tr": "отелотворити",
+  "ru": "воплотить; олицетворить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Глумац је успео да отелотвори лик.",
+   "lat": "Glumac je uspeo da otelotvori lik.",
+   "ru": "Актёру удалось воплотить персонажа."
+  }
+ },
+ {
+  "id": "w2911",
+  "order": 2911,
+  "level": "B2",
+  "cyr": "уметнички",
+  "lat": "umetnički",
+  "tr": "уметнички",
+  "ru": "художественный; артистический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ова галерија приказује уметничке радове.",
+   "lat": "Ova galerija prikazuje umetničke radove.",
+   "ru": "Эта галерея показывает художественные работы."
+  }
+ },
+ {
+  "id": "w2912",
+  "order": 2912,
+  "level": "B2",
+  "cyr": "гротеска",
+  "lat": "groteska",
+  "tr": "гротеска",
+  "ru": "гротеск",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "У роману се јавља гротеска.",
+   "lat": "U romanu se javlja groteska.",
+   "ru": "В романе встречается гротеск."
+  }
+ },
+ {
+  "id": "w2913",
+  "order": 2913,
+  "level": "B2",
+  "cyr": "очувати",
+  "lat": "očuvati",
+  "tr": "очувати",
+  "ru": "сохранять; оберегать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Музеј очува древну књигу за будуће генерације.",
+   "lat": "Muzej očuva drevnu knjigu za buduće generacije.",
+   "ru": "Музей сохранит древнюю книгу для будущих поколений."
+  }
+ },
+ {
+  "id": "w2914",
+  "order": 2914,
+  "level": "B2",
+  "cyr": "усмен",
+  "lat": "usmen",
+  "tr": "усмен",
+  "ru": "устный; словесный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Усна традиција сачувала је многе приче.",
+   "lat": "Usna tradicija sačuvala je mnoge priče.",
+   "ru": "Устная традиция сохранила многие истории."
+  }
+ },
+ {
+  "id": "w2915",
+  "order": 2915,
+  "level": "B2",
+  "cyr": "добитник",
+  "lat": "dobitnik",
+  "tr": "добитник",
+  "ru": "лауреат; обладатель; победитель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Добитник награде је млађи уметник.",
+   "lat": "Dobitnik nagrade je mlađi umetnik.",
+   "ru": "Лауреат премии — молодой художник."
+  }
+ },
+ {
+  "id": "w2916",
+  "order": 2916,
+  "level": "B2",
+  "cyr": "повезати",
+  "lat": "povezati",
+  "tr": "повезати",
+  "ru": "связать; соединить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Полиција повезује двојицу осумњичених.",
+   "lat": "Policija povezuje dvojicu osumnjičenih.",
+   "ru": "Полиция связывает двоих подозреваемых."
+  }
+ },
+ {
+  "id": "w2917",
+  "order": 2917,
+  "level": "B2",
+  "cyr": "хумористички",
+  "lat": "humoristički",
+  "tr": "хумористички",
+  "ru": "юмористический; комедийный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Хумористичка књига прича смешне приче.",
+   "lat": "Humoristička knjiga priča smešne priče.",
+   "ru": "Юмористическая книга рассказывает смешные истории."
+  }
+ },
+ {
+  "id": "w2918",
+  "order": 2918,
+  "level": "B2",
+  "cyr": "драматург",
+  "lat": "dramaturg",
+  "tr": "драматург",
+  "ru": "драматург",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Драматургија је најважнији део представе.",
+   "lat": "Dramaturgija je najvažniji deo predstave.",
+   "ru": "Драматургия — самая важная часть пьесы."
+  }
+ },
+ {
+  "id": "w2919",
+  "order": 2919,
+  "level": "B2",
+  "cyr": "подвлачити",
+  "lat": "podvlačiti",
+  "tr": "подвлачити",
+  "ru": "подчеркивать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Студент подвлачи кључне речи у тексту.",
+   "lat": "Student podvlači ključne reči u tekstu.",
+   "ru": "Студент подчеркивает ключевые слова в тексте."
+  }
+ },
+ {
+  "id": "w2920",
+  "order": 2920,
+  "level": "B2",
+  "cyr": "читљив",
+  "lat": "čitljiv",
+  "tr": "читлив",
+  "ru": "читабельный; разборчивый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Његов рукопис је врло читљив.",
+   "lat": "Njegov rukopis je vrlo čitljiv.",
+   "ru": "Его рукопись очень читабельна."
+  }
+ },
+ {
+  "id": "w2921",
+  "order": 2921,
+  "level": "B2",
+  "cyr": "драматургија",
+  "lat": "dramaturgija",
+  "tr": "драматургија",
+  "ru": "драматургия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Добра драматургија је срце позоришне представе.",
+   "lat": "Dobra dramaturgija je srce pozorišne predstave.",
+   "ru": "Хорошая драматургия — это сердце театральной постановки."
+  }
+ },
+ {
+  "id": "w2922",
+  "order": 2922,
+  "level": "B2",
+  "cyr": "прелиставати",
+  "lat": "prelistavati",
+  "tr": "прелиставати",
+  "ru": "перелистывать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Дечја књига има илустрације које се прелиставају.",
+   "lat": "Dečja knjiga ima ilustracije koje se prelistavaju.",
+   "ru": "Детская книга иллюстрации, которые перелистываются."
+  }
+ },
+ {
+  "id": "w2923",
+  "order": 2923,
+  "level": "B2",
+  "cyr": "аматерски",
+  "lat": "amaterski",
+  "tr": "аматерски",
+  "ru": "любительский; непрофессиональный",
+  "pos": "adv",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Она је аматерски певала на друштвеној приредби.",
+   "lat": "Ona je amaterski pevala na društvenoj priredbi.",
+   "ru": "Она пела любительски на вечеринке."
+  }
+ },
+ {
+  "id": "w2924",
+  "order": 2924,
+  "level": "B2",
+  "cyr": "дублер",
+  "lat": "dubler",
+  "tr": "дублер",
+  "ru": "дублер",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дублер је изводио опасне сцене.",
+   "lat": "Dubler je izvodio opasne scene.",
+   "ru": "Дублер выполнял опасные сцены."
+  }
+ },
+ {
+  "id": "w2925",
+  "order": 2925,
+  "level": "B2",
+  "cyr": "прикупљати",
+  "lat": "prikupljati",
+  "tr": "прикупляти",
+  "ru": "собирать; копить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Тај прикупља новац за хуманитарну акцију.",
+   "lat": "Taj prikuplja novac za humanitarnu akciju.",
+   "ru": "Он собирает деньги на благотворительную акцию."
+  }
+ },
+ {
+  "id": "w2926",
+  "order": 2926,
+  "level": "B2",
+  "cyr": "еп",
+  "lat": "ep",
+  "tr": "еп",
+  "ru": "эпос; эпическое произведение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Он чита српски еп о јунацима.",
+   "lat": "On čita srpski ep o junacima.",
+   "ru": "Он читает сербский эпос о героях."
+  }
+ },
+ {
+  "id": "w2927",
+  "order": 2927,
+  "level": "B2",
+  "cyr": "приповедати",
+  "lat": "pripovedati",
+  "tr": "приповедати",
+  "ru": "рассказывать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Старац је приповедао о својим млађим годинама.",
+   "lat": "Starac je pripovedao o svojim mladjim godinama.",
+   "ru": "Старик рассказывал о своих молодых годах."
+  }
+ },
+ {
+  "id": "w2928",
+  "order": 2928,
+  "level": "B2",
+  "cyr": "епилог",
+  "lat": "epilog",
+  "tr": "епилог",
+  "ru": "эпилог; заключение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Епилог филма показује судбину ликова.",
+   "lat": "Epilog filma pokazuje sudbinu likova.",
+   "ru": "Эпилог фильма показывает судьбу персонажей."
+  }
+ },
+ {
+  "id": "w2929",
+  "order": 2929,
+  "level": "B2",
+  "cyr": "присуствовати",
+  "lat": "prisustvovati",
+  "tr": "присуствовати",
+  "ru": "присутствовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Моја сестра је присуствовала конференцији.",
+   "lat": "Moja sestra je prisustvovala konferenciji.",
+   "ru": "Моя сестра присутствовала на конференции."
+  }
+ },
+ {
+  "id": "w2930",
+  "order": 2930,
+  "level": "B2",
+  "cyr": "есеј",
+  "lat": "esej",
+  "tr": "есеј",
+  "ru": "эссе",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Професор је захтевао есеј о овој књизи.",
+   "lat": "Profesor je zahtevao esej o ovoj knjizi.",
+   "ru": "Профессор потребовал эссе об этой книге."
+  }
+ },
+ {
+  "id": "w2931",
+  "order": 2931,
+  "level": "B2",
+  "cyr": "прогласити",
+  "lat": "proglasiti",
+  "tr": "прогласити",
+  "ru": "провозгласить; объявить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Скупштина је прогласила независност.",
+   "lat": "Skupština je proglasila nezavisnost.",
+   "ru": "Собрание провозгласило независимость."
+  }
+ },
+ {
+  "id": "w2932",
+  "order": 2932,
+  "level": "B2",
+  "cyr": "жанр",
+  "lat": "žanr",
+  "tr": "жанр",
+  "ru": "жанр",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај филм припада криминалном жанру.",
+   "lat": "Ovaj film pripada kriminalnom žanru.",
+   "ru": "Этот фильм относится к криминальному жанру."
+  }
+ },
+ {
+  "id": "w2933",
+  "order": 2933,
+  "level": "B2",
+  "cyr": "пројектовати",
+  "lat": "projektovati",
+  "tr": "пројектовати",
+  "ru": "проектировать; планировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Инжењери пројектују нови мост.",
+   "lat": "Inženjeri projektuju novi most.",
+   "ru": "Инженеры проектируют новый мост."
+  }
+ },
+ {
+  "id": "w2934",
+  "order": 2934,
+  "level": "B2",
+  "cyr": "жири",
+  "lat": "žiri",
+  "tr": "жири",
+  "ru": "жюри; судьи",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Жири одлучује о победнику такмичења.",
+   "lat": "Žiri odlučuje o pobedniku takmičenja.",
+   "ru": "Жюри решает победителя конкурса."
+  }
+ },
+ {
+  "id": "w2935",
+  "order": 2935,
+  "level": "B2",
+  "cyr": "рестаурирати",
+  "lat": "restaurirati",
+  "tr": "рестаурирати",
+  "ru": "реставрировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Стручњаци рестаурирају стару фреску.",
+   "lat": "Stručnjaci restauriraju staru fresku.",
+   "ru": "Специалисты реставрируют старую фреску."
+  }
+ },
+ {
+  "id": "w2936",
+  "order": 2936,
+  "level": "B2",
+  "cyr": "загонетка",
+  "lat": "zagonetka",
+  "tr": "загонетка",
+  "ru": "загадка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Деца решавају загонетке на забави.",
+   "lat": "Deca rešavaju zagonetke na zabavi.",
+   "ru": "Дети решают загадки на вечеринке."
+  }
+ },
+ {
+  "id": "w2937",
+  "order": 2937,
+  "level": "B2",
+  "cyr": "рецензирати",
+  "lat": "recenzirati",
+  "tr": "рецензирати",
+  "ru": "рецензировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Књижевни критичар рецензира нови роман.",
+   "lat": "Književni kritičar recenzira novi roman.",
+   "ru": "Литературный критик рецензирует новый роман."
+  }
+ },
+ {
+  "id": "w2938",
+  "order": 2938,
+  "level": "B2",
+  "cyr": "заплет",
+  "lat": "zaplet",
+  "tr": "заплет",
+  "ru": "завязка; запутанность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Заплет у роману је веома занимљив.",
+   "lat": "Zaplet u romanu je veoma zanimljiv.",
+   "ru": "Завязка в романе очень интересна."
+  }
+ },
+ {
+  "id": "w2939",
+  "order": 2939,
+  "level": "B2",
+  "cyr": "рецитовати",
+  "lat": "recitovati",
+  "tr": "рецитовати",
+  "ru": "декламировать; читать наизусть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Студент рецује песму пред класом.",
+   "lat": "Student recuje pesmu pred klasom.",
+   "ru": "Студент декламирует стихотворение перед классом."
+  }
+ },
+ {
+  "id": "w2940",
+  "order": 2940,
+  "level": "B2",
+  "cyr": "збирка",
+  "lat": "zbirka",
+  "tr": "збирка",
+  "ru": "сборник; коллекция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова збирка прича је веома популарна.",
+   "lat": "Ova zbirka priča je veoma popularna.",
+   "ru": "Этот сборник историй очень популярен."
+  }
+ },
+ {
+  "id": "w2941",
+  "order": 2941,
+  "level": "B2",
+  "cyr": "римовати",
+  "lat": "rimovati",
+  "tr": "римовати",
+  "ru": "рифмовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Песник римује речи за нову песму.",
+   "lat": "Pesnik rimuje reči za novu pesmu.",
+   "ru": "Поэт рифмует слова для новой песни."
+  }
+ },
+ {
+  "id": "w2942",
+  "order": 2942,
+  "level": "B2",
+  "cyr": "змај",
+  "lat": "zmaj",
+  "tr": "змај",
+  "ru": "дракон; змей",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дечије приче увек говоре о змају.",
+   "lat": "Dečije priče uvek govore o zmaju.",
+   "ru": "Детские истории всегда рассказывают о драконе."
+  }
+ },
+ {
+  "id": "w2943",
+  "order": 2943,
+  "level": "B2",
+  "cyr": "скицирати",
+  "lat": "skicirati",
+  "tr": "скицирати",
+  "ru": "делать набросок; набрасывать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Уметник скицира пејзаж у свом дневнику.",
+   "lat": "Umetnik skicira pejzaž u svom dnevniku.",
+   "ru": "Художник делает набросок пейзажа в своём дневнике."
+  }
+ },
+ {
+  "id": "w2944",
+  "order": 2944,
+  "level": "B2",
+  "cyr": "издавач",
+  "lat": "izdavač",
+  "tr": "издавач",
+  "ru": "издатель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Издавач је одлучио да објави нову књигу.",
+   "lat": "Izdavač je odlučio da objavi novu knjigu.",
+   "ru": "Издатель решил опубликовать новую книгу."
+  }
+ },
+ {
+  "id": "w2945",
+  "order": 2945,
+  "level": "B2",
+  "cyr": "сликати",
+  "lat": "slikati",
+  "tr": "сликати",
+  "ru": "рисовать; писать (картины)",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Она слика пејзаже у слободно време.",
+   "lat": "Ona slika pejzaže u slobodno vreme.",
+   "ru": "Она рисует пейзажи в свободное время."
+  }
+ },
+ {
+  "id": "w2946",
+  "order": 2946,
+  "level": "B2",
+  "cyr": "издаваштво",
+  "lat": "izdavaštvo",
+  "tr": "издаваштво",
+  "ru": "издательское дело",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Издаваштво захтева доста знања о маркетингу.",
+   "lat": "Izdavaštvo zahteva dosta znanja o marketingu.",
+   "ru": "Издательское дело требует много знаний о маркетинге."
+  }
+ },
+ {
+  "id": "w2947",
+  "order": 2947,
+  "level": "B2",
+  "cyr": "уметнути",
+  "lat": "umetnuti",
+  "tr": "уметнути",
+  "ru": "вставить; втиснуть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Уметник умеће реч у стих.",
+   "lat": "Umetnik umeće reč u stih.",
+   "ru": "Поэт втискивает слово в стихотворение."
+  }
+ },
+ {
+  "id": "w2948",
+  "order": 2948,
+  "level": "B2",
+  "cyr": "изрека",
+  "lat": "izreka",
+  "tr": "изрека",
+  "ru": "пословица; изречение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара изрека каже да је труд плодан.",
+   "lat": "Stara izreka kaže da je trud plodan.",
+   "ru": "Старая пословица гласит, что труд плодовит."
+  }
+ },
+ {
+  "id": "w2949",
+  "order": 2949,
+  "level": "B2",
+  "cyr": "уређивати",
+  "lat": "uređivati",
+  "tr": "уредживати",
+  "ru": "упорядочивать; оформлять; приводить в порядок",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Он често уређује своју радну собу.",
+   "lat": "On često uređuje svoju radnu sobu.",
+   "ru": "Он часто упорядочивает свою рабочую комнату."
+  }
+ },
+ {
+  "id": "w2950",
+  "order": 2950,
+  "level": "B2",
+  "cyr": "икона",
+  "lat": "ikona",
+  "tr": "икона",
+  "ru": "икона",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара икона стоји на полици у цркви.",
+   "lat": "Stara ikona stoji na polici u crkvi.",
+   "ru": "Старая икона стоит на полке в церкви."
+  }
+ },
+ {
+  "id": "w2951",
+  "order": 2951,
+  "level": "B2",
+  "cyr": "учествовати",
+  "lat": "učestvovati",
+  "tr": "учествовати",
+  "ru": "участвовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Многи студенти ће учествовати у пројекту.",
+   "lat": "Mnogi studenti će učestvovati u projektu.",
+   "ru": "Многие студенты будут участвовать в проекте."
+  }
+ },
+ {
+  "id": "w2952",
+  "order": 2952,
+  "level": "B2",
+  "cyr": "илустрација",
+  "lat": "ilustracija",
+  "tr": "илустрација",
+  "ru": "иллюстрация; иллюстрирование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Илустрација прати текст на тој страни.",
+   "lat": "Ilustracija prati tekst na toj strani.",
+   "ru": "Иллюстрация следует тексту на той странице."
+  }
+ },
+ {
+  "id": "w2953",
+  "order": 2953,
+  "level": "B2",
+  "cyr": "импресионизам",
+  "lat": "impresionizam",
+  "tr": "импресионизам",
+  "ru": "импрессионизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Импресионизам је уметнички правац из деветнаестог века.",
+   "lat": "Impresionizam je umetnički pravac iz devetnaestog veka.",
+   "ru": "Импрессионизм — это художественное направление девятнадцатого века."
+  }
+ },
+ {
+  "id": "w2954",
+  "order": 2954,
+  "level": "B2",
+  "cyr": "иронија",
+  "lat": "ironija",
+  "tr": "иронија",
+  "ru": "ирония",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ироничан смех је пратио његову изјаву.",
+   "lat": "Ironičan smeh je pratio njegovu izjavu.",
+   "ru": "Ироничный смех сопровождал его заявление."
+  }
+ },
+ {
+  "id": "w2955",
+  "order": 2955,
+  "level": "B2",
+  "cyr": "класик",
+  "lat": "klasik",
+  "tr": "класик",
+  "ru": "классика; классическое произведение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај роман сматра се правим класиком књижевности.",
+   "lat": "Ovaj roman smatra se pravim klasikom književnosti.",
+   "ru": "Этот роман считается настоящей классикой литературы."
+  }
+ },
+ {
+  "id": "w2956",
+  "order": 2956,
+  "level": "B2",
+  "cyr": "клетва",
+  "lat": "kletva",
+  "tr": "клетва",
+  "ru": "проклятие; клятва",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара клетва је коначно пробијена.",
+   "lat": "Stara kletva je konačno probijena.",
+   "ru": "Старое проклятие наконец-то снято."
+  }
+ },
+ {
+  "id": "w2957",
+  "order": 2957,
+  "level": "B2",
+  "cyr": "конзервација",
+  "lat": "konzervacija",
+  "tr": "конзервација",
+  "ru": "консервация; сохранение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Конзервација књига захтева посебну вештину.",
+   "lat": "Konzervacija knjiga zahteva posebnu veštinu.",
+   "ru": "Консервация книг требует особого навыка."
+  }
+ },
+ {
+  "id": "w2958",
+  "order": 2958,
+  "level": "B2",
+  "cyr": "корице",
+  "lat": "korice",
+  "tr": "корице",
+  "ru": "обложка; переплёт",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Корице књиге су од тврдог папира.",
+   "lat": "Korice knjige su od tvrdog papira.",
+   "ru": "Обложка книги из плотной бумаги."
+  }
+ },
+ {
+  "id": "w2959",
+  "order": 2959,
+  "level": "B2",
+  "cyr": "костимограф",
+  "lat": "kostimograf",
+  "tr": "костимограф",
+  "ru": "костюмер",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Костимограф је креирао лепе костиме.",
+   "lat": "Kostimograf je kreirao lepe kostime.",
+   "ru": "Костюмер создал красивые костюмы."
+  }
+ },
+ {
+  "id": "w2960",
+  "order": 2960,
+  "level": "B2",
+  "cyr": "критичар",
+  "lat": "kritičar",
+  "tr": "критичар",
+  "ru": "критик",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Критичар је написао оштру анализу изложбе.",
+   "lat": "Kritičar je napisao oštru analizu izložbe.",
+   "ru": "Критик написал резкую анализ выставки."
+  }
+ },
+ {
+  "id": "w2961",
+  "order": 2961,
+  "level": "B2",
+  "cyr": "кубизам",
+  "lat": "kubizam",
+  "tr": "кубизам",
+  "ru": "кубизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кубизам је представљен у овој галерији.",
+   "lat": "Kubizam je predstavljen u ovoj galeriji.",
+   "ru": "Кубизм представлен в этой галерее."
+  }
+ },
+ {
+  "id": "w2962",
+  "order": 2962,
+  "level": "B2",
+  "cyr": "кулминација",
+  "lat": "kulminacija",
+  "tr": "кулминација",
+  "ru": "кульминация; апогей",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кулминација драме је веома напета.",
+   "lat": "Kulminacija drame je veoma napeta.",
+   "ru": "Кульминация драмы очень напряжённая."
+  }
+ },
+ {
+  "id": "w2963",
+  "order": 2963,
+  "level": "B2",
+  "cyr": "куратор",
+  "lat": "kurator",
+  "tr": "куратор",
+  "ru": "куратор; хранитель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Куратор је изабрао најбоље радове за изложбу.",
+   "lat": "Kurator je izabrao najbolje radove za izložbu.",
+   "ru": "Куратор выбрал лучшие работы для выставки."
+  }
+ },
+ {
+  "id": "w2964",
+  "order": 2964,
+  "level": "B2",
+  "cyr": "књижара",
+  "lat": "knjižara",
+  "tr": "книжара",
+  "ru": "книжный магазин",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "У књижари су нашле нове књиге.",
+   "lat": "U knjižari su našle nove knjige.",
+   "ru": "В книжном магазине нашли новые книги."
+  }
+ },
+ {
+  "id": "w2965",
+  "order": 2965,
+  "level": "B2",
+  "cyr": "књижевност",
+  "lat": "književnost",
+  "tr": "книжевност",
+  "ru": "литература; литературное творчество",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова књижевност је заиста необична.",
+   "lat": "Ova književnost je zaista neobična.",
+   "ru": "Эта литература действительно необычна."
+  }
+ },
+ {
+  "id": "w2966",
+  "order": 2966,
+  "level": "B2",
+  "cyr": "легенда",
+  "lat": "legenda",
+  "tr": "легенда",
+  "ru": "легенда",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова стара легенда прича о хероју.",
+   "lat": "Ova stara legenda priča o heroju.",
+   "ru": "Эта старая легенда рассказывает о герое."
+  }
+ },
+ {
+  "id": "w2967",
+  "order": 2967,
+  "level": "B2",
+  "cyr": "лексика",
+  "lat": "leksika",
+  "tr": "лексика",
+  "ru": "лексика; словарный состав",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Лексика српског језика је веома богата.",
+   "lat": "Leksika srpskog jezika je veoma bogata.",
+   "ru": "Лексика сербского языка очень богата."
+  }
+ },
+ {
+  "id": "w2968",
+  "order": 2968,
+  "level": "B2",
+  "cyr": "летопис",
+  "lat": "letopis",
+  "tr": "летопис",
+  "ru": "летопись; хроника",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Манастирски летопис бележи важне догађаје.",
+   "lat": "Manastirski letopis beleži važne događaje.",
+   "ru": "Монастырская летопись отмечает важные события."
+  }
+ },
+ {
+  "id": "w2969",
+  "order": 2969,
+  "level": "B2",
+  "cyr": "лирика",
+  "lat": "lirika",
+  "tr": "лирика",
+  "ru": "лирика; лирическое произведение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова лирика је пуна емоција.",
+   "lat": "Ova lirika je puna emocija.",
+   "ru": "Эта лирика полна эмоций."
+  }
+ },
+ {
+  "id": "w2970",
+  "order": 2970,
+  "level": "B2",
+  "cyr": "магија",
+  "lat": "magija",
+  "tr": "магија",
+  "ru": "магия; волшебство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Деца воле магију и чуда.",
+   "lat": "Deca vole magiju i čuda.",
+   "ru": "Дети любят магию и чудеса."
+  }
+ },
+ {
+  "id": "w2971",
+  "order": 2971,
+  "level": "B2",
+  "cyr": "макета",
+  "lat": "maketa",
+  "tr": "макета",
+  "ru": "макет; модель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Архитекта је направила макету новог музеја.",
+   "lat": "Arhitekta je napravila maketu novog muzeja.",
+   "ru": "Архитектор сделала макет нового музея."
+  }
+ },
+ {
+  "id": "w2972",
+  "order": 2972,
+  "level": "B2",
+  "cyr": "мастило",
+  "lat": "mastilo",
+  "tr": "мастило",
+  "ru": "чернила",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "У кесу ми је избило мастило.",
+   "lat": "U kesu mi je izbilo mastilo.",
+   "ru": "В сумке у меня пролились чернила."
+  }
+ },
+ {
+  "id": "w2973",
+  "order": 2973,
+  "level": "B2",
+  "cyr": "мемоари",
+  "lat": "memoari",
+  "tr": "мемоари",
+  "ru": "мемуары",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Политичар је објавио мемоаре о својој каријери.",
+   "lat": "Političar je objavio memoare o svojoj karijeri.",
+   "ru": "Политик опубликовал мемуары о своей карьере."
+  }
+ },
+ {
+  "id": "w2974",
+  "order": 2974,
+  "level": "B2",
+  "cyr": "метафора",
+  "lat": "metafora",
+  "tr": "метафора",
+  "ru": "метафора",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његов говор пун је метафора.",
+   "lat": "Njegov govor pun je metafora.",
+   "ru": "Его речь полна метафор."
+  }
+ },
+ {
+  "id": "w2975",
+  "order": 2975,
+  "level": "B2",
+  "cyr": "мецена",
+  "lat": "mecena",
+  "tr": "мецена",
+  "ru": "меценат",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај богаташ је познати мецена уметности.",
+   "lat": "Ovaj bogataš je poznati mecena umetnosti.",
+   "ru": "Этот богач известный меценат искусства."
+  }
+ },
+ {
+  "id": "w2976",
+  "order": 2976,
+  "level": "B2",
+  "cyr": "мит",
+  "lat": "mit",
+  "tr": "мит",
+  "ru": "миф",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Грчки мит објашњава порекло света.",
+   "lat": "Grčki mit objašnjava poreklo sveta.",
+   "ru": "Греческий миф объясняет происхождение мира."
+  }
+ },
+ {
+  "id": "w2977",
+  "order": 2977,
+  "level": "B2",
+  "cyr": "митологија",
+  "lat": "mitologija",
+  "tr": "митологија",
+  "ru": "мифология",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Митологија објашњава свет кроз приче.",
+   "lat": "Mitologija objašnjava svet kroz priče.",
+   "ru": "Мифология объясняет мир через рассказы."
+  }
+ },
+ {
+  "id": "w2978",
+  "order": 2978,
+  "level": "B2",
+  "cyr": "мозаик",
+  "lat": "mozaik",
+  "tr": "мозаик",
+  "ru": "мозаика",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Зид у цркви украшен је мозаиком.",
+   "lat": "Zid u crkvi ukrašen je mozaikom.",
+   "ru": "Стена в церкви украшена мозаикой."
+  }
+ },
+ {
+  "id": "w2979",
+  "order": 2979,
+  "level": "B2",
+  "cyr": "морал",
+  "lat": "moral",
+  "tr": "морал",
+  "ru": "мораль; нравственность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Морал приче је јасан и дубок.",
+   "lat": "Moral priče je jasan i dubok.",
+   "ru": "Мораль истории ясна и глубока."
+  }
+ },
+ {
+  "id": "w2980",
+  "order": 2980,
+  "level": "B2",
+  "cyr": "мотив",
+  "lat": "motiv",
+  "tr": "мотив",
+  "ru": "мотив; причина",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Главни мотив у филму је тражење правде.",
+   "lat": "Glavni motiv u filmu je traženje pravde.",
+   "ru": "Главная мотивация в фильме — поиск справедливости."
+  }
+ },
+ {
+  "id": "w2981",
+  "order": 2981,
+  "level": "B2",
+  "cyr": "надреализам",
+  "lat": "nadrealizam",
+  "tr": "надреализам",
+  "ru": "сюрреализм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Надреализам често приказује снове и фантазије.",
+   "lat": "Nadrealizam često prikazuje snove i fantazije.",
+   "ru": "Сюрреализм часто изображает сны и фантазии."
+  }
+ },
+ {
+  "id": "w2982",
+  "order": 2982,
+  "level": "B2",
+  "cyr": "наслеђе",
+  "lat": "nasleđe",
+  "tr": "наследже",
+  "ru": "наследство; наследие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Књиге су једини део породичног наслеђа.",
+   "lat": "Knjige su jedini deo porodičnog nasleđa.",
+   "ru": "Книги — единственная часть семейного наследства."
+  }
+ },
+ {
+  "id": "w2983",
+  "order": 2983,
+  "level": "B2",
+  "cyr": "новела",
+  "lat": "novela",
+  "tr": "новела",
+  "ru": "новелла; рассказ",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова новела је врло драматична.",
+   "lat": "Ova novela je vrlo dramatična.",
+   "ru": "Эта новелла очень драматична."
+  }
+ },
+ {
+  "id": "w2984",
+  "order": 2984,
+  "level": "B2",
+  "cyr": "номинација",
+  "lat": "nominacija",
+  "tr": "номинација",
+  "ru": "номинация; выдвижение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Филм је добио номинацију за Оскара.",
+   "lat": "Film je dobio nominaciju za Oskara.",
+   "ru": "Фильм получил номинацию на «Оскара»."
+  }
+ },
+ {
+  "id": "w2985",
+  "order": 2985,
+  "level": "B2",
+  "cyr": "обред",
+  "lat": "obred",
+  "tr": "обред",
+  "ru": "обряд; ритуал",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Обред венчања је веома леп.",
+   "lat": "Obred venčanja je veoma lep.",
+   "ru": "Обряд венчания очень красив."
+  }
+ },
+ {
+  "id": "w2986",
+  "order": 2986,
+  "level": "B2",
+  "cyr": "овација",
+  "lat": "ovacija",
+  "tr": "овација",
+  "ru": "овации; восторженные крики",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Певач добија овацију на крају концерта.",
+   "lat": "Pevač dobija ovaciju na kraju koncerta.",
+   "ru": "Певец получает овации в конце концерта."
+  }
+ },
+ {
+  "id": "w2987",
+  "order": 2987,
+  "level": "B2",
+  "cyr": "пародија",
+  "lat": "parodija",
+  "tr": "пародија",
+  "ru": "пародия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Она је написала пародију на познату песму.",
+   "lat": "Ona je napisala parodiju na poznatu pesmu.",
+   "ru": "Она написала пародию на известную песню."
+  }
+ },
+ {
+  "id": "w2988",
+  "order": 2988,
+  "level": "B2",
+  "cyr": "пастел",
+  "lat": "pastel",
+  "tr": "пастел",
+  "ru": "пастель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Уметник користи пастел за меке линије.",
+   "lat": "Umetnik koristi pastel za meke linije.",
+   "ru": "Художник использует пастель для мягких линий."
+  }
+ },
+ {
+  "id": "w2989",
+  "order": 2989,
+  "level": "B2",
+  "cyr": "пергамент",
+  "lat": "pergament",
+  "tr": "пергамент",
+  "ru": "пергамент",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пергамент је прављен од коже животиња.",
+   "lat": "Pergament je pravljen od kože životinja.",
+   "ru": "Пергамент делали из шкуры животных."
+  }
+ },
+ {
+  "id": "w2990",
+  "order": 2990,
+  "level": "B2",
+  "cyr": "персонификација",
+  "lat": "personifikacija",
+  "tr": "персонификација",
+  "ru": "олицетворение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Природа у песми је персонификација.",
+   "lat": "Priroda u pesmi je personifikacija.",
+   "ru": "Природа в стихотворении — олицетворение."
+  }
+ },
+ {
+  "id": "w2991",
+  "order": 2991,
+  "level": "B2",
+  "cyr": "песмина",
+  "lat": "pesmina",
+  "tr": "песмина",
+  "ru": "стихотворение; песня",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Она је написала лепу песмину.",
+   "lat": "Ona je napisala lepu pesminu.",
+   "ru": "Она написала красивое стихотворение."
+  }
+ },
+ {
+  "id": "w2992",
+  "order": 2992,
+  "level": "B2",
+  "cyr": "пејзаж",
+  "lat": "pejzaž",
+  "tr": "пејзаж",
+  "ru": "пейзаж",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Уметник је насликао прелеп пејзаж.",
+   "lat": "Umetnik je naslikao prelep pejzaž.",
+   "ru": "Художник нарисовал прекрасный пейзаж."
+  }
+ },
+ {
+  "id": "w2993",
+  "order": 2993,
+  "level": "B2",
+  "cyr": "писар",
+  "lat": "pisar",
+  "tr": "писар",
+  "ru": "писец; писарь",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Писар је преписао стару књигу.",
+   "lat": "Pisar je prepisao staru knjigu.",
+   "ru": "Писец переписал старую книгу."
+  }
+ },
+ {
+  "id": "w2994",
+  "order": 2994,
+  "level": "B2",
+  "cyr": "писатељ",
+  "lat": "pisatelj",
+  "tr": "писатель",
+  "ru": "писатель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Писатељ је награђен за свој нови роман.",
+   "lat": "Pisatelj je nagrađen za svoj novi roman.",
+   "ru": "Писатель награждён за свой новый роман."
+  }
+ },
+ {
+  "id": "w2995",
+  "order": 2995,
+  "level": "B2",
+  "cyr": "плагијат",
+  "lat": "plagijat",
+  "tr": "плагијат",
+  "ru": "плагиат",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Професор открио плагијат у његовом раду.",
+   "lat": "Profesor otkrio plagijat u njegovom radu.",
+   "ru": "Профессор обнаружил плагиат в его работе."
+  }
+ },
+ {
+  "id": "w2996",
+  "order": 2996,
+  "level": "B2",
+  "cyr": "платно",
+  "lat": "platno",
+  "tr": "платно",
+  "ru": "холст; полотно",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Уметник купи ново платно за сликање.",
+   "lat": "Umetnik kupi novo platno za slikanje.",
+   "ru": "Художник покупает новый холст для рисования."
+  }
+ },
+ {
+  "id": "w2997",
+  "order": 2997,
+  "level": "B2",
+  "cyr": "поглавље",
+  "lat": "poglavlje",
+  "tr": "поглавле",
+  "ru": "глава; раздел",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ово поглавље је најзанимљивије у књизи.",
+   "lat": "Ovo poglavlje je najzanimljivije u knjizi.",
+   "ru": "Эта глава самая интересная в книге."
+  }
+ },
+ {
+  "id": "w2998",
+  "order": 2998,
+  "level": "B2",
+  "cyr": "поговор",
+  "lat": "pogovor",
+  "tr": "поговор",
+  "ru": "пословица; поговорка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Поговор каже да је труд плодан.",
+   "lat": "Pogovor kaže da je trud plodan.",
+   "ru": "Пословица гласит, что труд плодовит."
+  }
+ },
+ {
+  "id": "w2999",
+  "order": 2999,
+  "level": "B2",
+  "cyr": "поднаслов",
+  "lat": "podnaslov",
+  "tr": "поднаслов",
+  "ru": "подзаголовок",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Поднаслов објашњава тему књиге.",
+   "lat": "Podnaslov objašnjava temu knjige.",
+   "ru": "Подзаголовок объясняет тему книги."
+  }
+ },
+ {
+  "id": "w3000",
+  "order": 3000,
+  "level": "B2",
+  "cyr": "поређење",
+  "lat": "poređenje",
+  "tr": "поредженье",
+  "ru": "сравнение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "У књизи има много поређења.",
+   "lat": "U knjizi ima mnogo poređenja.",
+   "ru": "В книге много сравнений."
+  }
+ },
+ {
+  "id": "w3001",
+  "order": 3001,
+  "level": "B2",
+  "cyr": "портрет",
+  "lat": "portret",
+  "tr": "портрет",
+  "ru": "портрет",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Портрет краљице налази се у галерији.",
+   "lat": "Portret kraljice nalazi se u galeriji.",
+   "ru": "Портрет королевы находится в галерее."
+  }
+ },
+ {
+  "id": "w3002",
+  "order": 3002,
+  "level": "B2",
+  "cyr": "пословица",
+  "lat": "poslovica",
+  "tr": "пословица",
+  "ru": "пословица",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пословица каже да је труд плодотворан.",
+   "lat": "Poslovica kaže da je trud plodotvoran.",
+   "ru": "Пословица гласит, что труд плодовит."
+  }
+ },
+ {
+  "id": "w3003",
+  "order": 3003,
+  "level": "B2",
+  "cyr": "предање",
+  "lat": "predanje",
+  "tr": "преданье",
+  "ru": "предание; предание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Старо предање прича о херојима.",
+   "lat": "Staro predanje priča o herojima.",
+   "ru": "Старое предание рассказывает о героях."
+  }
+ },
+ {
+  "id": "w3004",
+  "order": 3004,
+  "level": "B2",
+  "cyr": "предговор",
+  "lat": "predgovor",
+  "tr": "предговор",
+  "ru": "предисловие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Предговор је написао сам аутор.",
+   "lat": "Predgovor je napisao sam autor.",
+   "ru": "Предисловие написал сам автор."
+  }
+ },
+ {
+  "id": "w3005",
+  "order": 3005,
+  "level": "B2",
+  "cyr": "премијера",
+  "lat": "premijera",
+  "tr": "премијера",
+  "ru": "премьера",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Публика је одушевљена премијером нове представе.",
+   "lat": "Publika je oduševljena premijerom nove predstave.",
+   "ru": "Публика в восторге от премьеры новой пьесы."
+  }
+ },
+ {
+  "id": "w3006",
+  "order": 3006,
+  "level": "B2",
+  "cyr": "проза",
+  "lat": "proza",
+  "tr": "проза",
+  "ru": "проза; прозаический",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова књига је написана у прози.",
+   "lat": "Ova knjiga je napisana u prozi.",
+   "ru": "Эта книга написана прозой."
+  }
+ },
+ {
+  "id": "w3007",
+  "order": 3007,
+  "level": "B2",
+  "cyr": "пролог",
+  "lat": "prolog",
+  "tr": "пролог",
+  "ru": "пролог; прологический",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пролог књиге објашњава њену тему.",
+   "lat": "Prolog knjige objašnjava njenu temu.",
+   "ru": "Пролог книги объясняет её тему."
+  }
+ },
+ {
+  "id": "w3008",
+  "order": 3008,
+  "level": "B2",
+  "cyr": "радња",
+  "lat": "radnja",
+  "tr": "раднья",
+  "ru": "сюжет; действие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Радња романа одвија се у прошлости.",
+   "lat": "Radnja romana odvija se u prošlosti.",
+   "ru": "Сюжет романа разворачивается в прошлом."
+  }
+ },
+ {
+  "id": "w3009",
+  "order": 3009,
+  "level": "B2",
+  "cyr": "режија",
+  "lat": "režija",
+  "tr": "режија",
+  "ru": "режиссура",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Режија одређује целокупни изглед представе.",
+   "lat": "Režija određuje celokupni izgled predstave.",
+   "ru": "Режиссура определяет общий вид пьесы."
+  }
+ },
+ {
+  "id": "w3010",
+  "order": 3010,
+  "level": "B2",
+  "cyr": "рестаурација",
+  "lat": "restauracija",
+  "tr": "рестаурација",
+  "ru": "реставрация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Рестаурација зграде траје већ годину дана.",
+   "lat": "Restauracija zgrade traje već godinu dana.",
+   "ru": "Реставрация здания длится уже год."
+  }
+ },
+ {
+  "id": "w3011",
+  "order": 3011,
+  "level": "B2",
+  "cyr": "рима",
+  "lat": "rima",
+  "tr": "рима",
+  "ru": "рифма; рифма",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Добра рима учинила је песму лепом.",
+   "lat": "Dobra rima učinila je pesmu lepom.",
+   "ru": "Хорошая рифма сделала стихотворение красивым."
+  }
+ },
+ {
+  "id": "w3012",
+  "order": 3012,
+  "level": "B2",
+  "cyr": "ритуал",
+  "lat": "ritual",
+  "tr": "ритуал",
+  "ru": "ритуал; обряд",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стари ритуал се обавља сваке године.",
+   "lat": "Stari ritual se obavlja svake godine.",
+   "ru": "Старый ритуал проводится каждый год."
+  }
+ },
+ {
+  "id": "w3013",
+  "order": 3013,
+  "level": "B2",
+  "cyr": "романса",
+  "lat": "romansa",
+  "tr": "романса",
+  "ru": "романс",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара романса је звучала у позадине.",
+   "lat": "Stara romansa je zvučala u pozadine.",
+   "ru": "Старый романс звучал в фоне."
+  }
+ },
+ {
+  "id": "w3014",
+  "order": 3014,
+  "level": "B2",
+  "cyr": "рубрика",
+  "lat": "rubrika",
+  "tr": "рубрика",
+  "ru": "рубрика; раздел (газеты)",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова рубрика бави се културним дешавањима града.",
+   "lat": "Ova rubrika bavi se kulturnim dešavanjima grada.",
+   "ru": "Эта рубрика посвящается культурным событиям города."
+  }
+ },
+ {
+  "id": "w3015",
+  "order": 3015,
+  "level": "B2",
+  "cyr": "садржај",
+  "lat": "sadržaj",
+  "tr": "садржај",
+  "ru": "содержание; содержание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Садржај књиге је веома занимљив.",
+   "lat": "Sadržaj knjige je veoma zanimljiv.",
+   "ru": "Содержание книги очень интересно."
+  }
+ },
+ {
+  "id": "w3016",
+  "order": 3016,
+  "level": "B2",
+  "cyr": "самовила",
+  "lat": "samovila",
+  "tr": "самовила",
+  "ru": "самовила; фея",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Самовила је помогла изгубљеном детету.",
+   "lat": "Samovila je pomogla izgubljenom detetu.",
+   "ru": "Самовила помогла потерявшемуся ребёнку."
+  }
+ },
+ {
+  "id": "w3017",
+  "order": 3017,
+  "level": "B2",
+  "cyr": "сатира",
+  "lat": "satira",
+  "tr": "сатира",
+  "ru": "сатира",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова сатира је оштро критиковала друштвене проблеме.",
+   "lat": "Ova satira je oštro kritikovala društvene probleme.",
+   "ru": "Эта сатира остро критиковала социальные проблемы."
+  }
+ },
+ {
+  "id": "w3018",
+  "order": 3018,
+  "level": "B2",
+  "cyr": "свитак",
+  "lat": "svitak",
+  "tr": "свитак",
+  "ru": "свиток; рулон",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стари текст је написан на свитку.",
+   "lat": "Stari tekst je napisan na svitku.",
+   "ru": "Древний текст написан на свитке."
+  }
+ },
+ {
+  "id": "w3019",
+  "order": 3019,
+  "level": "B2",
+  "cyr": "селекција",
+  "lat": "selekcija",
+  "tr": "селекција",
+  "ru": "отбор; отборка; отборный процесс",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Жири врши селекцију најбољих филмова.",
+   "lat": "Žiri vrši selekciju najboljih filmova.",
+   "ru": "Жюри проводит отбор лучших фильмов."
+  }
+ },
+ {
+  "id": "w3020",
+  "order": 3020,
+  "level": "B2",
+  "cyr": "сонет",
+  "lat": "sonet",
+  "tr": "сонет",
+  "ru": "сонет; сонетный",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај сонет је посвећен љубави.",
+   "lat": "Ovaj sonet je posvećen ljubavi.",
+   "ru": "Этот сонет посвящен любви."
+  }
+ },
+ {
+  "id": "w3021",
+  "order": 3021,
+  "level": "B2",
+  "cyr": "спев",
+  "lat": "spev",
+  "tr": "спев",
+  "ru": "пение; напев; песнь",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тај спев је врло мелодичан.",
+   "lat": "Taj spev je vrlo melodičan.",
+   "ru": "Тот напев очень мелодичен."
+  }
+ },
+ {
+  "id": "w3022",
+  "order": 3022,
+  "level": "B2",
+  "cyr": "статиста",
+  "lat": "statista",
+  "tr": "статиста",
+  "ru": "статист; статистка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Статиста стоји у позадине током снимања.",
+   "lat": "Statista stoji u pozadine tokom snimanja.",
+   "ru": "Статистка стоит на фоне во время съемок."
+  }
+ },
+ {
+  "id": "w3023",
+  "order": 3023,
+  "level": "B2",
+  "cyr": "стил",
+  "lat": "stil",
+  "tr": "стил",
+  "ru": "стиль; манера",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај аутор има препознатљив стил писања.",
+   "lat": "Ovaj autor ima prepoznatljiv stil pisanja.",
+   "ru": "Этот автор имеет узнаваемый стиль письма."
+  }
+ },
+ {
+  "id": "w3024",
+  "order": 3024,
+  "level": "B2",
+  "cyr": "стих",
+  "lat": "stih",
+  "tr": "стих",
+  "ru": "стих; стихотворение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај стих је веома леп.",
+   "lat": "Ovaj stih je veoma lep.",
+   "ru": "Этот стих очень красив."
+  }
+ },
+ {
+  "id": "w3025",
+  "order": 3025,
+  "level": "B2",
+  "cyr": "сујеверје",
+  "lat": "sujeverje",
+  "tr": "сујеверје",
+  "ru": "суеверие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Сујеверје још увек постоји у многим крајевима.",
+   "lat": "Sujeverje još uvek postoji u mnogim krajevima.",
+   "ru": "Суеверие всё ещё существует во многих местах."
+  }
+ },
+ {
+  "id": "w3026",
+  "order": 3026,
+  "level": "B2",
+  "cyr": "сценограф",
+  "lat": "scenograf",
+  "tr": "сценограф",
+  "ru": "сценограф",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сценограф дизајнира сцену за представу.",
+   "lat": "Scenograf dizajnira scenu za predstavu.",
+   "ru": "Сценограф разрабатывает сцену для пьесы."
+  }
+ },
+ {
+  "id": "w3027",
+  "order": 3027,
+  "level": "B2",
+  "cyr": "сценографија",
+  "lat": "scenografija",
+  "tr": "сценографија",
+  "ru": "сценография",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сценографија је кључна за атмосферу представе.",
+   "lat": "Scenografija je ključna za atmosferu predstave.",
+   "ru": "Сценография ключевая для атмосферы спектакля."
+  }
+ },
+ {
+  "id": "w3028",
+  "order": 3028,
+  "level": "B2",
+  "cyr": "творевина",
+  "lat": "tvorevina",
+  "tr": "творевина",
+  "ru": "творение; произведение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова музичка творевина је заиста инспиративна.",
+   "lat": "Ova muzička tvorevina je zaista inspirativna.",
+   "ru": "Это музыкальное творение действительно вдохновляющее."
+  }
+ },
+ {
+  "id": "w3029",
+  "order": 3029,
+  "level": "B2",
+  "cyr": "том",
+  "lat": "tom",
+  "tr": "том",
+  "ru": "том; книга",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај том садржи тринаест поглавља.",
+   "lat": "Ovaj tom sadrži trinaest poglavlja.",
+   "ru": "Этот том содержит тринадцать глав."
+  }
+ },
+ {
+  "id": "w3030",
+  "order": 3030,
+  "level": "B2",
+  "cyr": "трагедија",
+  "lat": "tragedija",
+  "tr": "трагедија",
+  "ru": "трагедия; трагическое событие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова трагедија је тужна за све.",
+   "lat": "Ova tragedija je tužna za sve.",
+   "ru": "Эта трагедия печальна для всех."
+  }
+ },
+ {
+  "id": "w3031",
+  "order": 3031,
+  "level": "B2",
+  "cyr": "трупа",
+  "lat": "trupa",
+  "tr": "трупа",
+  "ru": "труппа",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Трупа путује градом са новом представом.",
+   "lat": "Trupa putuje gradom sa novom predstavom.",
+   "ru": "Труппа путешествует по городу с новой пьесой."
+  }
+ },
+ {
+  "id": "w3032",
+  "order": 3032,
+  "level": "B2",
+  "cyr": "тумачење",
+  "lat": "tumačenje",
+  "tr": "тумаченье",
+  "ru": "толкование; интерпретация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Професор даје тумачење текста.",
+   "lat": "Profesor daje tumačenje teksta.",
+   "ru": "Профессор даёт толкование текста."
+  }
+ },
+ {
+  "id": "w3033",
+  "order": 3033,
+  "level": "B2",
+  "cyr": "увезивање",
+  "lat": "uvezivanje",
+  "tr": "увезиванье",
+  "ru": "переплёт; бинтование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Увезивање је важан процес у књиговодству.",
+   "lat": "Uvezivanje je važan proces u knjigovodstvu.",
+   "ru": "Переплёт важный процесс в переплётном деле."
+  }
+ },
+ {
+  "id": "w3034",
+  "order": 3034,
+  "level": "B2",
+  "cyr": "умотворина",
+  "lat": "umotvorina",
+  "tr": "умотворина",
+  "ru": "поговорка; пословица",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара умотворина каже да је вријеме злато.",
+   "lat": "Stara umotvorina kaže da je vrijeme zlato.",
+   "ru": "Старая поговорка гласит, что время — деньги."
+  }
+ },
+ {
+  "id": "w3035",
+  "order": 3035,
+  "level": "B2",
+  "cyr": "уредник",
+  "lat": "urednik",
+  "tr": "уредник",
+  "ru": "редактор",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Уредник новина често пише своје колумне.",
+   "lat": "Urednik novina često piše svoje kolumne.",
+   "ru": "Редактор газеты часто пишет свои колонки."
+  }
+ },
+ {
+  "id": "w3036",
+  "order": 3036,
+  "level": "B2",
+  "cyr": "фолклор",
+  "lat": "folklor",
+  "tr": "фолклор",
+  "ru": "фольклор",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Фолклор је важан део наше културе.",
+   "lat": "Folklor je važan deo naše kulture.",
+   "ru": "Фольклор — важная часть нашей культуры."
+  }
+ },
+ {
+  "id": "w3037",
+  "order": 3037,
+  "level": "B2",
+  "cyr": "хипербола",
+  "lat": "hiperbola",
+  "tr": "хипербола",
+  "ru": "гипербола",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "У његовом опису је хипербола.",
+   "lat": "U njegovom opisu je hiperbola.",
+   "ru": "В его описе гипербола."
+  }
+ },
+ {
+  "id": "w3038",
+  "order": 3038,
+  "level": "B2",
+  "cyr": "цензура",
+  "lat": "cenzura",
+  "tr": "цензура",
+  "ru": "цензура; цензурирование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "У земљи је уведена строга цензура штампе.",
+   "lat": "U zemlji je uvedena stroga cenzura štampe.",
+   "ru": "В стране была введена строгая цензура печати."
+  }
+ },
+ {
+  "id": "w3039",
+  "order": 3039,
+  "level": "B2",
+  "cyr": "чаробњак",
+  "lat": "čarobnjak",
+  "tr": "чаробньяк",
+  "ru": "волшебник; маг",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Чаробњак је створио магични прстен.",
+   "lat": "Čarobnjak je stvorio magični prsten.",
+   "ru": "Волшебник создал волшебное кольцо."
+  }
+ },
+ {
+  "id": "w3040",
+  "order": 3040,
+  "level": "B2",
+  "cyr": "читалиште",
+  "lat": "čitalište",
+  "tr": "читалиште",
+  "ru": "читальня",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "У читалишту је тихо и пријатно.",
+   "lat": "U čitalištu je tiho i prijatno.",
+   "ru": "В читальне тихо и приятно."
+  }
+ },
+ {
+  "id": "w3041",
+  "order": 3041,
+  "level": "B2",
+  "cyr": "чудовиште",
+  "lat": "čudovište",
+  "tr": "чудовиште",
+  "ru": "чудовище; монстр",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Дете се бојало чудовишта из ноћних мора.",
+   "lat": "Dete se bojalo čudovišta iz noćnih mora.",
+   "ru": "Ребёнок боялся чудовища из ночных кошмаров."
+  }
+ },
+ {
+  "id": "w3042",
+  "order": 3042,
+  "level": "B2",
+  "cyr": "шминка",
+  "lat": "šminka",
+  "tr": "шминка",
+  "ru": "грим",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Шминка глумице траје сатима пре снимања.",
+   "lat": "Šminka glumice traje satima pre snimanja.",
+   "ru": "Грим актрисы длится часами перед съемками."
+  }
+ },
+ {
+  "id": "w3043",
+  "order": 3043,
+  "level": "B2",
+  "cyr": "јубилеј",
+  "lat": "jubilej",
+  "tr": "јубилеј",
+  "ru": "юбилей",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Град слави свој стогодишњи јубилеј.",
+   "lat": "Grad slavi svoj stogodišnji jubilej.",
+   "ru": "Город отмечает свой столетний юбилей."
+  }
+ },
+ {
+  "id": "w3044",
+  "order": 3044,
+  "level": "B2",
+  "cyr": "ћирилица",
+  "lat": "ćirilica",
+  "tr": "чирилица",
+  "ru": "кириллица",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова књига је штампана на ћирилици.",
+   "lat": "Ova knjiga je štampana na ćirilici.",
+   "ru": "Эта книга напечатана кириллицей."
+  }
+ }
+]

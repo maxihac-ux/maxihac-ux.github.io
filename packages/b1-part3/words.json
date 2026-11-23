@@ -1,0 +1,3458 @@
+[
+ {
+  "id": "w2383",
+  "order": 2383,
+  "level": "B1",
+  "cyr": "доводити",
+  "lat": "dovoditi",
+  "tr": "доводити",
+  "ru": "доводить; приводить",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Овај аутобус доводи путнике до аеродрома.",
+   "lat": "Ovaj autobus dovodi putnike do aerodroma.",
+   "ru": "Этот автобус привозит пассажиров к аэропорту."
+  }
+ },
+ {
+  "id": "w2384",
+  "order": 2384,
+  "level": "B1",
+  "cyr": "дозвољавати",
+  "lat": "dozvoljavati",
+  "tr": "дозволявати",
+  "ru": "разрешать; позволять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Закон дозвољава ово.",
+   "lat": "Zakon dozvoljava ovo.",
+   "ru": "Закон разрешает это."
+  }
+ },
+ {
+  "id": "w2385",
+  "order": 2385,
+  "level": "B1",
+  "cyr": "акумулатор",
+  "lat": "akumulator",
+  "tr": "акумулатор",
+  "ru": "аккумулятор; аккумуляторная батарея",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Аутомобилски акумулатор се напаја струјом.",
+   "lat": "Automobilski akumulator se napaja strujom.",
+   "ru": "Автомобильный аккумулятор питается током."
+  }
+ },
+ {
+  "id": "w2386",
+  "order": 2386,
+  "level": "B1",
+  "cyr": "виши",
+  "lat": "viši",
+  "tr": "виши",
+  "ru": "выше; верхний",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ово зграда је виша од оне.",
+   "lat": "Ovo zgrada je viša od one.",
+   "ru": "Это здание выше того."
+  }
+ },
+ {
+  "id": "w2387",
+  "order": 2387,
+  "level": "B1",
+  "cyr": "доживљај",
+  "lat": "doživljaj",
+  "tr": "доживляј",
+  "ru": "впечатление; переживание",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Његов говор је био незабораван доживљај.",
+   "lat": "Njegov govor je bio nezaboravan doživljaj.",
+   "ru": "Его речь была незабываемым переживанием."
+  }
+ },
+ {
+  "id": "w2388",
+  "order": 2388,
+  "level": "B1",
+  "cyr": "излазак",
+  "lat": "izlazak",
+  "tr": "излазак",
+  "ru": "выход; выходить; появление",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "m",
+  "ex": {
+   "cyr": "Излазак из зграде је блокиран.",
+   "lat": "Izlazak iz zgrade je blokiran.",
+   "ru": "Выход из здания заблокирован."
+  }
+ },
+ {
+  "id": "w2389",
+  "order": 2389,
+  "level": "B1",
+  "cyr": "знаменитост",
+  "lat": "znamenitost",
+  "tr": "знаменитост",
+  "ru": "знаменитость; знаменитый человек",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова знаменитост је родом из Београда.",
+   "lat": "Ova znamenitost je rodom iz Beograda.",
+   "ru": "Эта знаменитость родом из Белграда."
+  }
+ },
+ {
+  "id": "w2390",
+  "order": 2390,
+  "level": "B1",
+  "cyr": "авантура",
+  "lat": "avantura",
+  "tr": "авантура",
+  "ru": "приключение; авантюра",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "f",
+  "ex": {
+   "cyr": "Тражење скривеног блага била је права авантура.",
+   "lat": "Traženje skrivenog blaga bila je prava avantura.",
+   "ru": "Поиск скрытого сокровища было настоящим приключением."
+  }
+ },
+ {
+  "id": "w2391",
+  "order": 2391,
+  "level": "B1",
+  "cyr": "бакшиш",
+  "lat": "bakšiš",
+  "tr": "бакшиш",
+  "ru": "чаевые",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "У ресторану остављам бакшиш конобару.",
+   "lat": "U restoranu ostavljam bakšiš konobaru.",
+   "ru": "В ресторане я оставляю чаевые официанту."
+  }
+ },
+ {
+  "id": "w2392",
+  "order": 2392,
+  "level": "B1",
+  "cyr": "крајолик",
+  "lat": "krajolik",
+  "tr": "крајолик",
+  "ru": "пейзаж; местность",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Прекрасан крајолик се протеже до хоризонта.",
+   "lat": "Prekrasan krajolik se proteže do horizonta.",
+   "ru": "Прекрасный пейзаж простирается до горизонта."
+  }
+ },
+ {
+  "id": "w2393",
+  "order": 2393,
+  "level": "B1",
+  "cyr": "потписивати",
+  "lat": "potpisivati",
+  "tr": "потписивати",
+  "ru": "подписывать (договор)",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Директор потписује важне уговоре.",
+   "lat": "Direktor potpisuje važne ugovore.",
+   "ru": "Директор подписывает важные договоры."
+  }
+ },
+ {
+  "id": "w2394",
+  "order": 2394,
+  "level": "B1",
+  "cyr": "већином",
+  "lat": "većinom",
+  "tr": "вечином",
+  "ru": "в основном; преимущественно",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Већином смо се возили аутобусом.",
+   "lat": "Većinom smo se vozili autobusom.",
+   "ru": "В основном мы ездили на автобусе."
+  }
+ },
+ {
+  "id": "w2395",
+  "order": 2395,
+  "level": "B1",
+  "cyr": "објашњење",
+  "lat": "objašnjenje",
+  "tr": "објашньенье",
+  "ru": "объяснение; разъяснение",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Професор је дао објашњење за задатак.",
+   "lat": "Profesor je dao objašnjenje za zadatak.",
+   "ru": "Профессор дал объяснение по задаче."
+  }
+ },
+ {
+  "id": "w2396",
+  "order": 2396,
+  "level": "B1",
+  "cyr": "држављанин",
+  "lat": "državljanin",
+  "tr": "државлянин",
+  "ru": "гражданин",
+  "pos": "noun",
+  "cat": "basics",
+  "gender": "m",
+  "ex": {
+   "cyr": "Добар држављанин поштује законе.",
+   "lat": "Dobar državljanin poštuje zakone.",
+   "ru": "Хороший гражданин соблюдает законы."
+  }
+ },
+ {
+  "id": "w2397",
+  "order": 2397,
+  "level": "B1",
+  "cyr": "постељина",
+  "lat": "posteljina",
+  "tr": "постелина",
+  "ru": "постельное бельё",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Морао сам да променим постељину.",
+   "lat": "Morao sam da promenim posteljinu.",
+   "ru": "Мне пришлось сменить постельное бельё."
+  }
+ },
+ {
+  "id": "w2398",
+  "order": 2398,
+  "level": "B1",
+  "cyr": "свитање",
+  "lat": "svitanje",
+  "tr": "свитанье",
+  "ru": "рассвет; утро",
+  "pos": "noun",
+  "cat": "time",
+  "gender": "n",
+  "ex": {
+   "cyr": "На свитању птице почињу да певају.",
+   "lat": "Na svitanju ptice počinju da pevaju.",
+   "ru": "На рассвете птицы начинают петь."
+  }
+ },
+ {
+  "id": "w2399",
+  "order": 2399,
+  "level": "B1",
+  "cyr": "наплаћивати",
+  "lat": "naplaćivati",
+  "tr": "наплачивати",
+  "ru": "заплачивать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Наплаћујем ноћење на рецепцији.",
+   "lat": "Naplaćujem noćenje na recepciji.",
+   "ru": "Я плачу за проживание на ресепшене."
+  }
+ },
+ {
+  "id": "w2400",
+  "order": 2400,
+  "level": "B1",
+  "cyr": "забавити",
+  "lat": "zabaviti",
+  "tr": "забавити",
+  "ru": "развлечь; развлечься",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Нови филм је забавио публику.",
+   "lat": "Novi film je zabavio publiku.",
+   "ru": "Новый фильм развлек публику."
+  }
+ },
+ {
+  "id": "w2401",
+  "order": 2401,
+  "level": "B1",
+  "cyr": "квацила",
+  "lat": "kvacila",
+  "tr": "квацила",
+  "ru": "клаксон; гудок",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Возач је притиснуо квацилу.",
+   "lat": "Vozač je pritisnuo kvacilu.",
+   "ru": "Водитель нажал на клаксон."
+  }
+ },
+ {
+  "id": "w2402",
+  "order": 2402,
+  "level": "B1",
+  "cyr": "врхунски",
+  "lat": "vrhunski",
+  "tr": "врхунски",
+  "ru": "высший; первоклассный; выдающийся",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Врхунски кувар припрема одлично јело.",
+   "lat": "Vrhunski kuvar priprema odlično jelo.",
+   "ru": "Высший повар готовит отличное блюдо."
+  }
+ },
+ {
+  "id": "w2403",
+  "order": 2403,
+  "level": "B1",
+  "cyr": "неразумевање",
+  "lat": "nerazumevanje",
+  "tr": "неразумеванье",
+  "ru": "непонимание; недопонимание",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ово неразумевање је изазвало свађу.",
+   "lat": "Ovo nerazumevanje je izazvalo svađu.",
+   "ru": "Это непонимание вызвало ссору."
+  }
+ },
+ {
+  "id": "w2404",
+  "order": 2404,
+  "level": "B1",
+  "cyr": "прилаз",
+  "lat": "prilaz",
+  "tr": "прилаз",
+  "ru": "подъезд; подъездной путь; приближение",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "m",
+  "ex": {
+   "cyr": "Возач је пронашао прилаз до паркинга.",
+   "lat": "Vozač je pronašao prilaz do parkinga.",
+   "ru": "Водитель нашел подъезд к парковке."
+  }
+ },
+ {
+  "id": "w2405",
+  "order": 2405,
+  "level": "B1",
+  "cyr": "осигурање",
+  "lat": "osiguranje",
+  "tr": "осигуранье",
+  "ru": "страховка; страхование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Путник је купио путно осигурање.",
+   "lat": "Putnik je kupio putno osiguranje.",
+   "ru": "Путчик купил туристическую страховку."
+  }
+ },
+ {
+  "id": "w2406",
+  "order": 2406,
+  "level": "B1",
+  "cyr": "излет",
+  "lat": "izlet",
+  "tr": "излет",
+  "ru": "поездка на природу; пикник",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "m",
+  "ex": {
+   "cyr": "Цела породица је уживала у недељном излету.",
+   "lat": "Cela porodica je uživala u nedeljnom izletu.",
+   "ru": "Вся семья наслаждалась еженедельной поездкой на природу."
+  }
+ },
+ {
+  "id": "w2407",
+  "order": 2407,
+  "level": "B1",
+  "cyr": "изнајмљивач",
+  "lat": "iznajmljivač",
+  "tr": "изнајмливач",
+  "ru": "арендатор; тот, кто снимает",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Изнајмљивач је платио први месец.",
+   "lat": "Iznajmljivač je platio prvi mesec.",
+   "ru": "Арендатор заплатил первый месяц."
+  }
+ },
+ {
+  "id": "w2408",
+  "order": 2408,
+  "level": "B1",
+  "cyr": "мора",
+  "lat": "mora",
+  "tr": "мора",
+  "ru": "моря; океан",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Деца играју на обали мора.",
+   "lat": "Deca igraju na obali mora.",
+   "ru": "Дети играют на берегу моря."
+  }
+ },
+ {
+  "id": "w2409",
+  "order": 2409,
+  "level": "B1",
+  "cyr": "комисија",
+  "lat": "komisija",
+  "tr": "комисија",
+  "ru": "комиссия; комиссия",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Комисија је одредила нове критеријуме.",
+   "lat": "Komisija je odredila nove kriterijume.",
+   "ru": "Комиссия установила новые критерии."
+  }
+ },
+ {
+  "id": "w2410",
+  "order": 2410,
+  "level": "B1",
+  "cyr": "искључиво",
+  "lat": "isključivo",
+  "tr": "исключиво",
+  "ru": "исключительно; только",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Овај воз иде искључиво до Београда.",
+   "lat": "Ovaj voz ide isključivo do Beograda.",
+   "ru": "Этот поезд идет исключительно до Белграда."
+  }
+ },
+ {
+  "id": "w2411",
+  "order": 2411,
+  "level": "B1",
+  "cyr": "појашњење",
+  "lat": "pojašnjenje",
+  "tr": "појашньенье",
+  "ru": "разъяснение; пояснение",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Појашњење је било потребно за разумевање.",
+   "lat": "Pojašnjenje je bilo potrebno za razumevanje.",
+   "ru": "Разъяснение было необходимо для понимания."
+  }
+ },
+ {
+  "id": "w2412",
+  "order": 2412,
+  "level": "B1",
+  "cyr": "држављанство",
+  "lat": "državljanstvo",
+  "tr": "државлянство",
+  "ru": "гражданство",
+  "pos": "noun",
+  "cat": "basics",
+  "gender": "n",
+  "ex": {
+   "cyr": "Српско држављанство је моје право.",
+   "lat": "Srpsko državljanstvo je moje pravo.",
+   "ru": "Сербское гражданство — это моё право."
+  }
+ },
+ {
+  "id": "w2413",
+  "order": 2413,
+  "level": "B1",
+  "cyr": "обавештавати",
+  "lat": "obaveštavati",
+  "tr": "обавештавати",
+  "ru": "сообщать; уведомлять",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Агент обавештава клијента о променама.",
+   "lat": "Agent obaveštava klijenta o promenama.",
+   "ru": "Агент информирует клиента об изменениях."
+  }
+ },
+ {
+  "id": "w2414",
+  "order": 2414,
+  "level": "B1",
+  "cyr": "задржавати",
+  "lat": "zadržavati",
+  "tr": "задржавати",
+  "ru": "удерживать; задерживать; запоминать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Задржавам своје кључеве у руци.",
+   "lat": "Zadržavam svoje ključeve u ruci.",
+   "ru": "Я держу свои ключи в руке."
+  }
+ },
+ {
+  "id": "w2415",
+  "order": 2415,
+  "level": "B1",
+  "cyr": "клаксон",
+  "lat": "klakson",
+  "tr": "клаксон",
+  "ru": "клаксон; сирена",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сирена је била јако гласна клаксон.",
+   "lat": "Sirena je bila jako glasna klakson.",
+   "ru": "Сирена была очень громким клаксоном."
+  }
+ },
+ {
+  "id": "w2416",
+  "order": 2416,
+  "level": "B1",
+  "cyr": "живописан",
+  "lat": "živopisan",
+  "tr": "живописан",
+  "ru": "живописный; picturesque",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Живописан вид са прозора насмешио је туристе.",
+   "lat": "Živopisan vid sa prozora nasmešio je turiste.",
+   "ru": "Живописный вид из окна позабавил туристов."
+  }
+ },
+ {
+  "id": "w2417",
+  "order": 2417,
+  "level": "B1",
+  "cyr": "успомена",
+  "lat": "uspomena",
+  "tr": "успомена",
+  "ru": "воспоминание; память",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара фотографија пробудила је лепе успомене.",
+   "lat": "Stara fotografija probudila je lepe uspomene.",
+   "ru": "Старая фотография пробудила прекрасные воспоминания."
+  }
+ },
+ {
+  "id": "w2418",
+  "order": 2418,
+  "level": "B1",
+  "cyr": "центру",
+  "lat": "centru",
+  "tr": "центру",
+  "ru": "в центре; к центру",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "m",
+  "ex": {
+   "cyr": "Музеј се налази у центру града.",
+   "lat": "Muzej se nalazi u centru grada.",
+   "ru": "Музей находится в центре города."
+  }
+ },
+ {
+  "id": "w2419",
+  "order": 2419,
+  "level": "B1",
+  "cyr": "неповољан",
+  "lat": "nepovoljan",
+  "tr": "неповолян",
+  "ru": "неблагоприятный; невыгодный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Неповољан временски услов онемогућава нам путовање.",
+   "lat": "Nepovoljan vremenski uslov onemogućava nam putovanje.",
+   "ru": "Неблагоприятные погодные условия мешают нам путешествовать."
+  }
+ },
+ {
+  "id": "w2420",
+  "order": 2420,
+  "level": "B1",
+  "cyr": "кафић",
+  "lat": "kafić",
+  "tr": "кафич",
+  "ru": "кофейня; кафе",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "m",
+  "ex": {
+   "cyr": "У том малом кафићу је најбоља кафа.",
+   "lat": "U tom malom kafiću je najbolja kafa.",
+   "ru": "В той маленькой кофейне лучший кофе."
+  }
+ },
+ {
+  "id": "w2421",
+  "order": 2421,
+  "level": "B1",
+  "cyr": "уступка",
+  "lat": "ustupka",
+  "tr": "уступка",
+  "ru": "уступка; скидка",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Трговац је дао малу уступку.",
+   "lat": "Trgovac je dao malu ustupku.",
+   "ru": "Продавец сделал небольшую уступку."
+  }
+ },
+ {
+  "id": "w2422",
+  "order": 2422,
+  "level": "B1",
+  "cyr": "магловит",
+  "lat": "maglovit",
+  "tr": "магловит",
+  "ru": "туманный; дымчатый",
+  "pos": "adj",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Магловито јутро је отежало видљивост.",
+   "lat": "Maglovito jutro je otežalo vidljivost.",
+   "ru": "Туманное утро затруднило видимость."
+  }
+ },
+ {
+  "id": "w2423",
+  "order": 2423,
+  "level": "B1",
+  "cyr": "описати",
+  "lat": "opisati",
+  "tr": "описати",
+  "ru": "описать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Описаћемо вам све лепше углове острва.",
+   "lat": "Opisaćemo vam sve lepše uglove ostrva.",
+   "ru": "Мы опишем вам все самые красивые уголки острова."
+  }
+ },
+ {
+  "id": "w2424",
+  "order": 2424,
+  "level": "B1",
+  "cyr": "закаснити",
+  "lat": "zakasniti",
+  "tr": "закаснити",
+  "ru": "опоздать; опаздывать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Закаснио сам на састанак због саобраћајне гужве.",
+   "lat": "Zakasnio sam na sastanak zbog saobraćajne gužve.",
+   "ru": "Я опоздал на встречу из-за пробок на дороге."
+  }
+ },
+ {
+  "id": "w2425",
+  "order": 2425,
+  "level": "B1",
+  "cyr": "мењач",
+  "lat": "menjač",
+  "tr": "меньяч",
+  "ru": "коробка передач; переключатель",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "У аутомобилу се налази мењач.",
+   "lat": "U automobilu se nalazi menjač.",
+   "ru": "В автомобиле находится коробка передач."
+  }
+ },
+ {
+  "id": "w2426",
+  "order": 2426,
+  "level": "B1",
+  "cyr": "незабораван",
+  "lat": "nezaboravan",
+  "tr": "незабораван",
+  "ru": "незабываемый; unforgettable",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Незабораван одмор оставио је најлепсе сећања.",
+   "lat": "Nezaboravan odmor ostavio je najlepse sećanja.",
+   "ru": "Незабываемый отдых оставил самые лучшие воспоминания."
+  }
+ },
+ {
+  "id": "w2427",
+  "order": 2427,
+  "level": "B1",
+  "cyr": "утисак",
+  "lat": "utisak",
+  "tr": "утисак",
+  "ru": "впечатление",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Град оставља диван утисак.",
+   "lat": "Grad ostavlja divan utisak.",
+   "ru": "Город оставляет чудесное впечатление."
+  }
+ },
+ {
+  "id": "w2428",
+  "order": 2428,
+  "level": "B1",
+  "cyr": "градски",
+  "lat": "gradski",
+  "tr": "градски",
+  "ru": "городской; городской транспорт",
+  "pos": "adj",
+  "cat": "city",
+  "ex": {
+   "cyr": "Градски саобраћај често је препун.",
+   "lat": "Gradski saobraćaj često je prepun.",
+   "ru": "Городской транспорт часто переполнен."
+  }
+ },
+ {
+  "id": "w2429",
+  "order": 2429,
+  "level": "B1",
+  "cyr": "скривен",
+  "lat": "skriven",
+  "tr": "скривен",
+  "ru": "спрятанный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Кључ је скривен испод стола.",
+   "lat": "Ključ je skriven ispod stola.",
+   "ru": "Ключ спрятан под столом."
+  }
+ },
+ {
+  "id": "w2430",
+  "order": 2430,
+  "level": "B1",
+  "cyr": "шеталиште",
+  "lat": "šetalište",
+  "tr": "шеталиште",
+  "ru": "прогулочная аллея; место для прогулок",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "n",
+  "ex": {
+   "cyr": "Шеталиште дуж реке је веома лепо.",
+   "lat": "Šetalište duž reke je veoma lepo.",
+   "ru": "Прогулочная аллея вдоль реки очень красивая."
+  }
+ },
+ {
+  "id": "w2431",
+  "order": 2431,
+  "level": "B1",
+  "cyr": "отпратити",
+  "lat": "otpratiti",
+  "tr": "отпратити",
+  "ru": "проводить; отправить",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Мајка је отпратила дете.",
+   "lat": "Majka je otpratila dete.",
+   "ru": "Мама проводила ребёнка."
+  }
+ },
+ {
+  "id": "w2432",
+  "order": 2432,
+  "level": "B1",
+  "cyr": "заменити",
+  "lat": "zameniti",
+  "tr": "заменити",
+  "ru": "заменять; заменять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Треба заменити старе столице у канцеларији.",
+   "lat": "Treba zameniti stare stolice u kancelariji.",
+   "ru": "Нужно заменить старые стулья в офисе."
+  }
+ },
+ {
+  "id": "w2433",
+  "order": 2433,
+  "level": "B1",
+  "cyr": "неисправност",
+  "lat": "neispravnost",
+  "tr": "неисправност",
+  "ru": "неисправность; поломка",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "У возила је откривена озбиљна неисправност.",
+   "lat": "U vozila je otkrivena ozbiljna neispravnost.",
+   "ru": "В транспортном средстве была обнаружена серьезная неисправность."
+  }
+ },
+ {
+  "id": "w2434",
+  "order": 2434,
+  "level": "B1",
+  "cyr": "необичан",
+  "lat": "neobičan",
+  "tr": "необичан",
+  "ru": "необычный; необыкновенный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Необичан догађај привукао је пажњу пролазника.",
+   "lat": "Neobičan događaj privukao je pažnju prolaznika.",
+   "ru": "Необычное событие привлекло внимание прохожих."
+  }
+ },
+ {
+  "id": "w2435",
+  "order": 2435,
+  "level": "B1",
+  "cyr": "благ",
+  "lat": "blag",
+  "tr": "благ",
+  "ru": "мягкий; добрый",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Благ је његов глас.",
+   "lat": "Blag je njegov glas.",
+   "ru": "Его голос добрый."
+  }
+ },
+ {
+  "id": "w2436",
+  "order": 2436,
+  "level": "B1",
+  "cyr": "општински",
+  "lat": "opštinski",
+  "tr": "општински",
+  "ru": "общинный; муниципальный",
+  "pos": "adj",
+  "cat": "city",
+  "ex": {
+   "cyr": "Општински завод за културу је отворен свакодневно.",
+   "lat": "Opštinski zavod za kulturu je otvoren svakodnevno.",
+   "ru": "Общинский дом культуры открыт каждый день."
+  }
+ },
+ {
+  "id": "w2437",
+  "order": 2437,
+  "level": "B1",
+  "cyr": "суседни",
+  "lat": "susedni",
+  "tr": "суседни",
+  "ru": "соседний; примыкающий",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Суседна кућа је на другој страни улице.",
+   "lat": "Susedna kuća je na drugoj strani ulice.",
+   "ru": "Соседний дом находится на другой стороне улицы."
+  }
+ },
+ {
+  "id": "w2438",
+  "order": 2438,
+  "level": "B1",
+  "cyr": "отпутовати",
+  "lat": "otputovati",
+  "tr": "отпутовати",
+  "ru": "отправиться в путь; уехать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Они ће отпутовати сутра.",
+   "lat": "Oni će otputovati sutra.",
+   "ru": "Они отправятся в путь завтра."
+  }
+ },
+ {
+  "id": "w2439",
+  "order": 2439,
+  "level": "B1",
+  "cyr": "искрцати се",
+  "lat": "iskrcati se",
+  "tr": "искрцати се",
+  "ru": "выйти; сойти с транспорта",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Туристи искрцају се са брода у луку.",
+   "lat": "Turisti iskrcaju se sa broda u luku.",
+   "ru": "Туристы сходят с корабля в порт."
+  }
+ },
+ {
+  "id": "w2440",
+  "order": 2440,
+  "level": "B1",
+  "cyr": "резервоар",
+  "lat": "rezervoar",
+  "tr": "резервоар",
+  "ru": "бак; резервуар",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Резервоар за гориво скоро је празан.",
+   "lat": "Rezervoar za gorivo skoro je prazan.",
+   "ru": "Бак для топлива почти пуст."
+  }
+ },
+ {
+  "id": "w2441",
+  "order": 2441,
+  "level": "B1",
+  "cyr": "нижи",
+  "lat": "niži",
+  "tr": "нижи",
+  "ru": "более низкий; нижний",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Нижи модели су јефтинији.",
+   "lat": "Niži modeli su jeftiniji.",
+   "ru": "Более низкие модели дешевле."
+  }
+ },
+ {
+  "id": "w2442",
+  "order": 2442,
+  "level": "B1",
+  "cyr": "гостопримив",
+  "lat": "gostoprimiv",
+  "tr": "гостопримив",
+  "ru": "гостеприимный",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Гостопримив је човек.",
+   "lat": "Gostoprimiv je čovek.",
+   "ru": "Гостеприимный человек."
+  }
+ },
+ {
+  "id": "w2443",
+  "order": 2443,
+  "level": "B1",
+  "cyr": "препун",
+  "lat": "prepun",
+  "tr": "препун",
+  "ru": "полный до отказа",
+  "pos": "adj",
+  "cat": "city",
+  "ex": {
+   "cyr": "Град је препун туриста.",
+   "lat": "Grad je prepun turista.",
+   "ru": "Город полон туристов."
+  }
+ },
+ {
+  "id": "w2444",
+  "order": 2444,
+  "level": "B1",
+  "cyr": "планирати",
+  "lat": "planirati",
+  "tr": "планирати",
+  "ru": "планировать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Турист планира свој одмор.",
+   "lat": "Turist planira svoj odmor.",
+   "ru": "Турист планирует свой отпуск."
+  }
+ },
+ {
+  "id": "w2445",
+  "order": 2445,
+  "level": "B1",
+  "cyr": "камповати",
+  "lat": "kampovati",
+  "tr": "камповати",
+  "ru": "кеминговать; жить в палатке",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Туристичари често кампују поред језера.",
+   "lat": "Turističari često kampuju pored jezera.",
+   "ru": "Туристы часто живут в палатках у озера."
+  }
+ },
+ {
+  "id": "w2446",
+  "order": 2446,
+  "level": "B1",
+  "cyr": "светла",
+  "lat": "svetla",
+  "tr": "светла",
+  "ru": "фары; огни",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "n",
+  "ex": {
+   "cyr": "Увек укључи светла када је мрак.",
+   "lat": "Uvek uključi svetla kada je mrak.",
+   "ru": "Всегда включай фары, когда темно."
+  }
+ },
+ {
+  "id": "w2447",
+  "order": 2447,
+  "level": "B1",
+  "cyr": "резервни",
+  "lat": "rezervni",
+  "tr": "резервни",
+  "ru": "запасный; резервный; дополнительный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Резервни улаз је са друге стране зграде.",
+   "lat": "Rezervni ulaz je sa druge strane zgrade.",
+   "ru": "Запасный вход с другой стороны здания."
+  }
+ },
+ {
+  "id": "w2448",
+  "order": 2448,
+  "level": "B1",
+  "cyr": "несигуран",
+  "lat": "nesiguran",
+  "tr": "несигуран",
+  "ru": "несомневающийся; неуверенный",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Он је несигуран у свом одлуци.",
+   "lat": "On je nesiguran u svom odluci.",
+   "ru": "Он не уверен в своём решении."
+  }
+ },
+ {
+  "id": "w2449",
+  "order": 2449,
+  "level": "B1",
+  "cyr": "пешачка зона",
+  "lat": "pešačka zona",
+  "tr": "пешачка зона",
+  "ru": "пешеходная зона",
+  "pos": "phrase",
+  "cat": "city",
+  "ex": {
+   "cyr": "У центру града је пешачка зона.",
+   "lat": "U centru grada je pešačka zona.",
+   "ru": "В центре города есть пешеходная зона."
+  }
+ },
+ {
+  "id": "w2450",
+  "order": 2450,
+  "level": "B1",
+  "cyr": "полетати",
+  "lat": "poletati",
+  "tr": "полетати",
+  "ru": "взлетать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Девојке често лете и летићу на југ.",
+   "lat": "Devojke često lete i letiću na jug.",
+   "ru": "Девушки часто летают и полетят на юг."
+  }
+ },
+ {
+  "id": "w2451",
+  "order": 2451,
+  "level": "B1",
+  "cyr": "клизати",
+  "lat": "klizati",
+  "tr": "клизати",
+  "ru": "скользить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "На леду се клизало јако лепо.",
+   "lat": "Na ledu se klizalo jako lepo.",
+   "ru": "На льду скользить очень приятно."
+  }
+ },
+ {
+  "id": "w2452",
+  "order": 2452,
+  "level": "B1",
+  "cyr": "свећица",
+  "lat": "svećica",
+  "tr": "свечица",
+  "ru": "свеча зажигания",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Механичар је заменио свећице.",
+   "lat": "Mehaničar je zamenio svećice.",
+   "ru": "Механик заменил свечи."
+  }
+ },
+ {
+  "id": "w2453",
+  "order": 2453,
+  "level": "B1",
+  "cyr": "средњи",
+  "lat": "srednji",
+  "tr": "средни",
+  "ru": "средний; центральный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Седео је у средњем реду.",
+   "lat": "Sedeo je u srednjem redu.",
+   "ru": "Он сидел в среднем ряду."
+  }
+ },
+ {
+  "id": "w2454",
+  "order": 2454,
+  "level": "B1",
+  "cyr": "полетети",
+  "lat": "poleteti",
+  "tr": "полетети",
+  "ru": "взлететь; полететь",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Авион ће полетети са аеродрома у подне.",
+   "lat": "Avion će poleteti sa aerodroma u podne.",
+   "ru": "Самолет взлетит с аэродрома в полдень."
+  }
+ },
+ {
+  "id": "w2455",
+  "order": 2455,
+  "level": "B1",
+  "cyr": "напустити",
+  "lat": "napustiti",
+  "tr": "напустити",
+  "ru": "покинуть; оставить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Напустио је град заувек.",
+   "lat": "Napustio je grad zauvek.",
+   "ru": "Он навсегда покинул город."
+  }
+ },
+ {
+  "id": "w2456",
+  "order": 2456,
+  "level": "B1",
+  "cyr": "штампан",
+  "lat": "štampan",
+  "tr": "штампан",
+  "ru": "напечатанный; типографский",
+  "pos": "adj",
+  "cat": "tech",
+  "ex": {
+   "cyr": "Штампан материјал је стигао данас.",
+   "lat": "Štampan materijal je stigao danas.",
+   "ru": "Напечатанный материал пришел сегодня."
+  }
+ },
+ {
+  "id": "w2457",
+  "order": 2457,
+  "level": "B1",
+  "cyr": "упечатљив",
+  "lat": "upečatljiv",
+  "tr": "упечатлив",
+  "ru": "запоминающийся; впечатляющий",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Упечатљив наступ младе певачице освојио је публику.",
+   "lat": "Upečatljiv nastup mlade pevačice osvojio je publiku.",
+   "ru": "Запоминающийся выход молодой певицы завоевал публику."
+  }
+ },
+ {
+  "id": "w2458",
+  "order": 2458,
+  "level": "B1",
+  "cyr": "поништавати",
+  "lat": "poništavati",
+  "tr": "поништавати",
+  "ru": "отменять; аннулировать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Агент поништава грешку у нашој путној карти.",
+   "lat": "Agent poništava grešku u našoj putnoj karti.",
+   "ru": "Агент исправляет ошибку в нашем билете."
+  }
+ },
+ {
+  "id": "w2459",
+  "order": 2459,
+  "level": "B1",
+  "cyr": "напуштати",
+  "lat": "napuštati",
+  "tr": "напуштати",
+  "ru": "покидать; оставлять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Они често напуштају кућу.",
+   "lat": "Oni često napuštaju kuću.",
+   "ru": "Они часто покидают дом."
+  }
+ },
+ {
+  "id": "w2460",
+  "order": 2460,
+  "level": "B1",
+  "cyr": "технички преглед",
+  "lat": "tehnički pregled",
+  "tr": "технички преглед",
+  "ru": "техосмотр; техничкий осмотр",
+  "pos": "phrase",
+  "cat": "tech",
+  "ex": {
+   "cyr": "Аутомобил мора проћи технички преглед.",
+   "lat": "Automobil mora proći tehnički pregled.",
+   "ru": "Автомобиль должен пройти техосмотр."
+  }
+ },
+ {
+  "id": "w2461",
+  "order": 2461,
+  "level": "B1",
+  "cyr": "услужан",
+  "lat": "uslužan",
+  "tr": "услужан",
+  "ru": "вежливый; услужливый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Конобар био је веома услужан.",
+   "lat": "Konobar bio je veoma uslužan.",
+   "ru": "Официант был очень вежливым."
+  }
+ },
+ {
+  "id": "w2462",
+  "order": 2462,
+  "level": "B1",
+  "cyr": "поништити",
+  "lat": "poništiti",
+  "tr": "поништити",
+  "ru": "отменить; аннулировать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Морамо да поништимо нашу резервацију за вечер.",
+   "lat": "Moramo da poništimo našu rezervaciju za večer.",
+   "ru": "Нам нужно отменить нашу брони на вечерю."
+  }
+ },
+ {
+  "id": "w2463",
+  "order": 2463,
+  "level": "B1",
+  "cyr": "обићи",
+  "lat": "obići",
+  "tr": "обичи",
+  "ru": "обойти; объехать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Туриста је обишла цео град.",
+   "lat": "Turista je obišla ceo grad.",
+   "ru": "Туристка обошла весь город."
+  }
+ },
+ {
+  "id": "w2464",
+  "order": 2464,
+  "level": "B1",
+  "cyr": "посетити",
+  "lat": "posetiti",
+  "tr": "посетити",
+  "ru": "посетить",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Туриста ће посетити музеј сутра.",
+   "lat": "Turista će posetiti muzej sutra.",
+   "ru": "Турист посетит музей завтра."
+  }
+ },
+ {
+  "id": "w2465",
+  "order": 2465,
+  "level": "B1",
+  "cyr": "одложити",
+  "lat": "odložiti",
+  "tr": "одложити",
+  "ru": "отложить; перенести",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Морамо да одложимо путовање за сутра.",
+   "lat": "Moramo da odložimo putovanje za sutra.",
+   "ru": "Нам нужно отложить поездку на завтра."
+  }
+ },
+ {
+  "id": "w2466",
+  "order": 2466,
+  "level": "B1",
+  "cyr": "потврђивати",
+  "lat": "potvrđivati",
+  "tr": "потврдживати",
+  "ru": "подтверждать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Менаџер потврђује све резервације телефонски.",
+   "lat": "Menadžer potvrđuje sve rezervacije telefonski.",
+   "ru": "Менеджер подтверждает все брони по телефону."
+  }
+ },
+ {
+  "id": "w2467",
+  "order": 2467,
+  "level": "B1",
+  "cyr": "окретати",
+  "lat": "okretati",
+  "tr": "окретати",
+  "ru": "поворачивать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Такси окреће у улицу.",
+   "lat": "Taksi okreće u ulicu.",
+   "ru": "Такси поворачивает в улицу."
+  }
+ },
+ {
+  "id": "w2468",
+  "order": 2468,
+  "level": "B1",
+  "cyr": "препоручивати",
+  "lat": "preporučivati",
+  "tr": "препоручивати",
+  "ru": "рекомендовать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Хостел препоручује овај ресторан свим гостима.",
+   "lat": "Hostel preporučuje ovaj restoran svim gostima.",
+   "ru": "Хостел рекомендует этот ресторан всем гостям."
+  }
+ },
+ {
+  "id": "w2469",
+  "order": 2469,
+  "level": "B1",
+  "cyr": "паковати",
+  "lat": "pakovati",
+  "tr": "паковати",
+  "ru": "упаковывать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Мајка пакује торбу за одмор.",
+   "lat": "Majka pakuje torbu za odmor.",
+   "ru": "Мама упаковывает сумку для отпуска."
+  }
+ },
+ {
+  "id": "w2470",
+  "order": 2470,
+  "level": "B1",
+  "cyr": "прошетати",
+  "lat": "prošetati",
+  "tr": "прошетати",
+  "ru": "прогуляться",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Туристе ће прошетати кроз стари град.",
+   "lat": "Turiste će prošetati kroz stari grad.",
+   "ru": "Туисты прогуляются по старому городу."
+  }
+ },
+ {
+  "id": "w2471",
+  "order": 2471,
+  "level": "B1",
+  "cyr": "попунити",
+  "lat": "popuniti",
+  "tr": "попунити",
+  "ru": "заполнить; заполнить (форму)",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Попунио је све поља на формулару.",
+   "lat": "Popunio je sve polja na formularu.",
+   "ru": "Он заполнил все поля в анкете."
+  }
+ },
+ {
+  "id": "w2472",
+  "order": 2472,
+  "level": "B1",
+  "cyr": "разгледати",
+  "lat": "razgledati",
+  "tr": "разгледати",
+  "ru": "осмотреть; разглядеть",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Ту је разгледао све знаменитости града.",
+   "lat": "Tu je razgledao sve znamenitosti grada.",
+   "ru": "Он осмотрел все достопримечательности города."
+  }
+ },
+ {
+  "id": "w2473",
+  "order": 2473,
+  "level": "B1",
+  "cyr": "попуњавати",
+  "lat": "popunjavati",
+  "tr": "попуньявати",
+  "ru": "заполнять; заполнять (форму)",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Попуњавам образац за кандидатуру.",
+   "lat": "Popunjavam obrazac za kandidaturu.",
+   "ru": "Я заполняю форму для участия в конкурсе."
+  }
+ },
+ {
+  "id": "w2474",
+  "order": 2474,
+  "level": "B1",
+  "cyr": "саветовати",
+  "lat": "savetovati",
+  "tr": "саветовати",
+  "ru": "советовать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Водич саветује туристе да носе удобне ципеле.",
+   "lat": "Vodič savetuje turiste da nose udobne cipele.",
+   "ru": "Гид советует туристам носить удобную обувь."
+  }
+ },
+ {
+  "id": "w2475",
+  "order": 2475,
+  "level": "B1",
+  "cyr": "посећивати",
+  "lat": "posećivati",
+  "tr": "посечивати",
+  "ru": "посещать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Они редовно посећују своје родитеље.",
+   "lat": "Oni redovno posećuju svoje roditelje.",
+   "ru": "Они регулярно посещают своих родителей."
+  }
+ },
+ {
+  "id": "w2476",
+  "order": 2476,
+  "level": "B1",
+  "cyr": "сачекати",
+  "lat": "sačekati",
+  "tr": "сачекати",
+  "ru": "пождать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Таксиста нас је сачекао на аеродрому.",
+   "lat": "Taksista nas je sačekao na aerodromu.",
+   "ru": "Таксист нас ждал на аэропорту."
+  }
+ },
+ {
+  "id": "w2477",
+  "order": 2477,
+  "level": "B1",
+  "cyr": "појаснити",
+  "lat": "pojasniti",
+  "tr": "појаснити",
+  "ru": "разъяснить; прояснить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Молим те, појасни шта мислиш.",
+   "lat": "Molim te, pojasni šta misliš.",
+   "ru": "Пожалуйста, разъясни, что ты имеешь в виду."
+  }
+ },
+ {
+  "id": "w2478",
+  "order": 2478,
+  "level": "B1",
+  "cyr": "скренути",
+  "lat": "skrenuti",
+  "tr": "скренути",
+  "ru": "повернуть; свернуть",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Таксиста је скренуо лево у улицу.",
+   "lat": "Taksista je skrenuo levo u ulicu.",
+   "ru": "Таксист повернул налево в улицу."
+  }
+ },
+ {
+  "id": "w2479",
+  "order": 2479,
+  "level": "B1",
+  "cyr": "преседати",
+  "lat": "presedati",
+  "tr": "преседати",
+  "ru": "передвигаться; перемещаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Деца често преседају у реду.",
+   "lat": "Deca često presedaju u redu.",
+   "ru": "Дети часто передвигаются в очереди."
+  }
+ },
+ {
+  "id": "w2480",
+  "order": 2480,
+  "level": "B1",
+  "cyr": "слетети",
+  "lat": "sleteti",
+  "tr": "слетети",
+  "ru": "приземлиться; слететь",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Пилот је слетео авион на аеродром.",
+   "lat": "Pilot je sleteo avion na aerodrom.",
+   "ru": "Пилот посадил самолет на аэродром."
+  }
+ },
+ {
+  "id": "w2481",
+  "order": 2481,
+  "level": "B1",
+  "cyr": "преседи",
+  "lat": "presedi",
+  "tr": "преседи",
+  "ru": "пересесть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Ово место је заузето, преседи на оно.",
+   "lat": "Ovo mesto je zauzeto, presedi na ono.",
+   "ru": "Это место занято, пересядь на то."
+  }
+ },
+ {
+  "id": "w2482",
+  "order": 2482,
+  "level": "B1",
+  "cyr": "спаковати",
+  "lat": "spakovati",
+  "tr": "спаковати",
+  "ru": "упаковать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Они су спаковали сунђере за плажу.",
+   "lat": "Oni su spakovali sunđere za plažu.",
+   "ru": "Они упаковали губки для пляжа."
+  }
+ },
+ {
+  "id": "w2483",
+  "order": 2483,
+  "level": "B1",
+  "cyr": "претресити",
+  "lat": "pretresiti",
+  "tr": "претресити",
+  "ru": "досмотреть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Претресају све торбе.",
+   "lat": "Pretresaju sve torbe.",
+   "ru": "Они обыскивают все сумки."
+  }
+ },
+ {
+  "id": "w2484",
+  "order": 2484,
+  "level": "B1",
+  "cyr": "угледати",
+  "lat": "ugledati",
+  "tr": "угледати",
+  "ru": "увидеть; заметить",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Угледамо познату зграду са високог торња.",
+   "lat": "Ugledamo poznatu zgradu sa visokog tornja.",
+   "ru": "Увидим известное здание со высокой башни."
+  }
+ },
+ {
+  "id": "w2485",
+  "order": 2485,
+  "level": "B1",
+  "cyr": "пријавити",
+  "lat": "prijaviti",
+  "tr": "пријавити",
+  "ru": "регистрировать; заявлять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Мораћеш се пријавити на сајт.",
+   "lat": "Moraćeš se prijaviti na sajt.",
+   "ru": "Тебе нужно будет зарегистрироваться на сайте."
+  }
+ },
+ {
+  "id": "w2486",
+  "order": 2486,
+  "level": "B1",
+  "cyr": "упутити",
+  "lat": "uputiti",
+  "tr": "упутити",
+  "ru": "направить; послать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Конобар ће вас упутити до вашег стола.",
+   "lat": "Konobar će vas uputiti do vašeg stola.",
+   "ru": "Официант проводит вас к вашему столику."
+  }
+ },
+ {
+  "id": "w2487",
+  "order": 2487,
+  "level": "B1",
+  "cyr": "пријављивати",
+  "lat": "prijavljivati",
+  "tr": "пријавливати",
+  "ru": "заявлять; регистрировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Пријављујем госте на рецепцији.",
+   "lat": "Prijavljujem goste na recepciji.",
+   "ru": "Я регистрирую гостей на ресепшене."
+  }
+ },
+ {
+  "id": "w2488",
+  "order": 2488,
+  "level": "B1",
+  "cyr": "упућивати",
+  "lat": "upućivati",
+  "tr": "упучивати",
+  "ru": "направлять; адресовать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Путник упућује туристе у правом смеру.",
+   "lat": "Putnik upućuje turiste u pravom smeru.",
+   "ru": "Путник направляет туристов в правильном направлении."
+  }
+ },
+ {
+  "id": "w2489",
+  "order": 2489,
+  "level": "B1",
+  "cyr": "продужавати",
+  "lat": "produžavati",
+  "tr": "продужавати",
+  "ru": "продолжать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Они продужавају да путују кроз планине.",
+   "lat": "Oni produžavaju da putuju kroz planine.",
+   "ru": "Они продолжают путешествовать по горам."
+  }
+ },
+ {
+  "id": "w2490",
+  "order": 2490,
+  "level": "B1",
+  "cyr": "усмерити",
+  "lat": "usmeriti",
+  "tr": "усмерити",
+  "ru": "направить; ориентировать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Водич усмерава туристе ка музеју.",
+   "lat": "Vodič usmerava turiste ka muzeju.",
+   "ru": "Гид направляет туристов к музею."
+  }
+ },
+ {
+  "id": "w2491",
+  "order": 2491,
+  "level": "B1",
+  "cyr": "променити",
+  "lat": "promeniti",
+  "tr": "променити",
+  "ru": "менять; заменять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Трећи пут ћу променити план за одмор.",
+   "lat": "Treći put ću promeniti plan za odmor.",
+   "ru": "В третий раз я изменю планы на отпуск."
+  }
+ },
+ {
+  "id": "w2492",
+  "order": 2492,
+  "level": "B1",
+  "cyr": "фотографисати",
+  "lat": "fotografisati",
+  "tr": "фотографисати",
+  "ru": "фотографировать",
+  "pos": "verb",
+  "cat": "travel",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Туриста је фотографисао стару цркву.",
+   "lat": "Turista je fotografisao staru crkvu.",
+   "ru": "Турист сфотографировал старую церковь."
+  }
+ },
+ {
+  "id": "w2493",
+  "order": 2493,
+  "level": "B1",
+  "cyr": "стићи",
+  "lat": "stići",
+  "tr": "стичи",
+  "ru": "успеть; догнать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Ја ћу стићи на воз на време.",
+   "lat": "Ja ću stići na voz na vreme.",
+   "ru": "Я успею на поезд вовремя."
+  }
+ },
+ {
+  "id": "w2494",
+  "order": 2494,
+  "level": "B1",
+  "cyr": "апартман",
+  "lat": "apartman",
+  "tr": "апартман",
+  "ru": "апартамент",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Апартман је опремљен кухињом.",
+   "lat": "Apartman je opremljen kuhinjom.",
+   "ru": "Апартамент оборудован кухней."
+  }
+ },
+ {
+  "id": "w2495",
+  "order": 2495,
+  "level": "B1",
+  "cyr": "тумачити",
+  "lat": "tumačiti",
+  "tr": "тумачити",
+  "ru": "толковать; интерпретировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Она тумачи сан који је имала ноћас.",
+   "lat": "Ona tumači san koji je imala noćas.",
+   "ru": "Она толкует сон, который ей приснился ночью."
+  }
+ },
+ {
+  "id": "w2496",
+  "order": 2496,
+  "level": "B1",
+  "cyr": "аранжман",
+  "lat": "aranžman",
+  "tr": "аранжман",
+  "ru": "распорядок; программа",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Аранжман путовања је веома занимљив.",
+   "lat": "Aranžman putovanja je veoma zanimljiv.",
+   "ru": "Распорядок поездки очень интересный."
+  }
+ },
+ {
+  "id": "w2497",
+  "order": 2497,
+  "level": "B1",
+  "cyr": "укрцати се",
+  "lat": "ukrcati se",
+  "tr": "укрцати се",
+  "ru": "сесть; сесть на транспорт",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Путници брзо укрцају се у авион.",
+   "lat": "Putnici brzo ukrcaju se u avion.",
+   "ru": "Пассажиры быстро садятся в самолет."
+  }
+ },
+ {
+  "id": "w2498",
+  "order": 2498,
+  "level": "B1",
+  "cyr": "ауто-камп",
+  "lat": "auto-kamp",
+  "tr": "ауто-камп",
+  "ru": "автокемпинг",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ауто-камп се налази близу језера.",
+   "lat": "Auto-kamp se nalazi blizu jezera.",
+   "ru": "Автокемпинг находится рядом с озером."
+  }
+ },
+ {
+  "id": "w2499",
+  "order": 2499,
+  "level": "B1",
+  "cyr": "улазити",
+  "lat": "ulaziti",
+  "tr": "улазити",
+  "ru": "входить; заезжать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Туристи улазе у музеј.",
+   "lat": "Turisti ulaze u muzej.",
+   "ru": "Туристы входят в музей."
+  }
+ },
+ {
+  "id": "w2500",
+  "order": 2500,
+  "level": "B1",
+  "cyr": "вагон",
+  "lat": "vagon",
+  "tr": "вагон",
+  "ru": "вагон",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Путник иде у свој вагон.",
+   "lat": "Putnik ide u svoj vagon.",
+   "ru": "Пассажир идет в свой вагон."
+  }
+ },
+ {
+  "id": "w2501",
+  "order": 2501,
+  "level": "B1",
+  "cyr": "уступити",
+  "lat": "ustupiti",
+  "tr": "уступити",
+  "ru": "уступить; уступить место",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Мораћеш да уступиш старијем путнику.",
+   "lat": "Moraćeš da ustupiš starijem putniku.",
+   "ru": "Ты должен уступить старому пассажиру."
+  }
+ },
+ {
+  "id": "w2502",
+  "order": 2502,
+  "level": "B1",
+  "cyr": "видиковац",
+  "lat": "vidikovac",
+  "tr": "видиковац",
+  "ru": "смотровая площадка",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Видиковац је на врху брда.",
+   "lat": "Vidikovac je na vrhu brda.",
+   "ru": "Смотровая площадка на вершине холма."
+  }
+ },
+ {
+  "id": "w2503",
+  "order": 2503,
+  "level": "B1",
+  "cyr": "возачка",
+  "lat": "vozačka",
+  "tr": "возачка",
+  "ru": "водительские права",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Изгубила је возачку на одмору.",
+   "lat": "Izgubila je vozačku na odmoru.",
+   "ru": "Она потеряла права в отпуске."
+  }
+ },
+ {
+  "id": "w2504",
+  "order": 2504,
+  "level": "B1",
+  "cyr": "гард",
+  "lat": "gard",
+  "tr": "гард",
+  "ru": "багаж",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мој гард је у вагону.",
+   "lat": "Moj gard je u vagonu.",
+   "ru": "Мой багаж в вагоне."
+  }
+ },
+ {
+  "id": "w2505",
+  "order": 2505,
+  "level": "B1",
+  "cyr": "гранични прелаз",
+  "lat": "granični prelaz",
+  "tr": "гранични прелаз",
+  "ru": "пограничный переход",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "На граничном прелазу проверавају пасоше.",
+   "lat": "Na graničnom prelazu proveravaju pasoše.",
+   "ru": "На пограничном переходе проверяют паспорта."
+  }
+ },
+ {
+  "id": "w2506",
+  "order": 2506,
+  "level": "B1",
+  "cyr": "дочек",
+  "lat": "doček",
+  "tr": "дочек",
+  "ru": "встреча; встречание",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Град организује велики дочек за туристе.",
+   "lat": "Grad organizuje veliki doček za turiste.",
+   "ru": "Город организует большую встречу для туристов."
+  }
+ },
+ {
+  "id": "w2507",
+  "order": 2507,
+  "level": "B1",
+  "cyr": "жичара",
+  "lat": "žičara",
+  "tr": "жичара",
+  "ru": "канатная дорога; канатная дорога",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Жичара нас је превела до врха планине.",
+   "lat": "Žičara nas je prevela do vrha planine.",
+   "ru": "Канатная дорога доставила нас до вершины горы."
+  }
+ },
+ {
+  "id": "w2508",
+  "order": 2508,
+  "level": "B1",
+  "cyr": "залив",
+  "lat": "zaliv",
+  "tr": "залив",
+  "ru": "залив",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Лепи залив је скривен између стена.",
+   "lat": "Lepi zaliv je skriven između stena.",
+   "ru": "Красивый залив скрыт между скалами."
+  }
+ },
+ {
+  "id": "w2509",
+  "order": 2509,
+  "level": "B1",
+  "cyr": "замена",
+  "lat": "zamena",
+  "tr": "замена",
+  "ru": "замена; смена",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Замена аутобуса је у центру града.",
+   "lat": "Zamena autobusa je u centru grada.",
+   "ru": "Пересадка автобуса в центре города."
+  }
+ },
+ {
+  "id": "w2510",
+  "order": 2510,
+  "level": "B1",
+  "cyr": "излаз",
+  "lat": "izlaz",
+  "tr": "излаз",
+  "ru": "выход",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Излаз са ауто-пута је близу.",
+   "lat": "Izlaz sa auto-puta je blizu.",
+   "ru": "Выход с шоссе недалеко."
+  }
+ },
+ {
+  "id": "w2511",
+  "order": 2511,
+  "level": "B1",
+  "cyr": "изнајмљивање",
+  "lat": "iznajmljivanje",
+  "tr": "изнајмливанье",
+  "ru": "аренда; прокат",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Изнајмљивање собе је брзо и једноставно.",
+   "lat": "Iznajmljivanje sobe je brzo i jednostavno.",
+   "ru": "Аренда комнаты быстрая и простая."
+  }
+ },
+ {
+  "id": "w2512",
+  "order": 2512,
+  "level": "B1",
+  "cyr": "искрцај",
+  "lat": "iskrcaj",
+  "tr": "искрцај",
+  "ru": "высадка; выгрузка",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Туристи чекају на искрцај у луци.",
+   "lat": "Turisti čekaju na iskrcaj u luci.",
+   "ru": "Туристы ждут высадки в порту."
+  }
+ },
+ {
+  "id": "w2513",
+  "order": 2513,
+  "level": "B1",
+  "cyr": "исправа",
+  "lat": "isprava",
+  "tr": "исправа",
+  "ru": "документ; удостоверение",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Потребна је исправа за прелаз границе.",
+   "lat": "Potrebna je isprava za prelaz granice.",
+   "ru": "Нужен документ для пересечения границы."
+  }
+ },
+ {
+  "id": "w2514",
+  "order": 2514,
+  "level": "B1",
+  "cyr": "испраћај",
+  "lat": "ispraćaj",
+  "tr": "испрачај",
+  "ru": "проводы; проводы",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Испраћај на аеродрому био је тужан.",
+   "lat": "Ispraćaj na aerodromu bio je tužan.",
+   "ru": "Проводы на аэропорту были печальными."
+  }
+ },
+ {
+  "id": "w2515",
+  "order": 2515,
+  "level": "B1",
+  "cyr": "камповање",
+  "lat": "kampovanje",
+  "tr": "кампованье",
+  "ru": "кемпинг; ночевка в палатке",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Камповање у шуми је веома забавно.",
+   "lat": "Kampovanje u šumi je veoma zabavno.",
+   "ru": "Кемпинг в лесу очень весело."
+  }
+ },
+ {
+  "id": "w2516",
+  "order": 2516,
+  "level": "B1",
+  "cyr": "кашњење",
+  "lat": "kašnjenje",
+  "tr": "кашньенье",
+  "ru": "задержка; опоздание",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Важно је да нема кашњења.",
+   "lat": "Važno je da nema kašnjenja.",
+   "ru": "Важно, чтобы не было задержки."
+  }
+ },
+ {
+  "id": "w2517",
+  "order": 2517,
+  "level": "B1",
+  "cyr": "климатизација",
+  "lat": "klimatizacija",
+  "tr": "климатизација",
+  "ru": "кондиционирование; кондиционер",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Климатизација је укључена због врућине.",
+   "lat": "Klimatizacija je uključena zbog vrućine.",
+   "ru": "Кондиционер включён из-за жары."
+  }
+ },
+ {
+  "id": "w2518",
+  "order": 2518,
+  "level": "B1",
+  "cyr": "кривина",
+  "lat": "krivina",
+  "tr": "кривина",
+  "ru": "изгиб; поворот",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кривина на путу је опасна за возаче.",
+   "lat": "Krivina na putu je opasna za vozače.",
+   "ru": "Поворот на дороге опасен для водителей."
+  }
+ },
+ {
+  "id": "w2519",
+  "order": 2519,
+  "level": "B1",
+  "cyr": "купалиште",
+  "lat": "kupalište",
+  "tr": "купалиште",
+  "ru": "пляж; место для купания",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Најбоље купалиште је удаљено од града.",
+   "lat": "Najbolje kupalište je udaljeno od grada.",
+   "ru": "Лучшее пляж находится далеко от города."
+  }
+ },
+ {
+  "id": "w2520",
+  "order": 2520,
+  "level": "B1",
+  "cyr": "летња гума",
+  "lat": "letnja guma",
+  "tr": "летнья гума",
+  "ru": "летняя шина",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мораћеш да промениш летње гуме.",
+   "lat": "Moraćeš da promeniš letnje gume.",
+   "ru": "Тебе придется поменять летние шины."
+  }
+ },
+ {
+  "id": "w2521",
+  "order": 2521,
+  "level": "B1",
+  "cyr": "мотоцикл",
+  "lat": "motocikl",
+  "tr": "мотоцикл",
+  "ru": "мотоцикл",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мотоцикл је брз али опасан.",
+   "lat": "Motocikl je brz ali opasan.",
+   "ru": "Мотоцикл быстрый, но опасный."
+  }
+ },
+ {
+  "id": "w2522",
+  "order": 2522,
+  "level": "B1",
+  "cyr": "надвожњак",
+  "lat": "nadvožnjak",
+  "tr": "надвожньяк",
+  "ru": "мост; путепровод",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Надвожњак прелази преко ауто-пута.",
+   "lat": "Nadvožnjak prelazi preko auto-puta.",
+   "ru": "Мост пересекает шоссе."
+  }
+ },
+ {
+  "id": "w2523",
+  "order": 2523,
+  "level": "B1",
+  "cyr": "ноћење",
+  "lat": "noćenje",
+  "tr": "ноченье",
+  "ru": "проживание; ночевка",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ноћење у мотелу је јефтиније.",
+   "lat": "Noćenje u motelu je jeftinije.",
+   "ru": "Проживание в мотеле дешевле."
+  }
+ },
+ {
+  "id": "w2524",
+  "order": 2524,
+  "level": "B1",
+  "cyr": "обзир",
+  "lat": "obzir",
+  "tr": "обзир",
+  "ru": "обзор; осмотр",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Обзир града је са старе тврђаве.",
+   "lat": "Obzir grada je sa stare tvrđave.",
+   "ru": "Обзор города со старой крепости."
+  }
+ },
+ {
+  "id": "w2525",
+  "order": 2525,
+  "level": "B1",
+  "cyr": "обилазак",
+  "lat": "obilazak",
+  "tr": "обилазак",
+  "ru": "обзор; объезд",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Обилазак града траје цео дан.",
+   "lat": "Obilazak grada traje ceo dan.",
+   "ru": "Обзор города занимает целый день."
+  }
+ },
+ {
+  "id": "w2526",
+  "order": 2526,
+  "level": "B1",
+  "cyr": "ограничење",
+  "lat": "ograničenje",
+  "tr": "ограниченье",
+  "ru": "ограничение; предел",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ограничење брзине важи на целом путу.",
+   "lat": "Ograničenje brzine važi na celom putu.",
+   "ru": "Ограничение скорости действует на всем протяжении дороги."
+  }
+ },
+ {
+  "id": "w2527",
+  "order": 2527,
+  "level": "B1",
+  "cyr": "одлазак",
+  "lat": "odlazak",
+  "tr": "одлазак",
+  "ru": "уезд; отъезд; уход",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Возно одлазак воза је у девет часова.",
+   "lat": "Vozno odlazak voza je u devet časova.",
+   "ru": "Время отправления поезда — в девять часов."
+  }
+ },
+ {
+  "id": "w2528",
+  "order": 2528,
+  "level": "B1",
+  "cyr": "одмаралиште",
+  "lat": "odmaralište",
+  "tr": "одмаралиште",
+  "ru": "дом отдыха",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Одмаралиште је пуно гостију лети.",
+   "lat": "Odmaralište je puno gostiju leti.",
+   "ru": "Дом отдыха полон гостей летом."
+  }
+ },
+ {
+  "id": "w2529",
+  "order": 2529,
+  "level": "B1",
+  "cyr": "одмориште",
+  "lat": "odmorište",
+  "tr": "одмориште",
+  "ru": "отдых; место отдыха",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "На путу је лепо одмориште са парком.",
+   "lat": "Na putu je lepo odmorište sa parkom.",
+   "ru": "По дороге есть красивое место отдыха с парком."
+  }
+ },
+ {
+  "id": "w2530",
+  "order": 2530,
+  "level": "B1",
+  "cyr": "одредиште",
+  "lat": "odredište",
+  "tr": "одредиште",
+  "ru": "назначенное место; пункт назначения",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Наше одредиште је мало приморско место.",
+   "lat": "Naše odredište je malo primorsko mesto.",
+   "ru": "Наш пункт назначения — маленькое приморское местечко."
+  }
+ },
+ {
+  "id": "w2531",
+  "order": 2531,
+  "level": "B1",
+  "cyr": "окрет",
+  "lat": "okret",
+  "tr": "окрет",
+  "ru": "поворот; разворот",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Возач је направио оштар окрет.",
+   "lat": "Vozač je napravio oštar okret.",
+   "ru": "Водитель совершил резкий поворот."
+  }
+ },
+ {
+  "id": "w2532",
+  "order": 2532,
+  "level": "B1",
+  "cyr": "останак",
+  "lat": "ostanak",
+  "tr": "останак",
+  "ru": "пребывание; остаток",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дужина останка одређује цену собе.",
+   "lat": "Dužina ostanka određuje cenu sobe.",
+   "ru": "Продолжительность пребывания определяет цену номера."
+  }
+ },
+ {
+  "id": "w2533",
+  "order": 2533,
+  "level": "B1",
+  "cyr": "пансион",
+  "lat": "pansion",
+  "tr": "пансион",
+  "ru": "пансион; гостевой дом",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "У пансиону је јефтиније од хотела.",
+   "lat": "U pansionu je jeftinije od hotela.",
+   "ru": "В пансионе дешевле, чем в отеле."
+  }
+ },
+ {
+  "id": "w2534",
+  "order": 2534,
+  "level": "B1",
+  "cyr": "поглед",
+  "lat": "pogled",
+  "tr": "поглед",
+  "ru": "вид; взгляд",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Поглед са врха је спектакуларан.",
+   "lat": "Pogled sa vrha je spektakularan.",
+   "ru": "Вид с вершины захватывающий."
+  }
+ },
+ {
+  "id": "w2535",
+  "order": 2535,
+  "level": "B1",
+  "cyr": "пратилац",
+  "lat": "pratilac",
+  "tr": "пратилац",
+  "ru": "спутник; спутница",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Она је мој верни пратилац.",
+   "lat": "Ona je moj verni pratilac.",
+   "ru": "Она — мой верный спутник."
+  }
+ },
+ {
+  "id": "w2536",
+  "order": 2536,
+  "level": "B1",
+  "cyr": "пратња",
+  "lat": "pratnja",
+  "tr": "пратнья",
+  "ru": "сопровождение; спутник",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Двојица полицајаца су у пратњи.",
+   "lat": "Dvojica policajaca su u pratnji.",
+   "ru": "Два полицейских в сопровождении."
+  }
+ },
+ {
+  "id": "w2537",
+  "order": 2537,
+  "level": "B1",
+  "cyr": "прекршај",
+  "lat": "prekršaj",
+  "tr": "прекршај",
+  "ru": "нарушение; правонарушение",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "За прекршај добијаш новчану казну.",
+   "lat": "Za prekršaj dobijaš novčanu kaznu.",
+   "ru": "За нарушение ты получаешь денежный штраф."
+  }
+ },
+ {
+  "id": "w2538",
+  "order": 2538,
+  "level": "B1",
+  "cyr": "прелазак",
+  "lat": "prelazak",
+  "tr": "прелазак",
+  "ru": "переход; пересечение",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Број прелазака преко границе је веома велики.",
+   "lat": "Broj prelazaka preko granice je veoma veliki.",
+   "ru": "Количество переходов через границу очень велико."
+  }
+ },
+ {
+  "id": "w2539",
+  "order": 2539,
+  "level": "B1",
+  "cyr": "преноћиште",
+  "lat": "prenoćište",
+  "tr": "преночиште",
+  "ru": "ночлег",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Тражимо преноћиште у селу.",
+   "lat": "Tražimo prenoćište u selu.",
+   "ru": "Ищем ночлег в селе."
+  }
+ },
+ {
+  "id": "w2540",
+  "order": 2540,
+  "level": "B1",
+  "cyr": "претресање",
+  "lat": "pretresanje",
+  "tr": "претресанье",
+  "ru": "досмотр",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Претресање је обавезно.",
+   "lat": "Pretresanje je obavezno.",
+   "ru": "Обыск обязателен."
+  }
+ },
+ {
+  "id": "w2541",
+  "order": 2541,
+  "level": "B1",
+  "cyr": "приморје",
+  "lat": "primorje",
+  "tr": "приморје",
+  "ru": "приморье; побережье",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Приморје је лепо лети.",
+   "lat": "Primorje je lepo leti.",
+   "ru": "Приморье красиво летом."
+  }
+ },
+ {
+  "id": "w2542",
+  "order": 2542,
+  "level": "B1",
+  "cyr": "провизија",
+  "lat": "provizija",
+  "tr": "провизија",
+  "ru": "провизия; припасы",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Морамо купити провизије за пут.",
+   "lat": "Moramo kupiti provizije za put.",
+   "ru": "Нужно купить припасы для поездки."
+  }
+ },
+ {
+  "id": "w2543",
+  "order": 2543,
+  "level": "B1",
+  "cyr": "програм",
+  "lat": "program",
+  "tr": "програм",
+  "ru": "программа; расписание",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Програм обиласка града почиње у подне.",
+   "lat": "Program obilaska grada počinje u podne.",
+   "ru": "Програм экскурсии по городу начинается в полдень."
+  }
+ },
+ {
+  "id": "w2544",
+  "order": 2544,
+  "level": "B1",
+  "cyr": "продужетак",
+  "lat": "produžetak",
+  "tr": "продужетак",
+  "ru": "продление; продолжение",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Продужетак боравка је могућ.",
+   "lat": "Produžetak boravka je moguć.",
+   "ru": "Продление пребывания возможно."
+  }
+ },
+ {
+  "id": "w2545",
+  "order": 2545,
+  "level": "B1",
+  "cyr": "пролаз",
+  "lat": "prolaz",
+  "tr": "пролаз",
+  "ru": "проход; турникет",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пролаз метроа је често блокиран.",
+   "lat": "Prolaz metroa je često blokiran.",
+   "ru": "Проход метро часто заблокирован."
+  }
+ },
+ {
+  "id": "w2546",
+  "order": 2546,
+  "level": "B1",
+  "cyr": "пут",
+  "lat": "put",
+  "tr": "пут",
+  "ru": "путь; дорога",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пут до мора је дугачак.",
+   "lat": "Put do mora je dugačak.",
+   "ru": "Путь до моря длинный."
+  }
+ },
+ {
+  "id": "w2547",
+  "order": 2547,
+  "level": "B1",
+  "cyr": "пута",
+  "lat": "puta",
+  "tr": "пута",
+  "ru": "путь; дорога",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пут до планине је дугачак.",
+   "lat": "Put do planine je dugačak.",
+   "ru": "Путь до горы длинный."
+  }
+ },
+ {
+  "id": "w2548",
+  "order": 2548,
+  "level": "B1",
+  "cyr": "путарина",
+  "lat": "putarina",
+  "tr": "путарина",
+  "ru": "пошлина; плата за проезд",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Путарина за мост је веома скупа.",
+   "lat": "Putarina za most je veoma skupa.",
+   "ru": "Плата за проезд по мосту очень дорогая."
+  }
+ },
+ {
+  "id": "w2549",
+  "order": 2549,
+  "level": "B1",
+  "cyr": "путоказ",
+  "lat": "putokaz",
+  "tr": "путоказ",
+  "ru": "указатель; знак",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Путоказ показује правац ка граду.",
+   "lat": "Putokaz pokazuje pravac ka gradu.",
+   "ru": "Указатель показывает направление к городу."
+  }
+ },
+ {
+  "id": "w2550",
+  "order": 2550,
+  "level": "B1",
+  "cyr": "путопис",
+  "lat": "putopis",
+  "tr": "путопис",
+  "ru": "путешествие; путеводитель",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Читам путопис о његовом путу у Азију.",
+   "lat": "Čitam putopis o njegovom putu u Aziju.",
+   "ru": "Читаю путешествие о его поездке в Азию."
+  }
+ },
+ {
+  "id": "w2551",
+  "order": 2551,
+  "level": "B1",
+  "cyr": "разгледница",
+  "lat": "razglednica",
+  "tr": "разгледница",
+  "ru": "открытка",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Моја сестра је послала разгледницу са мора.",
+   "lat": "Moja sestra je poslala razglednicu sa mora.",
+   "ru": "Моя сестра прислала открытку с моря."
+  }
+ },
+ {
+  "id": "w2552",
+  "order": 2552,
+  "level": "B1",
+  "cyr": "размена",
+  "lat": "razmena",
+  "tr": "размена",
+  "ru": "обмен; замена",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Размена новца је била брза и једноставна.",
+   "lat": "Razmena novca je bila brza i jednostavna.",
+   "ru": "Обмен валюты был быстрым и простым."
+  }
+ },
+ {
+  "id": "w2553",
+  "order": 2553,
+  "level": "B1",
+  "cyr": "рампа",
+  "lat": "rampa",
+  "tr": "рампа",
+  "ru": "рампа; шлагбаум",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Возила чекају на рампи.",
+   "lat": "Vozila čekaju na rampi.",
+   "ru": "Машины ждут на рампе."
+  }
+ },
+ {
+  "id": "w2554",
+  "order": 2554,
+  "level": "B1",
+  "cyr": "ретровизор",
+  "lat": "retrovizor",
+  "tr": "ретровизор",
+  "ru": "зеркало заднего вида",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ретровизор је напукао.",
+   "lat": "Retrovizor je napukao.",
+   "ru": "Зеркало заднего вида треснулось."
+  }
+ },
+ {
+  "id": "w2555",
+  "order": 2555,
+  "level": "B1",
+  "cyr": "сапутник",
+  "lat": "saputnik",
+  "tr": "сапутник",
+  "ru": "спутник; попутчик",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мој сапутник је из Италије.",
+   "lat": "Moj saputnik je iz Italije.",
+   "ru": "Мой спутник из Италии."
+  }
+ },
+ {
+  "id": "w2556",
+  "order": 2556,
+  "level": "B1",
+  "cyr": "сувенир",
+  "lat": "suvenir",
+  "tr": "сувенир",
+  "ru": "сувенир",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Турист је купио сувенир на тргу.",
+   "lat": "Turist je kupio suvenir na trgu.",
+   "ru": "Турист купил сувенир на площади."
+  }
+ },
+ {
+  "id": "w2557",
+  "order": 2557,
+  "level": "B1",
+  "cyr": "сунчање",
+  "lat": "sunčanje",
+  "tr": "сунчанье",
+  "ru": "загорание; солнце",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Сунчање је добро за здравље.",
+   "lat": "Sunčanje je dobro za zdravlje.",
+   "ru": "Солнце полезно для здоровья."
+  }
+ },
+ {
+  "id": "w2558",
+  "order": 2558,
+  "level": "B1",
+  "cyr": "тарифа",
+  "lat": "tarifa",
+  "tr": "тарифа",
+  "ru": "тарифа",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Та тарифа је за децу.",
+   "lat": "Ta tarifa je za decu.",
+   "ru": "Эта тарифа для детей."
+  }
+ },
+ {
+  "id": "w2559",
+  "order": 2559,
+  "level": "B1",
+  "cyr": "терминал",
+  "lat": "terminal",
+  "tr": "терминал",
+  "ru": "терминал; вокзал",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Терминал је далеко од центра.",
+   "lat": "Terminal je daleko od centra.",
+   "ru": "Терминал далеко от центра."
+  }
+ },
+ {
+  "id": "w2560",
+  "order": 2560,
+  "level": "B1",
+  "cyr": "укрцај",
+  "lat": "ukrcaj",
+  "tr": "укрцај",
+  "ru": "посадка (в транспорт)",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Укрцај путника почиње за десет минута.",
+   "lat": "Ukrcaj putnika počinje za deset minuta.",
+   "ru": "Посадка пассажиров начнется через десять минут."
+  }
+ },
+ {
+  "id": "w2561",
+  "order": 2561,
+  "level": "B1",
+  "cyr": "улаз",
+  "lat": "ulaz",
+  "tr": "улаз",
+  "ru": "вход",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Улаз у парк је бесплатан.",
+   "lat": "Ulaz u park je besplatan.",
+   "ru": "Вход в парк бесплатный."
+  }
+ },
+ {
+  "id": "w2562",
+  "order": 2562,
+  "level": "B1",
+  "cyr": "усмерење",
+  "lat": "usmerenje",
+  "tr": "усмеренье",
+  "ru": "ориентирование; направление",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Турист тражи усмерење до стадиона.",
+   "lat": "Turist traži usmerenje do stadiona.",
+   "ru": "Турист спрашивает направление до стадиона."
+  }
+ },
+ {
+  "id": "w2563",
+  "order": 2563,
+  "level": "B1",
+  "cyr": "хостел",
+  "lat": "hostel",
+  "tr": "хостел",
+  "ru": "хостел; общежитие",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "У хостелу је јефтиније ноћити.",
+   "lat": "U hostelu je jeftinije noćiti.",
+   "ru": "В хостеле дешевле ночевать."
+  }
+ },
+ {
+  "id": "w2564",
+  "order": 2564,
+  "level": "B1",
+  "cyr": "царина",
+  "lat": "carina",
+  "tr": "царина",
+  "ru": "таможня",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "На царини мора да се пријавиш.",
+   "lat": "Na carini mora da se prijaviš.",
+   "ru": "На таможне нужно зарегистрироваться."
+  }
+ },
+ {
+  "id": "w2565",
+  "order": 2565,
+  "level": "B1",
+  "cyr": "царињење",
+  "lat": "carinjenje",
+  "tr": "цариньенье",
+  "ru": "таможенное оформление",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Царињење робе може потрајати и сатима.",
+   "lat": "Carinjenje robe može potrajati i satima.",
+   "ru": "Таможенное оформление груза может длиться часами."
+  }
+ },
+ {
+  "id": "w2566",
+  "order": 2566,
+  "level": "B1",
+  "cyr": "шлеп",
+  "lat": "šlep",
+  "tr": "шлеп",
+  "ru": "эвакуатор; буксировка",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Шлеп је одвукло кола.",
+   "lat": "Šlep je odvuklo kola.",
+   "ru": "Эвакуатор отбуксировал машину."
+  }
+ },
+ {
+  "id": "w2567",
+  "order": 2567,
+  "level": "B1",
+  "cyr": "шофер",
+  "lat": "šofer",
+  "tr": "шофер",
+  "ru": "водитель",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Шофер је добро упутио туристе до хотела.",
+   "lat": "Šofer je dobro uputio turiste do hotela.",
+   "ru": "Водитель хорошо довез туристов до отеля."
+  }
+ },
+ {
+  "id": "w2568",
+  "order": 2568,
+  "level": "B1",
+  "cyr": "аустријски",
+  "lat": "austrijski",
+  "tr": "аустријски",
+  "ru": "австрийский; австриец",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Аустријски градови су лепо уређени.",
+   "lat": "Austrijski gradovi su lepo uređeni.",
+   "ru": "Австрийские города красиво обустроены."
+  }
+ },
+ {
+  "id": "w2569",
+  "order": 2569,
+  "level": "B1",
+  "cyr": "бугарски",
+  "lat": "bugarski",
+  "tr": "бугарски",
+  "ru": "болгарский; болгарин",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Бугарска је земља са богатом историјом.",
+   "lat": "Bugarska je zemlja sa bogatom istorijom.",
+   "ru": "Болгария — страна с богатой историей."
+  }
+ },
+ {
+  "id": "w2570",
+  "order": 2570,
+  "level": "B1",
+  "cyr": "водећи",
+  "lat": "vodeći",
+  "tr": "водечи",
+  "ru": "ведущий; главный",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Водећи турист тумачи градску историју.",
+   "lat": "Vodeći turist tumači gradsku istoriju.",
+   "ru": "Ведущий турист рассказывает историю города."
+  }
+ },
+ {
+  "id": "w2571",
+  "order": 2571,
+  "level": "B1",
+  "cyr": "гранични",
+  "lat": "granični",
+  "tr": "гранични",
+  "ru": "пограничный; граничный",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Гранични прелаз је близу.",
+   "lat": "Granični prelaz je blizu.",
+   "ru": "Пограничный переход недалеко."
+  }
+ },
+ {
+  "id": "w2572",
+  "order": 2572,
+  "level": "B1",
+  "cyr": "групни",
+  "lat": "grupni",
+  "tr": "групни",
+  "ru": "групповой",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Групни превоз је јефтинији.",
+   "lat": "Grupni prevoz je jeftiniji.",
+   "ru": "Групповой транспорт дешевле."
+  }
+ },
+ {
+  "id": "w2573",
+  "order": 2573,
+  "level": "B1",
+  "cyr": "грчки",
+  "lat": "grčki",
+  "tr": "грчки",
+  "ru": "греческий; грек",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Грчка храна је веома укусна.",
+   "lat": "Grčka hrana je veoma ukusna.",
+   "ru": "Греческая еда очень вкусная."
+  }
+ },
+ {
+  "id": "w2574",
+  "order": 2574,
+  "level": "B1",
+  "cyr": "италијански",
+  "lat": "italijanski",
+  "tr": "италијански",
+  "ru": "итальянский; итальянец",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Италијански језик је веома мелодичан.",
+   "lat": "Italijanski jezik je veoma melodičan.",
+   "ru": "Итальянский язык очень мелодичный."
+  }
+ },
+ {
+  "id": "w2575",
+  "order": 2575,
+  "level": "B1",
+  "cyr": "мађарски",
+  "lat": "mađarski",
+  "tr": "маджарски",
+  "ru": "венгерский; венгр",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Мађарска језика ми је тешан.",
+   "lat": "Mađarska jezika mi je tešan.",
+   "ru": "Венгерский язык мне трудный."
+  }
+ },
+ {
+  "id": "w2576",
+  "order": 2576,
+  "level": "B1",
+  "cyr": "оштећен",
+  "lat": "oštećen",
+  "tr": "оштечен",
+  "ru": "поврежденный; испорченный",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Оштећен пртљаг се налази на карусели.",
+   "lat": "Oštećen prtljag se nalazi na karuseli.",
+   "ru": "Поврежденный багаж находится на карусели."
+  }
+ },
+ {
+  "id": "w2577",
+  "order": 2577,
+  "level": "B1",
+  "cyr": "повратна",
+  "lat": "povratna",
+  "tr": "повратна",
+  "ru": "обратная; возвратная",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Повратна карта је већ купљена.",
+   "lat": "Povratna karta je već kupljena.",
+   "ru": "Обратный билет уже куплен."
+  }
+ },
+ {
+  "id": "w2578",
+  "order": 2578,
+  "level": "B1",
+  "cyr": "резервисан",
+  "lat": "rezervisan",
+  "tr": "резервисан",
+  "ru": "забронированный",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Моја соба у хотелу је већ резервисана.",
+   "lat": "Moja soba u hotelu je već rezervisana.",
+   "ru": "Мой номер в отеле уже забронирован."
+  }
+ },
+ {
+  "id": "w2579",
+  "order": 2579,
+  "level": "B1",
+  "cyr": "румунски",
+  "lat": "rumunski",
+  "tr": "румунски",
+  "ru": "румынский; румын",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Румунски је романски језик.",
+   "lat": "Rumunski je romanski jezik.",
+   "ru": "Румынский — романский язык."
+  }
+ },
+ {
+  "id": "w2580",
+  "order": 2580,
+  "level": "B1",
+  "cyr": "удаљен",
+  "lat": "udaljen",
+  "tr": "удален",
+  "ru": "удалённый; отдалённый",
+  "pos": "adj",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Њихова кућа је удаљена од града.",
+   "lat": "Njihova kuća je udaljena od grada.",
+   "ru": "Их дом находится далеко от города."
+  }
+ },
+ {
+  "id": "w2581",
+  "order": 2581,
+  "level": "B1",
+  "cyr": "возом",
+  "lat": "vozom",
+  "tr": "возом",
+  "ru": "на поезде",
+  "pos": "adv",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Возом путујеш брже него аутобусом.",
+   "lat": "Vozom putuješ brže nego autobusom.",
+   "ru": "На поезде ты путуешь быстрее, чем на автобусе."
+  }
+ },
+ {
+  "id": "w2582",
+  "order": 2582,
+  "level": "B1",
+  "cyr": "вожња ноћу",
+  "lat": "vožnja noću",
+  "tr": "вожнья ночу",
+  "ru": "ночная езда",
+  "pos": "phrase",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Вожња ноћу је веома опасна.",
+   "lat": "Vožnja noću je veoma opasna.",
+   "ru": "Ночная езда очень опасна."
+  }
+ },
+ {
+  "id": "w2583",
+  "order": 2583,
+  "level": "B1",
+  "cyr": "дан боравка",
+  "lat": "dan boravka",
+  "tr": "дан боравка",
+  "ru": "день пребывания",
+  "pos": "phrase",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Први дан боравка био је сјајан.",
+   "lat": "Prvi dan boravka bio je sjajan.",
+   "ru": "Первый день пребывания был великолепным."
+  }
+ },
+ {
+  "id": "w2584",
+  "order": 2584,
+  "level": "B1",
+  "cyr": "крајња станица",
+  "lat": "krajnja stanica",
+  "tr": "крајнья станица",
+  "ru": "конечная станция; конечная остановка",
+  "pos": "phrase",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Крајња станица је на самом југу града.",
+   "lat": "Krajnja stanica je na samom jugu grada.",
+   "ru": "Конечная остановка находится на самом юге города."
+  }
+ },
+ {
+  "id": "w2585",
+  "order": 2585,
+  "level": "B1",
+  "cyr": "ноћни воз",
+  "lat": "noćni voz",
+  "tr": "ночни воз",
+  "ru": "ночной поезд",
+  "pos": "phrase",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Ноћни воз иде преко целог Балкана.",
+   "lat": "Noćni voz ide preko celog Balkana.",
+   "ru": "Ночной поезд идет через весь Балкан."
+  }
+ },
+ {
+  "id": "w2586",
+  "order": 2586,
+  "level": "B1",
+  "cyr": "планинарски дом",
+  "lat": "planinarski dom",
+  "tr": "планинарски дом",
+  "ru": "горный приют; альпийский домик",
+  "pos": "phrase",
+  "cat": "travel",
+  "ex": {
+   "cyr": "У планинарском дому можемо да једемо.",
+   "lat": "U planinarskom domu možemo da jedemo.",
+   "ru": "В горном приюте мы можем поесть."
+  }
+ },
+ {
+  "id": "w2587",
+  "order": 2587,
+  "level": "B1",
+  "cyr": "рана резервација",
+  "lat": "rana rezervacija",
+  "tr": "рана резервација",
+  "ru": "раннее бронирование",
+  "pos": "phrase",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Рана резервација је често јефтинија.",
+   "lat": "Rana rezervacija je često jeftinija.",
+   "ru": "Раннее бронирование часто дешевле."
+  }
+ },
+ {
+  "id": "w2588",
+  "order": 2588,
+  "level": "B1",
+  "cyr": "спаваћи вагон",
+  "lat": "spavaći vagon",
+  "tr": "спавачи вагон",
+  "ru": "вагон для сна; спальный вагон",
+  "pos": "phrase",
+  "cat": "travel",
+  "ex": {
+   "cyr": "У спаваћем вагону је веома тишо.",
+   "lat": "U spavaćem vagonu je veoma tišo.",
+   "ru": "В спальном вагоне очень тихо."
+  }
+ }
+]

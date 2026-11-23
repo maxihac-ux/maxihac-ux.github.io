@@ -1,0 +1,82 @@
+{
+ "emotions": [
+  "joy",
+  "wonder",
+  "focus",
+  "observation",
+  "grief",
+  "insight",
+  "secret",
+  "coil"
+ ],
+ "heroes": {
+  "mister": "мужской голос",
+  "missis": "женский голос"
+ },
+ "frames": {
+  "mister_joy": {
+   "file": "mister/joy.webp",
+   "bytes": 23404
+  },
+  "mister_wonder": {
+   "file": "mister/wonder.webp",
+   "bytes": 22290
+  },
+  "mister_focus": {
+   "file": "mister/focus.webp",
+   "bytes": 22740
+  },
+  "mister_observation": {
+   "file": "mister/observation.webp",
+   "bytes": 22884
+  },
+  "mister_grief": {
+   "file": "mister/grief.webp",
+   "bytes": 22562
+  },
+  "mister_insight": {
+   "file": "mister/insight.webp",
+   "bytes": 25828
+  },
+  "mister_secret": {
+   "file": "mister/secret.webp",
+   "bytes": 21986
+  },
+  "mister_coil": {
+   "file": "mister/coil.webp",
+   "bytes": 25242
+  },
+  "missis_joy": {
+   "file": "missis/joy.webp",
+   "bytes": 22424
+  },
+  "missis_wonder": {
+   "file": "missis/wonder.webp",
+   "bytes": 22168
+  },
+  "missis_focus": {
+   "file": "missis/focus.webp",
+   "bytes": 22328
+  },
+  "missis_observation": {
+   "file": "missis/observation.webp",
+   "bytes": 22444
+  },
+  "missis_grief": {
+   "file": "missis/grief.webp",
+   "bytes": 21536
+  },
+  "missis_insight": {
+   "file": "missis/insight.webp",
+   "bytes": 24566
+  },
+  "missis_secret": {
+   "file": "missis/secret.webp",
+   "bytes": 21908
+  },
+  "missis_coil": {
+   "file": "missis/coil.webp",
+   "bytes": 23706
+  }
+ }
+}

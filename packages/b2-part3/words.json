@@ -1,0 +1,4219 @@
+[
+ {
+  "id": "w3752",
+  "order": 3752,
+  "level": "B2",
+  "cyr": "ажурирати",
+  "lat": "ažurirati",
+  "tr": "ажурирати",
+  "ru": "обновлять (информацию)",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Програмер ажурира верзију апликације.",
+   "lat": "Programer ažurira verziju aplikacije.",
+   "ru": "Программист обновляет версию приложения."
+  }
+ },
+ {
+  "id": "w3753",
+  "order": 3753,
+  "level": "B2",
+  "cyr": "докторирати",
+  "lat": "doktorirati",
+  "tr": "докторирати",
+  "ru": "защитить докторскую диссертацию",
+  "pos": "verb",
+  "cat": "school",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Он ће докторирати следеће године.",
+   "lat": "On će doktorirati sledeće godine.",
+   "ru": "Он защитит докторскую диссертацию в следующем году."
+  }
+ },
+ {
+  "id": "w3754",
+  "order": 3754,
+  "level": "B2",
+  "cyr": "архивирати",
+  "lat": "arhivirati",
+  "tr": "архивирати",
+  "ru": "архивировать; помещать в архив",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Стари часописе ћемо архивирати крајем године.",
+   "lat": "Stari časopise ćemo arhivirati krajem godine.",
+   "ru": "Мы архивируем старые журналы в конце года."
+  }
+ },
+ {
+  "id": "w3755",
+  "order": 3755,
+  "level": "B2",
+  "cyr": "адаптација",
+  "lat": "adaptacija",
+  "tr": "адаптација",
+  "ru": "адаптация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Адаптација је неопходна за живот.",
+   "lat": "Adaptacija je neophodna za život.",
+   "ru": "Адаптация необходима для жизни."
+  }
+ },
+ {
+  "id": "w3756",
+  "order": 3756,
+  "level": "B2",
+  "cyr": "асистент",
+  "lat": "asistent",
+  "tr": "асистент",
+  "ru": "ассистент; лаборант",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Асистент помоћи професору на вежбама.",
+   "lat": "Asistent pomoći profesoru na vežbama.",
+   "ru": "Ассистент помогает профессору на практических занятиях."
+  }
+ },
+ {
+  "id": "w3757",
+  "order": 3757,
+  "level": "B2",
+  "cyr": "компатибилан",
+  "lat": "kompatibilan",
+  "tr": "компатибилан",
+  "ru": "совместимый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ова програма је компатибилна са старијим верзијама.",
+   "lat": "Ova programa je kompatibilna sa starijim verzijama.",
+   "ru": "Эта программа совместима со старыми версиями."
+  }
+ },
+ {
+  "id": "w3758",
+  "order": 3758,
+  "level": "B2",
+  "cyr": "ген",
+  "lat": "gen",
+  "tr": "ген",
+  "ru": "ген",
+  "pos": "noun",
+  "cat": "basics",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ген одређује нашу боју очију.",
+   "lat": "Gen određuje našu boju očiju.",
+   "ru": "Ген определяет наш цвет глаз."
+  }
+ },
+ {
+  "id": "w3759",
+  "order": 3759,
+  "level": "B2",
+  "cyr": "кратер",
+  "lat": "krater",
+  "tr": "кратер",
+  "ru": "кратер",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Месечев кратер настао је од удара.",
+   "lat": "Mesečev krater nastao je od udara.",
+   "ru": "Лунный кратер образовался от удара."
+  }
+ },
+ {
+  "id": "w3760",
+  "order": 3760,
+  "level": "B2",
+  "cyr": "прорачун",
+  "lat": "proračun",
+  "tr": "прорачун",
+  "ru": "расчёт; смета",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Прорачун за пројекат је већ готов.",
+   "lat": "Proračun za projekat je već gotov.",
+   "ru": "Расчёт на проект уже готов."
+  }
+ },
+ {
+  "id": "w3761",
+  "order": 3761,
+  "level": "B2",
+  "cyr": "мембрана",
+  "lat": "membrana",
+  "tr": "мембрана",
+  "ru": "мембрана",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мембрана раздваја две ћелије.",
+   "lat": "Membrana razdvaja dve ćelije.",
+   "ru": "Мембрана разделя две клетки."
+  }
+ },
+ {
+  "id": "w3762",
+  "order": 3762,
+  "level": "B2",
+  "cyr": "антитело",
+  "lat": "antitelo",
+  "tr": "антитело",
+  "ru": "антитело",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Антитело штити тело од инфекције.",
+   "lat": "Antitelo štiti telo od infekcije.",
+   "ru": "Анитело защищает тело от инфекции."
+  }
+ },
+ {
+  "id": "w3763",
+  "order": 3763,
+  "level": "B2",
+  "cyr": "јединица",
+  "lat": "jedinica",
+  "tr": "јединица",
+  "ru": "единица; подразделение",
+  "pos": "noun",
+  "cat": "numbers",
+  "gender": "f",
+  "ex": {
+   "cyr": "Јединица мере је метар.",
+   "lat": "Jedinica mere je metar.",
+   "ru": "Единица измерения — метр."
+  }
+ },
+ {
+  "id": "w3764",
+  "order": 3764,
+  "level": "B2",
+  "cyr": "учесник",
+  "lat": "učesnik",
+  "tr": "учесник",
+  "ru": "участник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Учесник је на такмичењу.",
+   "lat": "Učesnik je na takmičenju.",
+   "ru": "Участник на соревновании."
+  }
+ },
+ {
+  "id": "w3765",
+  "order": 3765,
+  "level": "B2",
+  "cyr": "ћаскање",
+  "lat": "ćaskanje",
+  "tr": "часканье",
+  "ru": "болтовня; пустые разговоры",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ћаскање са пријатељима подиже ми расположење.",
+   "lat": "Ćaskanje sa prijateljima podiže mi raspoloženje.",
+   "ru": "Болтовня с друзьями улучшает мне настроение."
+  }
+ },
+ {
+  "id": "w3766",
+  "order": 3766,
+  "level": "B2",
+  "cyr": "протеин",
+  "lat": "protein",
+  "tr": "протеин",
+  "ru": "белок",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Протеин је важан за изградњу мишића.",
+   "lat": "Protein je važan za izgradnju mišića.",
+   "ru": "Белок важен для построения мышц."
+  }
+ },
+ {
+  "id": "w3767",
+  "order": 3767,
+  "level": "B2",
+  "cyr": "генерисати",
+  "lat": "generisati",
+  "tr": "генерисати",
+  "ru": "генерировать; создавать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Овај софт генерише извештаје сваког дана.",
+   "lat": "Ovaj soft generiše izveštaje svakog dana.",
+   "ru": "Этот софт генерирует отчёты каждый день."
+  }
+ },
+ {
+  "id": "w3768",
+  "order": 3768,
+  "level": "B2",
+  "cyr": "матурирати",
+  "lat": "maturirati",
+  "tr": "матурирати",
+  "ru": "сдавать выпускные экзамены; готовиться к экзаменам",
+  "pos": "verb",
+  "cat": "school",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Студенти цело лето матурирају за испите.",
+   "lat": "Studenti celo leto maturiraju za ispite.",
+   "ru": "Студенты всё лето готовятся к экзаменам."
+  }
+ },
+ {
+  "id": "w3769",
+  "order": 3769,
+  "level": "B2",
+  "cyr": "груписати",
+  "lat": "grupisati",
+  "tr": "груписати",
+  "ru": "группировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Статистичар груписа податке по категоријама.",
+   "lat": "Statističar grupisa podatke po kategorijama.",
+   "ru": "Статистик группирует данные по категориям."
+  }
+ },
+ {
+  "id": "w3770",
+  "order": 3770,
+  "level": "B2",
+  "cyr": "анкета",
+  "lat": "anketa",
+  "tr": "анкета",
+  "ru": "анкета; опрос",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Анкета је попуњена.",
+   "lat": "Anketa je popunjena.",
+   "ru": "Анкета заполнена."
+  }
+ },
+ {
+  "id": "w3771",
+  "order": 3771,
+  "level": "B2",
+  "cyr": "декан",
+  "lat": "dekan",
+  "tr": "декан",
+  "ru": "декан",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Декан је сазвао састанак свих наставника.",
+   "lat": "Dekan je sazvao sastanak svih nastavnika.",
+   "ru": "Декан созвал собрание всех преподавателей."
+  }
+ },
+ {
+  "id": "w3772",
+  "order": 3772,
+  "level": "B2",
+  "cyr": "мерљив",
+  "lat": "merljiv",
+  "tr": "мерлив",
+  "ru": "измеримый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Резултати су мерљиви.",
+   "lat": "Rezultati su merljivi.",
+   "ru": "Результаты измеримы."
+  }
+ },
+ {
+  "id": "w3773",
+  "order": 3773,
+  "level": "B2",
+  "cyr": "геном",
+  "lat": "genom",
+  "tr": "геном",
+  "ru": "геном",
+  "pos": "noun",
+  "cat": "basics",
+  "gender": "m",
+  "ex": {
+   "cyr": "Научници истражују људски геном.",
+   "lat": "Naučnici istražuju ljudski genom.",
+   "ru": "Ученые исследуют человеческий геном."
+  }
+ },
+ {
+  "id": "w3774",
+  "order": 3774,
+  "level": "B2",
+  "cyr": "маглина",
+  "lat": "maglina",
+  "tr": "маглина",
+  "ru": "туман; мгла; туманность",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ноћу се види маглина на небу.",
+   "lat": "Noću se vidi maglina na nebu.",
+   "ru": "Ночью видна мгла на небе."
+  }
+ },
+ {
+  "id": "w3775",
+  "order": 3775,
+  "level": "B2",
+  "cyr": "средства",
+  "lat": "sredstva",
+  "tr": "средства",
+  "ru": "средства; ресурсы; фонды",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "n",
+  "ex": {
+   "cyr": "Универзитет добија нова средства.",
+   "lat": "Univerzitet dobija nova sredstva.",
+   "ru": "Университет получает новые средства."
+  }
+ },
+ {
+  "id": "w3776",
+  "order": 3776,
+  "level": "B2",
+  "cyr": "организам",
+  "lat": "organizam",
+  "tr": "организам",
+  "ru": "организм",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Човек је сложени организам.",
+   "lat": "Čovek je složeni organizam.",
+   "ru": "Человек — сложный организм."
+  }
+ },
+ {
+  "id": "w3777",
+  "order": 3777,
+  "level": "B2",
+  "cyr": "микроб",
+  "lat": "mikrob",
+  "tr": "микроб",
+  "ru": "микроб",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Микроб је невидљив оком.",
+   "lat": "Mikrob je nevidljiv okom.",
+   "ru": "Микроб невидим глазу."
+  }
+ },
+ {
+  "id": "w3778",
+  "order": 3778,
+  "level": "B2",
+  "cyr": "детектовати",
+  "lat": "detektovati",
+  "tr": "детектовати",
+  "ru": "обнаружить; обнаруживать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Нови софтвер детектује вирусне програме.",
+   "lat": "Novi softver detektuje virusne programe.",
+   "ru": "Новое программное обеспечение обнаруживает вредоносные программы."
+  }
+ },
+ {
+  "id": "w3779",
+  "order": 3779,
+  "level": "B2",
+  "cyr": "преписивати",
+  "lat": "prepisivati",
+  "tr": "преписивати",
+  "ru": "списывать",
+  "pos": "verb",
+  "cat": "school",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Студент преписује са зида током испита.",
+   "lat": "Student prepisuje sa zida tokom ispita.",
+   "ru": "Студент списывает со стены во время экзамена."
+  }
+ },
+ {
+  "id": "w3780",
+  "order": 3780,
+  "level": "B2",
+  "cyr": "дефинисати",
+  "lat": "definisati",
+  "tr": "дефинисати",
+  "ru": "определять; давать определение",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Аутор дефинише појам у првом поглављу књиге.",
+   "lat": "Autor definiše pojam u prvom poglavlju knjige.",
+   "ru": "Автор определяет понятие в первой главе книги."
+  }
+ },
+ {
+  "id": "w3781",
+  "order": 3781,
+  "level": "B2",
+  "cyr": "аутентичност",
+  "lat": "autentičnost",
+  "tr": "аутентичност",
+  "ru": "аутентичность; подлинность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Историчари проверавају аутентичност документа.",
+   "lat": "Istoričari proveravaju autentičnost dokumenta.",
+   "ru": "Историки проверяют подлинность документа."
+  }
+ },
+ {
+  "id": "w3782",
+  "order": 3782,
+  "level": "B2",
+  "cyr": "истраживач",
+  "lat": "istraživač",
+  "tr": "истраживач",
+  "ru": "исследователь; исследовательский работник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Млади истраживач ради у лабораторији.",
+   "lat": "Mladi istraživač radi u laboratoriji.",
+   "ru": "Молодой исследователь работает в лаборатории."
+  }
+ },
+ {
+  "id": "w3783",
+  "order": 3783,
+  "level": "B2",
+  "cyr": "образован",
+  "lat": "obrazovan",
+  "tr": "образован",
+  "ru": "образованный; грамотный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Он је врло образован и учен човјек.",
+   "lat": "On je vrlo obrazovan i učen čovjek.",
+   "ru": "Он очень образованный и учёный человек."
+  }
+ },
+ {
+  "id": "w3784",
+  "order": 3784,
+  "level": "B2",
+  "cyr": "наследност",
+  "lat": "naslednost",
+  "tr": "наследност",
+  "ru": "наследственность",
+  "pos": "noun",
+  "cat": "basics",
+  "gender": "f",
+  "ex": {
+   "cyr": "Наследност одређује многе особине.",
+   "lat": "Naslednost određuje mnoge osobine.",
+   "ru": "Наследственность определяет многие черты."
+  }
+ },
+ {
+  "id": "w3785",
+  "order": 3785,
+  "level": "B2",
+  "cyr": "метеорит",
+  "lat": "meteorit",
+  "tr": "метеорит",
+  "ru": "метеорит",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Метеорит је пао на Земљу.",
+   "lat": "Meteorit je pao na Zemlju.",
+   "ru": "Метеорит упал на Землю."
+  }
+ },
+ {
+  "id": "w3786",
+  "order": 3786,
+  "level": "B2",
+  "cyr": "финансирање",
+  "lat": "finansiranje",
+  "tr": "финансиранье",
+  "ru": "финансирование; обеспечение средствами",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "n",
+  "ex": {
+   "cyr": "Финансирање истраживања је важно.",
+   "lat": "Finansiranje istraživanja je važno.",
+   "ru": "Финансирование исследований важно."
+  }
+ },
+ {
+  "id": "w3787",
+  "order": 3787,
+  "level": "B2",
+  "cyr": "ткиво",
+  "lat": "tkivo",
+  "tr": "ткиво",
+  "ru": "ткань",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Твоје ткиво се брзо опоравља.",
+   "lat": "Tvoje tkivo se brzo oporavlja.",
+   "ru": "Твоя ткань быстро восстанавливается."
+  }
+ },
+ {
+  "id": "w3788",
+  "order": 3788,
+  "level": "B2",
+  "cyr": "хормон",
+  "lat": "hormon",
+  "tr": "хормон",
+  "ru": "гормон",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Хормон утиче на расположење.",
+   "lat": "Hormon utiče na raspoloženje.",
+   "ru": "Гормон влияет на настроение."
+  }
+ },
+ {
+  "id": "w3789",
+  "order": 3789,
+  "level": "B2",
+  "cyr": "дешифровати",
+  "lat": "dešifrovati",
+  "tr": "дешифровати",
+  "ru": "дешифровать; расшифровывать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Специјалиста је дешифровао тајни код.",
+   "lat": "Specijalista je dešifrovao tajni kod.",
+   "ru": "Специалист расшифровал секретный код."
+  }
+ },
+ {
+  "id": "w3790",
+  "order": 3790,
+  "level": "B2",
+  "cyr": "симулирати",
+  "lat": "simulirati",
+  "tr": "симулирати",
+  "ru": "симулировать; моделировать",
+  "pos": "verb",
+  "cat": "school",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Мораћемо да симулирамо тај процес.",
+   "lat": "Moraćemo da simuliramo taj proces.",
+   "ru": "Нам придётся смоделировать тот процесс."
+  }
+ },
+ {
+  "id": "w3791",
+  "order": 3791,
+  "level": "B2",
+  "cyr": "дипломирати",
+  "lat": "diplomirati",
+  "tr": "дипломирати",
+  "ru": "окончить университет; получить диплом",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Млада дама је дипломирала са одличном оценом.",
+   "lat": "Mlada dama je diplomirala sa odličnom ocenom.",
+   "ru": "Молодая леди окончила университет с отличной оценкой."
+  }
+ },
+ {
+  "id": "w3792",
+  "order": 3792,
+  "level": "B2",
+  "cyr": "дезинформација",
+  "lat": "dezinformacija",
+  "tr": "дезинформација",
+  "ru": "дезинформация; ложные сведения",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Та дезинформација изазвала је велику забуну.",
+   "lat": "Ta dezinformacija izazvala je veliku zabunu.",
+   "ru": "Эта дезинформация вызвала большую путаницу."
+  }
+ },
+ {
+  "id": "w3793",
+  "order": 3793,
+  "level": "B2",
+  "cyr": "образложење",
+  "lat": "obrazloženje",
+  "tr": "образложенье",
+  "ru": "обоснование; объяснение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Тражио је образложење одлуке.",
+   "lat": "Tražio je obrazloženje odluke.",
+   "ru": "Он потребовал обоснования решения."
+  }
+ },
+ {
+  "id": "w3794",
+  "order": 3794,
+  "level": "B2",
+  "cyr": "образовни",
+  "lat": "obrazovni",
+  "tr": "образовни",
+  "ru": "образовательный; обучающий",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Образовне реформе захтевају много напора.",
+   "lat": "Obrazovne reforme zahtevaju mnogo napora.",
+   "ru": "Образовательные реформы требуют много усилий."
+  }
+ },
+ {
+  "id": "w3795",
+  "order": 3795,
+  "level": "B2",
+  "cyr": "одступање",
+  "lat": "odstupanje",
+  "tr": "одступанье",
+  "ru": "отклонение; отступление",
+  "pos": "noun",
+  "cat": "basics",
+  "gender": "n",
+  "ex": {
+   "cyr": "Мало одступање је забележено у резултатима.",
+   "lat": "Malo odstupanje je zabeleženo u rezultatima.",
+   "ru": "Небольшое отклонение было замечено в результатах."
+  }
+ },
+ {
+  "id": "w3796",
+  "order": 3796,
+  "level": "B2",
+  "cyr": "минерал",
+  "lat": "mineral",
+  "tr": "минерал",
+  "ru": "минерал",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ова вода је богата минералима.",
+   "lat": "Ova voda je bogata mineralima.",
+   "ru": "Эта вода богата минералами."
+  }
+ },
+ {
+  "id": "w3797",
+  "order": 3797,
+  "level": "B2",
+  "cyr": "клонирати",
+  "lat": "klonirati",
+  "tr": "клонирати",
+  "ru": "клонировать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Научници желе да клонирају угрожене врсте.",
+   "lat": "Naučnici žele da kloniraju ugrožene vrste.",
+   "ru": "Учёные хотят клонировать исчезающие виды."
+  }
+ },
+ {
+  "id": "w3798",
+  "order": 3798,
+  "level": "B2",
+  "cyr": "академија",
+  "lat": "akademija",
+  "tr": "академија",
+  "ru": "академия; академическое учреждение",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Студент похађа српску академију наука.",
+   "lat": "Student pohađa srpsku akademiju nauka.",
+   "ru": "Студент посещает Сербскую академию наук."
+  }
+ },
+ {
+  "id": "w3799",
+  "order": 3799,
+  "level": "B2",
+  "cyr": "доказивати",
+  "lat": "dokazivati",
+  "tr": "доказивати",
+  "ru": "доказывать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Он свакодневно доказује своје тврдње.",
+   "lat": "On svakodnevno dokazuje svoje tvrdnje.",
+   "ru": "Он ежедневно доказывает свои утверждения."
+  }
+ },
+ {
+  "id": "w3800",
+  "order": 3800,
+  "level": "B2",
+  "cyr": "дифузија",
+  "lat": "difuzija",
+  "tr": "дифузија",
+  "ru": "диффузия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дифузија гаса је брза.",
+   "lat": "Difuzija gasa je brza.",
+   "ru": "Диффузия газа быстрая."
+  }
+ },
+ {
+  "id": "w3801",
+  "order": 3801,
+  "level": "B2",
+  "cyr": "поступак",
+  "lat": "postupak",
+  "tr": "поступак",
+  "ru": "действие; процедура",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Поступак пријема новог запосленог је строг.",
+   "lat": "Postupak prijema novog zaposlenog je strog.",
+   "ru": "Процедура приёма нового сотрудника строгая."
+  }
+ },
+ {
+  "id": "w3802",
+  "order": 3802,
+  "level": "B2",
+  "cyr": "прецизан",
+  "lat": "precizan",
+  "tr": "прецизан",
+  "ru": "точный; точный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Инжењер је прецизан у раду.",
+   "lat": "Inženjer je precizan u radu.",
+   "ru": "Инженёр точен в работе."
+  }
+ },
+ {
+  "id": "w3803",
+  "order": 3803,
+  "level": "B2",
+  "cyr": "опит",
+  "lat": "opit",
+  "tr": "опит",
+  "ru": "опыт; эксперимент",
+  "pos": "noun",
+  "cat": "basics",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стари професор има дугогодишњи радни опит.",
+   "lat": "Stari profesor ima dugogodišnji radni opit.",
+   "ru": "Старый профессор имеет многолетний рабочий опыт."
+  }
+ },
+ {
+  "id": "w3804",
+  "order": 3804,
+  "level": "B2",
+  "cyr": "помрачење",
+  "lat": "pomračenje",
+  "tr": "помраченье",
+  "ru": "затмение",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Помрачење Сунца је ретко спектакуларно.",
+   "lat": "Pomračenje Sunca je retko spektakularno.",
+   "ru": "Солнечное затмение — редкое зрелище."
+  }
+ },
+ {
+  "id": "w3805",
+  "order": 3805,
+  "level": "B2",
+  "cyr": "снимати",
+  "lat": "snimati",
+  "tr": "снимати",
+  "ru": "снимать; записывать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Филмски тим снима сцену у старој улици.",
+   "lat": "Filmski tim snima scenu u staroj ulici.",
+   "ru": "Кинематографическая команда снимает сцену в старой улице."
+  }
+ },
+ {
+  "id": "w3806",
+  "order": 3806,
+  "level": "B2",
+  "cyr": "библиографија",
+  "lat": "bibliografija",
+  "tr": "библиографија",
+  "ru": "библиография",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Библиографија је обавезна.",
+   "lat": "Bibliografija je obavezna.",
+   "ru": "Библиография обязательна."
+  }
+ },
+ {
+  "id": "w3807",
+  "order": 3807,
+  "level": "B2",
+  "cyr": "заштитити",
+  "lat": "zaštititi",
+  "tr": "заштитити",
+  "ru": "защитить; оградить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Заштитиће град од поплава.",
+   "lat": "Zaštitiće grad od poplava.",
+   "ru": "Он защитит город от наводнений."
+  }
+ },
+ {
+  "id": "w3808",
+  "order": 3808,
+  "level": "B2",
+  "cyr": "инструмент",
+  "lat": "instrument",
+  "tr": "инструмент",
+  "ru": "инструмент; орудие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Инструмент је на радном столу.",
+   "lat": "Instrument je na radnom stolu.",
+   "ru": "Инструмент на рабочем столе."
+  }
+ },
+ {
+  "id": "w3809",
+  "order": 3809,
+  "level": "B2",
+  "cyr": "презентација",
+  "lat": "prezentacija",
+  "tr": "презентација",
+  "ru": "презентация; доклад",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Студент је припремио презентацију.",
+   "lat": "Student je pripremio prezentaciju.",
+   "ru": "Студент подготовил презентацию."
+  }
+ },
+ {
+  "id": "w3810",
+  "order": 3810,
+  "level": "B2",
+  "cyr": "развијен",
+  "lat": "razvijen",
+  "tr": "развијен",
+  "ru": "развитой",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ова земља је једна од најразвијенијих.",
+   "lat": "Ova zemlja je jedna od najrazvijenijih.",
+   "ru": "Эта страна одна из самых развитых."
+  }
+ },
+ {
+  "id": "w3811",
+  "order": 3811,
+  "level": "B2",
+  "cyr": "поузданост",
+  "lat": "pouzdanost",
+  "tr": "поузданост",
+  "ru": "надёжность; достоверность",
+  "pos": "noun",
+  "cat": "basics",
+  "gender": "f",
+  "ex": {
+   "cyr": "Поузданост овог система је на високом нивоу.",
+   "lat": "Pouzdanost ovog sistema je na visokom nivou.",
+   "ru": "Надёжность этой системы на высоком уровне."
+  }
+ },
+ {
+  "id": "w3812",
+  "order": 3812,
+  "level": "B2",
+  "cyr": "размножавање",
+  "lat": "razmnožavanje",
+  "tr": "размножаванье",
+  "ru": "размножение",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Размножавање је процес живота.",
+   "lat": "Razmnožavanje je proces života.",
+   "ru": "Размножение — процесс жизни."
+  }
+ },
+ {
+  "id": "w3813",
+  "order": 3813,
+  "level": "B2",
+  "cyr": "стримовати",
+  "lat": "strimovati",
+  "tr": "стримовати",
+  "ru": "стримить; вести трансляцию",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Стримујем своју игру преко интернета.",
+   "lat": "Strimujem svoju igru preko interneta.",
+   "ru": "Я стримлю свою игру через интернет."
+  }
+ },
+ {
+  "id": "w3814",
+  "order": 3814,
+  "level": "B2",
+  "cyr": "васпитање",
+  "lat": "vaspitanje",
+  "tr": "васпитанье",
+  "ru": "воспитание; образование",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Добро васпитање је важно.",
+   "lat": "Dobro vaspitanje je važno.",
+   "ru": "Хорошее воспитание важно."
+  }
+ },
+ {
+  "id": "w3815",
+  "order": 3815,
+  "level": "B2",
+  "cyr": "избрисати",
+  "lat": "izbrisati",
+  "tr": "избрисати",
+  "ru": "стереть; удалить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Избрисат ћеш погрешан унос.",
+   "lat": "Izbrisat ćeš pogrešan unos.",
+   "ru": "Ты удалишь неверную запись."
+  }
+ },
+ {
+  "id": "w3816",
+  "order": 3816,
+  "level": "B2",
+  "cyr": "космос",
+  "lat": "kosmos",
+  "tr": "космос",
+  "ru": "космос",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Космос је огроман и тајан.",
+   "lat": "Kosmos je ogroman i tajan.",
+   "ru": "Космос огромен таинственный."
+  }
+ },
+ {
+  "id": "w3817",
+  "order": 3817,
+  "level": "B2",
+  "cyr": "приправник",
+  "lat": "pripravnik",
+  "tr": "приправник",
+  "ru": "стажёр; практикант",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Приправник учи од старијег колеге.",
+   "lat": "Pripravnik uči od starijeg kolege.",
+   "ru": "Стажёр учится у старшего коллеги."
+  }
+ },
+ {
+  "id": "w3818",
+  "order": 3818,
+  "level": "B2",
+  "cyr": "рационалан",
+  "lat": "racionalan",
+  "tr": "рационалан",
+  "ru": "рациональный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Рационалан приступ проблему често доноси боље резултате.",
+   "lat": "Racionalan pristup problemu često donosi bolje rezultate.",
+   "ru": "Рациональный подход к проблеме часто дает лучшие результаты."
+  }
+ },
+ {
+  "id": "w3819",
+  "order": 3819,
+  "level": "B2",
+  "cyr": "тачност",
+  "lat": "tačnost",
+  "tr": "тачност",
+  "ru": "точность",
+  "pos": "noun",
+  "cat": "basics",
+  "gender": "f",
+  "ex": {
+   "cyr": "Тачност мерења је од великог значаја.",
+   "lat": "Tačnost merenja je od velikog značaja.",
+   "ru": "Точность измерения имеет большое значение."
+  }
+ },
+ {
+  "id": "w3820",
+  "order": 3820,
+  "level": "B2",
+  "cyr": "хлорофил",
+  "lat": "hlorofil",
+  "tr": "хлорофил",
+  "ru": "хлорофилл",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Биљке садрже хлорофил.",
+   "lat": "Biljke sadrže hlorofil.",
+   "ru": "Растения содержат хлорофилл."
+  }
+ },
+ {
+  "id": "w3821",
+  "order": 3821,
+  "level": "B2",
+  "cyr": "тестирати",
+  "lat": "testirati",
+  "tr": "тестирати",
+  "ru": "тестировать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Инжењери тестирају нови софтвер.",
+   "lat": "Inženjeri testiraju novi softver.",
+   "ru": "Инженеры тестируют новое ПО."
+  }
+ },
+ {
+  "id": "w3822",
+  "order": 3822,
+  "level": "B2",
+  "cyr": "вероватноћа",
+  "lat": "verovatnoća",
+  "tr": "вероватноча",
+  "ru": "вероятность; шанс",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Вероватноћа успеха је велика.",
+   "lat": "Verovatnoća uspeha je velika.",
+   "ru": "Вероятность успеха велика."
+  }
+ },
+ {
+  "id": "w3823",
+  "order": 3823,
+  "level": "B2",
+  "cyr": "израчунати",
+  "lat": "izračunati",
+  "tr": "израчунати",
+  "ru": "вычислять; подсчитывать; рассчитывать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Инжењер је израчунао потребну количину материјала.",
+   "lat": "Inženjer je izračunao potrebnu količinu materijala.",
+   "ru": "Инженер рассчитал необходимое количество материала."
+  }
+ },
+ {
+  "id": "w3824",
+  "order": 3824,
+  "level": "B2",
+  "cyr": "манипулација",
+  "lat": "manipulacija",
+  "tr": "манипулација",
+  "ru": "манипуляция; манипулирование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Медијска манипулација је честа у политици.",
+   "lat": "Medijska manipulacija je česta u politici.",
+   "ru": "Медиа-манипуляция часто встречается в политике."
+  }
+ },
+ {
+  "id": "w3825",
+  "order": 3825,
+  "level": "B2",
+  "cyr": "проналазач",
+  "lat": "pronalazač",
+  "tr": "проналазач",
+  "ru": "изобретатель",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Проналазач је добио патент.",
+   "lat": "Pronalazač je dobio patent.",
+   "ru": "Изобретатель получил патент."
+  }
+ },
+ {
+  "id": "w3826",
+  "order": 3826,
+  "level": "B2",
+  "cyr": "свеобухватан",
+  "lat": "sveobuhvatan",
+  "tr": "свеобухватан",
+  "ru": "всеобъемлющий",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Имао је свеобухватан преглед ситуације.",
+   "lat": "Imao je sveobuhvatan pregled situacije.",
+   "ru": "У него был всеобъемлющий обзор ситуации."
+  }
+ },
+ {
+  "id": "w3827",
+  "order": 3827,
+  "level": "B2",
+  "cyr": "електричан",
+  "lat": "električan",
+  "tr": "електричан",
+  "ru": "электрический; электрический",
+  "pos": "adj",
+  "cat": "basics",
+  "ex": {
+   "cyr": "Електрична струја је опасна.",
+   "lat": "Električna struja je opasna.",
+   "ru": "Электрический ток опасен."
+  }
+ },
+ {
+  "id": "w3828",
+  "order": 3828,
+  "level": "B2",
+  "cyr": "учитавати",
+  "lat": "učitavati",
+  "tr": "учитавати",
+  "ru": "загружать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Сајт се учитава веома брзо.",
+   "lat": "Sajt se učitava veoma brzo.",
+   "ru": "Сайт загружается очень быстро."
+  }
+ },
+ {
+  "id": "w3829",
+  "order": 3829,
+  "level": "B2",
+  "cyr": "дисертација",
+  "lat": "disertacija",
+  "tr": "дисертација",
+  "ru": "диссертация; диссертационная работа",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Написати дисертацију је велики изазов.",
+   "lat": "Napisati disertaciju je veliki izazov.",
+   "ru": "Написать диссертацию — это большой вызов."
+  }
+ },
+ {
+  "id": "w3830",
+  "order": 3830,
+  "level": "B2",
+  "cyr": "класификовати",
+  "lat": "klasifikovati",
+  "tr": "класификовати",
+  "ru": "классифицировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Библиотекар класификује нове књиге.",
+   "lat": "Bibliotekar klasifikuje nove knjige.",
+   "ru": "Библиотекарь классифицирует новые книги."
+  }
+ },
+ {
+  "id": "w3831",
+  "order": 3831,
+  "level": "B2",
+  "cyr": "оптика",
+  "lat": "optika",
+  "tr": "оптика",
+  "ru": "оптика",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Оптика је грана физике.",
+   "lat": "Optika je grana fizike.",
+   "ru": "Оптика — раздел физики."
+  }
+ },
+ {
+  "id": "w3832",
+  "order": 3832,
+  "level": "B2",
+  "cyr": "ректор",
+  "lat": "rektor",
+  "tr": "ректор",
+  "ru": "ректор",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ректор универзитета је добро дошао гостима.",
+   "lat": "Rektor univerziteta je dobro došao gostima.",
+   "ru": "Ректор университета тепло поприветствовал гостей."
+  }
+ },
+ {
+  "id": "w3833",
+  "order": 3833,
+  "level": "B2",
+  "cyr": "стабилан",
+  "lat": "stabilan",
+  "tr": "стабилан",
+  "ru": "стабильный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Нови систем је веома стабилан.",
+   "lat": "Novi sistem je veoma stabilan.",
+   "ru": "Новая система очень стабильная."
+  }
+ },
+ {
+  "id": "w3834",
+  "order": 3834,
+  "level": "B2",
+  "cyr": "шифровати",
+  "lat": "šifrovati",
+  "tr": "шифровати",
+  "ru": "шифровать; кодировать",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Овај програм шифрува све ваше поруке.",
+   "lat": "Ovaj program šifruva sve vaše poruke.",
+   "ru": "Эта программа шифрует все ваши сообщения."
+  }
+ },
+ {
+  "id": "w3835",
+  "order": 3835,
+  "level": "B2",
+  "cyr": "докторанд",
+  "lat": "doktorand",
+  "tr": "докторанд",
+  "ru": "докторант",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Докторанд ради на дисертацији.",
+   "lat": "Doktorand radi na disertaciji.",
+   "ru": "Докторант работает над диссертацией."
+  }
+ },
+ {
+  "id": "w3836",
+  "order": 3836,
+  "level": "B2",
+  "cyr": "минимизирати",
+  "lat": "minimizirati",
+  "tr": "минимизирати",
+  "ru": "минимизировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Минимизирај прозор да видиш радну површину.",
+   "lat": "Minimiziraj prozor da vidiš radnu površinu.",
+   "ru": "Минимизируй окно, чтобы увидеть рабочий стол."
+  }
+ },
+ {
+  "id": "w3837",
+  "order": 3837,
+  "level": "B2",
+  "cyr": "плазма",
+  "lat": "plazma",
+  "tr": "плазма",
+  "ru": "плазма",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Плазма је четврто стање материје.",
+   "lat": "Plazma je četvrto stanje materije.",
+   "ru": "Плазма — четвёртое состояние материи."
+  }
+ },
+ {
+  "id": "w3838",
+  "order": 3838,
+  "level": "B2",
+  "cyr": "стручњак",
+  "lat": "stručnjak",
+  "tr": "стручньяк",
+  "ru": "специалист; эксперт",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стручњак даје савет о проблему.",
+   "lat": "Stručnjak daje savet o problemu.",
+   "ru": "Специалист даёт совет по проблеме."
+  }
+ },
+ {
+  "id": "w3839",
+  "order": 3839,
+  "level": "B2",
+  "cyr": "субјективан",
+  "lat": "subjektivan",
+  "tr": "субјективан",
+  "ru": "субъективный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Мишљење је чисто субјективно.",
+   "lat": "Mišljenje je čisto subjektivno.",
+   "ru": "Мнение чисто субъективное."
+  }
+ },
+ {
+  "id": "w3840",
+  "order": 3840,
+  "level": "B2",
+  "cyr": "адаптер",
+  "lat": "adapter",
+  "tr": "адаптер",
+  "ru": "адаптер; переходник",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "За напајање лаптопа користим специјални адаптер.",
+   "lat": "Za napajanje laptopa koristim specijalni adapter.",
+   "ru": "Для зарядки ноутбука я использую специальный адаптер."
+  }
+ },
+ {
+  "id": "w3841",
+  "order": 3841,
+  "level": "B2",
+  "cyr": "докторат",
+  "lat": "doktorat",
+  "tr": "докторат",
+  "ru": "докторантура; докторская степень",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Докторат траје три године.",
+   "lat": "Doktorat traje tri godine.",
+   "ru": "Докторантура длится три года."
+  }
+ },
+ {
+  "id": "w3842",
+  "order": 3842,
+  "level": "B2",
+  "cyr": "објављивати",
+  "lat": "objavljivati",
+  "tr": "објавливати",
+  "ru": "публиковать; издавать; объявлять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Универзитет објављује научне радове сваке године.",
+   "lat": "Univerzitet objavljuje naučne radove svake godine.",
+   "ru": "Университет публикует научные работы каждый год."
+  }
+ },
+ {
+  "id": "w3843",
+  "order": 3843,
+  "level": "B2",
+  "cyr": "потенцијал",
+  "lat": "potencijal",
+  "tr": "потенцијал",
+  "ru": "потенциал",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Млади играч има велики потенцијал.",
+   "lat": "Mladi igrač ima veliki potencijal.",
+   "ru": "Молодой игрок имеет большой потенциал."
+  }
+ },
+ {
+  "id": "w3844",
+  "order": 3844,
+  "level": "B2",
+  "cyr": "техничар",
+  "lat": "tehničar",
+  "tr": "техничар",
+  "ru": "техник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Техничар је поправио рачунар.",
+   "lat": "Tehničar je popravio računar.",
+   "ru": "Техник починил компьютер."
+  }
+ },
+ {
+  "id": "w3845",
+  "order": 3845,
+  "level": "B2",
+  "cyr": "функционалан",
+  "lat": "funkcionalan",
+  "tr": "функционалан",
+  "ru": "функциональный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Нови дизајн је функционалан и једноставан.",
+   "lat": "Novi dizajn je funkcionalan i jednostavan.",
+   "ru": "Новый дизайн функциональный и простой."
+  }
+ },
+ {
+  "id": "w3846",
+  "order": 3846,
+  "level": "B2",
+  "cyr": "ажурирање",
+  "lat": "ažuriranje",
+  "tr": "ажуриранье",
+  "ru": "обновление; модернизация",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "n",
+  "ex": {
+   "cyr": "Систем је ажуриран у прошлонедељном ажурирању.",
+   "lat": "Sistem je ažuriran u prošlonedeljnom ažuriranju.",
+   "ru": "Система была обновлена на прошлонедельном обновлении."
+  }
+ },
+ {
+  "id": "w3847",
+  "order": 3847,
+  "level": "B2",
+  "cyr": "доцент",
+  "lat": "docent",
+  "tr": "доцент",
+  "ru": "доцент",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Доцент предаје математику студентима.",
+   "lat": "Docent predaje matematiku studentima.",
+   "ru": "Доцент преподаёт математику студентам."
+  }
+ },
+ {
+  "id": "w3848",
+  "order": 3848,
+  "level": "B2",
+  "cyr": "одредити",
+  "lat": "odrediti",
+  "tr": "одредити",
+  "ru": "определять; назначать; устанавливать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Комисија је одредила победника такмичења.",
+   "lat": "Komisija je odredila pobednika takmičenja.",
+   "ru": "Комиссия определила победителя соревнования."
+  }
+ },
+ {
+  "id": "w3849",
+  "order": 3849,
+  "level": "B2",
+  "cyr": "појава",
+  "lat": "pojava",
+  "tr": "појава",
+  "ru": "явление; появление",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Појава је необична.",
+   "lat": "Pojava je neobična.",
+   "ru": "Явление необычное."
+  }
+ },
+ {
+  "id": "w3850",
+  "order": 3850,
+  "level": "B2",
+  "cyr": "усавршавање",
+  "lat": "usavršavanje",
+  "tr": "усавршаванье",
+  "ru": "совершенствование; повышение квалификации",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Усавршавање траје целу годину.",
+   "lat": "Usavršavanje traje celu godinu.",
+   "ru": "Совершенствование длится целый год."
+  }
+ },
+ {
+  "id": "w3851",
+  "order": 3851,
+  "level": "B2",
+  "cyr": "алгоритам",
+  "lat": "algoritam",
+  "tr": "алгоритам",
+  "ru": "алгоритм",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тај алгоритам је веома сложен.",
+   "lat": "Taj algoritam je veoma složen.",
+   "ru": "Тот алгоритм очень сложный."
+  }
+ },
+ {
+  "id": "w3852",
+  "order": 3852,
+  "level": "B2",
+  "cyr": "еволуција",
+  "lat": "evolucija",
+  "tr": "еволуција",
+  "ru": "эволюция",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Еволуција је дуг процес промене врста.",
+   "lat": "Evolucija je dug proces promene vrsta.",
+   "ru": "Эволюция — это долгий процесс изменения видов."
+  }
+ },
+ {
+  "id": "w3853",
+  "order": 3853,
+  "level": "B2",
+  "cyr": "откривати",
+  "lat": "otkrivati",
+  "tr": "откривати",
+  "ru": "открывать; обнаруживать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Научници редовно откривају нове врсте.",
+   "lat": "Naučnici redovno otkrivaju nove vrste.",
+   "ru": "Учёные регулярно открывают новые виды."
+  }
+ },
+ {
+  "id": "w3854",
+  "order": 3854,
+  "level": "B2",
+  "cyr": "реакција",
+  "lat": "reakcija",
+  "tr": "реакција",
+  "ru": "реакция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хемијска реакција је почела.",
+   "lat": "Hemijska reakcija je počela.",
+   "ru": "Химическая реакция началась."
+  }
+ },
+ {
+  "id": "w3855",
+  "order": 3855,
+  "level": "B2",
+  "cyr": "искусан",
+  "lat": "iskusan",
+  "tr": "искусан",
+  "ru": "искусный; опытный",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Искусан занатлија уме да ради савршено.",
+   "lat": "Iskusan zanatlija ume da radi savršeno.",
+   "ru": "Искусный мастер умеет делать идеально."
+  }
+ },
+ {
+  "id": "w3856",
+  "order": 3856,
+  "level": "B2",
+  "cyr": "антивирус",
+  "lat": "antivirus",
+  "tr": "антивирус",
+  "ru": "антивирус",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мораћеш да инсталираш антивирус.",
+   "lat": "Moraćeš da instaliraš antivirus.",
+   "ru": "Тебе нужно установить антивирус."
+  }
+ },
+ {
+  "id": "w3857",
+  "order": 3857,
+  "level": "B2",
+  "cyr": "експеримент",
+  "lat": "eksperiment",
+  "tr": "експеримент",
+  "ru": "эксперимент; опыт",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Студент врши хемијски експеримент.",
+   "lat": "Student vrši hemijski eksperiment.",
+   "ru": "Студент проводит химический эксперимент."
+  }
+ },
+ {
+  "id": "w3858",
+  "order": 3858,
+  "level": "B2",
+  "cyr": "отпремити",
+  "lat": "otpremiti",
+  "tr": "отпремити",
+  "ru": "загрузить; отправить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Морам да отпремим фајл на сервер.",
+   "lat": "Moram da otpremim fajl na server.",
+   "ru": "Мне нужно загрузить файл на сервер."
+  }
+ },
+ {
+  "id": "w3859",
+  "order": 3859,
+  "level": "B2",
+  "cyr": "ротација",
+  "lat": "rotacija",
+  "tr": "ротација",
+  "ru": "вращение; ротация; смена",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ротација запослених омогућава бољу продуктивност.",
+   "lat": "Rotacija zaposlenih omogućava bolju produktivnost.",
+   "ru": "Ротация сотрудников обеспечивает лучшую продуктивность."
+  }
+ },
+ {
+  "id": "w3860",
+  "order": 3860,
+  "level": "B2",
+  "cyr": "квалификован",
+  "lat": "kvalifikovan",
+  "tr": "квалификован",
+  "ru": "квалифицированный",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Квалификован радник добро обавља посао.",
+   "lat": "Kvalifikovan radnik dobro obavlja posao.",
+   "ru": "Квалифицированный работник хорошо выполняет работу."
+  }
+ },
+ {
+  "id": "w3861",
+  "order": 3861,
+  "level": "B2",
+  "cyr": "астероид",
+  "lat": "asteroid",
+  "tr": "астероид",
+  "ru": "астероид",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Астероид кружи између Марса и Јупитера.",
+   "lat": "Asteroid kruži između Marsa i Jupitera.",
+   "ru": "Астероид вращается между Марсом и Юпитером."
+  }
+ },
+ {
+  "id": "w3862",
+  "order": 3862,
+  "level": "B2",
+  "cyr": "ензим",
+  "lat": "enzim",
+  "tr": "ензим",
+  "ru": "фермент; энзим",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ензим убрзава хемијску реакцију.",
+   "lat": "Enzim ubrzava hemijsku reakciju.",
+   "ru": "Фермент ускоряет химическую реакцию."
+  }
+ },
+ {
+  "id": "w3863",
+  "order": 3863,
+  "level": "B2",
+  "cyr": "побити",
+  "lat": "pobiti",
+  "tr": "побити",
+  "ru": "побить; победить; превзойти",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тим је успео да побити све рекорде.",
+   "lat": "Tim je uspeo da pobiti sve rekorde.",
+   "ru": "Команде удалось побить все рекорды."
+  }
+ },
+ {
+  "id": "w3864",
+  "order": 3864,
+  "level": "B2",
+  "cyr": "сертификат",
+  "lat": "sertifikat",
+  "tr": "сертификат",
+  "ru": "сертификат",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Студент је добио сертификат о завршеном курсу.",
+   "lat": "Student je dobio sertifikat o završenom kursu.",
+   "ru": "Студент получил сертификат о пройденном курсе."
+  }
+ },
+ {
+  "id": "w3865",
+  "order": 3865,
+  "level": "B2",
+  "cyr": "специјализован",
+  "lat": "specijalizovan",
+  "tr": "специјализован",
+  "ru": "специализированный; узкий",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Ова болница је специјализована за срчне болести.",
+   "lat": "Ova bolnica je specijalizovana za srčne bolesti.",
+   "ru": "Эта больница специализируется на сердечных заболеваниях."
+  }
+ },
+ {
+  "id": "w3866",
+  "order": 3866,
+  "level": "B2",
+  "cyr": "атом",
+  "lat": "atom",
+  "tr": "атом",
+  "ru": "атом",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Атом је најмања честица хемијског елемента.",
+   "lat": "Atom je najmanja čestica hemijskog elementa.",
+   "ru": "Атом — это наименьшая частица химического элемента."
+  }
+ },
+ {
+  "id": "w3867",
+  "order": 3867,
+  "level": "B2",
+  "cyr": "запажање",
+  "lat": "zapažanje",
+  "tr": "запажанье",
+  "ru": "замечание; наблюдение",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Његово запажање је било тачно.",
+   "lat": "Njegovo zapažanje je bilo tačno.",
+   "ru": "Его замечание было точным."
+  }
+ },
+ {
+  "id": "w3868",
+  "order": 3868,
+  "level": "B2",
+  "cyr": "подесити",
+  "lat": "podesiti",
+  "tr": "подесити",
+  "ru": "настроить; подрегулировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Подесићу јачину звука.",
+   "lat": "Podesiću jačinu zvuka.",
+   "ru": "Я отрегулирую громкость."
+  }
+ },
+ {
+  "id": "w3869",
+  "order": 3869,
+  "level": "B2",
+  "cyr": "симетрија",
+  "lat": "simetrija",
+  "tr": "симетрија",
+  "ru": "симметрия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Симетрија снежинке је савршена.",
+   "lat": "Simetrija snežinke je savršena.",
+   "ru": "Симметрия снежинки совершенная."
+  }
+ },
+ {
+  "id": "w3870",
+  "order": 3870,
+  "level": "B2",
+  "cyr": "стручан",
+  "lat": "stručan",
+  "tr": "стручан",
+  "ru": "квалифицированный; профессиональный",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "За овај посао потребан је стручан стручњак.",
+   "lat": "Za ovaj posao potreban je stručan stručnjak.",
+   "ru": "Для этой работы нужен квалифицированный специалист."
+  }
+ },
+ {
+  "id": "w3871",
+  "order": 3871,
+  "level": "B2",
+  "cyr": "безбедност",
+  "lat": "bezbednost",
+  "tr": "безбедност",
+  "ru": "безопасность",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Безбедност података је најважнија.",
+   "lat": "Bezbednost podataka je najvažnija.",
+   "ru": "Безопасность данных самая важная."
+  }
+ },
+ {
+  "id": "w3872",
+  "order": 3872,
+  "level": "B2",
+  "cyr": "звање",
+  "lat": "zvanje",
+  "tr": "званье",
+  "ru": "учёная степень; звание",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Професорско звање захтева докторат.",
+   "lat": "Profesorsko zvanje zahteva doktorat.",
+   "ru": "Профессорское звание требует докторской."
+  }
+ },
+ {
+  "id": "w3873",
+  "order": 3873,
+  "level": "B2",
+  "cyr": "покварити",
+  "lat": "pokvariti",
+  "tr": "покварити",
+  "ru": "сломать; испортить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Дете је покварило играчку.",
+   "lat": "Dete je pokvarilo igračku.",
+   "ru": "Ребенок сломал игрушку."
+  }
+ },
+ {
+  "id": "w3874",
+  "order": 3874,
+  "level": "B2",
+  "cyr": "хромозом",
+  "lat": "hromozom",
+  "tr": "хромозом",
+  "ru": "хромосома",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Хромозоми носе генетски материјал.",
+   "lat": "Hromozomi nose genetski materijal.",
+   "ru": "Хромосомы несут генетический материал."
+  }
+ },
+ {
+  "id": "w3875",
+  "order": 3875,
+  "level": "B2",
+  "cyr": "стручни",
+  "lat": "stručni",
+  "tr": "стручни",
+  "ru": "специальный; профессиональный",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Стручни састанак је трајао два сата.",
+   "lat": "Stručni sastanak je trajao dva sata.",
+   "ru": "Профессиональное собрание длилось два часа."
+  }
+ },
+ {
+  "id": "w3876",
+  "order": 3876,
+  "level": "B2",
+  "cyr": "брисање",
+  "lat": "brisanje",
+  "tr": "брисанье",
+  "ru": "удаление; стирание",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "n",
+  "ex": {
+   "cyr": "Брисање података је трајно.",
+   "lat": "Brisanje podataka je trajno.",
+   "ru": "Удаление данных постоянное."
+  }
+ },
+ {
+  "id": "w3877",
+  "order": 3877,
+  "level": "B2",
+  "cyr": "институт",
+  "lat": "institut",
+  "tr": "институт",
+  "ru": "институт; учреждение",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај институт је лидер у области науке.",
+   "lat": "Ovaj institut je lider u oblasti nauke.",
+   "ru": "Этот институт является лидером в области науки."
+  }
+ },
+ {
+  "id": "w3878",
+  "order": 3878,
+  "level": "B2",
+  "cyr": "похађати",
+  "lat": "pohađati",
+  "tr": "похаджати",
+  "ru": "посещать (лекции, курсы)",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Она је похађала један семинар о маркетингу.",
+   "lat": "Ona je pohadjala jedan seminar o marketingu.",
+   "ru": "Она посетила семинар по маркетингу."
+  }
+ },
+ {
+  "id": "w3879",
+  "order": 3879,
+  "level": "B2",
+  "cyr": "даровит",
+  "lat": "darovit",
+  "tr": "даровит",
+  "ru": "одарённый; талантливый",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Даровит млади музичар освојио је прву награду.",
+   "lat": "Darovit mladi muzičar osvojio je prvu nagradu.",
+   "ru": "Одарённый молодой музыкант выиграл первую премию."
+  }
+ },
+ {
+  "id": "w3880",
+  "order": 3880,
+  "level": "B2",
+  "cyr": "вирус",
+  "lat": "virus",
+  "tr": "вирус",
+  "ru": "вирус",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Компјутерски вирус је обрисао датотеке.",
+   "lat": "Kompjuterski virus je obrisao datoteke.",
+   "ru": "Компьютерный вирус удалил файлы."
+  }
+ },
+ {
+  "id": "w3881",
+  "order": 3881,
+  "level": "B2",
+  "cyr": "испитни рок",
+  "lat": "ispitni rok",
+  "tr": "испитни рок",
+  "ru": "сессия; экзаменационный период",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Испитни рок почиње следеће недеље.",
+   "lat": "Ispitni rok počinje sledeće nedelje.",
+   "ru": "Экзаменационная сессия начинается на следующей неделе."
+  }
+ },
+ {
+  "id": "w3882",
+  "order": 3882,
+  "level": "B2",
+  "cyr": "прегледати",
+  "lat": "pregledati",
+  "tr": "прегледати",
+  "ru": "просмотреть; проверить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Прегледаћемо нови чланак заједно.",
+   "lat": "Pregledaćemo novi članak zajedno.",
+   "ru": "Мы вместе просмотрим новую статью."
+  }
+ },
+ {
+  "id": "w3883",
+  "order": 3883,
+  "level": "B2",
+  "cyr": "истраживачки",
+  "lat": "istraživački",
+  "tr": "истраживачки",
+  "ru": "исследовательский",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Истраживачки тим проучава нове материјале.",
+   "lat": "Istraživački tim proučava nove materijale.",
+   "ru": "Исследовательская команда изучает новые материалы."
+  }
+ },
+ {
+  "id": "w3884",
+  "order": 3884,
+  "level": "B2",
+  "cyr": "галаксија",
+  "lat": "galaksija",
+  "tr": "галаксија",
+  "ru": "галактика",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Млечни пут је наша галаксија.",
+   "lat": "Mlečni put je naša galaksija.",
+   "ru": "Млечный Путь наша галактика."
+  }
+ },
+ {
+  "id": "w3885",
+  "order": 3885,
+  "level": "B2",
+  "cyr": "кампус",
+  "lat": "kampus",
+  "tr": "кампус",
+  "ru": "кампус",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Студентски кампус је огроман.",
+   "lat": "Studentski kampus je ogroman.",
+   "ru": "Студенческий кампус огромный."
+  }
+ },
+ {
+  "id": "w3886",
+  "order": 3886,
+  "level": "B2",
+  "cyr": "предавати",
+  "lat": "predavati",
+  "tr": "предавати",
+  "ru": "передавать; преподавать; сдавать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Професор предаје на универзитету већ десет година.",
+   "lat": "Profesor predaje na univerzitetu već deset godina.",
+   "ru": "Профессор преподает в университете уже десять лет."
+  }
+ },
+ {
+  "id": "w3887",
+  "order": 3887,
+  "level": "B2",
+  "cyr": "лабораторијски",
+  "lat": "laboratorijski",
+  "tr": "лабораторијски",
+  "ru": "лабораторный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "У лабораторијском одељењу раде многи научници.",
+   "lat": "U laboratorijskom odeljenju rade mnogi naučnici.",
+   "ru": "В лабораторном отделении работают многие ученые."
+  }
+ },
+ {
+  "id": "w3888",
+  "order": 3888,
+  "level": "B2",
+  "cyr": "гравитација",
+  "lat": "gravitacija",
+  "tr": "гравитација",
+  "ru": "гравитация; притяжение",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Гравитација држи планете у орбити.",
+   "lat": "Gravitacija drži planete u orbiti.",
+   "ru": "Гравитация удерживает планеты на орбите."
+  }
+ },
+ {
+  "id": "w3889",
+  "order": 3889,
+  "level": "B2",
+  "cyr": "катедра",
+  "lat": "katedra",
+  "tr": "катедра",
+  "ru": "кафедра; кафедра в университете",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Најбољи професор предаје на катедри за историју.",
+   "lat": "Najbolji profesor predaje na katedri za istoriju.",
+   "ru": "Лучший профессор преподает на кафедре истории."
+  }
+ },
+ {
+  "id": "w3890",
+  "order": 3890,
+  "level": "B2",
+  "cyr": "притиснути",
+  "lat": "pritisnuti",
+  "tr": "притиснути",
+  "ru": "придавить; нажать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Дечја рука неће да притисне дугме.",
+   "lat": "Dečja ruka neće da pritisne dugme.",
+   "ru": "Детская рука не нажмет на кнопку."
+  }
+ },
+ {
+  "id": "w3891",
+  "order": 3891,
+  "level": "B2",
+  "cyr": "случајан",
+  "lat": "slučajan",
+  "tr": "случајан",
+  "ru": "случайный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Случајан посетилац је оставио торбу.",
+   "lat": "Slučajan posetilac je ostavio torbu.",
+   "ru": "Случайный посетитель оставил сумку."
+  }
+ },
+ {
+  "id": "w3892",
+  "order": 3892,
+  "level": "B2",
+  "cyr": "дељење",
+  "lat": "deljenje",
+  "tr": "деленье",
+  "ru": "деление; обмен",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "n",
+  "ex": {
+   "cyr": "Дељење фајлова је брзо и једноставно.",
+   "lat": "Deljenje fajlova je brzo i jednostavno.",
+   "ru": "Обмен файлами быстрый и простой."
+  }
+ },
+ {
+  "id": "w3893",
+  "order": 3893,
+  "level": "B2",
+  "cyr": "колоквијум",
+  "lat": "kolokvijum",
+  "tr": "колоквијум",
+  "ru": "коллоквиум; зачёт",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Колоквијум је обавезан за пролаз.",
+   "lat": "Kolokvijum je obavezan za prolaz.",
+   "ru": "Коллоквиум обязателен для зачёта."
+  }
+ },
+ {
+  "id": "w3894",
+  "order": 3894,
+  "level": "B2",
+  "cyr": "разврстати",
+  "lat": "razvrstati",
+  "tr": "разврстати",
+  "ru": "распределять; классифицировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Учитељ је разврстао ученике у групе.",
+   "lat": "Učitelj je razvrstao učenike u grupe.",
+   "ru": "Учитель распределил учеников по группам."
+  }
+ },
+ {
+  "id": "w3895",
+  "order": 3895,
+  "level": "B2",
+  "cyr": "теренски",
+  "lat": "terenski",
+  "tr": "теренски",
+  "ru": "полевой",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Теренска истраживања су већ почела.",
+   "lat": "Terenska istraživanja su već počela.",
+   "ru": "Полевые исследования уже начались."
+  }
+ },
+ {
+  "id": "w3896",
+  "order": 3896,
+  "level": "B2",
+  "cyr": "дигитализација",
+  "lat": "digitalizacija",
+  "tr": "дигитализација",
+  "ru": "оцифровка; оцифровка",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дигитализација књиге је завршена.",
+   "lat": "Digitalizacija knjige je završena.",
+   "ru": "Оцифровка книги завершена."
+  }
+ },
+ {
+  "id": "w3897",
+  "order": 3897,
+  "level": "B2",
+  "cyr": "конференција",
+  "lat": "konferencija",
+  "tr": "конференција",
+  "ru": "конференция; совещание",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Конференција је почела у девет часова.",
+   "lat": "Konferencija je počela u devet časova.",
+   "ru": "Конференция началась в девять часов."
+  }
+ },
+ {
+  "id": "w3898",
+  "order": 3898,
+  "level": "B2",
+  "cyr": "ресетовати",
+  "lat": "resetovati",
+  "tr": "ресетовати",
+  "ru": "сбросить; перезагрузить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Мораћеш да ресетујеш рачунар.",
+   "lat": "Moraćeš da resetuješ računar.",
+   "ru": "Т придется перезагрузить компьютер."
+  }
+ },
+ {
+  "id": "w3899",
+  "order": 3899,
+  "level": "B2",
+  "cyr": "електрана",
+  "lat": "elektrana",
+  "tr": "електрана",
+  "ru": "электростанция",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Нова електрана је отворена.",
+   "lat": "Nova elektrana je otvorena.",
+   "ru": "Новая электростанция открыта."
+  }
+ },
+ {
+  "id": "w3900",
+  "order": 3900,
+  "level": "B2",
+  "cyr": "курс",
+  "lat": "kurs",
+  "tr": "курс",
+  "ru": "курс; поток",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај курс је врло захтеван.",
+   "lat": "Ovaj kurs je vrlo zahtevan.",
+   "ru": "Этот курс очень требовательный."
+  }
+ },
+ {
+  "id": "w3901",
+  "order": 3901,
+  "level": "B2",
+  "cyr": "саставити",
+  "lat": "sastaviti",
+  "tr": "саставити",
+  "ru": "составлять; создавать; составлять документ",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Стручњаци су саставили извештај о истраживању.",
+   "lat": "Stručnjaci su sastavili izveštaj o istraživanju.",
+   "ru": "Специалисты составили отчет о исследовании."
+  }
+ },
+ {
+  "id": "w3902",
+  "order": 3902,
+  "level": "B2",
+  "cyr": "заштитник",
+  "lat": "zaštitnik",
+  "tr": "заштитник",
+  "ru": "защитник; страж",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај заштитник спречава злоупотребе.",
+   "lat": "Ovaj zaštitnik sprečava zloupotrebe.",
+   "ru": "Этот защитник предотвращает злоупотребления."
+  }
+ },
+ {
+  "id": "w3903",
+  "order": 3903,
+  "level": "B2",
+  "cyr": "литература",
+  "lat": "literatura",
+  "tr": "литература",
+  "ru": "литература; учебная литература",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "За испит је потребно много литературе.",
+   "lat": "Za ispit je potrebno mnogo literature.",
+   "ru": "Для экзамена нужна много учебной литературы."
+  }
+ },
+ {
+  "id": "w3904",
+  "order": 3904,
+  "level": "B2",
+  "cyr": "уписивати",
+  "lat": "upisivati",
+  "tr": "уписивати",
+  "ru": "записывать; вносить; записываться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Секретар уписује податке у електронски журнал.",
+   "lat": "Sekretar upisuje podatke u elektronski žurnal.",
+   "ru": "Секретарь записывает данные в электронный журнал."
+  }
+ },
+ {
+  "id": "w3905",
+  "order": 3905,
+  "level": "B2",
+  "cyr": "инсталација",
+  "lat": "instalacija",
+  "tr": "инсталација",
+  "ru": "установка; монтаж",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Инсталација програма траје неколико минута.",
+   "lat": "Instalacija programa traje nekoliko minuta.",
+   "ru": "Установка программы занимает несколько минут."
+  }
+ },
+ {
+  "id": "w3906",
+  "order": 3906,
+  "level": "B2",
+  "cyr": "мастер",
+  "lat": "master",
+  "tr": "мастер",
+  "ru": "магистерская степень; магистр",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Студент стиче звање мастер.",
+   "lat": "Student stiče zvanje master.",
+   "ru": "Студент получает степень магистра."
+  }
+ },
+ {
+  "id": "w3907",
+  "order": 3907,
+  "level": "B2",
+  "cyr": "упоређивати",
+  "lat": "upoređivati",
+  "tr": "упоредживати",
+  "ru": "сравнивать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Студенти упоређују резултате истраживања.",
+   "lat": "Studenti upoređuju rezultate istraživanja.",
+   "ru": "Студенты сравнивают результаты исследования."
+  }
+ },
+ {
+  "id": "w3908",
+  "order": 3908,
+  "level": "B2",
+  "cyr": "интерфејс",
+  "lat": "interfejs",
+  "tr": "интерфејс",
+  "ru": "интерфейс",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кориснички интерфејс мора бити једноставан.",
+   "lat": "Korisnički interfejs mora biti jednostavan.",
+   "ru": "Пользовательский интерфейс должен быть простым."
+  }
+ },
+ {
+  "id": "w3909",
+  "order": 3909,
+  "level": "B2",
+  "cyr": "мерење",
+  "lat": "merenje",
+  "tr": "меренье",
+  "ru": "измерение; замер",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Тачно мерење је важно за науку.",
+   "lat": "Tačno merenje je važno za nauku.",
+   "ru": "Точное измерение важно для науки."
+  }
+ },
+ {
+  "id": "w3910",
+  "order": 3910,
+  "level": "B2",
+  "cyr": "формулисати",
+  "lat": "formulisati",
+  "tr": "формулисати",
+  "ru": "формулировать; излагать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Професор је формулисао нову научну хипотезу.",
+   "lat": "Profesor je formulisao novu naučnu hipotezu.",
+   "ru": "Профессор сформулировал новую научную гипотезу."
+  }
+ },
+ {
+  "id": "w3911",
+  "order": 3911,
+  "level": "B2",
+  "cyr": "инфраструктура",
+  "lat": "infrastruktura",
+  "tr": "инфраструктура",
+  "ru": "инфраструктура",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Инфраструктура града је застарела.",
+   "lat": "Infrastruktura grada je zastarela.",
+   "ru": "Инфраструктура города устарела."
+  }
+ },
+ {
+  "id": "w3912",
+  "order": 3912,
+  "level": "B2",
+  "cyr": "мутација",
+  "lat": "mutacija",
+  "tr": "мутација",
+  "ru": "мутация",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мутација може променити особину организма.",
+   "lat": "Mutacija može promeniti osobinu organizma.",
+   "ru": "Мутация может изменить признак организма."
+  }
+ },
+ {
+  "id": "w3913",
+  "order": 3913,
+  "level": "B2",
+  "cyr": "кабл",
+  "lat": "kabl",
+  "tr": "кабл",
+  "ru": "кабель",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кабл за интернет је дуже од потребног.",
+   "lat": "Kabl za internet je duže od potrebnog.",
+   "ru": "Кабель для интернета длиннее, чем нужно."
+  }
+ },
+ {
+  "id": "w3914",
+  "order": 3914,
+  "level": "B2",
+  "cyr": "образовање",
+  "lat": "obrazovanje",
+  "tr": "образованье",
+  "ru": "образование",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Образовање је основа успеха.",
+   "lat": "Obrazovanje je osnova uspeha.",
+   "ru": "Образование — основа успеха."
+  }
+ },
+ {
+  "id": "w3915",
+  "order": 3915,
+  "level": "B2",
+  "cyr": "калкулатор",
+  "lat": "kalkulator",
+  "tr": "калкулатор",
+  "ru": "калькулятор",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Калкулатор је на столу.",
+   "lat": "Kalkulator je na stolu.",
+   "ru": "Калькулятор на столе."
+  }
+ },
+ {
+  "id": "w3916",
+  "order": 3916,
+  "level": "B2",
+  "cyr": "одбрана",
+  "lat": "odbrana",
+  "tr": "одбрана",
+  "ru": "защита; диссертация",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Одбрана тезе је успешна.",
+   "lat": "Odbrana teze je uspešna.",
+   "ru": "Защита диссертации успешна."
+  }
+ },
+ {
+  "id": "w3917",
+  "order": 3917,
+  "level": "B2",
+  "cyr": "катализатор",
+  "lat": "katalizator",
+  "tr": "катализатор",
+  "ru": "катализатор",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Катализатор убрзава хемијску реакцију.",
+   "lat": "Katalizator ubrzava hemijsku reakciju.",
+   "ru": "Катализатор ускоряет химическую реакцию."
+  }
+ },
+ {
+  "id": "w3918",
+  "order": 3918,
+  "level": "B2",
+  "cyr": "одсек",
+  "lat": "odsek",
+  "tr": "одсек",
+  "ru": "отдел; секция; факультет",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Одсек за психологију је популаран.",
+   "lat": "Odsek za psihologiju je popularan.",
+   "ru": "Отдел психологии популярен."
+  }
+ },
+ {
+  "id": "w3919",
+  "order": 3919,
+  "level": "B2",
+  "cyr": "коментар",
+  "lat": "komentar",
+  "tr": "коментар",
+  "ru": "комментарий; отзыв",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Написао сам коментар на ту фотографију.",
+   "lat": "Napisao sam komentar na tu fotografiju.",
+   "ru": "Я написал комментарий к тому фото."
+  }
+ },
+ {
+  "id": "w3920",
+  "order": 3920,
+  "level": "B2",
+  "cyr": "полагање",
+  "lat": "polaganje",
+  "tr": "полаганье",
+  "ru": "сдача; экзамен",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Полагање испита је стресно.",
+   "lat": "Polaganje ispita je stresno.",
+   "ru": "Сдача экзамена — это стресс."
+  }
+ },
+ {
+  "id": "w3921",
+  "order": 3921,
+  "level": "B2",
+  "cyr": "ласер",
+  "lat": "laser",
+  "tr": "ласер",
+  "ru": "лазер",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Операција ласером је безболна.",
+   "lat": "Operacija laserom je bezbolna.",
+   "ru": "Операция лазером безболезненна."
+  }
+ },
+ {
+  "id": "w3922",
+  "order": 3922,
+  "level": "B2",
+  "cyr": "полазник",
+  "lat": "polaznik",
+  "tr": "полазник",
+  "ru": "слушатель; курсант; новичок",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај полазник је најмлађи у групи.",
+   "lat": "Ovaj polaznik je najmlađi u grupi.",
+   "ru": "Этот слушатель самый молодой в группе."
+  }
+ },
+ {
+  "id": "w3923",
+  "order": 3923,
+  "level": "B2",
+  "cyr": "летелица",
+  "lat": "letelica",
+  "tr": "летелица",
+  "ru": "летательный аппарат; летучий аппарат",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Нову летелицу је дизајнирао тим инжењера.",
+   "lat": "Novu letelicu je dizajnirao tim inženjera.",
+   "ru": "Новый летательный аппарат спроектировала команда инженеров."
+  }
+ },
+ {
+  "id": "w3924",
+  "order": 3924,
+  "level": "B2",
+  "cyr": "посматрање",
+  "lat": "posmatranje",
+  "tr": "посматранье",
+  "ru": "наблюдение; осмотр",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пажљиво посматрање даје резултате.",
+   "lat": "Pažljivo posmatranje daje rezultate.",
+   "ru": "Тщательное наблюдение даёт результаты."
+  }
+ },
+ {
+  "id": "w3925",
+  "order": 3925,
+  "level": "B2",
+  "cyr": "магнет",
+  "lat": "magnet",
+  "tr": "магнет",
+  "ru": "магнит",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Магнет привлачи гвожђе.",
+   "lat": "Magnet privlači gvožđe.",
+   "ru": "Магнит притягивает железо."
+  }
+ },
+ {
+  "id": "w3926",
+  "order": 3926,
+  "level": "B2",
+  "cyr": "предавач",
+  "lat": "predavač",
+  "tr": "предавач",
+  "ru": "лектор; преподаватель",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Предавач је предавао о историји уметности.",
+   "lat": "Predavač je predavao o istoriji umetnosti.",
+   "ru": "Лектор читал лекцию об истории искусства."
+  }
+ },
+ {
+  "id": "w3927",
+  "order": 3927,
+  "level": "B2",
+  "cyr": "магнетизам",
+  "lat": "magnetizam",
+  "tr": "магнетизам",
+  "ru": "магнетизм",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Магнетизам утиче на феромагнетне материје.",
+   "lat": "Magnetizam utiče na feromagnetne materije.",
+   "ru": "Магнетизм влияет на ферромагнитные материалы."
+  }
+ },
+ {
+  "id": "w3928",
+  "order": 3928,
+  "level": "B2",
+  "cyr": "предавање",
+  "lat": "predavanje",
+  "tr": "предаванье",
+  "ru": "лекция; выступление",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Студенти су слушали предавање о квантној физици.",
+   "lat": "Studenti su slušali predavanje o kvantnoj fizici.",
+   "ru": "Студенты слушали лекцию о квантовой физике."
+  }
+ },
+ {
+  "id": "w3929",
+  "order": 3929,
+  "level": "B2",
+  "cyr": "материја",
+  "lat": "materija",
+  "tr": "материја",
+  "ru": "материя; вещество",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Све у универзуму је састављено од материје.",
+   "lat": "Sve u univerzumu je sastavljeno od materije.",
+   "ru": "Всё во Вселенной состоит из материи."
+  }
+ },
+ {
+  "id": "w3930",
+  "order": 3930,
+  "level": "B2",
+  "cyr": "примена",
+  "lat": "primena",
+  "tr": "примена",
+  "ru": "применение; использование",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Примена овог метода је једноставна.",
+   "lat": "Primena ovog metoda je jednostavna.",
+   "ru": "Применение этого метода проста."
+  }
+ },
+ {
+  "id": "w3931",
+  "order": 3931,
+  "level": "B2",
+  "cyr": "микроскоп",
+  "lat": "mikroskop",
+  "tr": "микроскоп",
+  "ru": "микроскоп",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Микроскоп види невидљиво.",
+   "lat": "Mikroskop vidi nevidljivo.",
+   "ru": "Микроскоп видит невидимое."
+  }
+ },
+ {
+  "id": "w3932",
+  "order": 3932,
+  "level": "B2",
+  "cyr": "примерак",
+  "lat": "primerak",
+  "tr": "примерак",
+  "ru": "экземпляр; образец",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Примерак књиге је ту.",
+   "lat": "Primerak knjige je tu.",
+   "ru": "Экземпляр книги здесь."
+  }
+ },
+ {
+  "id": "w3933",
+  "order": 3933,
+  "level": "B2",
+  "cyr": "модел",
+  "lat": "model",
+  "tr": "модел",
+  "ru": "модель; образец",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Нови модел телефона изашао је у продају.",
+   "lat": "Novi model telefona izašao je u prodaju.",
+   "ru": "Новая модель телефона вышла в продажу."
+  }
+ },
+ {
+  "id": "w3934",
+  "order": 3934,
+  "level": "B2",
+  "cyr": "променљива",
+  "lat": "promenljiva",
+  "tr": "променлива",
+  "ru": "переменная",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова променљива утиче на резултат.",
+   "lat": "Ova promenljiva utiče na rezultat.",
+   "ru": "Эта переменная влияет на результат."
+  }
+ },
+ {
+  "id": "w3935",
+  "order": 3935,
+  "level": "B2",
+  "cyr": "молекула",
+  "lat": "molekula",
+  "tr": "молекула",
+  "ru": "молекула",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Молекула је група атома у вези.",
+   "lat": "Molekula je grupa atoma u vezi.",
+   "ru": "Молекула — это группа атомов в связи."
+  }
+ },
+ {
+  "id": "w3936",
+  "order": 3936,
+  "level": "B2",
+  "cyr": "процена",
+  "lat": "procena",
+  "tr": "процена",
+  "ru": "оценка; оценка",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Процена рада траје пола сата.",
+   "lat": "Procena rada traje pola sata.",
+   "ru": "Оценка работы длится полчаса."
+  }
+ },
+ {
+  "id": "w3937",
+  "order": 3937,
+  "level": "B2",
+  "cyr": "монитор",
+  "lat": "monitor",
+  "tr": "монитор",
+  "ru": "монитор",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Монитор је приказао грешку.",
+   "lat": "Monitor je prikazao grešku.",
+   "ru": "Монитор показал ошибку."
+  }
+ },
+ {
+  "id": "w3938",
+  "order": 3938,
+  "level": "B2",
+  "cyr": "публикација",
+  "lat": "publikacija",
+  "tr": "публикација",
+  "ru": "публикация; издание",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Професор је објавио нову публикацију.",
+   "lat": "Profesor je objavio novu publikaciju.",
+   "ru": "Профессор опубликовал новое издание."
+  }
+ },
+ {
+  "id": "w3939",
+  "order": 3939,
+  "level": "B2",
+  "cyr": "надоградња",
+  "lat": "nadogradnja",
+  "tr": "надограднья",
+  "ru": "надстройка; модернизация; расширение",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Надоградња система је завршена.",
+   "lat": "Nadogradnja sistema je završena.",
+   "ru": "Надстройка системы завершена."
+  }
+ },
+ {
+  "id": "w3940",
+  "order": 3940,
+  "level": "B2",
+  "cyr": "радионица",
+  "lat": "radionica",
+  "tr": "радионица",
+  "ru": "мастер-класс; мастерская",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Учитељ води радионицу.",
+   "lat": "Učitelj vodi radionicu.",
+   "ru": "Учитель проводит мастер-класс."
+  }
+ },
+ {
+  "id": "w3941",
+  "order": 3941,
+  "level": "B2",
+  "cyr": "напајање",
+  "lat": "napajanje",
+  "tr": "напајанье",
+  "ru": "питание; подача питания",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "n",
+  "ex": {
+   "cyr": "Напајање рачунара је стабилно.",
+   "lat": "Napajanje računara je stabilno.",
+   "ru": "Питание компьютера стабильно."
+  }
+ },
+ {
+  "id": "w3942",
+  "order": 3942,
+  "level": "B2",
+  "cyr": "реферат",
+  "lat": "referat",
+  "tr": "реферат",
+  "ru": "реферат",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Студент је предао реферат.",
+   "lat": "Student je predao referat.",
+   "ru": "Студент сдал реферат."
+  }
+ },
+ {
+  "id": "w3943",
+  "order": 3943,
+  "level": "B2",
+  "cyr": "напон",
+  "lat": "napon",
+  "tr": "напон",
+  "ru": "напряжение",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Високи напон је опасан по људски живот.",
+   "lat": "Visoki napon je opasan po ljudski život.",
+   "ru": "Высокое напряжение опасно для человеческой жизни."
+  }
+ },
+ {
+  "id": "w3944",
+  "order": 3944,
+  "level": "B2",
+  "cyr": "рецензија",
+  "lat": "recenzija",
+  "tr": "рецензија",
+  "ru": "рецензия; отзыв",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Професор је написао рецензију на његов рад.",
+   "lat": "Profesor je napisao recenziju na njegov rad.",
+   "ru": "Профessor написал рецензию на его работу."
+  }
+ },
+ {
+  "id": "w3945",
+  "order": 3945,
+  "level": "B2",
+  "cyr": "наредба",
+  "lat": "naredba",
+  "tr": "наредба",
+  "ru": "приказ; команда",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Систем је послушао наредбу.",
+   "lat": "Sistem je poslušao naredbu.",
+   "ru": "Система выполнил команду."
+  }
+ },
+ {
+  "id": "w3946",
+  "order": 3946,
+  "level": "B2",
+  "cyr": "сажетак",
+  "lat": "sažetak",
+  "tr": "сажетак",
+  "ru": "резюме; краткое содержание",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сажетак књиге је на крају.",
+   "lat": "Sažetak knjige je na kraju.",
+   "ru": "Резюме книги в конце."
+  }
+ },
+ {
+  "id": "w3947",
+  "order": 3947,
+  "level": "B2",
+  "cyr": "неутрон",
+  "lat": "neutron",
+  "tr": "неутрон",
+  "ru": "нейтрон",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Неутрон не носи електрични набој.",
+   "lat": "Neutron ne nosi električni naboj.",
+   "ru": "Нейтрон не несёт электрический заряд."
+  }
+ },
+ {
+  "id": "w3948",
+  "order": 3948,
+  "level": "B2",
+  "cyr": "семестар",
+  "lat": "semestar",
+  "tr": "семестар",
+  "ru": "семестр",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Први семестар је завршен.",
+   "lat": "Prvi semestar je završen.",
+   "ru": "Первый семестр завершён."
+  }
+ },
+ {
+  "id": "w3949",
+  "order": 3949,
+  "level": "B2",
+  "cyr": "обрада",
+  "lat": "obrada",
+  "tr": "обрада",
+  "ru": "обработка; обработка",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Обрада података је сложена.",
+   "lat": "Obrada podataka je složena.",
+   "ru": "Обработка данных сложна."
+  }
+ },
+ {
+  "id": "w3950",
+  "order": 3950,
+  "level": "B2",
+  "cyr": "семинар",
+  "lat": "seminar",
+  "tr": "семинар",
+  "ru": "семинар",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Студенти активно учествују на семинару.",
+   "lat": "Studenti aktivno učestvuju na seminaru.",
+   "ru": "Студенты активно участвуют на семинаре."
+  }
+ },
+ {
+  "id": "w3951",
+  "order": 3951,
+  "level": "B2",
+  "cyr": "објектив",
+  "lat": "objektiv",
+  "tr": "објектив",
+  "ru": "объектив",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Објектив камере је испуцао.",
+   "lat": "Objektiv kamere je ispucao.",
+   "ru": "Объектив камеры поцарапан."
+  }
+ },
+ {
+  "id": "w3952",
+  "order": 3952,
+  "level": "B2",
+  "cyr": "симпозијум",
+  "lat": "simpozijum",
+  "tr": "симпозијум",
+  "ru": "симпозиум; научная конференция",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "На симпозијуму су говорили о новим технологијама.",
+   "lat": "Na simpozijumu su govorili o novim tehnologijama.",
+   "ru": "На симпозиуме говорили о новых технологиях."
+  }
+ },
+ {
+  "id": "w3953",
+  "order": 3953,
+  "level": "B2",
+  "cyr": "оксидација",
+  "lat": "oksidacija",
+  "tr": "оксидација",
+  "ru": "окисление",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Оксидација је процес губљења електрона.",
+   "lat": "Oksidacija je proces gubljenja elektrona.",
+   "ru": "Окисление — это процесс потери электронов."
+  }
+ },
+ {
+  "id": "w3954",
+  "order": 3954,
+  "level": "B2",
+  "cyr": "статистика",
+  "lat": "statistika",
+  "tr": "статистика",
+  "ru": "статистика",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Статистика показује тренд.",
+   "lat": "Statistika pokazuje trend.",
+   "ru": "Статистика показывает тренд."
+  }
+ },
+ {
+  "id": "w3955",
+  "order": 3955,
+  "level": "B2",
+  "cyr": "орбита",
+  "lat": "orbita",
+  "tr": "орбита",
+  "ru": "орбита",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Земља кружи око Сунца по орбити.",
+   "lat": "Zemlja kruži oko Sunca po orbiti.",
+   "ru": "Земля вращается вокруг Солнца по орбите."
+  }
+ },
+ {
+  "id": "w3956",
+  "order": 3956,
+  "level": "B2",
+  "cyr": "студирање",
+  "lat": "studiranje",
+  "tr": "студиранье",
+  "ru": "учёба (в вузе)",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "n",
+  "ex": {
+   "cyr": "Студирање у иностранству је скупо.",
+   "lat": "Studiranje u inostranstvu je skupo.",
+   "ru": "Учёба за границей дорогая."
+  }
+ },
+ {
+  "id": "w3957",
+  "order": 3957,
+  "level": "B2",
+  "cyr": "отпремање",
+  "lat": "otpremanje",
+  "tr": "отпреманье",
+  "ru": "загрузка; отправка",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "n",
+  "ex": {
+   "cyr": "Отпремање фајла је завршено.",
+   "lat": "Otpremanje fajla je završeno.",
+   "ru": "Загрузка файла завершена."
+  }
+ },
+ {
+  "id": "w3958",
+  "order": 3958,
+  "level": "B2",
+  "cyr": "студија",
+  "lat": "studija",
+  "tr": "студија",
+  "ru": "исследование; студия",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Студија је завршена.",
+   "lat": "Studija je završena.",
+   "ru": "Исследование завершено."
+  }
+ },
+ {
+  "id": "w3959",
+  "order": 3959,
+  "level": "B2",
+  "cyr": "параметар",
+  "lat": "parametar",
+  "tr": "параметар",
+  "ru": "параметр",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Инжењер мора да провери сваки параметар.",
+   "lat": "Inženjer mora da proveri svaki parametar.",
+   "ru": "Инженер должен проверить каждый параметр."
+  }
+ },
+ {
+  "id": "w3960",
+  "order": 3960,
+  "level": "B2",
+  "cyr": "теза",
+  "lat": "teza",
+  "tr": "теза",
+  "ru": "тезис; диссертация",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Студент мора да одбрани своју докторску тезу.",
+   "lat": "Student mora da odbrani svoju doktorsku tezu.",
+   "ru": "Студент должен защитить свою докторскую диссертацию."
+  }
+ },
+ {
+  "id": "w3961",
+  "order": 3961,
+  "level": "B2",
+  "cyr": "пиксел",
+  "lat": "piksel",
+  "tr": "пиксел",
+  "ru": "пиксель",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Слика је оштра, има пуно пиксела.",
+   "lat": "Slika je oštra, ima puno piksela.",
+   "ru": "Картинка чёткая, много пикселей."
+  }
+ },
+ {
+  "id": "w3962",
+  "order": 3962,
+  "level": "B2",
+  "cyr": "теорија",
+  "lat": "teorija",
+  "tr": "теорија",
+  "ru": "теория",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова нова теорија објашњава све.",
+   "lat": "Njegova nova teorija objašnjava sve.",
+   "ru": "Его новая теория объясняет всё."
+  }
+ },
+ {
+  "id": "w3963",
+  "order": 3963,
+  "level": "B2",
+  "cyr": "подешавање",
+  "lat": "podešavanje",
+  "tr": "подешаванье",
+  "ru": "настройка; регулировка",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "n",
+  "ex": {
+   "cyr": "Подешавање камере је важно.",
+   "lat": "Podešavanje kamere je važno.",
+   "ru": "Настройка камеры важна."
+  }
+ },
+ {
+  "id": "w3964",
+  "order": 3964,
+  "level": "B2",
+  "cyr": "увод",
+  "lat": "uvod",
+  "tr": "увод",
+  "ru": "введение; вступление",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Увод у књизи је кратак.",
+   "lat": "Uvod u knjizi je kratak.",
+   "ru": "Во введении к книге кратко."
+  }
+ },
+ {
+  "id": "w3965",
+  "order": 3965,
+  "level": "B2",
+  "cyr": "праћење",
+  "lat": "praćenje",
+  "tr": "праченье",
+  "ru": "отслеживание; наблюдение",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "n",
+  "ex": {
+   "cyr": "Праћење пакета је могуће на сајту.",
+   "lat": "Praćenje paketa je moguće na sajtu.",
+   "ru": "Отслеживание посылки возможно на сайте."
+  }
+ },
+ {
+  "id": "w3966",
+  "order": 3966,
+  "level": "B2",
+  "cyr": "упис",
+  "lat": "upis",
+  "tr": "упис",
+  "ru": "зачисление; запись",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Упис на факултету је у току.",
+   "lat": "Upis na fakultetu je u toku.",
+   "ru": "Зачисление на факультете в процессе."
+  }
+ },
+ {
+  "id": "w3967",
+  "order": 3967,
+  "level": "B2",
+  "cyr": "прекидач",
+  "lat": "prekidač",
+  "tr": "прекидач",
+  "ru": "выключатель; переключатель",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Прекидач за светлост је поред врата.",
+   "lat": "Prekidač za svetlost je pored vrata.",
+   "ru": "Выключатель света рядом с дверью."
+  }
+ },
+ {
+  "id": "w3968",
+  "order": 3968,
+  "level": "B2",
+  "cyr": "формула",
+  "lat": "formula",
+  "tr": "формула",
+  "ru": "формула",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова хемијска формула је веома сложена.",
+   "lat": "Ova hemijska formula je veoma složena.",
+   "ru": "Эта химическая формула очень сложная."
+  }
+ },
+ {
+  "id": "w3969",
+  "order": 3969,
+  "level": "B2",
+  "cyr": "претрага",
+  "lat": "pretraga",
+  "tr": "претрага",
+  "ru": "поиск; розыск",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Претрага на интернету траје само неколико секунди.",
+   "lat": "Pretraga na internetu traje samo nekoliko sekundi.",
+   "ru": "Поиск в интернете занимает всего несколько секунд."
+  }
+ },
+ {
+  "id": "w3970",
+  "order": 3970,
+  "level": "B2",
+  "cyr": "фуснота",
+  "lat": "fusnota",
+  "tr": "фуснота",
+  "ru": "сноска; примечание внизу страницы",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Прочитао је важан податак у фусноти.",
+   "lat": "Pročitao je važan podatak u fusnoti.",
+   "ru": "Он прочитал важную информацию в сноске."
+  }
+ },
+ {
+  "id": "w3971",
+  "order": 3971,
+  "level": "B2",
+  "cyr": "преузимање",
+  "lat": "preuzimanje",
+  "tr": "преузиманье",
+  "ru": "загрузка; скачивание",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "n",
+  "ex": {
+   "cyr": "Преузимање филма може потрајати дуже време.",
+   "lat": "Preuzimanje filma može potrajati duže vreme.",
+   "ru": "Загрузка фильма может занять много времени."
+  }
+ },
+ {
+  "id": "w3972",
+  "order": 3972,
+  "level": "B2",
+  "cyr": "цитат",
+  "lat": "citat",
+  "tr": "цитат",
+  "ru": "цитата; выдержка",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Она је навела важан цитат из књиге.",
+   "lat": "Ona je navela važan citat iz knjige.",
+   "ru": "Она привела важную цитату из книги."
+  }
+ },
+ {
+  "id": "w3973",
+  "order": 3973,
+  "level": "B2",
+  "cyr": "приватност",
+  "lat": "privatnost",
+  "tr": "приватност",
+  "ru": "конфиденциальность; частная жизнь",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Заштита приватности је веома важна данас.",
+   "lat": "Zaštita privatnosti je veoma važna danas.",
+   "ru": "Защита конфиденциальности сегодня очень важна."
+  }
+ },
+ {
+  "id": "w3974",
+  "order": 3974,
+  "level": "B2",
+  "cyr": "школарина",
+  "lat": "školarina",
+  "tr": "школарина",
+  "ru": "обучение; плата за обучение",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Школарина за прву годину је веома висока.",
+   "lat": "Školarina za prvu godinu je veoma visoka.",
+   "ru": "Плата за первый год обучения очень высокая."
+  }
+ },
+ {
+  "id": "w3975",
+  "order": 3975,
+  "level": "B2",
+  "cyr": "пријављивање",
+  "lat": "prijavljivanje",
+  "tr": "пријавливанье",
+  "ru": "вход; авторизация",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пријављивање траје само неколико секунди.",
+   "lat": "Prijavljivanje traje samo nekoliko sekundi.",
+   "ru": "Вход занимает всего несколько секунд."
+  }
+ },
+ {
+  "id": "w3976",
+  "order": 3976,
+  "level": "B2",
+  "cyr": "ђак",
+  "lat": "đak",
+  "tr": "джак",
+  "ru": "ученик",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Школа броји шест стотина ђака.",
+   "lat": "Škola broji šest stotina đaka.",
+   "ru": "Школа насчитывает шестьсот учеников."
+  }
+ },
+ {
+  "id": "w3977",
+  "order": 3977,
+  "level": "B2",
+  "cyr": "проводник",
+  "lat": "provodnik",
+  "tr": "проводник",
+  "ru": "проводник",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Проводник лако пропушта електричну струју.",
+   "lat": "Provodnik lako propušta električnu struju.",
+   "ru": "Проводник легко пропуска электрический ток."
+  }
+ },
+ {
+  "id": "w3978",
+  "order": 3978,
+  "level": "B2",
+  "cyr": "једначина",
+  "lat": "jednačina",
+  "tr": "једначина",
+  "ru": "уравнение",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Професор је написао једначину на табли.",
+   "lat": "Profesor je napisao jednačinu na tabli.",
+   "ru": "Профессор написал уравнение на доске."
+  }
+ },
+ {
+  "id": "w3979",
+  "order": 3979,
+  "level": "B2",
+  "cyr": "протон",
+  "lat": "proton",
+  "tr": "протон",
+  "ru": "протон",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Протон је позитивно наелектрисана честица.",
+   "lat": "Proton je pozitivno naelektrisana čestica.",
+   "ru": "Протон — это положительно заряженная частица."
+  }
+ },
+ {
+  "id": "w3980",
+  "order": 3980,
+  "level": "B2",
+  "cyr": "академски",
+  "lat": "akademski",
+  "tr": "академски",
+  "ru": "академический; научный",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Академска година почиње у октобру.",
+   "lat": "Akademska godina počinje u oktobru.",
+   "ru": "Академический год начинается в октябре."
+  }
+ },
+ {
+  "id": "w3981",
+  "order": 3981,
+  "level": "B2",
+  "cyr": "процесор",
+  "lat": "procesor",
+  "tr": "процесор",
+  "ru": "процессор",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Брзина процесора одређује перформансе рачунара.",
+   "lat": "Brzina procesora određuje performanse računara.",
+   "ru": "Скорость процессора определяет производительность компьютера."
+  }
+ },
+ {
+  "id": "w3982",
+  "order": 3982,
+  "level": "B2",
+  "cyr": "астрономски",
+  "lat": "astronomski",
+  "tr": "астрономски",
+  "ru": "астрономический",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Астрономски телескоп је моћан.",
+   "lat": "Astronomski teleskop je moćan.",
+   "ru": "Астрономический телескоп мощный."
+  }
+ },
+ {
+  "id": "w3983",
+  "order": 3983,
+  "level": "B2",
+  "cyr": "радар",
+  "lat": "radar",
+  "tr": "радар",
+  "ru": "радар",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Авион је био на радару.",
+   "lat": "Avion je bio na radaru.",
+   "ru": "Самолёт был на радаре."
+  }
+ },
+ {
+  "id": "w3984",
+  "order": 3984,
+  "level": "B2",
+  "cyr": "генетски",
+  "lat": "genetski",
+  "tr": "генетски",
+  "ru": "генетический",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Генетски код одређује особине.",
+   "lat": "Genetski kod određuje osobine.",
+   "ru": "Генетический код определяет особенности."
+  }
+ },
+ {
+  "id": "w3985",
+  "order": 3985,
+  "level": "B2",
+  "cyr": "раствор",
+  "lat": "rastvor",
+  "tr": "раствор",
+  "ru": "раствор",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кухиња соли у води ствара раствор.",
+   "lat": "Kuhinja soli u vodi stvara rastvor.",
+   "ru": "Кухонная соль в воде создаёт раствор."
+  }
+ },
+ {
+  "id": "w3986",
+  "order": 3986,
+  "level": "B2",
+  "cyr": "емпиријски",
+  "lat": "empirijski",
+  "tr": "емпиријски",
+  "ru": "эмпирический",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Емпиријски подаци су важни за истраживање.",
+   "lat": "Empirijski podaci su važni za istraživanje.",
+   "ru": "Эмпирические данные важны для исследования."
+  }
+ },
+ {
+  "id": "w3987",
+  "order": 3987,
+  "level": "B2",
+  "cyr": "регистрација",
+  "lat": "registracija",
+  "tr": "регистрација",
+  "ru": "регистрация; запись",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Користићемо регистрацију за приступ систему.",
+   "lat": "Koristićemo registraciju za pristup sistemu.",
+   "ru": "Мы будем использовать регистрацию для доступа к системе."
+  }
+ },
+ {
+  "id": "w3988",
+  "order": 3988,
+  "level": "B2",
+  "cyr": "квалитативан",
+  "lat": "kvalitativan",
+  "tr": "квалитативан",
+  "ru": "качественный",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Квалитативан метод истражује дубину.",
+   "lat": "Kvalitativan metod istražuje dubinu.",
+   "ru": "Качественный метод исследует глубину."
+  }
+ },
+ {
+  "id": "w3989",
+  "order": 3989,
+  "level": "B2",
+  "cyr": "сервер",
+  "lat": "server",
+  "tr": "сервер",
+  "ru": "сервер",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Наш сервер је данас у квару.",
+   "lat": "Naš server je danas u kvaru.",
+   "ru": "Наш сервер сегодня сломан."
+  }
+ },
+ {
+  "id": "w3990",
+  "order": 3990,
+  "level": "B2",
+  "cyr": "квантитативан",
+  "lat": "kvantitativan",
+  "tr": "квантитативан",
+  "ru": "количественный",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Квантитативна анализа користи бројеве.",
+   "lat": "Kvantitativna analiza koristi brojeve.",
+   "ru": "Количественный анализ использует числа."
+  }
+ },
+ {
+  "id": "w3991",
+  "order": 3991,
+  "level": "B2",
+  "cyr": "симулација",
+  "lat": "simulacija",
+  "tr": "симулација",
+  "ru": "моделирование; симуляция",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Симулација је започета.",
+   "lat": "Simulacija je započeta.",
+   "ru": "Моделирование начато."
+  }
+ },
+ {
+  "id": "w3992",
+  "order": 3992,
+  "level": "B2",
+  "cyr": "молекуларни",
+  "lat": "molekularni",
+  "tr": "молекуларни",
+  "ru": "молекулярный",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Молекуларна биологија је нова наука.",
+   "lat": "Molekularna biologija je nova nauka.",
+   "ru": "Молекулярная биология — новая наука."
+  }
+ },
+ {
+  "id": "w3993",
+  "order": 3993,
+  "level": "B2",
+  "cyr": "скенер",
+  "lat": "skener",
+  "tr": "скенер",
+  "ru": "сканер",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Скенер је одличан за дигитализацију докумената.",
+   "lat": "Skener je odličan za digitalizaciju dokumenata.",
+   "ru": "Сканер отлично подходит для оцифровки документов."
+  }
+ },
+ {
+  "id": "w3994",
+  "order": 3994,
+  "level": "B2",
+  "cyr": "планетарни",
+  "lat": "planetarni",
+  "tr": "планетарни",
+  "ru": "планетарный",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Планетарни систем је огроман.",
+   "lat": "Planetarni sistem je ogroman.",
+   "ru": "Планетарная система огромна."
+  }
+ },
+ {
+  "id": "w3995",
+  "order": 3995,
+  "level": "B2",
+  "cyr": "складиштење",
+  "lat": "skladištenje",
+  "tr": "складиштенье",
+  "ru": "хранение; складирование",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "n",
+  "ex": {
+   "cyr": "Складиштење фајлова је брзо.",
+   "lat": "Skladištenje fajlova je brzo.",
+   "ru": "Хранение файлов быстрое."
+  }
+ },
+ {
+  "id": "w3996",
+  "order": 3996,
+  "level": "B2",
+  "cyr": "ћелијски",
+  "lat": "ćelijski",
+  "tr": "челијски",
+  "ru": "клеточный",
+  "pos": "adj",
+  "cat": "school",
+  "ex": {
+   "cyr": "Ћелијска структура је сложена.",
+   "lat": "Ćelijska struktura je složena.",
+   "ru": "Клеточная структура сложна."
+  }
+ },
+ {
+  "id": "w3997",
+  "order": 3997,
+  "level": "B2",
+  "cyr": "софтвер",
+  "lat": "softver",
+  "tr": "софтвер",
+  "ru": "программное обеспечение",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Нови софтвер ће побољшати рад на пројекту.",
+   "lat": "Novi softver će poboljšati rad na projektu.",
+   "ru": "Новое программное обеспечение улучшит работу над проектом."
+  }
+ },
+ {
+  "id": "w3998",
+  "order": 3998,
+  "level": "B2",
+  "cyr": "логички",
+  "lat": "logički",
+  "tr": "логички",
+  "ru": "логический; логически",
+  "pos": "adv",
+  "cat": "school",
+  "ex": {
+   "cyr": "Логички закључак је исправан.",
+   "lat": "Logički zaključak je ispravan.",
+   "ru": "Логический вывод верный."
+  }
+ },
+ {
+  "id": "w3999",
+  "order": 3999,
+  "level": "B2",
+  "cyr": "спектар",
+  "lat": "spektar",
+  "tr": "спектар",
+  "ru": "спектр",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Светлост има широк спектар боја.",
+   "lat": "Svetlost ima širok spektar boja.",
+   "ru": "Светло имеет широкий спектр цветов."
+  }
+ },
+ {
+  "id": "w4000",
+  "order": 4000,
+  "level": "B2",
+  "cyr": "математички",
+  "lat": "matematički",
+  "tr": "математички",
+  "ru": "математический; математически",
+  "pos": "adv",
+  "cat": "school",
+  "ex": {
+   "cyr": "Математички доказ је веома јасан.",
+   "lat": "Matematički dokaz je veoma jasan.",
+   "ru": "Математическое доказательство очень ясное."
+  }
+ },
+ {
+  "id": "w4001",
+  "order": 4001,
+  "level": "B2",
+  "cyr": "телескоп",
+  "lat": "teleskop",
+  "tr": "телескоп",
+  "ru": "телескоп",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Телескоп открива далеке галаксије.",
+   "lat": "Teleskop otkriva daleke galaksije.",
+   "ru": "Телескоп открывает далёкие галактики."
+  }
+ }
+]

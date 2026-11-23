@@ -1,0 +1,2515 @@
+[
+ {
+  "id": "w2027",
+  "order": 2027,
+  "level": "B1",
+  "cyr": "вратити",
+  "lat": "vratiti",
+  "tr": "вратити",
+  "ru": "вернуть; вернуться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Вратићу ти новце у понедељак.",
+   "lat": "Vratiću ti novce u ponedeljak.",
+   "ru": "Верну тебе деньги в понедельник."
+  }
+ },
+ {
+  "id": "w2028",
+  "order": 2028,
+  "level": "B1",
+  "cyr": "изузетак",
+  "lat": "izuzetak",
+  "tr": "изузетак",
+  "ru": "исключение",
+  "pos": "noun",
+  "cat": "adjectives",
+  "gender": "m",
+  "ex": {
+   "cyr": "Без изузетка су дошли на време.",
+   "lat": "Bez izuzetka su došli na vreme.",
+   "ru": "Без исключения все пришли вовремя."
+  }
+ },
+ {
+  "id": "w2029",
+  "order": 2029,
+  "level": "B1",
+  "cyr": "обезбедити",
+  "lat": "obezbediti",
+  "tr": "обезбедити",
+  "ru": "обеспечить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Хотел обезбеђује превоз од аеродрома.",
+   "lat": "Hotel obezbeđuje prevoz od aerodroma.",
+   "ru": "Отель обеспечивает трансфер из аэропорта."
+  }
+ },
+ {
+  "id": "w2030",
+  "order": 2030,
+  "level": "B1",
+  "cyr": "издржати",
+  "lat": "izdržati",
+  "tr": "издржати",
+  "ru": "выдержать",
+  "pos": "verb",
+  "cat": "emotions",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Издржали су до краја утакмице.",
+   "lat": "Izdržali su do kraja utakmice.",
+   "ru": "Они выдержали до конца матча."
+  }
+ },
+ {
+  "id": "w2031",
+  "order": 2031,
+  "level": "B1",
+  "cyr": "верити се",
+  "lat": "veriti se",
+  "tr": "верити се",
+  "ru": "обручиться",
+  "pos": "verb",
+  "cat": "people",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Објавили су да су се верили.",
+   "lat": "Objavili su da su se verili.",
+   "ru": "Они объявили, что обручились."
+  }
+ },
+ {
+  "id": "w2032",
+  "order": 2032,
+  "level": "B1",
+  "cyr": "вероватно",
+  "lat": "verovatno",
+  "tr": "вероватно",
+  "ru": "вероятно",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Вероватно ће доћи аутобусом.",
+   "lat": "Verovatno će doći autobusom.",
+   "ru": "Вероятно, он приедет автобусом."
+  }
+ },
+ {
+  "id": "w2033",
+  "order": 2033,
+  "level": "B1",
+  "cyr": "клима",
+  "lat": "klima",
+  "tr": "клима",
+  "ru": "климат",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Континентална клима доноси хладне зиме.",
+   "lat": "Kontinentalna klima donosi hladne zime.",
+   "ru": "Континентальный климат приносит холодные зимы."
+  }
+ },
+ {
+  "id": "w2034",
+  "order": 2034,
+  "level": "B1",
+  "cyr": "обавести",
+  "lat": "obavesti",
+  "tr": "обавести",
+  "ru": "уведомить",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Обавести ме кад стигне пакет.",
+   "lat": "Obavesti me kad stigne paket.",
+   "ru": "Уведоми меня, когда придёт посылка."
+  }
+ },
+ {
+  "id": "w2035",
+  "order": 2035,
+  "level": "B1",
+  "cyr": "зауставити",
+  "lat": "zaustaviti",
+  "tr": "зауставити",
+  "ru": "остановить",
+  "pos": "verb",
+  "cat": "city",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Полиција је зауставила возача на семафору.",
+   "lat": "Policija je zaustavila vozača na semaforu.",
+   "ru": "Полиция остановила водителя на светофоре."
+  }
+ },
+ {
+  "id": "w2036",
+  "order": 2036,
+  "level": "B1",
+  "cyr": "кашљати",
+  "lat": "kašljati",
+  "tr": "кашляти",
+  "ru": "кашлять",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Син кашље целе ноћи.",
+   "lat": "Sin kašlje cele noći.",
+   "ru": "Сын кашляет всю ночь."
+  }
+ },
+ {
+  "id": "w2037",
+  "order": 2037,
+  "level": "B1",
+  "cyr": "потрошња",
+  "lat": "potrošnja",
+  "tr": "потрошнья",
+  "ru": "потребление, расход",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Потрошња електричне енергије зими расте.",
+   "lat": "Potrošnja električne energije zimi raste.",
+   "ru": "Потребление электроэнергии зимой растёт."
+  }
+ },
+ {
+  "id": "w2038",
+  "order": 2038,
+  "level": "B1",
+  "cyr": "култура",
+  "lat": "kultura",
+  "tr": "култура",
+  "ru": "культура",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "f",
+  "ex": {
+   "cyr": "Култура читања се негује од малена.",
+   "lat": "Kultura čitanja se neguje od malena.",
+   "ru": "Культуру чтения прививают с детства."
+  }
+ },
+ {
+  "id": "w2039",
+  "order": 2039,
+  "level": "B1",
+  "cyr": "контрола",
+  "lat": "kontrola",
+  "tr": "контрола",
+  "ru": "контроль, досмотр",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Контрола пасоша је брза.",
+   "lat": "Kontrola pasoša je brza.",
+   "ru": "Паспортный контроль быстрый."
+  }
+ },
+ {
+  "id": "w2040",
+  "order": 2040,
+  "level": "B1",
+  "cyr": "укус",
+  "lat": "ukus",
+  "tr": "укус",
+  "ru": "вкус",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Укус супе недостаје со.",
+   "lat": "Ukus supe nedostaje so.",
+   "ru": "Вкусу супа не хватает соли."
+  }
+ },
+ {
+  "id": "w2041",
+  "order": 2041,
+  "level": "B1",
+  "cyr": "најава",
+  "lat": "najava",
+  "tr": "најава",
+  "ru": "анонс, объявление",
+  "pos": "noun",
+  "cat": "time",
+  "gender": "f",
+  "ex": {
+   "cyr": "Најава концерта изазвала је велико интересовање.",
+   "lat": "Najava koncerta izazvala je veliko interesovanje.",
+   "ru": "Анонс концерта вызвал большой интерес."
+  }
+ },
+ {
+  "id": "w2042",
+  "order": 2042,
+  "level": "B1",
+  "cyr": "жалити се",
+  "lat": "žaliti se",
+  "tr": "жалити се",
+  "ru": "жаловаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Сусед се стално жали на буку.",
+   "lat": "Sused se stalno žali na buku.",
+   "ru": "Сосед постоянно жалуется на шум."
+  }
+ },
+ {
+  "id": "w2043",
+  "order": 2043,
+  "level": "B1",
+  "cyr": "корист",
+  "lat": "korist",
+  "tr": "корист",
+  "ru": "польза",
+  "pos": "noun",
+  "cat": "adjectives",
+  "gender": "f",
+  "ex": {
+   "cyr": "Не види корист од тога.",
+   "lat": "Ne vidi korist od toga.",
+   "ru": "Он не видит пользы в этом."
+  }
+ },
+ {
+  "id": "w2044",
+  "order": 2044,
+  "level": "B1",
+  "cyr": "подржати",
+  "lat": "podržati",
+  "tr": "подржати",
+  "ru": "поддержать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Колеге су ме подржале у томе.",
+   "lat": "Kolege su me podržale u tome.",
+   "ru": "Коллеги меня в этом поддержали."
+  }
+ },
+ {
+  "id": "w2045",
+  "order": 2045,
+  "level": "B1",
+  "cyr": "насмејати се",
+  "lat": "nasmejati se",
+  "tr": "насмејати се",
+  "ru": "рассмеяться",
+  "pos": "verb",
+  "cat": "emotions",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Публика се насмејала на тој сцени.",
+   "lat": "Publika se nasmejala na toj sceni.",
+   "ru": "Публика рассмеялась в той сцене."
+  }
+ },
+ {
+  "id": "w2046",
+  "order": 2046,
+  "level": "B1",
+  "cyr": "придружити се",
+  "lat": "pridružiti se",
+  "tr": "придружити се",
+  "ru": "присоединиться",
+  "pos": "verb",
+  "cat": "people",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Придружи нам се на излету!",
+   "lat": "Pridruži nam se na izletu!",
+   "ru": "Присоединяйся к нам на вылазке!"
+  }
+ },
+ {
+  "id": "w2047",
+  "order": 2047,
+  "level": "B1",
+  "cyr": "готово",
+  "lat": "gotovo",
+  "tr": "готово",
+  "ru": "почти",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Готово сам завршио извештај.",
+   "lat": "Gotovo sam završio izveštaj.",
+   "ru": "Я почти закончил отчёт."
+  }
+ },
+ {
+  "id": "w2048",
+  "order": 2048,
+  "level": "B1",
+  "cyr": "мирис",
+  "lat": "miris",
+  "tr": "мирис",
+  "ru": "запах",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мирис свежег хлеба буди успомене.",
+   "lat": "Miris svežeg hleba budi uspomene.",
+   "ru": "Запах свежего хлеба будит воспоминания."
+  }
+ },
+ {
+  "id": "w2049",
+  "order": 2049,
+  "level": "B1",
+  "cyr": "преузети",
+  "lat": "preuzeti",
+  "tr": "преузети",
+  "ru": "скачать; взять на себя",
+  "pos": "verb",
+  "cat": "tech",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Преузми апликацију са званичног сајта.",
+   "lat": "Preuzmi aplikaciju sa zvaničnog sajta.",
+   "ru": "Скачай приложение с официального сайта."
+  }
+ },
+ {
+  "id": "w2050",
+  "order": 2050,
+  "level": "B1",
+  "cyr": "успорити",
+  "lat": "usporiti",
+  "tr": "успорити",
+  "ru": "замедлить",
+  "pos": "verb",
+  "cat": "city",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Успори испред школе, молим.",
+   "lat": "Uspori ispred škole, molim.",
+   "ru": "Притормози у школы, пожалуйста."
+  }
+ },
+ {
+  "id": "w2051",
+  "order": 2051,
+  "level": "B1",
+  "cyr": "неговати",
+  "lat": "negovati",
+  "tr": "неговати",
+  "ru": "ухаживать; культивировать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Негују старе обичаје у селу.",
+   "lat": "Neguju stare običaje u selu.",
+   "ru": "В селе поддерживают старые обычаи."
+  }
+ },
+ {
+  "id": "w2052",
+  "order": 2052,
+  "level": "B1",
+  "cyr": "средство",
+  "lat": "sredstvo",
+  "tr": "средство",
+  "ru": "средство; деньги",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "n",
+  "ex": {
+   "cyr": "Средства за пројекат су одобрена.",
+   "lat": "Sredstva za projekat su odobrena.",
+   "ru": "Средства на проект одобрены."
+  }
+ },
+ {
+  "id": "w2053",
+  "order": 2053,
+  "level": "B1",
+  "cyr": "такмичење",
+  "lat": "takmičenje",
+  "tr": "такмиченье",
+  "ru": "соревнование",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "n",
+  "ex": {
+   "cyr": "Наш тим је освојио такмичење.",
+   "lat": "Naš tim je osvojio takmičenje.",
+   "ru": "Наша команда выиграла соревнование."
+  }
+ },
+ {
+  "id": "w2054",
+  "order": 2054,
+  "level": "B1",
+  "cyr": "летовање",
+  "lat": "letovanje",
+  "tr": "летованье",
+  "ru": "летний отдых",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Планирамо летовање у Црној Гори.",
+   "lat": "Planiramo letovanje u Crnoj Gori.",
+   "ru": "Мы планируем летний отдых в Черногории."
+  }
+ },
+ {
+  "id": "w2055",
+  "order": 2055,
+  "level": "B1",
+  "cyr": "забранити",
+  "lat": "zabraniti",
+  "tr": "забранити",
+  "ru": "запретить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Управа је забранила паркирање овде.",
+   "lat": "Uprava je zabranila parkiranje ovde.",
+   "ru": "Администрация запретила парковку здесь."
+  }
+ },
+ {
+  "id": "w2056",
+  "order": 2056,
+  "level": "B1",
+  "cyr": "облик",
+  "lat": "oblik",
+  "tr": "облик",
+  "ru": "форма",
+  "pos": "noun",
+  "cat": "adjectives",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стара зграда има необичан облик.",
+   "lat": "Stara zgrada ima neobičan oblik.",
+   "ru": "Старое здание имеет необычную форму."
+  }
+ },
+ {
+  "id": "w2057",
+  "order": 2057,
+  "level": "B1",
+  "cyr": "прекинути",
+  "lat": "prekinuti",
+  "tr": "прекинути",
+  "ru": "прервать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Не прекини ме сада, молим те.",
+   "lat": "Ne prekini me sada, molim te.",
+   "ru": "Не прерывай меня сейчас, пожалуйста."
+  }
+ },
+ {
+  "id": "w2058",
+  "order": 2058,
+  "level": "B1",
+  "cyr": "плашити се",
+  "lat": "plašiti se",
+  "tr": "плашити се",
+  "ru": "бояться",
+  "pos": "verb",
+  "cat": "emotions",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Плашим се висине од детињства.",
+   "lat": "Plašim se visine od detinjstva.",
+   "ru": "Боюсь высоты с детства."
+  }
+ },
+ {
+  "id": "w2059",
+  "order": 2059,
+  "level": "B1",
+  "cyr": "родити се",
+  "lat": "roditi se",
+  "tr": "родити се",
+  "ru": "родиться",
+  "pos": "verb",
+  "cat": "people",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Рођен је у малом месту на југу.",
+   "lat": "Rođen je u malom mestu na jugu.",
+   "ru": "Он родился в маленьком городе на юге."
+  }
+ },
+ {
+  "id": "w2060",
+  "order": 2060,
+  "level": "B1",
+  "cyr": "дакле",
+  "lat": "dakle",
+  "tr": "дакле",
+  "ru": "итак, следовательно",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Дакле, договорили смо се за подне.",
+   "lat": "Dakle, dogovorili smo se za podne.",
+   "ru": "Итак, мы договорились на полдень."
+  }
+ },
+ {
+  "id": "w2061",
+  "order": 2061,
+  "level": "B1",
+  "cyr": "окружење",
+  "lat": "okruženje",
+  "tr": "окруженье",
+  "ru": "окружение, среда",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Деца расту у лепом окружењу.",
+   "lat": "Deca rastu u lepom okruženju.",
+   "ru": "Дети растут в красивой среде."
+  }
+ },
+ {
+  "id": "w2062",
+  "order": 2062,
+  "level": "B1",
+  "cyr": "верзија",
+  "lat": "verzija",
+  "tr": "верзија",
+  "ru": "версия",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Нова верзија апликације је бржа.",
+   "lat": "Nova verzija aplikacije je brža.",
+   "ru": "Новая версия приложения быстрее."
+  }
+ },
+ {
+  "id": "w2063",
+  "order": 2063,
+  "level": "B1",
+  "cyr": "гужва",
+  "lat": "gužva",
+  "tr": "гужва",
+  "ru": "толпа, пробка",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ујутру има гужве у аутобусу.",
+   "lat": "Ujutru ima gužve u autobusu.",
+   "ru": "Утром в автобусе давка."
+  }
+ },
+ {
+  "id": "w2064",
+  "order": 2064,
+  "level": "B1",
+  "cyr": "опоравити се",
+  "lat": "oporaviti se",
+  "tr": "опоравити се",
+  "ru": "оправиться, восстановиться",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Опоравио се за месец дана.",
+   "lat": "Oporavio se za mesec dana.",
+   "ru": "Он восстановился за месяц."
+  }
+ },
+ {
+  "id": "w2065",
+  "order": 2065,
+  "level": "B1",
+  "cyr": "сума",
+  "lat": "suma",
+  "tr": "сума",
+  "ru": "сумма",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сума на рачуну није тачна.",
+   "lat": "Suma na računu nije tačna.",
+   "ru": "Сумма на счёте неверна."
+  }
+ },
+ {
+  "id": "w2066",
+  "order": 2066,
+  "level": "B1",
+  "cyr": "таленат",
+  "lat": "talenat",
+  "tr": "таленат",
+  "ru": "талант",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дечак показује таленат за музику.",
+   "lat": "Dečak pokazuje talenat za muziku.",
+   "ru": "Мальчик показывает талант к музыке."
+  }
+ },
+ {
+  "id": "w2067",
+  "order": 2067,
+  "level": "B1",
+  "cyr": "занимати",
+  "lat": "zanimati",
+  "tr": "занимати",
+  "ru": "интересовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Мене занимају старе културе.",
+   "lat": "Mene zanimaju stare kulture.",
+   "ru": "Меня интересуют древние культуры."
+  }
+ },
+ {
+  "id": "w2068",
+  "order": 2068,
+  "level": "B1",
+  "cyr": "случај",
+  "lat": "slučaj",
+  "tr": "случај",
+  "ru": "случай",
+  "pos": "noun",
+  "cat": "adjectives",
+  "gender": "m",
+  "ex": {
+   "cyr": "У том случају позови ме одмах.",
+   "lat": "U tom slučaju pozovi me odmah.",
+   "ru": "В таком случае позвони мне сразу."
+  }
+ },
+ {
+  "id": "w2069",
+  "order": 2069,
+  "level": "B1",
+  "cyr": "преносити",
+  "lat": "prenositi",
+  "tr": "преносити",
+  "ru": "передавать, переносить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Преноси податке преко кабла.",
+   "lat": "Prenosi podatke preko kabla.",
+   "ru": "Он передаёт данные через кабель."
+  }
+ },
+ {
+  "id": "w2070",
+  "order": 2070,
+  "level": "B1",
+  "cyr": "превазићи",
+  "lat": "prevazići",
+  "tr": "превазичи",
+  "ru": "преодолеть, превзойти",
+  "pos": "verb",
+  "cat": "emotions",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Мора превазићи страх од испита.",
+   "lat": "Mora prevazići strah od ispita.",
+   "ru": "Ему надо преодолеть страх перед экзаменом."
+  }
+ },
+ {
+  "id": "w2071",
+  "order": 2071,
+  "level": "B1",
+  "cyr": "састати се",
+  "lat": "sastati se",
+  "tr": "састати се",
+  "ru": "встретиться",
+  "pos": "verb",
+  "cat": "people",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Састали смо се испред музеја.",
+   "lat": "Sastali smo se ispred muzeja.",
+   "ru": "Мы встретились перед музеем."
+  }
+ },
+ {
+  "id": "w2072",
+  "order": 2072,
+  "level": "B1",
+  "cyr": "дуж",
+  "lat": "duž",
+  "tr": "дуж",
+  "ru": "вдоль",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Шетамо дуж реке свако вече.",
+   "lat": "Šetamo duž reke svako veče.",
+   "ru": "Мы гуляем вдоль реки каждый вечер."
+  }
+ },
+ {
+  "id": "w2073",
+  "order": 2073,
+  "level": "B1",
+  "cyr": "отпад",
+  "lat": "otpad",
+  "tr": "отпад",
+  "ru": "мусор, отходы",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Избаците отпад у канту за рециклажу.",
+   "lat": "Izbacite otpad u kantu za reciklažu.",
+   "ru": "Выбрасывайте мусор в бак для переработки."
+  }
+ },
+ {
+  "id": "w2074",
+  "order": 2074,
+  "level": "B1",
+  "cyr": "медиј",
+  "lat": "medij",
+  "tr": "медиј",
+  "ru": "СМИ, медиа",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Друштвене мреже су нови медиј.",
+   "lat": "Društvene mreže su novi medij.",
+   "ru": "Социальные сети — новое СМИ."
+  }
+ },
+ {
+  "id": "w2075",
+  "order": 2075,
+  "level": "B1",
+  "cyr": "зона",
+  "lat": "zona",
+  "tr": "зона",
+  "ru": "зона",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ово је пешачка зона, ауто не сме.",
+   "lat": "Ovo je pešačka zona, auto ne sme.",
+   "ru": "Это пешеходная зона, машина не может."
+  }
+ },
+ {
+  "id": "w2076",
+  "order": 2076,
+  "level": "B1",
+  "cyr": "повредити",
+  "lat": "povrediti",
+  "tr": "повредити",
+  "ru": "травмировать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Повредио је зглоб на тренингу.",
+   "lat": "Povredio je zglob na treningu.",
+   "ru": "Он травмировал запястье на тренировке."
+  }
+ },
+ {
+  "id": "w2077",
+  "order": 2077,
+  "level": "B1",
+  "cyr": "услуга",
+  "lat": "usluga",
+  "tr": "услуга",
+  "ru": "услуга",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Услуга укључује и бесплатан превоз.",
+   "lat": "Usluga uključuje i besplatan prevoz.",
+   "ru": "Услуга включает и бесплатную перевозку."
+  }
+ },
+ {
+  "id": "w2078",
+  "order": 2078,
+  "level": "B1",
+  "cyr": "традиција",
+  "lat": "tradicija",
+  "tr": "традиција",
+  "ru": "традиция",
+  "pos": "noun",
+  "cat": "leisure",
+  "gender": "f",
+  "ex": {
+   "cyr": "Породична традиција нас спаја сваке године.",
+   "lat": "Porodična tradicija nas spaja svake godine.",
+   "ru": "Семейная традиция объединяет нас каждый год."
+  }
+ },
+ {
+  "id": "w2079",
+  "order": 2079,
+  "level": "B1",
+  "cyr": "захвалити се",
+  "lat": "zahvaliti se",
+  "tr": "захвалити се",
+  "ru": "поблагодарить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Захвалио сам се лекару на помоћи.",
+   "lat": "Zahvalio sam se lekaru na pomoći.",
+   "ru": "Поблагодарил врача за помощь."
+  }
+ },
+ {
+  "id": "w2080",
+  "order": 2080,
+  "level": "B1",
+  "cyr": "стање",
+  "lat": "stanje",
+  "tr": "станье",
+  "ru": "состояние, положение",
+  "pos": "noun",
+  "cat": "adjectives",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пацијент је у стабилном стању.",
+   "lat": "Pacijent je u stabilnom stanju.",
+   "ru": "Пациент в стабильном состоянии."
+  }
+ },
+ {
+  "id": "w2081",
+  "order": 2081,
+  "level": "B1",
+  "cyr": "производити",
+  "lat": "proizvoditi",
+  "tr": "производити",
+  "ru": "производить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Ова фабрика производи намештај.",
+   "lat": "Ova fabrika proizvodi nameštaj.",
+   "ru": "Эта фабрика производит мебель."
+  }
+ },
+ {
+  "id": "w2082",
+  "order": 2082,
+  "level": "B1",
+  "cyr": "сањати",
+  "lat": "sanjati",
+  "tr": "саньяти",
+  "ru": "видеть сны; мечтать",
+  "pos": "verb",
+  "cat": "emotions",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Сањала сам да летим.",
+   "lat": "Sanjala sam da letim.",
+   "ru": "Мне снилось, что я летаю."
+  }
+ },
+ {
+  "id": "w2083",
+  "order": 2083,
+  "level": "B1",
+  "cyr": "брак",
+  "lat": "brak",
+  "tr": "брак",
+  "ru": "брак",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Њихов брак траје већ тридесет година.",
+   "lat": "Njihov brak traje već trideset godina.",
+   "ru": "Их брак длится уже тридцать лет."
+  }
+ },
+ {
+  "id": "w2084",
+  "order": 2084,
+  "level": "B1",
+  "cyr": "заправо",
+  "lat": "zapravo",
+  "tr": "заправо",
+  "ru": "на самом деле",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Заправо нисам знао за састанак.",
+   "lat": "Zapravo nisam znao za sastanak.",
+   "ru": "На самом деле я не знал о встрече."
+  }
+ },
+ {
+  "id": "w2085",
+  "order": 2085,
+  "level": "B1",
+  "cyr": "прогноза",
+  "lat": "prognoza",
+  "tr": "прогноза",
+  "ru": "прогноз",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Прогноза најављује топле дане.",
+   "lat": "Prognoza najavljuje tople dane.",
+   "ru": "Прогноз обещает тёплые дни."
+  }
+ },
+ {
+  "id": "w2086",
+  "order": 2086,
+  "level": "B1",
+  "cyr": "пакет",
+  "lat": "paket",
+  "tr": "пакет",
+  "ru": "пакет, посылка",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пакет стиже у року од три дана.",
+   "lat": "Paket stiže u roku od tri dana.",
+   "ru": "Посылка приходит в течение трёх дней."
+  }
+ },
+ {
+  "id": "w2087",
+  "order": 2087,
+  "level": "B1",
+  "cyr": "насеље",
+  "lat": "naselje",
+  "tr": "населе",
+  "ru": "посёлок, квартал",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ново насеље има своју школу.",
+   "lat": "Novo naselje ima svoju školu.",
+   "ru": "В новом квартале есть своя школа."
+  }
+ },
+ {
+  "id": "w2088",
+  "order": 2088,
+  "level": "B1",
+  "cyr": "исхрана",
+  "lat": "ishrana",
+  "tr": "исхрана",
+  "ru": "питание",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Правилна исхрана значи много за здравље.",
+   "lat": "Pravilna ishrana znači mnogo za zdravlje.",
+   "ru": "Правильное питание много значит для здоровья."
+  }
+ },
+ {
+  "id": "w2089",
+  "order": 2089,
+  "level": "B1",
+  "cyr": "уштеђевина",
+  "lat": "ušteđevina",
+  "tr": "уштеджевина",
+  "ru": "сбережения",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Купили смо машину из уштеђевине.",
+   "lat": "Kupili smo mašinu iz ušteđevine.",
+   "ru": "Мы купили машину из сбережений."
+  }
+ },
+ {
+  "id": "w2090",
+  "order": 2090,
+  "level": "B1",
+  "cyr": "надарен",
+  "lat": "nadaren",
+  "tr": "надарен",
+  "ru": "одарённый",
+  "pos": "adj",
+  "cat": "leisure",
+  "ex": {
+   "cyr": "Надарени ученик добија стипендију.",
+   "lat": "Nadareni učenik dobija stipendiju.",
+   "ru": "Одарённый ученик получает стипендию."
+  }
+ },
+ {
+  "id": "w2091",
+  "order": 2091,
+  "level": "B1",
+  "cyr": "изабрати",
+  "lat": "izabrati",
+  "tr": "изабрати",
+  "ru": "выбрать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Изабрали смо овај хотел због плаже.",
+   "lat": "Izabrali smo ovaj hotel zbog plaže.",
+   "ru": "Мы выбрали этот отель из-за пляжа."
+  }
+ },
+ {
+  "id": "w2092",
+  "order": 2092,
+  "level": "B1",
+  "cyr": "утицај",
+  "lat": "uticaj",
+  "tr": "утицај",
+  "ru": "влияние",
+  "pos": "noun",
+  "cat": "adjectives",
+  "gender": "m",
+  "ex": {
+   "cyr": "Музика има велики утицај на расположење.",
+   "lat": "Muzika ima veliki uticaj na raspoloženje.",
+   "ru": "Музыка сильно влияет на настроение."
+  }
+ },
+ {
+  "id": "w2093",
+  "order": 2093,
+  "level": "B1",
+  "cyr": "убрзати",
+  "lat": "ubrzati",
+  "tr": "убрзати",
+  "ru": "ускорить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Морамо убрзати рад на пројекту.",
+   "lat": "Moramo ubrzati rad na projektu.",
+   "ru": "Мы должны ускорить работу над проектом."
+  }
+ },
+ {
+  "id": "w2094",
+  "order": 2094,
+  "level": "B1",
+  "cyr": "спасити",
+  "lat": "spasiti",
+  "tr": "спасити",
+  "ru": "спасти",
+  "pos": "verb",
+  "cat": "emotions",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Спасили су планинаре током олује.",
+   "lat": "Spasili su planinare tokom oluje.",
+   "ru": "Они спасли альпинистов во время бури."
+  }
+ },
+ {
+  "id": "w2095",
+  "order": 2095,
+  "level": "B1",
+  "cyr": "влада",
+  "lat": "vlada",
+  "tr": "влада",
+  "ru": "правительство",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "f",
+  "ex": {
+   "cyr": "Влада је најавила нове мере.",
+   "lat": "Vlada je najavila nove mere.",
+   "ru": "Правительство объявило новые меры."
+  }
+ },
+ {
+  "id": "w2096",
+  "order": 2096,
+  "level": "B1",
+  "cyr": "нажалост",
+  "lat": "nažalost",
+  "tr": "нажалост",
+  "ru": "к сожалению",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Нажалост, карте су распродате.",
+   "lat": "Nažalost, karte su rasprodate.",
+   "ru": "К сожалению, билеты распроданы."
+  }
+ },
+ {
+  "id": "w2097",
+  "order": 2097,
+  "level": "B1",
+  "cyr": "топлота",
+  "lat": "toplota",
+  "tr": "топлота",
+  "ru": "жара, тепло",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Топлоту подносимо тешко у граду.",
+   "lat": "Toplotu podnosimo teško u gradu.",
+   "ru": "Жару мы переносим тяжело в городе."
+  }
+ },
+ {
+  "id": "w2098",
+  "order": 2098,
+  "level": "B1",
+  "cyr": "податак",
+  "lat": "podatak",
+  "tr": "податак",
+  "ru": "данные, сведения",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Унеси податке у систем.",
+   "lat": "Unesi podatke u sistem.",
+   "ru": "Внеси данные в систему."
+  }
+ },
+ {
+  "id": "w2099",
+  "order": 2099,
+  "level": "B1",
+  "cyr": "предграђе",
+  "lat": "predgrađe",
+  "tr": "предградже",
+  "ru": "пригород",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "n",
+  "ex": {
+   "cyr": "Живе у предграђу због тишине.",
+   "lat": "Žive u predgrađu zbog tišine.",
+   "ru": "Они живут в пригороде ради тишины."
+  }
+ },
+ {
+  "id": "w2100",
+  "order": 2100,
+  "level": "B1",
+  "cyr": "пацијент",
+  "lat": "pacijent",
+  "tr": "пацијент",
+  "ru": "пациент",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пацијент мора доћи на контролу за месец.",
+   "lat": "Pacijent mora doći na kontrolu za mesec.",
+   "ru": "Пациент должен прийти на контроль через месяц."
+  }
+ },
+ {
+  "id": "w2101",
+  "order": 2101,
+  "level": "B1",
+  "cyr": "штета",
+  "lat": "šteta",
+  "tr": "штета",
+  "ru": "ущерб; жаль",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Олуја је направила велику штету усевима.",
+   "lat": "Oluja je napravila veliku štetu usevima.",
+   "ru": "Буря нанесла большой ущерб посевам."
+  }
+ },
+ {
+  "id": "w2102",
+  "order": 2102,
+  "level": "B1",
+  "cyr": "истраживати",
+  "lat": "istraživati",
+  "tr": "истраживати",
+  "ru": "исследовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Научници истражују старе културе.",
+   "lat": "Naučnici istražuju stare kulture.",
+   "ru": "Учёные исследуют древние культуры."
+  }
+ },
+ {
+  "id": "w2103",
+  "order": 2103,
+  "level": "B1",
+  "cyr": "вештачки",
+  "lat": "veštački",
+  "tr": "вештачки",
+  "ru": "искусственный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ово језеро је вештачко, направљено седамдесетих.",
+   "lat": "Ovo jezero je veštačko, napravljeno sedamdesetih.",
+   "ru": "Это озеро искусственное, создано в семидесятых."
+  }
+ },
+ {
+  "id": "w2104",
+  "order": 2104,
+  "level": "B1",
+  "cyr": "договор",
+  "lat": "dogovor",
+  "tr": "договор",
+  "ru": "договорённость",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Имамо договор да се чујемо у понедељак.",
+   "lat": "Imamo dogovor da se čujemo u ponedeljak.",
+   "ru": "У нас договорённость созвониться в понедельник."
+  }
+ },
+ {
+  "id": "w2105",
+  "order": 2105,
+  "level": "B1",
+  "cyr": "упозорити",
+  "lat": "upozoriti",
+  "tr": "упозорити",
+  "ru": "предупредить",
+  "pos": "verb",
+  "cat": "emotions",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Упозорио ме је на опасност.",
+   "lat": "Upozorio me je na opasnost.",
+   "ru": "Он предупредил меня об опасности."
+  }
+ },
+ {
+  "id": "w2106",
+  "order": 2106,
+  "level": "B1",
+  "cyr": "гласање",
+  "lat": "glasanje",
+  "tr": "гласанье",
+  "ru": "голосование",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "n",
+  "ex": {
+   "cyr": "Гласање траје до осам сати увече.",
+   "lat": "Glasanje traje do osam sati uveče.",
+   "ru": "Голосование длится до восьми вечера."
+  }
+ },
+ {
+  "id": "w2107",
+  "order": 2107,
+  "level": "B1",
+  "cyr": "нарочито",
+  "lat": "naročito",
+  "tr": "нарочито",
+  "ru": "особенно",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Волим јесен, нарочито октобар.",
+   "lat": "Volim jesen, naročito oktobar.",
+   "ru": "Люблю осень, особенно октябрь."
+  }
+ },
+ {
+  "id": "w2108",
+  "order": 2108,
+  "level": "B1",
+  "cyr": "упозорење",
+  "lat": "upozorenje",
+  "tr": "упозоренье",
+  "ru": "предупреждение",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Метеоролози су издали упозорење на олују.",
+   "lat": "Meteorolozi su izdali upozorenje na oluju.",
+   "ru": "Метеорологи выпустили штормовое предупреждение."
+  }
+ },
+ {
+  "id": "w2109",
+  "order": 2109,
+  "level": "B1",
+  "cyr": "систем",
+  "lat": "sistem",
+  "tr": "систем",
+  "ru": "система",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Нови систем ради без грешака.",
+   "lat": "Novi sistem radi bez grešaka.",
+   "ru": "Новая система работает без ошибок."
+  }
+ },
+ {
+  "id": "w2110",
+  "order": 2110,
+  "level": "B1",
+  "cyr": "безбедан",
+  "lat": "bezbedan",
+  "tr": "безбедан",
+  "ru": "безопасный",
+  "pos": "adj",
+  "cat": "city",
+  "ex": {
+   "cyr": "Ово је безбедан крај за децу.",
+   "lat": "Ovo je bezbedan kraj za decu.",
+   "ru": "Это безопасный район для детей."
+  }
+ },
+ {
+  "id": "w2111",
+  "order": 2111,
+  "level": "B1",
+  "cyr": "болестан",
+  "lat": "bolestan",
+  "tr": "болестан",
+  "ru": "болеющий, нездоровый",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Болестан сам, остаћу кући данас.",
+   "lat": "Bolestan sam, ostaću kući danas.",
+   "ru": "Я болен, сегодня останусь дома."
+  }
+ },
+ {
+  "id": "w2112",
+  "order": 2112,
+  "level": "B1",
+  "cyr": "навикнути се",
+  "lat": "naviknuti se",
+  "tr": "навикнути се",
+  "ru": "привыкнуть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Брзо сам се навикао на град.",
+   "lat": "Brzo sam se navikao na grad.",
+   "ru": "Я быстро привык к городу."
+  }
+ },
+ {
+  "id": "w2113",
+  "order": 2113,
+  "level": "B1",
+  "cyr": "дуготрајан",
+  "lat": "dugotrajan",
+  "tr": "дуготрајан",
+  "ru": "длительный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Дуготрајан рад без паузе умара.",
+   "lat": "Dugotrajan rad bez pauze umara.",
+   "ru": "Долгая работа без перерыва утомляет."
+  }
+ },
+ {
+  "id": "w2114",
+  "order": 2114,
+  "level": "B1",
+  "cyr": "дозвола",
+  "lat": "dozvola",
+  "tr": "дозвола",
+  "ru": "разрешение (документ)",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Морам подићи грађевинску дозволу.",
+   "lat": "Moram podići građevinsku dozvolu.",
+   "ru": "Мне нужно получить строительное разрешение."
+  }
+ },
+ {
+  "id": "w2115",
+  "order": 2115,
+  "level": "B1",
+  "cyr": "вест",
+  "lat": "vest",
+  "tr": "вест",
+  "ru": "новость, весть",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Чуо сам вест о новом мосту.",
+   "lat": "Čuo sam vest o novom mostu.",
+   "ru": "Я слышал новость о новом мосту."
+  }
+ },
+ {
+  "id": "w2116",
+  "order": 2116,
+  "level": "B1",
+  "cyr": "грађанин",
+  "lat": "građanin",
+  "tr": "граджанин",
+  "ru": "гражданин",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сваки грађанин има право гласа.",
+   "lat": "Svaki građanin ima pravo glasa.",
+   "ru": "Каждый гражданин имеет право голоса."
+  }
+ },
+ {
+  "id": "w2117",
+  "order": 2117,
+  "level": "B1",
+  "cyr": "пожељно",
+  "lat": "poželjno",
+  "tr": "пожельно",
+  "ru": "желательно",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Пожељно је резервисати унапред.",
+   "lat": "Poželjno je rezervisati unapred.",
+   "ru": "Желательно забронировать заранее."
+  }
+ },
+ {
+  "id": "w2118",
+  "order": 2118,
+  "level": "B1",
+  "cyr": "влажан",
+  "lat": "vlažan",
+  "tr": "влажан",
+  "ru": "влажный",
+  "pos": "adj",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Влажна клима оштећује дрво.",
+   "lat": "Vlažna klima oštećuje drvo.",
+   "ru": "Влажный климат портит дерево."
+  }
+ },
+ {
+  "id": "w2119",
+  "order": 2119,
+  "level": "B1",
+  "cyr": "одбити",
+  "lat": "odbiti",
+  "tr": "одбити",
+  "ru": "отказаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Одбио сам понуду јер је била нереална.",
+   "lat": "Odbio sam ponudu jer je bila nerealna.",
+   "ru": "Отказался от предложения — оно было нереальным."
+  }
+ },
+ {
+  "id": "w2120",
+  "order": 2120,
+  "level": "B1",
+  "cyr": "згодан",
+  "lat": "zgodan",
+  "tr": "згодан",
+  "ru": "красивый; удобный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Његов брат је врло згодан.",
+   "lat": "Njegov brat je vrlo zgodan.",
+   "ru": "Его брат очень красивый."
+  }
+ },
+ {
+  "id": "w2121",
+  "order": 2121,
+  "level": "B1",
+  "cyr": "изум",
+  "lat": "izum",
+  "tr": "изум",
+  "ru": "изобретение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Телефон је најважнији изум двадесетог века.",
+   "lat": "Telefon je najvažniji izum dvadesetog veka.",
+   "ru": "Телефон — важнейшее изобретение двадцатого века."
+  }
+ },
+ {
+  "id": "w2122",
+  "order": 2122,
+  "level": "B1",
+  "cyr": "потреба",
+  "lat": "potreba",
+  "tr": "потреба",
+  "ru": "потребность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Осетим потребу за тишином.",
+   "lat": "Osetim potrebu za tišinom.",
+   "ru": "Чувствую потребность в тишине."
+  }
+ },
+ {
+  "id": "w2123",
+  "order": 2123,
+  "level": "B1",
+  "cyr": "забрана",
+  "lat": "zabrana",
+  "tr": "забрана",
+  "ru": "запрет",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "f",
+  "ex": {
+   "cyr": "Забрана пушења важи и на тераси.",
+   "lat": "Zabrana pušenja važi i na terasi.",
+   "ru": "Запрет курения действует и на террасе."
+  }
+ },
+ {
+  "id": "w2124",
+  "order": 2124,
+  "level": "B1",
+  "cyr": "посебно",
+  "lat": "posebno",
+  "tr": "посебно",
+  "ru": "особо, отдельно",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Треба посебно да напоменем његов труд.",
+   "lat": "Treba posebno da napomenem njegov trud.",
+   "ru": "Особо стоит отметить его усердие."
+  }
+ },
+ {
+  "id": "w2125",
+  "order": 2125,
+  "level": "B1",
+  "cyr": "одлучивати",
+  "lat": "odlučivati",
+  "tr": "одлучивати",
+  "ru": "решать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Увек дуго одлучујем о путовању.",
+   "lat": "Uvek dugo odlučujem o putovanju.",
+   "ru": "Я всегда долго решаю о поездке."
+  }
+ },
+ {
+  "id": "w2126",
+  "order": 2126,
+  "level": "B1",
+  "cyr": "значајан",
+  "lat": "značajan",
+  "tr": "значајан",
+  "ru": "значительный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Значајан део посла је готов.",
+   "lat": "Značajan deo posla je gotov.",
+   "ru": "Значительная часть работы готова."
+  }
+ },
+ {
+  "id": "w2127",
+  "order": 2127,
+  "level": "B1",
+  "cyr": "истраживање",
+  "lat": "istraživanje",
+  "tr": "истраживанье",
+  "ru": "исследование",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Истраживање је трајало две године.",
+   "lat": "Istraživanje je trajalo dve godine.",
+   "ru": "Исследование длилось два года."
+  }
+ },
+ {
+  "id": "w2128",
+  "order": 2128,
+  "level": "B1",
+  "cyr": "правда",
+  "lat": "pravda",
+  "tr": "правда",
+  "ru": "справедливость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Верујем у правду и поштење.",
+   "lat": "Verujem u pravdu i poštenje.",
+   "ru": "Верю в справедливость и честность."
+  }
+ },
+ {
+  "id": "w2129",
+  "order": 2129,
+  "level": "B1",
+  "cyr": "закон",
+  "lat": "zakon",
+  "tr": "закон",
+  "ru": "закон",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Нови закон почиње да важи од јануара.",
+   "lat": "Novi zakon počinje da važi od januara.",
+   "ru": "Новый закон вступает в силу с января."
+  }
+ },
+ {
+  "id": "w2130",
+  "order": 2130,
+  "level": "B1",
+  "cyr": "прво",
+  "lat": "prvo",
+  "tr": "прво",
+  "ru": "сначала, во-первых",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Прво доручак, па посао.",
+   "lat": "Prvo doručak, pa posao.",
+   "ru": "Сначала завтрак, потом работа."
+  }
+ },
+ {
+  "id": "w2131",
+  "order": 2131,
+  "level": "B1",
+  "cyr": "одлучити",
+  "lat": "odlučiti",
+  "tr": "одлучити",
+  "ru": "решить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Одлучили смо да останемо код куће.",
+   "lat": "Odlučili smo da ostanemo kod kuće.",
+   "ru": "Мы решили остаться дома."
+  }
+ },
+ {
+  "id": "w2132",
+  "order": 2132,
+  "level": "B1",
+  "cyr": "користан",
+  "lat": "koristan",
+  "tr": "користан",
+  "ru": "полезный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Овај савет је веома користан.",
+   "lat": "Ovaj savet je veoma koristan.",
+   "ru": "Этот совет очень полезен."
+  }
+ },
+ {
+  "id": "w2133",
+  "order": 2133,
+  "level": "B1",
+  "cyr": "наука",
+  "lat": "nauka",
+  "tr": "наука",
+  "ru": "наука",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Наука тражи доказе, не мишљења.",
+   "lat": "Nauka traži dokaze, ne mišljenja.",
+   "ru": "Наука ищет доказательства, а не мнения."
+  }
+ },
+ {
+  "id": "w2134",
+  "order": 2134,
+  "level": "B1",
+  "cyr": "слобода",
+  "lat": "sloboda",
+  "tr": "слобода",
+  "ru": "свобода",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Слобода избора је важна.",
+   "lat": "Sloboda izbora je važna.",
+   "ru": "Свобода выбора важна."
+  }
+ },
+ {
+  "id": "w2135",
+  "order": 2135,
+  "level": "B1",
+  "cyr": "избори",
+  "lat": "izbori",
+  "tr": "избори",
+  "ru": "выборы",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Избори су заказани за пролеће.",
+   "lat": "Izbori su zakazani za proleće.",
+   "ru": "Выборы назначены на весну."
+  }
+ },
+ {
+  "id": "w2136",
+  "order": 2136,
+  "level": "B1",
+  "cyr": "свакако",
+  "lat": "svakako",
+  "tr": "свакако",
+  "ru": "непременно, конечно",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Свакако дођи на ручак у суботу.",
+   "lat": "Svakako dođi na ručak u subotu.",
+   "ru": "Непременно приходи на обед в субботу."
+  }
+ },
+ {
+  "id": "w2137",
+  "order": 2137,
+  "level": "B1",
+  "cyr": "одржавати",
+  "lat": "održavati",
+  "tr": "одржавати",
+  "ru": "поддерживать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Одржавамо везу преко мејла.",
+   "lat": "Održavamo vezu preko mejla.",
+   "ru": "Мы поддерживаем связь по почте."
+  }
+ },
+ {
+  "id": "w2138",
+  "order": 2138,
+  "level": "B1",
+  "cyr": "личан",
+  "lat": "ličan",
+  "tr": "личан",
+  "ru": "личный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Имам личног тренера.",
+   "lat": "Imam ličnog trenera.",
+   "ru": "У меня личный тренер."
+  }
+ },
+ {
+  "id": "w2139",
+  "order": 2139,
+  "level": "B1",
+  "cyr": "оглас",
+  "lat": "oglas",
+  "tr": "оглас",
+  "ru": "объявление",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Одговорили смо на оглас за посао.",
+   "lat": "Odgovorili smo na oglas za posao.",
+   "ru": "Мы откликнулись на объявление о работе."
+  }
+ },
+ {
+  "id": "w2140",
+  "order": 2140,
+  "level": "B1",
+  "cyr": "став",
+  "lat": "stav",
+  "tr": "став",
+  "ru": "позиция, взгляд",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Изнео је свој став пред свима.",
+   "lat": "Izneo je svoj stav pred svima.",
+   "ru": "Он изложил свою позицию перед всеми."
+  }
+ },
+ {
+  "id": "w2141",
+  "order": 2141,
+  "level": "B1",
+  "cyr": "народ",
+  "lat": "narod",
+  "tr": "народ",
+  "ru": "народ",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Народ се окупио на тргу.",
+   "lat": "Narod se okupio na trgu.",
+   "ru": "Народ собрался на площади."
+  }
+ },
+ {
+  "id": "w2142",
+  "order": 2142,
+  "level": "B1",
+  "cyr": "срећом",
+  "lat": "srećom",
+  "tr": "сречом",
+  "ru": "к счастью",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Срећом, нико није повређен.",
+   "lat": "Srećom, niko nije povređen.",
+   "ru": "К счастью, никто не пострадал."
+  }
+ },
+ {
+  "id": "w2143",
+  "order": 2143,
+  "level": "B1",
+  "cyr": "одржати",
+  "lat": "održati",
+  "tr": "одржати",
+  "ru": "провести, удержать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Одржаћемо састанак у среду.",
+   "lat": "Održaćemo sastanak u sredu.",
+   "ru": "Мы проведём встречу в среду."
+  }
+ },
+ {
+  "id": "w2144",
+  "order": 2144,
+  "level": "B1",
+  "cyr": "напоран",
+  "lat": "naporan",
+  "tr": "напоран",
+  "ru": "тяжёлый, трудоёмкий",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Напоран дан траје до вечери.",
+   "lat": "Naporan dan traje do večeri.",
+   "ru": "Тяжёлый день длится до вечера."
+  }
+ },
+ {
+  "id": "w2145",
+  "order": 2145,
+  "level": "B1",
+  "cyr": "одговорност",
+  "lat": "odgovornost",
+  "tr": "одговорност",
+  "ru": "ответственность",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Посао доноси велику одговорност.",
+   "lat": "Posao donosi veliku odgovornost.",
+   "ru": "Работа приносит большую ответственность."
+  }
+ },
+ {
+  "id": "w2146",
+  "order": 2146,
+  "level": "B1",
+  "cyr": "стрпљење",
+  "lat": "strpljenje",
+  "tr": "стрпленье",
+  "ru": "терпение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Учење језика захтева стрпљење.",
+   "lat": "Učenje jezika zahteva strpljenje.",
+   "ru": "Изучение языка требует терпения."
+  }
+ },
+ {
+  "id": "w2147",
+  "order": 2147,
+  "level": "B1",
+  "cyr": "обичај",
+  "lat": "običaj",
+  "tr": "обичај",
+  "ru": "обычай",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Обичаји се преносе с поколења на поколење.",
+   "lat": "Običaji se prenose s pokoljenja na pokoljenje.",
+   "ru": "Обычаи передаются из поколения в поколение."
+  }
+ },
+ {
+  "id": "w2148",
+  "order": 2148,
+  "level": "B1",
+  "cyr": "углавном",
+  "lat": "uglavnom",
+  "tr": "углавном",
+  "ru": "в основном",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Углавном читам вести пре спавања.",
+   "lat": "Uglavnom čitam vesti pre spavanja.",
+   "ru": "В основном я читаю новости перед сном."
+  }
+ },
+ {
+  "id": "w2149",
+  "order": 2149,
+  "level": "B1",
+  "cyr": "организовати",
+  "lat": "organizovati",
+  "tr": "организовати",
+  "ru": "организовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тешко је организовати такав догађај.",
+   "lat": "Teško je organizovati takav događaj.",
+   "ru": "Трудно организовать такое событие."
+  }
+ },
+ {
+  "id": "w2150",
+  "order": 2150,
+  "level": "B1",
+  "cyr": "немогућ",
+  "lat": "nemoguć",
+  "tr": "немогуч",
+  "ru": "невозможный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Задатак је немогућ без помоћи.",
+   "lat": "Zadatak je nemoguć bez pomoći.",
+   "ru": "Задание невозможно без помощи."
+  }
+ },
+ {
+  "id": "w2151",
+  "order": 2151,
+  "level": "B1",
+  "cyr": "откриће",
+  "lat": "otkriće",
+  "tr": "откриче",
+  "ru": "открытие",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "То откриће је променило медицину.",
+   "lat": "To otkriće je promenilo medicinu.",
+   "ru": "Это открытие изменило медицину."
+  }
+ },
+ {
+  "id": "w2152",
+  "order": 2152,
+  "level": "B1",
+  "cyr": "схватање",
+  "lat": "shvatanje",
+  "tr": "схватанье",
+  "ru": "понимание",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Његово схватање хумора ме насмејава.",
+   "lat": "Njegovo shvatanje humora me nasmejava.",
+   "ru": "Его чувство юмора меня смешит."
+  }
+ },
+ {
+  "id": "w2153",
+  "order": 2153,
+  "level": "B1",
+  "cyr": "покољење",
+  "lat": "pokoljenje",
+  "tr": "поколенье",
+  "ru": "поколение",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "n",
+  "ex": {
+   "cyr": "Младо покољење брзо учи технологије.",
+   "lat": "Mlado pokoljenje brzo uči tehnologije."
+  }
+ },
+ {
+  "id": "w2154",
+  "order": 2154,
+  "level": "B1",
+  "cyr": "упркос",
+  "lat": "uprkos",
+  "tr": "упркос",
+  "ru": "несмотря на",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Упркос киши, утакмица није отказана.",
+   "lat": "Uprkos kiši, utakmica nije otkazana.",
+   "ru": "Несмотря на дождь, матч не отменён."
+  }
+ },
+ {
+  "id": "w2155",
+  "order": 2155,
+  "level": "B1",
+  "cyr": "побољшати",
+  "lat": "poboljšati",
+  "tr": "побольшати",
+  "ru": "улучшить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Желим да побољшам изговор овог лета.",
+   "lat": "Želim da poboljšam izgovor ovog leta.",
+   "ru": "Хочу улучшить произношение этим летом."
+  }
+ },
+ {
+  "id": "w2156",
+  "order": 2156,
+  "level": "B1",
+  "cyr": "нужан",
+  "lat": "nužan",
+  "tr": "нужан",
+  "ru": "необходимый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "План је нужан за успех.",
+   "lat": "Plan je nužan za uspeh.",
+   "ru": "План необходим для успеха."
+  }
+ },
+ {
+  "id": "w2157",
+  "order": 2157,
+  "level": "B1",
+  "cyr": "развој",
+  "lat": "razvoj",
+  "tr": "развој",
+  "ru": "развитие",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Развој технологије мења посао.",
+   "lat": "Razvoj tehnologije menja posao.",
+   "ru": "Развитие технологий меняет работу."
+  }
+ },
+ {
+  "id": "w2158",
+  "order": 2158,
+  "level": "B1",
+  "cyr": "веран",
+  "lat": "veran",
+  "tr": "веран",
+  "ru": "верный",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Пас је веран пријатељ човека.",
+   "lat": "Pas je veran prijatelj čoveka.",
+   "ru": "Пёс — верный друг человека."
+  }
+ },
+ {
+  "id": "w2159",
+  "order": 2159,
+  "level": "B1",
+  "cyr": "председник",
+  "lat": "predsednik",
+  "tr": "председник",
+  "ru": "председатель",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Председник удружења је отворио скупштину.",
+   "lat": "Predsednik udruženja je otvorio skupštinu.",
+   "ru": "Председатель ассоциации открыл собрание."
+  }
+ },
+ {
+  "id": "w2160",
+  "order": 2160,
+  "level": "B1",
+  "cyr": "у ствари",
+  "lat": "u stvari",
+  "tr": "у ствари",
+  "ru": "вообще-то, по сути",
+  "pos": "phrase",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "У ствари, нисам ни чуо за то.",
+   "lat": "U stvari, nisam ni čuo za to.",
+   "ru": "Вообще-то я и не слышал об этом."
+  }
+ },
+ {
+  "id": "w2161",
+  "order": 2161,
+  "level": "B1",
+  "cyr": "повећати",
+  "lat": "povećati",
+  "tr": "повечати",
+  "ru": "увеличить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Цене су се повећале прошлог месеца.",
+   "lat": "Cene su se povećale prošlog meseca.",
+   "ru": "Цены выросли в прошлом месяце."
+  }
+ },
+ {
+  "id": "w2162",
+  "order": 2162,
+  "level": "B1",
+  "cyr": "популаран",
+  "lat": "popularan",
+  "tr": "популаран",
+  "ru": "популярный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Тај спорт је веома популаран овде.",
+   "lat": "Taj sport je veoma popularan ovde.",
+   "ru": "Этот спорт очень популярен здесь."
+  }
+ },
+ {
+  "id": "w2163",
+  "order": 2163,
+  "level": "B1",
+  "cyr": "смер",
+  "lat": "smer",
+  "tr": "смер",
+  "ru": "направление (учёбы)",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Уписала је смер за информационе технологије.",
+   "lat": "Upisala je smer za informacione tehnologije.",
+   "ru": "Она поступила на направление ИТ."
+  }
+ },
+ {
+  "id": "w2164",
+  "order": 2164,
+  "level": "B1",
+  "cyr": "друштвен",
+  "lat": "društven",
+  "tr": "друштвен",
+  "ru": "общительный",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Друштвени људи лако налазе пријатеље.",
+   "lat": "Društveni ljudi lako nalaze prijatelje.",
+   "ru": "Общительные люди легко находят друзей."
+  }
+ },
+ {
+  "id": "w2165",
+  "order": 2165,
+  "level": "B1",
+  "cyr": "република",
+  "lat": "republika",
+  "tr": "република",
+  "ru": "республика",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "f",
+  "ex": {
+   "cyr": "Србија је република у југоисточној Европи.",
+   "lat": "Srbija je republika u jugoistočnoj Evropi.",
+   "ru": "Сербия — республика в юго-восточной Европе."
+  }
+ },
+ {
+  "id": "w2166",
+  "order": 2166,
+  "level": "B1",
+  "cyr": "макар",
+  "lat": "makar",
+  "tr": "макар",
+  "ru": "хотя бы",
+  "pos": "conj",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Макар позови, ако не можеш доћи.",
+   "lat": "Makar pozovi, ako ne možeš doći.",
+   "ru": "Хотя бы позвони, если не можешь прийти."
+  }
+ },
+ {
+  "id": "w2167",
+  "order": 2167,
+  "level": "B1",
+  "cyr": "појавити се",
+  "lat": "pojaviti se",
+  "tr": "појавити се",
+  "ru": "появиться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Појавио се нови ресторан у улици.",
+   "lat": "Pojavio se novi restoran u ulici.",
+   "ru": "Появился новый ресторан на улице."
+  }
+ },
+ {
+  "id": "w2168",
+  "order": 2168,
+  "level": "B1",
+  "cyr": "потребан",
+  "lat": "potreban",
+  "tr": "потребан",
+  "ru": "нужный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Помоћ је потребна одмах.",
+   "lat": "Pomoć je potrebna odmah.",
+   "ru": "Помощь нужна сразу."
+  }
+ },
+ {
+  "id": "w2169",
+  "order": 2169,
+  "level": "B1",
+  "cyr": "услов",
+  "lat": "uslov",
+  "tr": "услов",
+  "ru": "условие",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Морамо испунити све услове.",
+   "lat": "Moramo ispuniti sve uslove.",
+   "ru": "Мы должны выполнить все условия."
+  }
+ },
+ {
+  "id": "w2170",
+  "order": 2170,
+  "level": "B1",
+  "cyr": "забринут",
+  "lat": "zabrinut",
+  "tr": "забринут",
+  "ru": "обеспокоенный",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Забринут сам због резултата.",
+   "lat": "Zabrinut sam zbog rezultata.",
+   "ru": "Я обеспокоен результатами."
+  }
+ },
+ {
+  "id": "w2171",
+  "order": 2171,
+  "level": "B1",
+  "cyr": "сродник",
+  "lat": "srodnik",
+  "tr": "сродник",
+  "ru": "родственник",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дошао је сродник из Војводине.",
+   "lat": "Došao je srodnik iz Vojvodine.",
+   "ru": "Приехал родственник из Воеводины."
+  }
+ },
+ {
+  "id": "w2172",
+  "order": 2172,
+  "level": "B1",
+  "cyr": "прикупити",
+  "lat": "prikupiti",
+  "tr": "прикупити",
+  "ru": "собрать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Прикупили смо новац за помоћ.",
+   "lat": "Prikupili smo novac za pomoć.",
+   "ru": "Мы собрали деньги на помощь."
+  }
+ },
+ {
+  "id": "w2173",
+  "order": 2173,
+  "level": "B1",
+  "cyr": "поуздан",
+  "lat": "pouzdan",
+  "tr": "поуздан",
+  "ru": "надёжный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Овај ауто је поуздан и штедљив.",
+   "lat": "Ovaj auto je pouzdan i štedljiv.",
+   "ru": "Эта машина надёжная и экономичная."
+  }
+ },
+ {
+  "id": "w2174",
+  "order": 2174,
+  "level": "B1",
+  "cyr": "успех",
+  "lat": "uspeh",
+  "tr": "успех",
+  "ru": "успех",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Испит је прошао уз велики успех.",
+   "lat": "Ispit je prošao uz veliki uspeh.",
+   "ru": "Экзамен прошёл с большим успехом."
+  }
+ },
+ {
+  "id": "w2175",
+  "order": 2175,
+  "level": "B1",
+  "cyr": "искрен",
+  "lat": "iskren",
+  "tr": "искрен",
+  "ru": "искренний",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Била је искрена у свему.",
+   "lat": "Bila je iskrena u svemu.",
+   "ru": "Она была искренней во всём."
+  }
+ },
+ {
+  "id": "w2176",
+  "order": 2176,
+  "level": "B1",
+  "cyr": "суд",
+  "lat": "sud",
+  "tr": "суд",
+  "ru": "суд",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Суд је одложио рочиште за месец дана.",
+   "lat": "Sud je odložio ročište za mesec dana.",
+   "ru": "Суд отложил слушание на месяц."
+  }
+ }
+]

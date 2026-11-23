@@ -1,0 +1,3479 @@
+[
+ {
+  "id": "w2589",
+  "order": 2589,
+  "level": "B1",
+  "cyr": "измирати",
+  "lat": "izmirati",
+  "tr": "измирати",
+  "ru": "вымирать; гаснуть",
+  "pos": "verb",
+  "cat": "nature",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Многе врсте инсеката брзо измирају.",
+   "lat": "Mnoge vrste insekata brzo izmiraju.",
+   "ru": "Многие виды насекомых быстро вымирают."
+  }
+ },
+ {
+  "id": "w2590",
+  "order": 2590,
+  "level": "B1",
+  "cyr": "грмети",
+  "lat": "grmeti",
+  "tr": "грмети",
+  "ru": "греметь; бушевать (о грозе)",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Небо грми и сјаји.",
+   "lat": "Nebo grmi i sjaji.",
+   "ru": "Небо гремит и сверкает."
+  }
+ },
+ {
+  "id": "w2591",
+  "order": 2591,
+  "level": "B1",
+  "cyr": "ајкула",
+  "lat": "ajkula",
+  "tr": "ајкула",
+  "ru": "акула",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ајкула лута у дубинама океана.",
+   "lat": "Ajkula luta u dubinama okeana.",
+   "ru": "Акула бродит в глубинах океана."
+  }
+ },
+ {
+  "id": "w2592",
+  "order": 2592,
+  "level": "B1",
+  "cyr": "депонија",
+  "lat": "deponija",
+  "tr": "депонија",
+  "ru": "свалка; свалка мусора",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Депонија се налази далеко од града.",
+   "lat": "Deponija se nalazi daleko od grada.",
+   "ru": "Свалка находится далеко от города."
+  }
+ },
+ {
+  "id": "w2593",
+  "order": 2593,
+  "level": "B1",
+  "cyr": "врелан",
+  "lat": "vrelan",
+  "tr": "врелан",
+  "ru": "жаркий; знойный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Врелан дан је тежак за животиње.",
+   "lat": "Vrelan dan je težak za životinje.",
+   "ru": "Знойный день тяжел для животных."
+  }
+ },
+ {
+  "id": "w2594",
+  "order": 2594,
+  "level": "B1",
+  "cyr": "нахранити",
+  "lat": "nahraniti",
+  "tr": "нахранити",
+  "ru": "накормить; насытить",
+  "pos": "verb",
+  "cat": "food",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Деца воле да их нахраните са колачићима.",
+   "lat": "Deca vole da ih nahranite sa kolačićima.",
+   "ru": "Дети любят, когда вы их кормите печеньем."
+  }
+ },
+ {
+  "id": "w2595",
+  "order": 2595,
+  "level": "B1",
+  "cyr": "кукавица",
+  "lat": "kukavica",
+  "tr": "кукавица",
+  "ru": "трусливый человек; трус",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кукавица се увек боји нових изазова.",
+   "lat": "Kukavica se uvek boji novih izazova.",
+   "ru": "Трус всегда боится новых вызовов."
+  }
+ },
+ {
+  "id": "w2596",
+  "order": 2596,
+  "level": "B1",
+  "cyr": "сутон",
+  "lat": "suton",
+  "tr": "сутон",
+  "ru": "сумерки; закат",
+  "pos": "noun",
+  "cat": "time",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сутон је најлепши део дана.",
+   "lat": "Suton je najlepši deo dana.",
+   "ru": "Сумерки — самая красивая часть дня."
+  }
+ },
+ {
+  "id": "w2597",
+  "order": 2597,
+  "level": "B1",
+  "cyr": "отрован",
+  "lat": "otrovan",
+  "tr": "отрован",
+  "ru": "отравленный; отравленный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Дете је отровано лоше храном.",
+   "lat": "Dete je otrovano loše hranom.",
+   "ru": "Ребёнок отравился плохой едой."
+  }
+ },
+ {
+  "id": "w2598",
+  "order": 2598,
+  "level": "B1",
+  "cyr": "дабар",
+  "lat": "dabar",
+  "tr": "дабар",
+  "ru": "хорошо; ладно",
+  "pos": "adv",
+  "cat": "adverbs",
+  "ex": {
+   "cyr": "Дабар је за почетак.",
+   "lat": "Dabar je za početak.",
+   "ru": "Хорошо для начала."
+  }
+ },
+ {
+  "id": "w2599",
+  "order": 2599,
+  "level": "B1",
+  "cyr": "ветрењача",
+  "lat": "vetrenjača",
+  "tr": "ветреньяча",
+  "ru": "ветряная мельница",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара ветрењача стоји на брду.",
+   "lat": "Stara vetrenjača stoji na brdu.",
+   "ru": "Старая мельница стоит на холме."
+  }
+ },
+ {
+  "id": "w2600",
+  "order": 2600,
+  "level": "B1",
+  "cyr": "процветати",
+  "lat": "procvetati",
+  "tr": "процветати",
+  "ru": "расцветать; процветать",
+  "pos": "verb",
+  "cat": "nature",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Пролеће је када дрвеће почне да процветава.",
+   "lat": "Proleće je kada drveće počne da procvetava.",
+   "ru": "Весна — когда деревья начинают расцветать."
+  }
+ },
+ {
+  "id": "w2601",
+  "order": 2601,
+  "level": "B1",
+  "cyr": "загађивати",
+  "lat": "zagađivati",
+  "tr": "загадживати",
+  "ru": "загрязнять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Фабрика загађује реку.",
+   "lat": "Fabrika zagađuje reku.",
+   "ru": "Фабрика загрязняет реку."
+  }
+ },
+ {
+  "id": "w2602",
+  "order": 2602,
+  "level": "B1",
+  "cyr": "брлог",
+  "lat": "brlog",
+  "tr": "брлог",
+  "ru": "логовище, нора",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Медвед се склонио у свој брлог.",
+   "lat": "Medved se sklonio u svoj brlog.",
+   "ru": "Медвед забился в своё логовище."
+  }
+ },
+ {
+  "id": "w2603",
+  "order": 2603,
+  "level": "B1",
+  "cyr": "катастрофа",
+  "lat": "katastrofa",
+  "tr": "катастрофа",
+  "ru": "катастрофа; бедствие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Природна катастрофа захтева брзу помоћ.",
+   "lat": "Prirodna katastrofa zahteva brzu pomoć.",
+   "ru": "Природная катастрофа требует быстрой помощи."
+  }
+ },
+ {
+  "id": "w2604",
+  "order": 2604,
+  "level": "B1",
+  "cyr": "континентални",
+  "lat": "kontinentalni",
+  "tr": "континентални",
+  "ru": "континентальный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Континентална клима је оштра.",
+   "lat": "Kontinentalna klima je oštra.",
+   "ru": "Континентальный климат суров."
+  }
+ },
+ {
+  "id": "w2605",
+  "order": 2605,
+  "level": "B1",
+  "cyr": "резница",
+  "lat": "reznica",
+  "tr": "резница",
+  "ru": "резница; мясная лавка",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "f",
+  "ex": {
+   "cyr": "У резници продају свеже месо и кобасице.",
+   "lat": "U reznici prodaju sveže meso i kobasice.",
+   "ru": "В мясной лавке продают свежее мясо и колбасы."
+  }
+ },
+ {
+  "id": "w2606",
+  "order": 2606,
+  "level": "B1",
+  "cyr": "миривати се",
+  "lat": "mirivati se",
+  "tr": "миривати се",
+  "ru": "мириться; примиряться",
+  "pos": "phrase",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Двоје пријатеља се мири после свађе.",
+   "lat": "Dvoje prijatelja se miri posle svađe.",
+   "ru": "Два друга мирятся после ссоры."
+  }
+ },
+ {
+  "id": "w2607",
+  "order": 2607,
+  "level": "B1",
+  "cyr": "сазрети",
+  "lat": "sazreti",
+  "tr": "сазрети",
+  "ru": "созревать; дозревать",
+  "pos": "verb",
+  "cat": "nature",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Плодови сазревају на сунцу.",
+   "lat": "Plodovi sazrevaju na suncu.",
+   "ru": "Плоды дозревают на солнце."
+  }
+ },
+ {
+  "id": "w2608",
+  "order": 2608,
+  "level": "B1",
+  "cyr": "замаглити",
+  "lat": "zamagliti",
+  "tr": "замаглити",
+  "ru": "затемнять; мутить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Дим из фабрике замаглио је видик.",
+   "lat": "Dim iz fabrike zamaglio je vidik.",
+   "ru": "Дым из завода затемнил вид."
+  }
+ },
+ {
+  "id": "w2609",
+  "order": 2609,
+  "level": "B1",
+  "cyr": "бубамара",
+  "lat": "bubamara",
+  "tr": "бубамара",
+  "ru": "божья коровка",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Бубамара је црвена са тачкама.",
+   "lat": "Bubamara je crvena sa tačkama.",
+   "ru": "Божья коровка красная с точками."
+  }
+ },
+ {
+  "id": "w2610",
+  "order": 2610,
+  "level": "B1",
+  "cyr": "контејнер",
+  "lat": "kontejner",
+  "tr": "контејнер",
+  "ru": "контейнер",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стари контејнер претворили су у малу градину.",
+   "lat": "Stari kontejner pretvorili su u malu gradinu.",
+   "ru": "Старый контейнер превратили в маленький садик."
+  }
+ },
+ {
+  "id": "w2611",
+  "order": 2611,
+  "level": "B1",
+  "cyr": "морски",
+  "lat": "morski",
+  "tr": "морски",
+  "ru": "морской",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Морски ветар је свеж.",
+   "lat": "Morski vetar je svež.",
+   "ru": "Морской ветер свеж."
+  }
+ },
+ {
+  "id": "w2612",
+  "order": 2612,
+  "level": "B1",
+  "cyr": "рис",
+  "lat": "ris",
+  "tr": "рис",
+  "ru": "рис",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "За вечеру једемо пиријан рис.",
+   "lat": "Za večeru jedemo pirijan ris.",
+   "ru": "На ужин мы едим отварной рис."
+  }
+ },
+ {
+  "id": "w2613",
+  "order": 2613,
+  "level": "B1",
+  "cyr": "атмосфера",
+  "lat": "atmosfera",
+  "tr": "атмосфера",
+  "ru": "атмосфера",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Земљина атмосфера је танка.",
+   "lat": "Zemljina atmosfera je tanka.",
+   "ru": "Атмосфера Земли тонкая."
+  }
+ },
+ {
+  "id": "w2614",
+  "order": 2614,
+  "level": "B1",
+  "cyr": "излегнути",
+  "lat": "izlegnuti",
+  "tr": "излегнути",
+  "ru": "вылупиться; вылезти",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Пилићи су излегли из јаја.",
+   "lat": "Pilići su izlegli iz jaja.",
+   "ru": "Цыплята вылупились из яиц."
+  }
+ },
+ {
+  "id": "w2615",
+  "order": 2615,
+  "level": "B1",
+  "cyr": "вепар",
+  "lat": "vepar",
+  "tr": "вепар",
+  "ru": "кабан; вепрь",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Вепар је дивља свиња.",
+   "lat": "Vepar je divlja svinja.",
+   "ru": "Кабан — это дикая свинья."
+  }
+ },
+ {
+  "id": "w2616",
+  "order": 2616,
+  "level": "B1",
+  "cyr": "лименка",
+  "lat": "limenka",
+  "tr": "лименка",
+  "ru": "жестяная банка; консервная банка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Празну лименку баци у плави контејнер.",
+   "lat": "Praznu limenku baci u plavi kontejner.",
+   "ru": "Пустую банку брось в синий контейнер."
+  }
+ },
+ {
+  "id": "w2617",
+  "order": 2617,
+  "level": "B1",
+  "cyr": "мутан",
+  "lat": "mutan",
+  "tr": "мутан",
+  "ru": "мутный; неясный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Мутна вода је после кише.",
+   "lat": "Mutna voda je posle kiše.",
+   "ru": "Мутная вода после дождя."
+  }
+ },
+ {
+  "id": "w2618",
+  "order": 2618,
+  "level": "B1",
+  "cyr": "органски",
+  "lat": "organski",
+  "tr": "органски",
+  "ru": "органический",
+  "pos": "adj",
+  "cat": "food",
+  "ex": {
+   "cyr": "Органска храна нема хемикалија.",
+   "lat": "Organska hrana nema hemikalija.",
+   "ru": "Органическая еда не содержит химикатов."
+  }
+ },
+ {
+  "id": "w2619",
+  "order": 2619,
+  "level": "B1",
+  "cyr": "биодиверзитет",
+  "lat": "biodiverzitet",
+  "tr": "биодиверзитет",
+  "ru": "биоразнообразие",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Биодиверзитет је кључан за живот на планети.",
+   "lat": "Biodiverzitet je ključan za život na planeti.",
+   "ru": "Биоразнообразие — ключ к жизни на планете."
+  }
+ },
+ {
+  "id": "w2620",
+  "order": 2620,
+  "level": "B1",
+  "cyr": "изливати",
+  "lat": "izlivati",
+  "tr": "изливати",
+  "ru": "выливать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Изливај млеко у чашу пажљиво.",
+   "lat": "Izlivaj mleko u čašu pažljivo.",
+   "ru": "Выливай молоко в чашу осторожно."
+  }
+ },
+ {
+  "id": "w2621",
+  "order": 2621,
+  "level": "B1",
+  "cyr": "видра",
+  "lat": "vidra",
+  "tr": "видра",
+  "ru": "выдра",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Видра се љубазно креће у води.",
+   "lat": "Vidra se ljubazno kreće u vodi.",
+   "ru": "Выдра грациозно движется в воде."
+  }
+ },
+ {
+  "id": "w2622",
+  "order": 2622,
+  "level": "B1",
+  "cyr": "отисак",
+  "lat": "otisak",
+  "tr": "отисак",
+  "ru": "отпечаток",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Оставио је отисак прста на стаклу.",
+   "lat": "Ostavio je otisak prsta na staklu.",
+   "ru": "Он оставил отпечаток пальца на стекле."
+  }
+ },
+ {
+  "id": "w2623",
+  "order": 2623,
+  "level": "B1",
+  "cyr": "поларни",
+  "lat": "polarni",
+  "tr": "поларни",
+  "ru": "полярный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Поларна ноћ је дуга.",
+   "lat": "Polarna noć je duga.",
+   "ru": "Полярная ночь долгая."
+  }
+ },
+ {
+  "id": "w2624",
+  "order": 2624,
+  "level": "B1",
+  "cyr": "брана",
+  "lat": "brana",
+  "tr": "брана",
+  "ru": "плот; плотина",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Брана је направљена од камена.",
+   "lat": "Brana je napravljena od kamena.",
+   "ru": "Плотина сделана из камня."
+  }
+ },
+ {
+  "id": "w2625",
+  "order": 2625,
+  "level": "B1",
+  "cyr": "изумрети",
+  "lat": "izumreti",
+  "tr": "изумрети",
+  "ru": "вымереть; исчезнуть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Ова врста птица је изумрла.",
+   "lat": "Ova vrsta ptica je izumrla.",
+   "ru": "Этот вид птиц вымер."
+  }
+ },
+ {
+  "id": "w2626",
+  "order": 2626,
+  "level": "B1",
+  "cyr": "водоземац",
+  "lat": "vodozemac",
+  "tr": "водоземац",
+  "ru": "земноводное животное",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Жаба је типичан водоземац.",
+   "lat": "Žaba je tipičan vodozemac.",
+   "ru": "Лягушка — типичное земноводное животное."
+  }
+ },
+ {
+  "id": "w2627",
+  "order": 2627,
+  "level": "B1",
+  "cyr": "резидба",
+  "lat": "rezidba",
+  "tr": "резидба",
+  "ru": "резиденция; усадьба",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Велика резидба стоји близу града.",
+   "lat": "Velika rezidba stoji blizu grada.",
+   "ru": "Большая резиденция стоит недалеко от города."
+  }
+ },
+ {
+  "id": "w2628",
+  "order": 2628,
+  "level": "B1",
+  "cyr": "променљив",
+  "lat": "promenljiv",
+  "tr": "променлив",
+  "ru": "изменчивый; переменчивый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Променљива времена често изненаде.",
+   "lat": "Promenljiva vremena često iznenade.",
+   "ru": "Переменная погода часто удивляет."
+  }
+ },
+ {
+  "id": "w2629",
+  "order": 2629,
+  "level": "B1",
+  "cyr": "брежуљак",
+  "lat": "brežuljak",
+  "tr": "брежуляк",
+  "ru": "холмик; бугор",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Деца се играју на малом брежуљку.",
+   "lat": "Deca se igraju na malom brežuljku.",
+   "ru": "Дети играются на маленьком холмике."
+  }
+ },
+ {
+  "id": "w2630",
+  "order": 2630,
+  "level": "B1",
+  "cyr": "испаравати",
+  "lat": "isparavati",
+  "tr": "испаравати",
+  "ru": "испаряться; испускать пар",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Кључава вода испаравала је из лонца.",
+   "lat": "Ključava voda isparavala je iz lonca.",
+   "ru": "Кипящая вода испарялась из котла."
+  }
+ },
+ {
+  "id": "w2631",
+  "order": 2631,
+  "level": "B1",
+  "cyr": "глодар",
+  "lat": "glodar",
+  "tr": "глодар",
+  "ru": "грызун",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Глодар је мала животиња са дугим зубима.",
+   "lat": "Glodar je mala životinja sa dugim zubima.",
+   "ru": "Грызун — это маленькое животное с длинными зубами."
+  }
+ },
+ {
+  "id": "w2632",
+  "order": 2632,
+  "level": "B1",
+  "cyr": "рециклирање",
+  "lat": "recikliranje",
+  "tr": "рециклиранье",
+  "ru": "переработка; рециклинг",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Рециклирање пластике је врло значајно за природу.",
+   "lat": "Recikliranje plastike je vrlo značajno za prirodu.",
+   "ru": "Переработка пластика очень важна для природы."
+  }
+ },
+ {
+  "id": "w2633",
+  "order": 2633,
+  "level": "B1",
+  "cyr": "снежан",
+  "lat": "snežan",
+  "tr": "снежан",
+  "ru": "снежный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Снежан пејзав изгледа магично.",
+   "lat": "Snežan pejzav izgleda magično.",
+   "ru": "Снежный пейзаж выглядит волшебно."
+  }
+ },
+ {
+  "id": "w2634",
+  "order": 2634,
+  "level": "B1",
+  "cyr": "бујица",
+  "lat": "bujica",
+  "tr": "бујица",
+  "ru": "поток; наводнение",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Топљени снег прави бујицу у долини.",
+   "lat": "Topljeni sneg pravi bujicu u dolini.",
+   "ru": "Талый снег создаёт поток в долине."
+  }
+ },
+ {
+  "id": "w2635",
+  "order": 2635,
+  "level": "B1",
+  "cyr": "испарити",
+  "lat": "ispariti",
+  "tr": "испарити",
+  "ru": "испарить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Сунце испари воду са језера.",
+   "lat": "Sunce ispari vodu sa jezera.",
+   "ru": "Солнце испаряет воду с озера."
+  }
+ },
+ {
+  "id": "w2636",
+  "order": 2636,
+  "level": "B1",
+  "cyr": "гмизавац",
+  "lat": "gmizavac",
+  "tr": "гмизавац",
+  "ru": "пресмыкающееся; рептилия",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гмизавац се креће споро топлом камењем.",
+   "lat": "Gmizavac se kreće sporo toplom kamenjem.",
+   "ru": "Рептилия медленно движется по тёплому камню."
+  }
+ },
+ {
+  "id": "w2637",
+  "order": 2637,
+  "level": "B1",
+  "cyr": "загађен",
+  "lat": "zagađen",
+  "tr": "загаджен",
+  "ru": "загрязнённый",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Река је загађена отпадним водама.",
+   "lat": "Reka je zagađena otpadnim vodama.",
+   "ru": "Река загрязнена сточными водами."
+  }
+ },
+ {
+  "id": "w2638",
+  "order": 2638,
+  "level": "B1",
+  "cyr": "токсичан",
+  "lat": "toksičan",
+  "tr": "токсичан",
+  "ru": "токсичный; ядовитый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ова течност је токсична.",
+   "lat": "Ova tečnost je toksična.",
+   "ru": "Эта жидкость токсична."
+  }
+ },
+ {
+  "id": "w2639",
+  "order": 2639,
+  "level": "B1",
+  "cyr": "вегетација",
+  "lat": "vegetacija",
+  "tr": "вегетација",
+  "ru": "растительность",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Богата вегетација покрива цело острво.",
+   "lat": "Bogata vegetacija pokriva celo ostrvo.",
+   "ru": "Богатая растительность покрывает всё остров."
+  }
+ },
+ {
+  "id": "w2640",
+  "order": 2640,
+  "level": "B1",
+  "cyr": "калемити",
+  "lat": "kalemiti",
+  "tr": "калемити",
+  "ru": "прививать; прививать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Ово стабло је калемљено са другог.",
+   "lat": "Ovo stablo je kalemljeno sa drugog.",
+   "ru": "Это дерево привито с другого."
+  }
+ },
+ {
+  "id": "w2641",
+  "order": 2641,
+  "level": "B1",
+  "cyr": "грабљивица",
+  "lat": "grabljivica",
+  "tr": "грабливица",
+  "ru": "хищное насекомое; хищница",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Грабљивица је инсект који једе друге инсекте.",
+   "lat": "Grabljivica je insekt koji jede druge insekte.",
+   "ru": "Хищное насекомое поедает других насекомых."
+  }
+ },
+ {
+  "id": "w2642",
+  "order": 2642,
+  "level": "B1",
+  "cyr": "пластичан",
+  "lat": "plastičan",
+  "tr": "пластичан",
+  "ru": "пластиковый; пластичный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Ова пластична боца је празна.",
+   "lat": "Ova plastična boca je prazna.",
+   "ru": "Эта пластиковая бутылка пустая."
+  }
+ },
+ {
+  "id": "w2643",
+  "order": 2643,
+  "level": "B1",
+  "cyr": "висораван",
+  "lat": "visoravan",
+  "tr": "висораван",
+  "ru": "плато; возвышенность",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Висораван је идеална за узгој пшенице.",
+   "lat": "Visoravan je idealna za uzgoj pšenice.",
+   "ru": "Плато идеально подходит для выращивания пшеницы."
+  }
+ },
+ {
+  "id": "w2644",
+  "order": 2644,
+  "level": "B1",
+  "cyr": "кишити",
+  "lat": "kišiti",
+  "tr": "кишити",
+  "ru": "поливать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Вртник киши цвеће свако јутро.",
+   "lat": "Vrtnik kiši cveće svako jutro.",
+   "ru": "Садовник поливает цветы каждое утро."
+  }
+ },
+ {
+  "id": "w2645",
+  "order": 2645,
+  "level": "B1",
+  "cyr": "гусеница",
+  "lat": "gusenica",
+  "tr": "гусеница",
+  "ru": "гусеница",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Гусеница се креће по лишћу.",
+   "lat": "Gusenica se kreće po lišću.",
+   "ru": "Гусеница ползет по листьям."
+  }
+ },
+ {
+  "id": "w2646",
+  "order": 2646,
+  "level": "B1",
+  "cyr": "рециклиран",
+  "lat": "recikliran",
+  "tr": "рециклиран",
+  "ru": "переработанный; вторичный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Рециклирана боја се често користи у уметности.",
+   "lat": "Reciklirana boja se često koristi u umetnosti.",
+   "ru": "Переработанная краска часто используется в искусстве."
+  }
+ },
+ {
+  "id": "w2647",
+  "order": 2647,
+  "level": "B1",
+  "cyr": "влажност",
+  "lat": "vlažnost",
+  "tr": "влажност",
+  "ru": "влажность",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Влажност ваздуха је висока.",
+   "lat": "Vlažnost vazduha je visoka.",
+   "ru": "Влажность воздуха высокая."
+  }
+ },
+ {
+  "id": "w2648",
+  "order": 2648,
+  "level": "B1",
+  "cyr": "косити",
+  "lat": "kositi",
+  "tr": "косити",
+  "ru": "косить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Мајстор коси траву у парку.",
+   "lat": "Majstor kosi travu u parku.",
+   "ru": "Мастер косит траву в парке."
+  }
+ },
+ {
+  "id": "w2649",
+  "order": 2649,
+  "level": "B1",
+  "cyr": "детлић",
+  "lat": "detlić",
+  "tr": "детлич",
+  "ru": "дятел",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Детлић удара стабло својим кљуном.",
+   "lat": "Detlić udara stablo svojim kljunom.",
+   "ru": "Дятел стучит клювом по дереву."
+  }
+ },
+ {
+  "id": "w2650",
+  "order": 2650,
+  "level": "B1",
+  "cyr": "вртлог",
+  "lat": "vrtlog",
+  "tr": "вртлог",
+  "ru": "водоворот; круговорот",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Чамац се окреће у вртлогу.",
+   "lat": "Čamac se okreće u vrtlogu.",
+   "ru": "Лодка вращается в водовороте."
+  }
+ },
+ {
+  "id": "w2651",
+  "order": 2651,
+  "level": "B1",
+  "cyr": "луњати",
+  "lat": "lunjati",
+  "tr": "луньяти",
+  "ru": "кружить; вилять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Рибе луњају уз обалу.",
+   "lat": "Ribe lunjaju uz obalu.",
+   "ru": "Рыбы кружат у берега."
+  }
+ },
+ {
+  "id": "w2652",
+  "order": 2652,
+  "level": "B1",
+  "cyr": "дивљач",
+  "lat": "divljač",
+  "tr": "дивляч",
+  "ru": "дичь; дичь (охота)",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ловац је уловио дивљач у шуми.",
+   "lat": "Lovac je ulovio divljač u šumi.",
+   "ru": "Охотник добыл дичь в лесу."
+  }
+ },
+ {
+  "id": "w2653",
+  "order": 2653,
+  "level": "B1",
+  "cyr": "вулкан",
+  "lat": "vulkan",
+  "tr": "вулкан",
+  "ru": "вулкан",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стари вулкан је постао популаран туристички атракција.",
+   "lat": "Stari vulkan je postao popularan turistički atrakcija.",
+   "ru": "Старый вулкан стал популярной туристической достопримечательностью."
+  }
+ },
+ {
+  "id": "w2654",
+  "order": 2654,
+  "level": "B1",
+  "cyr": "мигрирати",
+  "lat": "migrirati",
+  "tr": "мигрирати",
+  "ru": "мигрировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Птице мигрирају у топле крајеве.",
+   "lat": "Ptice migriraju u tople krajeve.",
+   "ru": "Птицы мигрируют в тёплые края."
+  }
+ },
+ {
+  "id": "w2655",
+  "order": 2655,
+  "level": "B1",
+  "cyr": "ждрал",
+  "lat": "ždral",
+  "tr": "ждрал",
+  "ru": "журавль",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ждрал лети у јату ка југу.",
+   "lat": "Ždral leti u jatu ka jugu.",
+   "ru": "Журавль летит стаей на юг."
+  }
+ },
+ {
+  "id": "w2656",
+  "order": 2656,
+  "level": "B1",
+  "cyr": "глог",
+  "lat": "glog",
+  "tr": "глог",
+  "ru": "боярышник",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Глог цвета белом цвећем у мају.",
+   "lat": "Glog cveta belom cvećem u maju.",
+   "ru": "Боярышник цветёт белыми цветами в мае."
+  }
+ },
+ {
+  "id": "w2657",
+  "order": 2657,
+  "level": "B1",
+  "cyr": "наводњавати",
+  "lat": "navodnjavati",
+  "tr": "наводньявати",
+  "ru": "поливать; орошать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Фармери наводњавају поље за усев.",
+   "lat": "Farmeri navodnjavaju polje za usev.",
+   "ru": "Фермеры поливают поле для посева."
+  }
+ },
+ {
+  "id": "w2658",
+  "order": 2658,
+  "level": "B1",
+  "cyr": "кит",
+  "lat": "kit",
+  "tr": "кит",
+  "ru": "кит",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кит је највећа животиња на свету.",
+   "lat": "Kit je najveća životinja na svetu.",
+   "ru": "Кит — самое большое животное в мире."
+  }
+ },
+ {
+  "id": "w2659",
+  "order": 2659,
+  "level": "B1",
+  "cyr": "гребен",
+  "lat": "greben",
+  "tr": "гребен",
+  "ru": "хребет; риф",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гребен у мору опасан је за бродове.",
+   "lat": "Greben u moru opasan je za brodove.",
+   "ru": "Риф в море опасен для кораблей."
+  }
+ },
+ {
+  "id": "w2660",
+  "order": 2660,
+  "level": "B1",
+  "cyr": "надирати",
+  "lat": "nadirati",
+  "tr": "надирати",
+  "ru": "поднимать; надирать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Деца надирају високе стене у шуми.",
+   "lat": "Deca nadiraju visoke stene u šumi.",
+   "ru": "Дети поднимаются на высокие скалы в лесу."
+  }
+ },
+ {
+  "id": "w2661",
+  "order": 2661,
+  "level": "B1",
+  "cyr": "лабуд",
+  "lat": "labud",
+  "tr": "лабуд",
+  "ru": "лебедь",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Лабуд плива језером у јутро.",
+   "lat": "Labud pliva jezerom u jutro.",
+   "ru": "Лебедь плывет по озеру утром."
+  }
+ },
+ {
+  "id": "w2662",
+  "order": 2662,
+  "level": "B1",
+  "cyr": "гљива",
+  "lat": "gljiva",
+  "tr": "глива",
+  "ru": "гриб",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Гљива расте после кише.",
+   "lat": "Gljiva raste posle kiše.",
+   "ru": "Гриб растет после дождя."
+  }
+ },
+ {
+  "id": "w2663",
+  "order": 2663,
+  "level": "B1",
+  "cyr": "нестати",
+  "lat": "nestati",
+  "tr": "нестати",
+  "ru": "исчезнуть; пропасть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Кључеви су нестали са стола.",
+   "lat": "Ključevi su nestali sa stola.",
+   "ru": "Ключи исчезли со стола."
+  }
+ },
+ {
+  "id": "w2664",
+  "order": 2664,
+  "level": "B1",
+  "cyr": "ласица",
+  "lat": "lasica",
+  "tr": "ласица",
+  "ru": "ласка",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ласица је мала и брза животиња.",
+   "lat": "Lasica je mala i brza životinja.",
+   "ru": "Ласка маленькая и быстрая животное."
+  }
+ },
+ {
+  "id": "w2665",
+  "order": 2665,
+  "level": "B1",
+  "cyr": "екосистем",
+  "lat": "ekosistem",
+  "tr": "екосистем",
+  "ru": "экосистема",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Екосистем је сложена природна целина.",
+   "lat": "Ekosistem je složena prirodna celina.",
+   "ru": "Экосистема — это сложная природная система."
+  }
+ },
+ {
+  "id": "w2666",
+  "order": 2666,
+  "level": "B1",
+  "cyr": "никнути",
+  "lat": "niknuti",
+  "tr": "никнути",
+  "ru": "прорастать; появляться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Пролеће никну први цветови.",
+   "lat": "Proleće niknu prvi cvetovi.",
+   "ru": "Весной появляются первые цветы."
+  }
+ },
+ {
+  "id": "w2667",
+  "order": 2667,
+  "level": "B1",
+  "cyr": "легло",
+  "lat": "leglo",
+  "tr": "легло",
+  "ru": "гнездо; место для выводка",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "n",
+  "ex": {
+   "cyr": "Мајка птица чува своје легло од предатора.",
+   "lat": "Majka ptica čuva svoje leglo od predatora.",
+   "ru": "Птичья мать защищает своё гнездо от хищников."
+  }
+ },
+ {
+  "id": "w2668",
+  "order": 2668,
+  "level": "B1",
+  "cyr": "ерозија",
+  "lat": "erozija",
+  "tr": "ерозија",
+  "ru": "эрозия (почвы); размыв",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кише изазивају ерозију тла на стрмим падинама.",
+   "lat": "Kiše izazivaju eroziju tla na strmim padinama.",
+   "ru": "Дожди вызывают эрозию почвы на склонах холмов."
+  }
+ },
+ {
+  "id": "w2669",
+  "order": 2669,
+  "level": "B1",
+  "cyr": "обасјати",
+  "lat": "obasjati",
+  "tr": "обасјати",
+  "ru": "осветить; озарить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Јаке светле обасјају читаву улицу.",
+   "lat": "Jake svetle obasjaju čitavu ulicu.",
+   "ru": "Сильные фонари освещают всю улицу."
+  }
+ },
+ {
+  "id": "w2670",
+  "order": 2670,
+  "level": "B1",
+  "cyr": "лињање",
+  "lat": "linjanje",
+  "tr": "линьянье",
+  "ru": "линька",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "n",
+  "ex": {
+   "cyr": "Лињање пса почиње на пролеће.",
+   "lat": "Linjanje psa počinje na proleće.",
+   "ru": "Линька собаки начинается весной."
+  }
+ },
+ {
+  "id": "w2671",
+  "order": 2671,
+  "level": "B1",
+  "cyr": "ерупција",
+  "lat": "erupcija",
+  "tr": "ерупција",
+  "ru": "извержение; вспышка",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ерупција вулкана избацује пепео у ваздух.",
+   "lat": "Erupcija vulkana izbacuje pepeo u vazduh.",
+   "ru": "Извержение вулкана выбрасывает пепел в воздух."
+  }
+ },
+ {
+  "id": "w2672",
+  "order": 2672,
+  "level": "B1",
+  "cyr": "орезивати",
+  "lat": "orezivati",
+  "tr": "орезивати",
+  "ru": "обрезать; подрезать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Трава се орезије сваке недеље.",
+   "lat": "Trava se orezije svake nedelje.",
+   "ru": "Траву подстригивают каждую неделю."
+  }
+ },
+ {
+  "id": "w2673",
+  "order": 2673,
+  "level": "B1",
+  "cyr": "миграција",
+  "lat": "migracija",
+  "tr": "миграција",
+  "ru": "миграция",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Миграције птица су спектакуларни природни феномен.",
+   "lat": "Migracije ptica su spektakularni prirodni fenomen.",
+   "ru": "Миграции птиц — это впечатляющее природное явление."
+  }
+ },
+ {
+  "id": "w2674",
+  "order": 2674,
+  "level": "B1",
+  "cyr": "загађивач",
+  "lat": "zagađivač",
+  "tr": "загадживач",
+  "ru": "загрязнитель",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Загађивач испушта токсичне материје.",
+   "lat": "Zagađivač ispušta toksične materije.",
+   "ru": "Загрязнитель выбрасывает токсичные вещества."
+  }
+ },
+ {
+  "id": "w2675",
+  "order": 2675,
+  "level": "B1",
+  "cyr": "отапати",
+  "lat": "otapati",
+  "tr": "отапати",
+  "ru": "отапливать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Кућу грејем и отапам.",
+   "lat": "Kuću grejem i otapam.",
+   "ru": "Я грею и отапливаю дом."
+  }
+ },
+ {
+  "id": "w2676",
+  "order": 2676,
+  "level": "B1",
+  "cyr": "младунче",
+  "lat": "mladunče",
+  "tr": "младунче",
+  "ru": "детёныш, детёныш",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "n",
+  "ex": {
+   "cyr": "Младунче слона игра се са мајком.",
+   "lat": "Mladunče slona igra se sa majkom.",
+   "ru": "Детёныш слона играет с матерью."
+  }
+ },
+ {
+  "id": "w2677",
+  "order": 2677,
+  "level": "B1",
+  "cyr": "заклон",
+  "lat": "zaklon",
+  "tr": "заклон",
+  "ru": "укрытие, укрытие",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Нађоше заклон од кише испред стене.",
+   "lat": "Nađoše zaklon od kiše ispred stene.",
+   "ru": "Они нашли укрытие от дождя у скалы."
+  }
+ },
+ {
+  "id": "w2678",
+  "order": 2678,
+  "level": "B1",
+  "cyr": "плавити",
+  "lat": "plaviti",
+  "tr": "плавити",
+  "ru": "плавить; топить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Плавимо метал у високој пећи.",
+   "lat": "Plavimo metal u visokoj peći.",
+   "ru": "Мы плавим металл в высокой печи."
+  }
+ },
+ {
+  "id": "w2679",
+  "order": 2679,
+  "level": "B1",
+  "cyr": "перје",
+  "lat": "perje",
+  "tr": "перје",
+  "ru": "перо",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "n",
+  "ex": {
+   "cyr": "Птица има меко перје на крилима.",
+   "lat": "Ptica ima meko perje na krilima.",
+   "ru": "У птицы мягкие перья на крыльях."
+  }
+ },
+ {
+  "id": "w2680",
+  "order": 2680,
+  "level": "B1",
+  "cyr": "залеђивање",
+  "lat": "zaleđivanje",
+  "tr": "заледживанье",
+  "ru": "замораживание; ледостав",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Залеђивање језера траје цео зимски дан.",
+   "lat": "Zaleđivanje jezera traje ceo zimski dan.",
+   "ru": "Замораживание озера длится весь зимний день."
+  }
+ },
+ {
+  "id": "w2681",
+  "order": 2681,
+  "level": "B1",
+  "cyr": "потопити",
+  "lat": "potopiti",
+  "tr": "потопити",
+  "ru": "потопить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Брод потопи у олуји.",
+   "lat": "Brod potopi u oluji.",
+   "ru": "Корабль тонет в шторме."
+  }
+ },
+ {
+  "id": "w2682",
+  "order": 2682,
+  "level": "B1",
+  "cyr": "потомство",
+  "lat": "potomstvo",
+  "tr": "потомство",
+  "ru": "потомство",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "n",
+  "ex": {
+   "cyr": "Вук штити своје младо потомство.",
+   "lat": "Vuk štiti svoje mlado potomstvo.",
+   "ru": "Волк защищает своё молодое потомство."
+  }
+ },
+ {
+  "id": "w2683",
+  "order": 2683,
+  "level": "B1",
+  "cyr": "заштита",
+  "lat": "zaštita",
+  "tr": "заштита",
+  "ru": "защита; охрана",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Добра заштита је важна за одрживу пољопривреду.",
+   "lat": "Dobra zaštita je važna za održivu poljoprivredu.",
+   "ru": "Хорошая защита важна для устойчивого сельского хозяйства."
+  }
+ },
+ {
+  "id": "w2684",
+  "order": 2684,
+  "level": "B1",
+  "cyr": "праснути",
+  "lat": "prasnuti",
+  "tr": "праснути",
+  "ru": "лопаться; треснуть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Балон је праснуо од ветра.",
+   "lat": "Balon je prasnuo od vetra.",
+   "ru": "Шар лопнул от ветра."
+  }
+ },
+ {
+  "id": "w2685",
+  "order": 2685,
+  "level": "B1",
+  "cyr": "сеоба",
+  "lat": "seoba",
+  "tr": "сеоба",
+  "ru": "перелет; переселение",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сеоба птица дешава се у јесен.",
+   "lat": "Seoba ptica dešava se u jesen.",
+   "ru": "Перелет птиц происходит осенью."
+  }
+ },
+ {
+  "id": "w2686",
+  "order": 2686,
+  "level": "B1",
+  "cyr": "земљиште",
+  "lat": "zemljište",
+  "tr": "землиште",
+  "ru": "почва; земля",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Плодно земљиште доноси богату жетву.",
+   "lat": "Plodno zemljište donosi bogatu žetvu.",
+   "ru": "Плодная земля приносит богатый урожай."
+  }
+ },
+ {
+  "id": "w2687",
+  "order": 2687,
+  "level": "B1",
+  "cyr": "преживети",
+  "lat": "preživeti",
+  "tr": "преживети",
+  "ru": "выжить; перенести",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тој преживе велики земљотрес.",
+   "lat": "Toj prežive veliki zemljotres.",
+   "ru": "Он пережил большое землетрясение."
+  }
+ },
+ {
+  "id": "w2688",
+  "order": 2688,
+  "level": "B1",
+  "cyr": "сисар",
+  "lat": "sisar",
+  "tr": "сисар",
+  "ru": "млекопитающее",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Човек је сисар.",
+   "lat": "Čovek je sisar.",
+   "ru": "Человек — млекопитающее."
+  }
+ },
+ {
+  "id": "w2689",
+  "order": 2689,
+  "level": "B1",
+  "cyr": "земљотрес",
+  "lat": "zemljotres",
+  "tr": "земльотрес",
+  "ru": "землетрясение",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Земљотрес је осетио цео град јуче.",
+   "lat": "Zemljotres je osetio ceo grad juče.",
+   "ru": "Землетрясение почувствовало весь город вчера."
+  }
+ },
+ {
+  "id": "w2690",
+  "order": 2690,
+  "level": "B1",
+  "cyr": "презимети",
+  "lat": "prezimeti",
+  "tr": "презимети",
+  "ru": "пережить зиму; перезимовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Биљке морају да презимете.",
+   "lat": "Biljke moraju da prezimete.",
+   "ru": "Растениям нужно перезимовать."
+  }
+ },
+ {
+  "id": "w2691",
+  "order": 2691,
+  "level": "B1",
+  "cyr": "стршљен",
+  "lat": "stršljen",
+  "tr": "стршлен",
+  "ru": "шершень",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стршљен је велики и опасан инсект.",
+   "lat": "Stršljen je veliki i opasan insekt.",
+   "ru": "Шершень — это большое и опасное насекомое."
+  }
+ },
+ {
+  "id": "w2692",
+  "order": 2692,
+  "level": "B1",
+  "cyr": "изумирање",
+  "lat": "izumiranje",
+  "tr": "изумиранье",
+  "ru": "вымирание",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Изумирање врста је велики проблем данас.",
+   "lat": "Izumiranje vrsta je veliki problem danas.",
+   "ru": "Вымирание видов — большая проблема сегодня."
+  }
+ },
+ {
+  "id": "w2693",
+  "order": 2693,
+  "level": "B1",
+  "cyr": "презимити",
+  "lat": "prezimiti",
+  "tr": "презимити",
+  "ru": "пережить зиму",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Многе животиње презимјавају у пећинама.",
+   "lat": "Mnoge životinje prezimjavaju u pećinama.",
+   "ru": "Многие животные зимуют в пещерах."
+  }
+ },
+ {
+  "id": "w2694",
+  "order": 2694,
+  "level": "B1",
+  "cyr": "фока",
+  "lat": "foka",
+  "tr": "фока",
+  "ru": "тюлень; морской котик",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Фока се креће брзо у води.",
+   "lat": "Foka se kreće brzo u vodi.",
+   "ru": "Тюлень быстро движется в воде."
+  }
+ },
+ {
+  "id": "w2695",
+  "order": 2695,
+  "level": "B1",
+  "cyr": "инеј",
+  "lat": "inej",
+  "tr": "инеј",
+  "ru": "иней",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Инеј се јавља ујутру.",
+   "lat": "Inej se javlja ujutru.",
+   "ru": "Иней появляется утром."
+  }
+ },
+ {
+  "id": "w2696",
+  "order": 2696,
+  "level": "B1",
+  "cyr": "прерађивати",
+  "lat": "prerađivati",
+  "tr": "прерадживати",
+  "ru": "перерабатывать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Фабрика прерађује воће у сок.",
+   "lat": "Fabrika prerađuje voće u sok.",
+   "ru": "Фабрика перерабатывает фрукты в сок."
+  }
+ },
+ {
+  "id": "w2697",
+  "order": 2697,
+  "level": "B1",
+  "cyr": "црв",
+  "lat": "crv",
+  "tr": "црв",
+  "ru": "червь",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Црв је важан за плодност земље.",
+   "lat": "Crv je važan za plodnost zemlje.",
+   "ru": "Червь важен для плодородия земли."
+  }
+ },
+ {
+  "id": "w2698",
+  "order": 2698,
+  "level": "B1",
+  "cyr": "инсектицид",
+  "lat": "insekticid",
+  "tr": "инсектицид",
+  "ru": "инсектицид; яд для насекомых",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Инсектицид штити биљке од инсеката.",
+   "lat": "Insekticid štiti biljke od insekata.",
+   "ru": "Инсектицид защищает растения от насекомых."
+  }
+ },
+ {
+  "id": "w2699",
+  "order": 2699,
+  "level": "B1",
+  "cyr": "претити",
+  "lat": "pretiti",
+  "tr": "претити",
+  "ru": "угрожать; грозить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Олуја претити читавом граду.",
+   "lat": "Oluja pretiti čitavom gradu.",
+   "ru": "Гроза угрожает всему городу."
+  }
+ },
+ {
+  "id": "w2700",
+  "order": 2700,
+  "level": "B1",
+  "cyr": "чапља",
+  "lat": "čaplja",
+  "tr": "чапля",
+  "ru": "цапля",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Чапља стоји у реци и чека рибу.",
+   "lat": "Čaplja stoji u reci i čeka ribu.",
+   "ru": "Цапля стоит в реке и ждет рыбу."
+  }
+ },
+ {
+  "id": "w2701",
+  "order": 2701,
+  "level": "B1",
+  "cyr": "инстинкт",
+  "lat": "instinkt",
+  "tr": "инстинкт",
+  "ru": "инстинкт",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Инстинкт води животиње на југ.",
+   "lat": "Instinkt vodi životinje na jug.",
+   "ru": "Инстинкт ведёт животных на юг."
+  }
+ },
+ {
+  "id": "w2702",
+  "order": 2702,
+  "level": "B1",
+  "cyr": "проветравати",
+  "lat": "provetravati",
+  "tr": "проветравати",
+  "ru": "проветривать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Проветравајте собу сваког јутра.",
+   "lat": "Provetravajte sobu svakog jutra.",
+   "ru": "Проветривайте комнату каждое утро."
+  }
+ },
+ {
+  "id": "w2703",
+  "order": 2703,
+  "level": "B1",
+  "cyr": "јазавац",
+  "lat": "jazavac",
+  "tr": "јазавац",
+  "ru": "барсук",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Јазавац је ноћни сисар.",
+   "lat": "Jazavac je noćni sisar.",
+   "ru": "Барсук — это ночное млекопитающее."
+  }
+ },
+ {
+  "id": "w2704",
+  "order": 2704,
+  "level": "B1",
+  "cyr": "испаравање",
+  "lat": "isparavanje",
+  "tr": "испараванье",
+  "ru": "испарение",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Сунце убрзава испаравање воде из језера.",
+   "lat": "Sunce ubrzava isparavanje vode iz jezera.",
+   "ru": "Солнце ускоряет испарение воды из озера."
+  }
+ },
+ {
+  "id": "w2705",
+  "order": 2705,
+  "level": "B1",
+  "cyr": "прскати",
+  "lat": "prskati",
+  "tr": "прскати",
+  "ru": "брызгать; брызгаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Деца се прскају у базену.",
+   "lat": "Deca se prskaju u bazenu.",
+   "ru": "Дети брызгаются в бассейне."
+  }
+ },
+ {
+  "id": "w2706",
+  "order": 2706,
+  "level": "B1",
+  "cyr": "јареб",
+  "lat": "jareb",
+  "tr": "јареб",
+  "ru": "ястреб",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Јареб лети високо изнад шумског језгра.",
+   "lat": "Jareb leti visoko iznad šumskog jezgra.",
+   "ru": "Ястреб летит высоко над лесной чащей."
+  }
+ },
+ {
+  "id": "w2707",
+  "order": 2707,
+  "level": "B1",
+  "cyr": "испарење",
+  "lat": "isparenje",
+  "tr": "испаренье",
+  "ru": "испарение",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Испарење воде је природни процес.",
+   "lat": "Isparenje vode je prirodni proces.",
+   "ru": "Испарение воды естественный процесс."
+  }
+ },
+ {
+  "id": "w2708",
+  "order": 2708,
+  "level": "B1",
+  "cyr": "разарати",
+  "lat": "razarati",
+  "tr": "разарати",
+  "ru": "разрушать; опустошать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Рат је разарио цео град.",
+   "lat": "Rat je razario ceo grad.",
+   "ru": "Война разрушила весь город."
+  }
+ },
+ {
+  "id": "w2709",
+  "order": 2709,
+  "level": "B1",
+  "cyr": "јато",
+  "lat": "jato",
+  "tr": "јато",
+  "ru": "стая",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "n",
+  "ex": {
+   "cyr": "Јата врабаца слећу на поље.",
+   "lat": "Jata vrabaca sleću na polje.",
+   "ru": "Стаи воробьёв спускаются на поле."
+  }
+ },
+ {
+  "id": "w2710",
+  "order": 2710,
+  "level": "B1",
+  "cyr": "каљење",
+  "lat": "kaljenje",
+  "tr": "каленье",
+  "ru": "закаливание; всходы",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Каљење садница захтева стрпљење.",
+   "lat": "Kaljenje sadnica zahteva strpljenje.",
+   "ru": "Закаливание саженцев требует терпения."
+  }
+ },
+ {
+  "id": "w2711",
+  "order": 2711,
+  "level": "B1",
+  "cyr": "разградити",
+  "lat": "razgraditi",
+  "tr": "разградити",
+  "ru": "разложить; разградить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Сунце полако разгради стару књигу.",
+   "lat": "Sunce polako razgradi staru knjigu.",
+   "ru": "Солнце медленно разложило старую книгу."
+  }
+ },
+ {
+  "id": "w2712",
+  "order": 2712,
+  "level": "B1",
+  "cyr": "грабљив",
+  "lat": "grabljiv",
+  "tr": "граблив",
+  "ru": "хищный; жадный",
+  "pos": "adj",
+  "cat": "animals",
+  "ex": {
+   "cyr": "Грабљиви орлови лете високо у небу.",
+   "lat": "Grabljivi orlovi lete visoko u nebu.",
+   "ru": "Хищные орлы летят высоко в небе."
+  }
+ },
+ {
+  "id": "w2713",
+  "order": 2713,
+  "level": "B1",
+  "cyr": "комета",
+  "lat": "kometa",
+  "tr": "комета",
+  "ru": "комета",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ноћу смо видели комету на небу.",
+   "lat": "Noću smo videli kometu na nebu.",
+   "ru": "Ночью мы видели комету на небе."
+  }
+ },
+ {
+  "id": "w2714",
+  "order": 2714,
+  "level": "B1",
+  "cyr": "севати",
+  "lat": "sevati",
+  "tr": "севати",
+  "ru": "созревать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Плодови на дрвету севају лети.",
+   "lat": "Plodovi na drvetu sevaju leti.",
+   "ru": "Плоды на дереве созревают летом."
+  }
+ },
+ {
+  "id": "w2715",
+  "order": 2715,
+  "level": "B1",
+  "cyr": "копно",
+  "lat": "kopno",
+  "tr": "копно",
+  "ru": "материк; суша",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Европа је најмање копно.",
+   "lat": "Evropa je najmanje kopno.",
+   "ru": "Европа — самый маленький материк."
+  }
+ },
+ {
+  "id": "w2716",
+  "order": 2716,
+  "level": "B1",
+  "cyr": "сијати",
+  "lat": "sijati",
+  "tr": "сијати",
+  "ru": "сиять; блестеть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Сунце сија јасно јутрос после кише.",
+   "lat": "Sunce sija jasno jutros posle kiše.",
+   "ru": "Солнце ярко сияет утром после дождя."
+  }
+ },
+ {
+  "id": "w2717",
+  "order": 2717,
+  "level": "B1",
+  "cyr": "корал",
+  "lat": "koral",
+  "tr": "корал",
+  "ru": "коралл",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај корал има јарко црвену боју.",
+   "lat": "Ovaj koral ima jarko crvenu boju.",
+   "ru": "Этот корал имеет ярко-красный цвет."
+  }
+ },
+ {
+  "id": "w2718",
+  "order": 2718,
+  "level": "B1",
+  "cyr": "смањити",
+  "lat": "smanjiti",
+  "tr": "сманити",
+  "ru": "уменьшить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Ти треба да смањиш брзину.",
+   "lat": "Ti treba da smanjiš brzinu.",
+   "ru": "Тебе нужно уменьшить скорость."
+  }
+ },
+ {
+  "id": "w2719",
+  "order": 2719,
+  "level": "B1",
+  "cyr": "корито",
+  "lat": "korito",
+  "tr": "корито",
+  "ru": "корито; русло",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Река је дубоко у кориту.",
+   "lat": "Reka je duboko u koritu.",
+   "ru": "Река глубоко в русле."
+  }
+ },
+ {
+  "id": "w2720",
+  "order": 2720,
+  "level": "B1",
+  "cyr": "смркнути се",
+  "lat": "smrknuti se",
+  "tr": "смркнути се",
+  "ru": "хмуриться; хмуро смотреть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Девојка се смркнула кад је видела кижу.",
+   "lat": "Devojka se smrknula kad je videla kižu.",
+   "ru": "Девушка хмурилась, когда увидела кислое лицо."
+  }
+ },
+ {
+  "id": "w2721",
+  "order": 2721,
+  "level": "B1",
+  "cyr": "коров",
+  "lat": "korov",
+  "tr": "коров",
+  "ru": "сорняк",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Коров расте између усева.",
+   "lat": "Korov raste između useva.",
+   "ru": "Сорняк растет между посевами."
+  }
+ },
+ {
+  "id": "w2722",
+  "order": 2722,
+  "level": "B1",
+  "cyr": "сортирати",
+  "lat": "sortirati",
+  "tr": "сортирати",
+  "ru": "сортировать; классифицировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Деца сортирају играчке по бојама.",
+   "lat": "Deca sortiraju igračke po bojama.",
+   "ru": "Дети сортируют игрушки по цветам."
+  }
+ },
+ {
+  "id": "w2723",
+  "order": 2723,
+  "level": "B1",
+  "cyr": "котлина",
+  "lat": "kotlina",
+  "tr": "котлина",
+  "ru": "котловина; впадина",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Село лежи у малој котлини.",
+   "lat": "Selo leži u maloj kotlini.",
+   "ru": "Деревня лежит в небольшой котловине."
+  }
+ },
+ {
+  "id": "w2724",
+  "order": 2724,
+  "level": "B1",
+  "cyr": "уништити",
+  "lat": "uništiti",
+  "tr": "уништити",
+  "ru": "уничтожить; разрушить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Олуја је уништила кућу.",
+   "lat": "Oluja je uništila kuću.",
+   "ru": "Шторм уничтожил дом."
+  }
+ },
+ {
+  "id": "w2725",
+  "order": 2725,
+  "level": "B1",
+  "cyr": "креч",
+  "lat": "kreč",
+  "tr": "креч",
+  "ru": "известь",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Креч се добија печењем кречњака у пећи.",
+   "lat": "Kreč se dobija pečenjem krečnjaka u peći.",
+   "ru": "Известь получают обжигом известняка в печи."
+  }
+ },
+ {
+  "id": "w2726",
+  "order": 2726,
+  "level": "B1",
+  "cyr": "утихнути",
+  "lat": "utihnuti",
+  "tr": "утихнути",
+  "ru": "утихнуть; затихнуть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Ветар је коначно утихнуо.",
+   "lat": "Vetar je konačno utihnuo.",
+   "ru": "Ветер наконец затих."
+  }
+ },
+ {
+  "id": "w2727",
+  "order": 2727,
+  "level": "B1",
+  "cyr": "крш",
+  "lat": "krš",
+  "tr": "крш",
+  "ru": "карст; известняк; каменистая местность",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пећина је уклесана у кршу.",
+   "lat": "Pećina je uklesana u kršu.",
+   "ru": "Пещера высечена в известняке."
+  }
+ },
+ {
+  "id": "w2728",
+  "order": 2728,
+  "level": "B1",
+  "cyr": "хладити",
+  "lat": "hladiti",
+  "tr": "хладити",
+  "ru": "охлаждать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Хладимо воће у фрижидеру.",
+   "lat": "Hladimo voće u frižideru.",
+   "ru": "Мы охлаждаем фрукты в холодильнике."
+  }
+ },
+ {
+  "id": "w2729",
+  "order": 2729,
+  "level": "B1",
+  "cyr": "лава",
+  "lat": "lava",
+  "tr": "лава",
+  "ru": "лава",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Врућа лава тече споро по планинским падинама.",
+   "lat": "Vruća lava teče sporo po planinskim padinama.",
+   "ru": "Горячая лава медленно течёт по горным склонам."
+  }
+ },
+ {
+  "id": "w2730",
+  "order": 2730,
+  "level": "B1",
+  "cyr": "цветати",
+  "lat": "cvetati",
+  "tr": "цветати",
+  "ru": "цвести; цвести",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Јабуке цветају у пролеће.",
+   "lat": "Jabuke cvetaju u proleće.",
+   "ru": "Яблони цветут весной."
+  }
+ },
+ {
+  "id": "w2731",
+  "order": 2731,
+  "level": "B1",
+  "cyr": "лавина",
+  "lat": "lavina",
+  "tr": "лавина",
+  "ru": "лавина",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Лавина је брзо спустила са планине.",
+   "lat": "Lavina je brzo spustila sa planine.",
+   "ru": "Лавина быстро спустилась с горы."
+  }
+ },
+ {
+  "id": "w2732",
+  "order": 2732,
+  "level": "B1",
+  "cyr": "ђубрити",
+  "lat": "đubriti",
+  "tr": "джубрити",
+  "ru": "удобрять; удобрять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Фармер ђубри поље пре сејања.",
+   "lat": "Farmer đubri polje pre sejanja.",
+   "ru": "Фермер удобряет поле перед посевом."
+  }
+ },
+ {
+  "id": "w2733",
+  "order": 2733,
+  "level": "B1",
+  "cyr": "липа",
+  "lat": "lipa",
+  "tr": "липа",
+  "ru": "липа",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Липа цвета у јуну месецу.",
+   "lat": "Lipa cveta u junu mesecu.",
+   "ru": "Липа цветет в июне."
+  }
+ },
+ {
+  "id": "w2734",
+  "order": 2734,
+  "level": "B1",
+  "cyr": "њухати",
+  "lat": "njuhati",
+  "tr": "ньюхати",
+  "ru": "нюхать; чуять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Пас њуше сваки угао парка.",
+   "lat": "Pas njuše svaki ugao parka.",
+   "ru": "Собака нюхает каждый угол парка."
+  }
+ },
+ {
+  "id": "w2735",
+  "order": 2735,
+  "level": "B1",
+  "cyr": "лишај",
+  "lat": "lišaj",
+  "tr": "лишај",
+  "ru": "лишайник",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Лишај се види на кори дрвета.",
+   "lat": "Lišaj se vidi na kori drveta.",
+   "ru": "Лишайник виден на коре дерева."
+  }
+ },
+ {
+  "id": "w2736",
+  "order": 2736,
+  "level": "B1",
+  "cyr": "ловостај",
+  "lat": "lovostaj",
+  "tr": "ловостај",
+  "ru": "запрет на охоту",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ловостај је уведен да заштити животиње.",
+   "lat": "Lovostaj je uveden da zaštiti životinje.",
+   "ru": "Запрет на охоту ввели для защиты животных."
+  }
+ },
+ {
+  "id": "w2737",
+  "order": 2737,
+  "level": "B1",
+  "cyr": "метеор",
+  "lat": "meteor",
+  "tr": "метеор",
+  "ru": "метеор",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Метеор је пројурио кроз ноћно небо.",
+   "lat": "Meteor je projurio kroz noćno nebo.",
+   "ru": "Метеор пронёсся по ночному небу."
+  }
+ },
+ {
+  "id": "w2738",
+  "order": 2738,
+  "level": "B1",
+  "cyr": "метеорологија",
+  "lat": "meteorologija",
+  "tr": "метеорологија",
+  "ru": "метеорология",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Метеорологија проучава временске услове.",
+   "lat": "Meteorologija proučava vremenske uslove.",
+   "ru": "Метеорология изучает погодные условия."
+  }
+ },
+ {
+  "id": "w2739",
+  "order": 2739,
+  "level": "B1",
+  "cyr": "микроклима",
+  "lat": "mikroklima",
+  "tr": "микроклима",
+  "ru": "микроклимат",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Микроклима у башти је пријатна.",
+   "lat": "Mikroklima u bašti je prijatna.",
+   "ru": "Микроклимат в саду приятный."
+  }
+ },
+ {
+  "id": "w2740",
+  "order": 2740,
+  "level": "B1",
+  "cyr": "невреме",
+  "lat": "nevreme",
+  "tr": "невреме",
+  "ru": "непогода",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Невреме је изненадило све.",
+   "lat": "Nevreme je iznenadilo sve.",
+   "ru": "Непогода всех удивила."
+  }
+ },
+ {
+  "id": "w2741",
+  "order": 2741,
+  "level": "B1",
+  "cyr": "низија",
+  "lat": "nizija",
+  "tr": "низија",
+  "ru": "низменность; равнина",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Река тече кроз плодну низију.",
+   "lat": "Reka teče kroz plodnu niziju.",
+   "ru": "Река течёт по плодной низменности."
+  }
+ },
+ {
+  "id": "w2742",
+  "order": 2742,
+  "level": "B1",
+  "cyr": "одмрзавање",
+  "lat": "odmrzavanje",
+  "tr": "одмрзаванье",
+  "ru": "оттаивание; размораживание",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Одмрзавање земље почиње у пролеће.",
+   "lat": "Odmrzavanje zemlje počinje u proleće.",
+   "ru": "Оттаивание земли начинается весной."
+  }
+ },
+ {
+  "id": "w2743",
+  "order": 2743,
+  "level": "B1",
+  "cyr": "одрон",
+  "lat": "odron",
+  "tr": "одрон",
+  "ru": "обвал; осыпь",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "После кише одрон земље затворио је пут.",
+   "lat": "Posle kiše odron zemlje zatvorio je put.",
+   "ru": "После дождя обвал земли закрыл дорогу."
+  }
+ },
+ {
+  "id": "w2744",
+  "order": 2744,
+  "level": "B1",
+  "cyr": "падавине",
+  "lat": "padavine",
+  "tr": "падавине",
+  "ru": "осадки",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Падавине су честе у пролеће.",
+   "lat": "Padavine su česte u proleće.",
+   "ru": "Осадки часты в весну."
+  }
+ },
+ {
+  "id": "w2745",
+  "order": 2745,
+  "level": "B1",
+  "cyr": "падина",
+  "lat": "padina",
+  "tr": "падина",
+  "ru": "склон; откос",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара се по стрмој падини.",
+   "lat": "Stara se po strmoj padini.",
+   "ru": "Старик карабкается по крутому склону."
+  }
+ },
+ {
+  "id": "w2746",
+  "order": 2746,
+  "level": "B1",
+  "cyr": "папрат",
+  "lat": "paprat",
+  "tr": "папрат",
+  "ru": "папоротник",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Папрат расте у влажној шуми.",
+   "lat": "Paprat raste u vlažnoj šumi.",
+   "ru": "Папоротник растет во влажном лесу."
+  }
+ },
+ {
+  "id": "w2747",
+  "order": 2747,
+  "level": "B1",
+  "cyr": "пашњак",
+  "lat": "pašnjak",
+  "tr": "пашньяк",
+  "ru": "пастбище; луг",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овце пасу на широком пашњаку.",
+   "lat": "Ovce pasu na širokom pašnjaku.",
+   "ru": "Овцы пасутся на широком пастбище."
+  }
+ },
+ {
+  "id": "w2748",
+  "order": 2748,
+  "level": "B1",
+  "cyr": "пена",
+  "lat": "pena",
+  "tr": "пена",
+  "ru": "пена",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Бела пена остаје на плажи.",
+   "lat": "Bela pena ostaje na plaži.",
+   "ru": "Белая пена остается на пляже."
+  }
+ },
+ {
+  "id": "w2749",
+  "order": 2749,
+  "level": "B1",
+  "cyr": "пепео",
+  "lat": "pepeo",
+  "tr": "пепео",
+  "ru": "пепел",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "После пожара остао је само пепео.",
+   "lat": "Posle požara ostao je samo pepeo.",
+   "ru": "После пожара остался только пепел."
+  }
+ },
+ {
+  "id": "w2750",
+  "order": 2750,
+  "level": "B1",
+  "cyr": "подножје",
+  "lat": "podnožje",
+  "tr": "подножје",
+  "ru": "подножие; подошва",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Село се налази на подножју брда.",
+   "lat": "Selo se nalazi na podnožju brda.",
+   "ru": "Деревня находится у подножия холма."
+  }
+ },
+ {
+  "id": "w2751",
+  "order": 2751,
+  "level": "B1",
+  "cyr": "пожар",
+  "lat": "požar",
+  "tr": "пожар",
+  "ru": "пожар",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пожар је хватао брзо у шуми.",
+   "lat": "Požar je hvatao brzo u šumi.",
+   "ru": "Пожар быстро распространялся в лесу."
+  }
+ },
+ {
+  "id": "w2752",
+  "order": 2752,
+  "level": "B1",
+  "cyr": "помрчина",
+  "lat": "pomrčina",
+  "tr": "помрчина",
+  "ru": "затмение",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Помрчина Сунца је ретка астрономска појава.",
+   "lat": "Pomrčina Sunca je retka astronomska pojava.",
+   "ru": "Затмение Солнца — редкое астрономическое явление."
+  }
+ },
+ {
+  "id": "w2753",
+  "order": 2753,
+  "level": "B1",
+  "cyr": "поплава",
+  "lat": "poplava",
+  "tr": "поплава",
+  "ru": "наводнение",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Поплава је натопила низијске куће.",
+   "lat": "Poplava je natopila nizijske kuće.",
+   "ru": "Наводнение затопило дома в низине."
+  }
+ },
+ {
+  "id": "w2754",
+  "order": 2754,
+  "level": "B1",
+  "cyr": "превој",
+  "lat": "prevoj",
+  "tr": "превој",
+  "ru": "перевал; горный проход",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Снег блокира превој у планинама.",
+   "lat": "Sneg blokira prevoj u planinama.",
+   "ru": "Снег блокирует перевал в горах."
+  }
+ },
+ {
+  "id": "w2755",
+  "order": 2755,
+  "level": "B1",
+  "cyr": "прилив",
+  "lat": "priliv",
+  "tr": "прилив",
+  "ru": "прилив",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Прилив воде је данас висок.",
+   "lat": "Priliv vode je danas visok.",
+   "ru": "Прилив воды сегодня высокий."
+  }
+ },
+ {
+  "id": "w2756",
+  "order": 2756,
+  "level": "B1",
+  "cyr": "природна катастрофа",
+  "lat": "prirodna katastrofa",
+  "tr": "природна катастрофа",
+  "ru": "стихийное бедствие",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Природна катастрофа је уништила читаво село.",
+   "lat": "Prirodna katastrofa je uništila čitavo selo.",
+   "ru": "Стихийное бедствие уничтожило всё село."
+  }
+ },
+ {
+  "id": "w2757",
+  "order": 2757,
+  "level": "B1",
+  "cyr": "притока",
+  "lat": "pritoka",
+  "tr": "притока",
+  "ru": "приток (реки)",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мала река је лева притока велике.",
+   "lat": "Mala reka je leva pritoka velike.",
+   "ru": "Речка — левый приток большой реки."
+  }
+ },
+ {
+  "id": "w2758",
+  "order": 2758,
+  "level": "B1",
+  "cyr": "пукотина",
+  "lat": "pukotina",
+  "tr": "пукотина",
+  "ru": "трещина; щель",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мала пукотина појавила се на зиду.",
+   "lat": "Mala pukotina pojavila se na zidu.",
+   "ru": "Небольшая трещина появилась на стене."
+  }
+ },
+ {
+  "id": "w2759",
+  "order": 2759,
+  "level": "B1",
+  "cyr": "расадник",
+  "lat": "rasadnik",
+  "tr": "расадник",
+  "ru": "рассадник; питомник",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "У расаднику расту младе биљке.",
+   "lat": "U rasadniku rastu mlade biljke.",
+   "ru": "В рассаднике растут молодые растения."
+  }
+ },
+ {
+  "id": "w2760",
+  "order": 2760,
+  "level": "B1",
+  "cyr": "резерват",
+  "lat": "rezervat",
+  "tr": "резерват",
+  "ru": "заповедник; резерват",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "У резервату живе многе заштићене врсте животиња.",
+   "lat": "U rezervatu žive mnoge zaštićene vrste životinja.",
+   "ru": "В заповеднике обитают многие охраняемые виды животных."
+  }
+ },
+ {
+  "id": "w2761",
+  "order": 2761,
+  "level": "B1",
+  "cyr": "садница",
+  "lat": "sadnica",
+  "tr": "садница",
+  "ru": "саженец",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Садницу смо купили на пијаци.",
+   "lat": "Sadnicu smo kupili na pijaci.",
+   "ru": "Саженец мы купили на рынке."
+  }
+ },
+ {
+  "id": "w2762",
+  "order": 2762,
+  "level": "B1",
+  "cyr": "сазвежђе",
+  "lat": "sazvežđe",
+  "tr": "сазвеждже",
+  "ru": "созвездие",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Сазвежђе Великог медведа је лако препознатљиво.",
+   "lat": "Sazvežđe Velikog medveda je lako prepoznatljivo.",
+   "ru": "Созвездие Большой Медведь легко узнаваемо."
+  }
+ },
+ {
+  "id": "w2763",
+  "order": 2763,
+  "level": "B1",
+  "cyr": "слап",
+  "lat": "slap",
+  "tr": "слап",
+  "ru": "водопад; порог",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Слап се чује из далеке шуме.",
+   "lat": "Slap se čuje iz daleke šume.",
+   "ru": "Водопад слышен из далёкого леса."
+  }
+ },
+ {
+  "id": "w2764",
+  "order": 2764,
+  "level": "B1",
+  "cyr": "степа",
+  "lat": "stepa",
+  "tr": "степа",
+  "ru": "степь",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Степа је позната по травама и ветру.",
+   "lat": "Stepa je poznata po travama i vetru.",
+   "ru": "Степь известна своими травами и ветром."
+  }
+ },
+ {
+  "id": "w2765",
+  "order": 2765,
+  "level": "B1",
+  "cyr": "стихија",
+  "lat": "stihija",
+  "tr": "стихија",
+  "ru": "стихия; бедствие",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стихија је често узрок великих штета.",
+   "lat": "Stihija je često uzrok velikih šteta.",
+   "ru": "Стихия часто является причиной больших разрушений."
+  }
+ },
+ {
+  "id": "w2766",
+  "order": 2766,
+  "level": "B1",
+  "cyr": "суша",
+  "lat": "suša",
+  "tr": "суша",
+  "ru": "засуха",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дуготрајна суша уништава усеве.",
+   "lat": "Dugotrajna suša uništava useve.",
+   "ru": "Длительная засуха уничтожает урожай."
+  }
+ },
+ {
+  "id": "w2767",
+  "order": 2767,
+  "level": "B1",
+  "cyr": "сјај",
+  "lat": "sjaj",
+  "tr": "сјај",
+  "ru": "блеск; сияние",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сјај мраза на трави је леп.",
+   "lat": "Sjaj mraza na travi je lep.",
+   "ru": "Блеск изморози на траве красив."
+  }
+ },
+ {
+  "id": "w2768",
+  "order": 2768,
+  "level": "B1",
+  "cyr": "тајфун",
+  "lat": "tajfun",
+  "tr": "тајфун",
+  "ru": "тайфун",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тајфун је велика олуја.",
+   "lat": "Tajfun je velika oluja.",
+   "ru": "Тайфун большая буря."
+  }
+ },
+ {
+  "id": "w2769",
+  "order": 2769,
+  "level": "B1",
+  "cyr": "топљење",
+  "lat": "topljenje",
+  "tr": "топленье",
+  "ru": "таяние; плавление",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Топљење снега је споро.",
+   "lat": "Topljenje snega je sporo.",
+   "ru": "Таяние снега медленное."
+  }
+ },
+ {
+  "id": "w2770",
+  "order": 2770,
+  "level": "B1",
+  "cyr": "торнадо",
+  "lat": "tornado",
+  "tr": "торнадо",
+  "ru": "торнадо",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Торнадо је опасна природна појава.",
+   "lat": "Tornado je opasna prirodna pojava.",
+   "ru": "Торнадо опасное природное явление."
+  }
+ },
+ {
+  "id": "w2771",
+  "order": 2771,
+  "level": "B1",
+  "cyr": "траг",
+  "lat": "trag",
+  "tr": "траг",
+  "ru": "след, отпечаток",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Трагови животиња су видљиви у снегу.",
+   "lat": "Tragovi životinja su vidljivi u snegu.",
+   "ru": "Следы животных видны на снегу."
+  }
+ },
+ {
+  "id": "w2772",
+  "order": 2772,
+  "level": "B1",
+  "cyr": "увала",
+  "lat": "uvala",
+  "tr": "увала",
+  "ru": "бухта; залив",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Морска увала је заштићена од ветра.",
+   "lat": "Morska uvala je zaštićena od vetra.",
+   "ru": "Морская бухта защищена от ветра."
+  }
+ },
+ {
+  "id": "w2773",
+  "order": 2773,
+  "level": "B1",
+  "cyr": "узвишење",
+  "lat": "uzvišenje",
+  "tr": "узвишенье",
+  "ru": "возвышенность; холм",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Са узвишења се види читав град.",
+   "lat": "Sa uzvišenja se vidi čitav grad.",
+   "ru": "С возвышенности виден весь город."
+  }
+ },
+ {
+  "id": "w2774",
+  "order": 2774,
+  "level": "B1",
+  "cyr": "ураган",
+  "lat": "uragan",
+  "tr": "ураган",
+  "ru": "ураган",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ураган је снажан ветар.",
+   "lat": "Uragan je snažan vetar.",
+   "ru": "Ураган сильный ветер."
+  }
+ },
+ {
+  "id": "w2775",
+  "order": 2775,
+  "level": "B1",
+  "cyr": "урвина",
+  "lat": "urvina",
+  "tr": "урвина",
+  "ru": "руина; развалины",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара црква остала је само урвина.",
+   "lat": "Stara crkva ostala je samo urvina.",
+   "ru": "Старая церковь осталась лишь развалиной."
+  }
+ },
+ {
+  "id": "w2776",
+  "order": 2776,
+  "level": "B1",
+  "cyr": "уточиште",
+  "lat": "utočište",
+  "tr": "уточиште",
+  "ru": "убежище",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Мочвара је уточиште ретким птицама.",
+   "lat": "Močvara je utočište retkim pticama.",
+   "ru": "Болото — убежище редким птицам."
+  }
+ },
+ {
+  "id": "w2777",
+  "order": 2777,
+  "level": "B1",
+  "cyr": "ушће",
+  "lat": "ušće",
+  "tr": "ушче",
+  "ru": "устье;河口",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Река се улијева у ушће.",
+   "lat": "Reka se ulijeva u ušće.",
+   "ru": "Река впадает в устье."
+  }
+ },
+ {
+  "id": "w2778",
+  "order": 2778,
+  "level": "B1",
+  "cyr": "хемикалија",
+  "lat": "hemikalija",
+  "tr": "хемикалија",
+  "ru": "химикат; химическое вещество",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хемикалије у пољу штете тлу.",
+   "lat": "Hemikalije u polju štete tlu.",
+   "ru": "Химикаты в поле вредят почве."
+  }
+ },
+ {
+  "id": "w2779",
+  "order": 2779,
+  "level": "B1",
+  "cyr": "хоризонт",
+  "lat": "horizont",
+  "tr": "хоризонт",
+  "ru": "горизонт",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Хоризонт је био заклоњен брдима.",
+   "lat": "Horizont je bio zaklonjen brdima.",
+   "ru": "Горизонт был закрыт холмами."
+  }
+ },
+ {
+  "id": "w2780",
+  "order": 2780,
+  "level": "B1",
+  "cyr": "хумус",
+  "lat": "humus",
+  "tr": "хумус",
+  "ru": "гумус",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Хумус чини земљиште плодним.",
+   "lat": "Humus čini zemljište plodnim.",
+   "ru": "Гумус делает землю плодородной."
+  }
+ },
+ {
+  "id": "w2781",
+  "order": 2781,
+  "level": "B1",
+  "cyr": "четинар",
+  "lat": "četinar",
+  "tr": "четинар",
+  "ru": "хвойное дерево; хвойник",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стари четинар стоји на брду.",
+   "lat": "Stari četinar stoji na brdu.",
+   "ru": "Старое хвойное дерево стоит на холме."
+  }
+ },
+ {
+  "id": "w2782",
+  "order": 2782,
+  "level": "B1",
+  "cyr": "шкриљац",
+  "lat": "škriljac",
+  "tr": "шкриляц",
+  "ru": "сланец",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "На планини има пуно шкриљца.",
+   "lat": "Na planini ima puno škriljca.",
+   "ru": "На горе много сланца."
+  }
+ },
+ {
+  "id": "w2783",
+  "order": 2783,
+  "level": "B1",
+  "cyr": "шљунак",
+  "lat": "šljunak",
+  "tr": "шлюнак",
+  "ru": "гравий; галька",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Деца играју се на речном шљунку.",
+   "lat": "Deca igraju se na rečnom šljunku.",
+   "ru": "Дети играются на речном гравии."
+  }
+ },
+ {
+  "id": "w2784",
+  "order": 2784,
+  "level": "B1",
+  "cyr": "ђубриво",
+  "lat": "đubrivo",
+  "tr": "джубриво",
+  "ru": "удобрение",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ђубриво је неопходно за добар род.",
+   "lat": "Đubrivo je neophodno za dobar rod.",
+   "ru": "Удобрение необходимо для хорошего урожая."
+  }
+ },
+ {
+  "id": "w2785",
+  "order": 2785,
+  "level": "B1",
+  "cyr": "јела",
+  "lat": "jela",
+  "tr": "јела",
+  "ru": "ель (дерево)",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Висока јела расте у шуми.",
+   "lat": "Visoka jela raste u šumi.",
+   "ru": "Высокая ель растёт в лесу."
+  }
+ },
+ {
+  "id": "w2786",
+  "order": 2786,
+  "level": "B1",
+  "cyr": "биоразградив",
+  "lat": "biorazgradiv",
+  "tr": "биоразградив",
+  "ru": "биоразлагаемый",
+  "pos": "adj",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Ова врећа је биоразградива.",
+   "lat": "Ova vreća je biorazgradiva.",
+   "ru": "Этот пакет биоразлагаемый."
+  }
+ },
+ {
+  "id": "w2787",
+  "order": 2787,
+  "level": "B1",
+  "cyr": "ендемичан",
+  "lat": "endemičan",
+  "tr": "ендемичан",
+  "ru": "эндемичный",
+  "pos": "adj",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Ова болест је ендемична за ту област.",
+   "lat": "Ova bolest je endemična za tu oblast.",
+   "ru": "Эта болезнь эндемична для этого региона."
+  }
+ },
+ {
+  "id": "w2788",
+  "order": 2788,
+  "level": "B1",
+  "cyr": "заштићен",
+  "lat": "zaštićen",
+  "tr": "заштичен",
+  "ru": "защищённый; охраняемый",
+  "pos": "adj",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Ово заштићено подручје је лепо.",
+   "lat": "Ovo zaštićeno područje je lepo.",
+   "ru": "Эта охраняемая территория красива."
+  }
+ },
+ {
+  "id": "w2789",
+  "order": 2789,
+  "level": "B1",
+  "cyr": "планински",
+  "lat": "planinski",
+  "tr": "планински",
+  "ru": "горный",
+  "pos": "adj",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Планински ваздух је свеж.",
+   "lat": "Planinski vazduh je svež.",
+   "ru": "Горный воздух свеж."
+  }
+ },
+ {
+  "id": "w2790",
+  "order": 2790,
+  "level": "B1",
+  "cyr": "подводни",
+  "lat": "podvodni",
+  "tr": "подводни",
+  "ru": "подводный",
+  "pos": "adj",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Подводни свет је веома интересантан.",
+   "lat": "Podvodni svet je veoma interesantan.",
+   "ru": "Подводный мир очень интересен."
+  }
+ },
+ {
+  "id": "w2791",
+  "order": 2791,
+  "level": "B1",
+  "cyr": "ретак",
+  "lat": "retak",
+  "tr": "ретак",
+  "ru": "редкий; редкий",
+  "pos": "adj",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Ова биљка је ретка у шуми.",
+   "lat": "Ova biljka je retka u šumi.",
+   "ru": "Это растение редкое в лесу."
+  }
+ },
+ {
+  "id": "w2792",
+  "order": 2792,
+  "level": "B1",
+  "cyr": "угрожен",
+  "lat": "ugrožen",
+  "tr": "угрожен",
+  "ru": "под угрозой; угрожаемый",
+  "pos": "adj",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Ова врста птица је угрожена.",
+   "lat": "Ova vrsta ptica je ugrožena.",
+   "ru": "Этот вид птиц находится под угрозой."
+  }
+ },
+ {
+  "id": "w2793",
+  "order": 2793,
+  "level": "B1",
+  "cyr": "четинарски",
+  "lat": "četinarski",
+  "tr": "четинарски",
+  "ru": "хвойный; сосновый; еловый",
+  "pos": "adj",
+  "cat": "nature",
+  "ex": {
+   "cyr": "У четинарској шуми шумеју велике јеле.",
+   "lat": "U četinarskoj šumi šumeju velike jele.",
+   "ru": "В хвойном лесу шумят большие ели."
+  }
+ },
+ {
+  "id": "w2794",
+  "order": 2794,
+  "level": "B1",
+  "cyr": "национални парк",
+  "lat": "nacionalni park",
+  "tr": "национални парк",
+  "ru": "национальный парк",
+  "pos": "phrase",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Национални парк је заштићено подручје.",
+   "lat": "Nacionalni park je zaštićeno područje.",
+   "ru": "Национальный парк — охраняемая территория."
+  }
+ }
+]

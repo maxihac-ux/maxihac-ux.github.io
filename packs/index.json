@@ -1,0 +1,202 @@
+{
+  "indexVersion": 2,
+  "generatedAt": "2026-11-10T05:06:51+00:00",
+  "pairs": [
+    {
+      "native": "ru",
+      "target": "sr",
+      "title": "Сербский с русского",
+      "packs": [
+        {
+          "id": "sr-ru-base",
+          "kind": "base",
+          "native": "ru",
+          "target": "sr",
+          "title": "Сербский — база: алфавит, транслитерация, категории, озвучка азбуки",
+          "version": "2.1.2",
+          "requiresCoreApi": 1,
+          "size": 380482,
+          "sha256": "d2ca7033a99c1c8da5f02d8d7cc84d82a90cc3897cf8e3d2305917e22e005992",
+          "channel": "stable",
+          "url": "packs/sr-ru-base-2.1.2.zip",
+          "notes": "№31 F9/№32: озвучка реплик диалогов (Хвала!/Молим!/Да, наравно! + dlg001/002); voices m+f"
+        },
+        {
+          "id": "sr-ru-a1",
+          "kind": "level",
+          "native": "ru",
+          "target": "sr",
+          "level": "A1",
+          "title": "Сербский — уровень A1",
+          "version": "2.0.4",
+          "requiresCoreApi": 1,
+          "requires": [
+            "sr-ru-base"
+          ],
+          "size": 658101,
+          "sha256": "f47c49ab0d67e9ef2c8403729d12b579be8adfb4b81a0992e2f5f726d5be69f4",
+          "channel": "stable",
+          "url": "packs/sr-ru-a1-2.0.4.zip",
+          "words": 569,
+          "notes": "seed-ассет APK (устанавливается тем же установщиком ядра)",
+          "mirrors": [
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a1-2.0.4.zip"
+          ]
+        },
+        {
+          "id": "sr-ru-a2",
+          "kind": "level",
+          "native": "ru",
+          "target": "sr",
+          "level": "A2",
+          "title": "Сербский — уровень A2",
+          "version": "2.0.4",
+          "requiresCoreApi": 1,
+          "requires": [
+            "sr-ru-base"
+          ],
+          "size": 983619,
+          "sha256": "3401e2849bcb5086793aa02398bc7536348dfcc24d55a254836dc325bf870dba",
+          "channel": "stable",
+          "url": "packs/sr-ru-a2-2.0.4.zip",
+          "words": 1355,
+          "notes": "seed-ассет APK (устанавливается тем же установщиком ядра)",
+          "mirrors": [
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-a2-2.0.4.zip"
+          ]
+        },
+        {
+          "id": "sr-ru-b1",
+          "kind": "level",
+          "native": "ru",
+          "target": "sr",
+          "level": "B1",
+          "title": "Сербский — уровень B1",
+          "version": "2.1.4",
+          "requiresCoreApi": 1,
+          "requires": [
+            "sr-ru-base"
+          ],
+          "size": 888508,
+          "sha256": "22219c45466f228016a91a5b32b5e73a0a3e48a351382e6cb30a8bf46ebbc968",
+          "channel": "stable",
+          "url": "packs/sr-ru-b1-2.1.4.zip",
+          "words": 1075,
+          "notes": "seed-ассет APK (устанавливается тем же установщиком ядра)",
+          "mirrors": [
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b1-2.1.4.zip"
+          ]
+        },
+        {
+          "id": "sr-ru-b2",
+          "kind": "level",
+          "native": "ru",
+          "target": "sr",
+          "level": "B2",
+          "title": "Сербский — уровень B2",
+          "version": "2.0.5",
+          "requiresCoreApi": 1,
+          "requires": [
+            "sr-ru-base"
+          ],
+          "size": 1542432,
+          "sha256": "7b6f6b963b1206222c65a67f01444137b7484821257e78d74e0ebd450fbe78a3",
+          "channel": "stable",
+          "url": "packs/sr-ru-b2-2.0.5.zip",
+          "words": 1993,
+          "notes": "seed-ассет APK (устанавливается тем же установщиком ядра)",
+          "mirrors": [
+            "https://cdn.jsdelivr.net/gh/maxihac-ux/srpski-packs@main/packs/sr-ru-b2-2.0.5.zip"
+          ]
+        }
+      ],
+      "bundles": [
+        {
+          "id": "sr-ru-a1",
+          "level": "A1",
+          "title": "Уровень A1",
+          "parts": [
+            "sr-ru-a1",
+            "sr-ru-a1-audio-m",
+            "sr-ru-a1-audio-f"
+          ],
+          "size": 18042387,
+          "version": "2.0.4",
+          "words": 569
+        },
+        {
+          "id": "sr-ru-a2",
+          "level": "A2",
+          "title": "Уровень A2",
+          "parts": [
+            "sr-ru-a2",
+            "sr-ru-a2-audio-m",
+            "sr-ru-a2-audio-f"
+          ],
+          "size": 34266701,
+          "version": "2.0.4",
+          "words": 1355
+        },
+        {
+          "id": "sr-ru-b1",
+          "level": "B1",
+          "title": "Уровень B1",
+          "parts": [
+            "sr-ru-b1",
+            "sr-ru-b1-audio-m",
+            "sr-ru-b1-audio-f"
+          ],
+          "size": 55018684,
+          "version": "2.1.4",
+          "words": 1075
+        },
+        {
+          "id": "sr-ru-b2",
+          "level": "B2",
+          "title": "Уровень B2",
+          "parts": [
+            "sr-ru-b2",
+            "sr-ru-b2-audio-m",
+            "sr-ru-b2-audio-f"
+          ],
+          "size": 110433639,
+          "version": "2.0.5",
+          "words": 1993
+        }
+      ]
+    },
+    {
+      "native": "en",
+      "target": "sr",
+      "title": "Serbian from English",
+      "targetTitle": "Serbian",
+      "packs": [
+        {
+          "id": "sr-en-base",
+          "kind": "base",
+          "native": "en",
+          "target": "sr",
+          "title": "Serbian — starter: alphabet, transliteration, categories, alphabet audio",
+          "version": "1.0.0",
+          "requiresCoreApi": 1,
+          "size": 237972,
+          "sha256": "72d91fa5f5e768f286b994d86e494065583cf4fcbb8a8bb1a4c685e415ccc334",
+          "channel": "stable",
+          "url": "packs/sr-en-base-1.0.0.zip"
+        }
+      ],
+      "bundles": [
+        {
+          "id": "sr-en-base",
+          "level": "starter",
+          "title": "Starter pack",
+          "parts": [
+            "sr-en-base"
+          ],
+          "size": 237972,
+          "version": "1.0.0"
+        }
+      ]
+    }
+  ]
+}

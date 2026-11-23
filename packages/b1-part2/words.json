@@ -1,0 +1,3461 @@
+[
+ {
+  "id": "w2177",
+  "order": 2177,
+  "level": "B1",
+  "cyr": "гргљати",
+  "lat": "grgljati",
+  "tr": "гргляти",
+  "ru": "горланивать; хрипеть",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Дете је гргљало у кревету целу ноћ.",
+   "lat": "Dete je grgljalo u krevetu celu noć.",
+   "ru": "Ребенок хрипел в кровати всю ночь."
+  }
+ },
+ {
+  "id": "w2178",
+  "order": 2178,
+  "level": "B1",
+  "cyr": "закључити",
+  "lat": "zaključiti",
+  "tr": "заключити",
+  "ru": "сделать вывод; заключить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Лекар закључује да је пацијент здрав.",
+   "lat": "Lekar zaključuje da je pacijent zdrav.",
+   "ru": "Врач делает вывод, что пациент здоров."
+  }
+ },
+ {
+  "id": "w2179",
+  "order": 2179,
+  "level": "B1",
+  "cyr": "кољено",
+  "lat": "koljeno",
+  "tr": "колено",
+  "ru": "колено",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ударио сам кољено о ивицу стола.",
+   "lat": "Udario sam koljeno o ivicu stola.",
+   "ru": "Я ударил коленом о край стола."
+  }
+ },
+ {
+  "id": "w2180",
+  "order": 2180,
+  "level": "B1",
+  "cyr": "активност",
+  "lat": "aktivnost",
+  "tr": "активност",
+  "ru": "активность; занятие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова активност је веома популарна међу младима.",
+   "lat": "Ova aktivnost je veoma popularna među mladima.",
+   "ru": "Это занятие очень популярно среди молодежи."
+  }
+ },
+ {
+  "id": "w2181",
+  "order": 2181,
+  "level": "B1",
+  "cyr": "активан",
+  "lat": "aktivan",
+  "tr": "активан",
+  "ru": "активный; деятельный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Активан члан тима увек предлаже нове идеје.",
+   "lat": "Aktivan član tima uvek predlaže nove ideje.",
+   "ru": "Активный член команды всегда предлагает новые идеи."
+  }
+ },
+ {
+  "id": "w2182",
+  "order": 2182,
+  "level": "B1",
+  "cyr": "забринутост",
+  "lat": "zabrinutost",
+  "tr": "забринутост",
+  "ru": "тревога; беспокойство",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Забринутост је видљива на његовом лицу.",
+   "lat": "Zabrinutost je vidljiva na njegovom licu.",
+   "ru": "Тревога видна на его лице."
+  }
+ },
+ {
+  "id": "w2183",
+  "order": 2183,
+  "level": "B1",
+  "cyr": "убрус",
+  "lat": "ubrus",
+  "tr": "убрус",
+  "ru": "убрус; салфетка",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кухињски убрус је веома мрљав.",
+   "lat": "Kuhinjski ubrus je veoma mrljav.",
+   "ru": "Кухонный скатерть очень грязная."
+  }
+ },
+ {
+  "id": "w2184",
+  "order": 2184,
+  "level": "B1",
+  "cyr": "кретање",
+  "lat": "kretanje",
+  "tr": "кретанье",
+  "ru": "движение; перемещение",
+  "pos": "noun",
+  "cat": "basics",
+  "gender": "n",
+  "ex": {
+   "cyr": "Кретање на отвореном ваздуху је важно.",
+   "lat": "Kretanje na otvorenom vazduhu je važno.",
+   "ru": "Движение на свежем воздухе важно."
+  }
+ },
+ {
+  "id": "w2185",
+  "order": 2185,
+  "level": "B1",
+  "cyr": "донирати",
+  "lat": "donirati",
+  "tr": "донирати",
+  "ru": "донировать; жертвовать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Он је одлучио да донирате крв.",
+   "lat": "On je odlučio da donirate krv.",
+   "ru": "Он решил сдать кровь."
+  }
+ },
+ {
+  "id": "w2186",
+  "order": 2186,
+  "level": "B1",
+  "cyr": "зарасти",
+  "lat": "zarasti",
+  "tr": "зарасти",
+  "ru": "зажить; зарасти",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Мала рана зарасла је за пар дана.",
+   "lat": "Mala rana zarasla je za par dana.",
+   "ru": "Небольшая рана зажила за несколько дней."
+  }
+ },
+ {
+  "id": "w2187",
+  "order": 2187,
+  "level": "B1",
+  "cyr": "песница",
+  "lat": "pesnica",
+  "tr": "песница",
+  "ru": "кулак; кулак",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Он је чврсто стиснуо песницу.",
+   "lat": "On je čvrsto stisnuo pesnicu.",
+   "ru": "Он крепко сжал кулак."
+  }
+ },
+ {
+  "id": "w2188",
+  "order": 2188,
+  "level": "B1",
+  "cyr": "дариватељ",
+  "lat": "darivatelj",
+  "tr": "дариватель",
+  "ru": "даритель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дариватељ је оставио новац болници.",
+   "lat": "Darivatelj je ostavio novac bolnici.",
+   "ru": "Даритель оставил деньги больнице."
+  }
+ },
+ {
+  "id": "w2189",
+  "order": 2189,
+  "level": "B1",
+  "cyr": "дуги",
+  "lat": "dugi",
+  "tr": "дуги",
+  "ru": "длинный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Дуги пут је исцрпљујући.",
+   "lat": "Dugi put je iscrpljujući.",
+   "ru": "Длинный путь изматывает."
+  }
+ },
+ {
+  "id": "w2190",
+  "order": 2190,
+  "level": "B1",
+  "cyr": "захвалност",
+  "lat": "zahvalnost",
+  "tr": "захвалност",
+  "ru": "благодарность; признательность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Захвалност је лепо осећање.",
+   "lat": "Zahvalnost je lepo osećanje.",
+   "ru": "Благодарность — это хорошее чувство."
+  }
+ },
+ {
+  "id": "w2191",
+  "order": 2191,
+  "level": "B1",
+  "cyr": "дрхтати",
+  "lat": "drhtati",
+  "tr": "дрхтати",
+  "ru": "дрожать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Дете дрхт од хладноће.",
+   "lat": "Dete drht od hladnoće.",
+   "ru": "Ребенок дрожит от холода."
+  }
+ },
+ {
+  "id": "w2192",
+  "order": 2192,
+  "level": "B1",
+  "cyr": "искрварити",
+  "lat": "iskrvariti",
+  "tr": "искрварити",
+  "ru": "истечь кровью",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тешка несрећа може да искрвари човека.",
+   "lat": "Teška nesreća može da iskrvari čoveka.",
+   "ru": "Тяжелое несчастье может истощить человека."
+  }
+ },
+ {
+  "id": "w2193",
+  "order": 2193,
+  "level": "B1",
+  "cyr": "прсни кош",
+  "lat": "prsni koš",
+  "tr": "прсни кош",
+  "ru": "грудная клетка",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Прсни кош се шири при удисању.",
+   "lat": "Prsni koš se širi pri udisanju.",
+   "ru": "Грудная клетка расширяется при вдохе."
+  }
+ },
+ {
+  "id": "w2194",
+  "order": 2194,
+  "level": "B1",
+  "cyr": "добротвор",
+  "lat": "dobrotvor",
+  "tr": "добротвор",
+  "ru": "благотворитель; добродетельный человек",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Добротвор је донирао новац болници.",
+   "lat": "Dobrotvor je donirao novac bolnici.",
+   "ru": "Благотворитель пожертвовал деньги больнице."
+  }
+ },
+ {
+  "id": "w2195",
+  "order": 2195,
+  "level": "B1",
+  "cyr": "жилав",
+  "lat": "žilav",
+  "tr": "жилав",
+  "ru": "живучий; упрямый; крепкий",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Стари ратник је био жилав и неустрашив.",
+   "lat": "Stari ratnik je bio žilav i neustrašiv.",
+   "ru": "Стый воин был живучим и бесстрашным."
+  }
+ },
+ {
+  "id": "w2196",
+  "order": 2196,
+  "level": "B1",
+  "cyr": "паника",
+  "lat": "panika",
+  "tr": "паника",
+  "ru": "паника",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "У пожару настаје велика паника.",
+   "lat": "U požaru nastaje velika panika.",
+   "ru": "При пожаре возникает большая паника."
+  }
+ },
+ {
+  "id": "w2197",
+  "order": 2197,
+  "level": "B1",
+  "cyr": "завити",
+  "lat": "zaviti",
+  "tr": "завити",
+  "ru": "завернуть; перевязать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Мора да завије рану.",
+   "lat": "Mora da zavije ranu.",
+   "ru": "Ему нужно перевязать рану."
+  }
+ },
+ {
+  "id": "w2198",
+  "order": 2198,
+  "level": "B1",
+  "cyr": "испирати",
+  "lat": "ispirati",
+  "tr": "испирати",
+  "ru": "промывать; споласкивать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Лекар ми је наредио да испирам руке.",
+   "lat": "Lekar mi je naredio da ispiram ruke.",
+   "ru": "Врач приказал мне мыть руки."
+  }
+ },
+ {
+  "id": "w2199",
+  "order": 2199,
+  "level": "B1",
+  "cyr": "горњи",
+  "lat": "gornji",
+  "tr": "горни",
+  "ru": "верхний; верхний-hand",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Горњи део плућа је здрав.",
+   "lat": "Gornji deo pluća je zdrav.",
+   "ru": "Верхняя часть легких здорова."
+  }
+ },
+ {
+  "id": "w2200",
+  "order": 2200,
+  "level": "B1",
+  "cyr": "картон",
+  "lat": "karton",
+  "tr": "картон",
+  "ru": "картон; картонная коробка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дете је направило кућицу од старог картона.",
+   "lat": "Dete je napravilo kućicu od starog kartona.",
+   "ru": "Ребенок сделал домик из старого картона."
+  }
+ },
+ {
+  "id": "w2201",
+  "order": 2201,
+  "level": "B1",
+  "cyr": "опрезан",
+  "lat": "oprezan",
+  "tr": "опрезан",
+  "ru": "осторожный; бдительный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Опрезан туриста је сакрио новац.",
+   "lat": "Oprezan turista je sakrio novac.",
+   "ru": "Осторожный турист спрятал деньги."
+  }
+ },
+ {
+  "id": "w2202",
+  "order": 2202,
+  "level": "B1",
+  "cyr": "шок",
+  "lat": "šok",
+  "tr": "шок",
+  "ru": "шок; потрясение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Вест је изазвала прави шок код ње.",
+   "lat": "Vest je izazvala pravi šok kod nje.",
+   "ru": "Новость вызвала настоящий шок у нее."
+  }
+ },
+ {
+  "id": "w2203",
+  "order": 2203,
+  "level": "B1",
+  "cyr": "завијати",
+  "lat": "zavijati",
+  "tr": "завијати",
+  "ru": "заматывать; перевязывать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Доктор завија повреду.",
+   "lat": "Doktor zavija povredu.",
+   "ru": "Врач перевязывает рану."
+  }
+ },
+ {
+  "id": "w2204",
+  "order": 2204,
+  "level": "B1",
+  "cyr": "крварити",
+  "lat": "krvariti",
+  "tr": "крварити",
+  "ru": "кровоточить; истекать кровью",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Рана је почела да крвари после пада.",
+   "lat": "Rana je počela da krvari posle pada.",
+   "ru": "Рана начала кровить после падения."
+  }
+ },
+ {
+  "id": "w2205",
+  "order": 2205,
+  "level": "B1",
+  "cyr": "десни",
+  "lat": "desni",
+  "tr": "десни",
+  "ru": "правый; правый-hand",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Десна рука му је повређена.",
+   "lat": "Desna ruka mu je povređena.",
+   "ru": "Его правая рука повреждена."
+  }
+ },
+ {
+  "id": "w2206",
+  "order": 2206,
+  "level": "B1",
+  "cyr": "приручник",
+  "lat": "priručnik",
+  "tr": "приручник",
+  "ru": "руководство; справочник",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Медицински приручник је на столу.",
+   "lat": "Medicinski priručnik je na stolu.",
+   "ru": "Медицинское руководство на столе."
+  }
+ },
+ {
+  "id": "w2207",
+  "order": 2207,
+  "level": "B1",
+  "cyr": "пажљив",
+  "lat": "pažljiv",
+  "tr": "пажлив",
+  "ru": "внимательный; осторожный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Пажљив возач је избегао несрећу.",
+   "lat": "Pažljiv vozač je izbegao nesreću.",
+   "ru": "Внимательный водитель избежал аварии."
+  }
+ },
+ {
+  "id": "w2208",
+  "order": 2208,
+  "level": "B1",
+  "cyr": "душеван",
+  "lat": "duševan",
+  "tr": "душеван",
+  "ru": "душевный; духовный",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Душеван разговор те је утешио.",
+   "lat": "Duševan razgovor te je utešio.",
+   "ru": "Душевный разговор тебя утешил."
+  }
+ },
+ {
+  "id": "w2209",
+  "order": 2209,
+  "level": "B1",
+  "cyr": "заразити",
+  "lat": "zaraziti",
+  "tr": "заразити",
+  "ru": "заразить",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Грип га је заразио.",
+   "lat": "Grip ga je zarazio.",
+   "ru": "Грипп его заразил."
+  }
+ },
+ {
+  "id": "w2210",
+  "order": 2210,
+  "level": "B1",
+  "cyr": "нападати",
+  "lat": "napadati",
+  "tr": "нападати",
+  "ru": "нападать; приступ",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Болест понекад напада ноћу.",
+   "lat": "Bolest ponekad napada noću.",
+   "ru": "Болень иногда нападает ночью."
+  }
+ },
+ {
+  "id": "w2211",
+  "order": 2211,
+  "level": "B1",
+  "cyr": "доњи",
+  "lat": "donji",
+  "tr": "дони",
+  "ru": "нижний; нижний-hand",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Доњи зуб боли.",
+   "lat": "Donji zub boli.",
+   "ru": "Нижний зуб болит."
+  }
+ },
+ {
+  "id": "w2212",
+  "order": 2212,
+  "level": "B1",
+  "cyr": "термин",
+  "lat": "termin",
+  "tr": "термин",
+  "ru": "срок; термин; дата",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Лекар је заказао нови термин за консултацију.",
+   "lat": "Lekar je zakazao novi termin za konsultaciju.",
+   "ru": "Врач назначил новую дату для консультации."
+  }
+ },
+ {
+  "id": "w2213",
+  "order": 2213,
+  "level": "B1",
+  "cyr": "поремећен",
+  "lat": "poremećen",
+  "tr": "поремечен",
+  "ru": "расстроенный; нарушенный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Његово понашање је било веома поремећено.",
+   "lat": "Njegovo ponašanje je bilo veoma poremećeno.",
+   "ru": "Его поведение было очень нарушенным."
+  }
+ },
+ {
+  "id": "w2214",
+  "order": 2214,
+  "level": "B1",
+  "cyr": "изненадан",
+  "lat": "iznenadan",
+  "tr": "изненадан",
+  "ru": "удивленный; неожиданный",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Изненадан гост је стигао без најаве.",
+   "lat": "Iznenadan gost je stigao bez najave.",
+   "ru": "Удивленный гость пришел без предупреждения."
+  }
+ },
+ {
+  "id": "w2215",
+  "order": 2215,
+  "level": "B1",
+  "cyr": "зарастати",
+  "lat": "zarastati",
+  "tr": "зарастати",
+  "ru": "зарастать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Коса му почиње да зараста.",
+   "lat": "Kosa mu počinje da zarasta.",
+   "ru": "Его волосы начинают отрастать."
+  }
+ },
+ {
+  "id": "w2216",
+  "order": 2216,
+  "level": "B1",
+  "cyr": "оздравити",
+  "lat": "ozdraviti",
+  "tr": "оздравити",
+  "ru": "вылечить; исцелить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Нови лек је оздравио хиљаде пацијената.",
+   "lat": "Novi lek je ozdravio hiljade pacijenata.",
+   "ru": "Новый лекарство вылечило тысячи пациентов."
+  }
+ },
+ {
+  "id": "w2217",
+  "order": 2217,
+  "level": "B1",
+  "cyr": "леви",
+  "lat": "levi",
+  "tr": "леви",
+  "ru": "левый; левый-hand",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Лева страна тела је слаба.",
+   "lat": "Leva strana tela je slaba.",
+   "ru": "Левая сторона тела слабая."
+  }
+ },
+ {
+  "id": "w2218",
+  "order": 2218,
+  "level": "B1",
+  "cyr": "читање",
+  "lat": "čitanje",
+  "tr": "читанье",
+  "ru": "чтение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Читање књига је мој омиљени хоби.",
+   "lat": "Čitanje knjiga je moj omiljeni hobi.",
+   "ru": "Чтение книг — мой любимый хобби."
+  }
+ },
+ {
+  "id": "w2219",
+  "order": 2219,
+  "level": "B1",
+  "cyr": "постепен",
+  "lat": "postepen",
+  "tr": "постепен",
+  "ru": "постепенный; медленный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Постепен опоравак је најбољи.",
+   "lat": "Postepen oporavak je najbolji.",
+   "ru": "Постепенное восстановление — самое лучшее."
+  }
+ },
+ {
+  "id": "w2220",
+  "order": 2220,
+  "level": "B1",
+  "cyr": "паничан",
+  "lat": "paničan",
+  "tr": "паничан",
+  "ru": "панический",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Она је била панична током земљотреса.",
+   "lat": "Ona je bila panična tokom zemljotresa.",
+   "ru": "Она была панична во время землетрясения."
+  }
+ },
+ {
+  "id": "w2221",
+  "order": 2221,
+  "level": "B1",
+  "cyr": "знојити се",
+  "lat": "znojiti se",
+  "tr": "знојити се",
+  "ru": "потеть",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Тешко радећи, он се зноји.",
+   "lat": "Teško radeći, on se znoji.",
+   "ru": "Тяжело работая, он потеет."
+  }
+ },
+ {
+  "id": "w2222",
+  "order": 2222,
+  "level": "B1",
+  "cyr": "опорављати се",
+  "lat": "oporavljati se",
+  "tr": "опоравляти се",
+  "ru": "восстанавливаться; поправляться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Пацијент полако опоравља након операције.",
+   "lat": "Pacijent polako oporavlja nakon operacije.",
+   "ru": "Пациент медленно восстанавливается после операции."
+  }
+ },
+ {
+  "id": "w2223",
+  "order": 2223,
+  "level": "B1",
+  "cyr": "непокретљив",
+  "lat": "nepokretljiv",
+  "tr": "непокретлив",
+  "ru": "неподвижный; недвижимый",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Стари камен је био потпуно непокретљив.",
+   "lat": "Stari kamen je bio potpuno nepokretljiv.",
+   "ru": "Старый камень был совершенно неподвижным."
+  }
+ },
+ {
+  "id": "w2224",
+  "order": 2224,
+  "level": "B1",
+  "cyr": "пролазан",
+  "lat": "prolazan",
+  "tr": "пролазан",
+  "ru": "проходной; временный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Пролазан успех није важан за дугорочни развој.",
+   "lat": "Prolazan uspeh nije važan za dugoročni razvoj.",
+   "ru": "Временный успех не важен для долгосрочного развития."
+  }
+ },
+ {
+  "id": "w2225",
+  "order": 2225,
+  "level": "B1",
+  "cyr": "преуморен",
+  "lat": "preumoren",
+  "tr": "преуморен",
+  "ru": "сильно уставший; измотанный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "После дугог шетње, био је преуморен.",
+   "lat": "Posle dugog šetnje, bio je preumoren.",
+   "ru": "После долгой прогулки, он был сильно уставшим."
+  }
+ },
+ {
+  "id": "w2226",
+  "order": 2226,
+  "level": "B1",
+  "cyr": "пасиван",
+  "lat": "pasivan",
+  "tr": "пасиван",
+  "ru": "пассивный; бездеятельный",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Пасиван ученик не учествује на часу.",
+   "lat": "Pasivan učenik ne učestvuje na času.",
+   "ru": "Пассивный ученик не участвует на уроке."
+  }
+ },
+ {
+  "id": "w2227",
+  "order": 2227,
+  "level": "B1",
+  "cyr": "излећи",
+  "lat": "izleći",
+  "tr": "излечи",
+  "ru": "вылечить; излечиться",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Болест је излечена за недељу дана.",
+   "lat": "Bolest je izlečena za nedelju dana.",
+   "ru": "Болезнь вылечили за неделю."
+  }
+ },
+ {
+  "id": "w2228",
+  "order": 2228,
+  "level": "B1",
+  "cyr": "повређивати",
+  "lat": "povređivati",
+  "tr": "повредживати",
+  "ru": "ранить; травмировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Дете се често повређује играјући се.",
+   "lat": "Dete se često povređuje igrajući se.",
+   "ru": "Ребёнок часто ранит себя, играя."
+  }
+ },
+ {
+  "id": "w2229",
+  "order": 2229,
+  "level": "B1",
+  "cyr": "телесан",
+  "lat": "telesan",
+  "tr": "телесан",
+  "ru": "телесный; физический",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Телесна активност је важна за здравље.",
+   "lat": "Telesna aktivnost je važna za zdravlje.",
+   "ru": "Физическая активность важна для здоровья."
+  }
+ },
+ {
+  "id": "w2230",
+  "order": 2230,
+  "level": "B1",
+  "cyr": "строго",
+  "lat": "strogo",
+  "tr": "строго",
+  "ru": "строго; жестко",
+  "pos": "adv",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Лекар је строго забранио да пуши.",
+   "lat": "Lekar je strogo zabranio da puši.",
+   "ru": "Врач строго запретил курить."
+  }
+ },
+ {
+  "id": "w2231",
+  "order": 2231,
+  "level": "B1",
+  "cyr": "прохладан",
+  "lat": "prohladan",
+  "tr": "прохладан",
+  "ru": "прохладный; освежающий",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Прохладан ваздар је добар за дисање.",
+   "lat": "Prohladan vazdar je dobar za disanje.",
+   "ru": "Прохладный воздух хорош для дыхания."
+  }
+ },
+ {
+  "id": "w2232",
+  "order": 2232,
+  "level": "B1",
+  "cyr": "испитивати",
+  "lat": "ispitivati",
+  "tr": "испитивати",
+  "ru": "исследовать; обследовать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Лекар испитује симптоме болести.",
+   "lat": "Lekar ispituje simptome bolesti.",
+   "ru": "Врач исследует симптомы болезни."
+  }
+ },
+ {
+  "id": "w2233",
+  "order": 2233,
+  "level": "B1",
+  "cyr": "преписати",
+  "lat": "prepisati",
+  "tr": "преписати",
+  "ru": "выписать (рецепт); переписать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Доктор је преписао лек против грознице.",
+   "lat": "Doktor je prepisao lek protiv groznice.",
+   "ru": "Врач выписал лекарство от лихорадки."
+  }
+ },
+ {
+  "id": "w2234",
+  "order": 2234,
+  "level": "B1",
+  "cyr": "кашљавати",
+  "lat": "kašljavati",
+  "tr": "кашлявати",
+  "ru": "кашлять",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Мушкарац кашља у тишини.",
+   "lat": "Muškarac kašlja u tišini.",
+   "ru": "Мужчина кашляет в тишине."
+  }
+ },
+ {
+  "id": "w2235",
+  "order": 2235,
+  "level": "B1",
+  "cyr": "препознавати",
+  "lat": "prepoznavati",
+  "tr": "препознавати",
+  "ru": "узнавать; опознавать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Лекар препознаје болест први пут.",
+   "lat": "Lekar prepoznaje bolest prvi put.",
+   "ru": "Врач узнаёт болезнь в первый раз."
+  }
+ },
+ {
+  "id": "w2236",
+  "order": 2236,
+  "level": "B1",
+  "cyr": "куцати",
+  "lat": "kucati",
+  "tr": "куцати",
+  "ru": "хромать; ковылять",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Дете куца по улици са својом лутком.",
+   "lat": "Dete kuca po ulici sa svojom lutkom.",
+   "ru": "Ребенок ковыляет по улице со своей куклой."
+  }
+ },
+ {
+  "id": "w2237",
+  "order": 2237,
+  "level": "B1",
+  "cyr": "препознати",
+  "lat": "prepoznati",
+  "tr": "препознати",
+  "ru": "узнать; опознать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Медицинска сестра препознаје болест.",
+   "lat": "Medicinska sestra prepoznaje bolest.",
+   "ru": "Медсестра узнаёт болезнь."
+  }
+ },
+ {
+  "id": "w2238",
+  "order": 2238,
+  "level": "B1",
+  "cyr": "оперисати",
+  "lat": "operisati",
+  "tr": "оперисати",
+  "ru": "прооперировать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Доктор ће га оперисати сутра.",
+   "lat": "Doktor će ga operisati sutra.",
+   "ru": "Врач прооперирует его завтра."
+  }
+ },
+ {
+  "id": "w2239",
+  "order": 2239,
+  "level": "B1",
+  "cyr": "пробуди",
+  "lat": "probudi",
+  "tr": "пробуди",
+  "ru": "разбудить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Нурсе га пробуди ујутру.",
+   "lat": "Nurse ga probudi ujutru.",
+   "ru": "Медсестра разбудила его утром."
+  }
+ },
+ {
+  "id": "w2240",
+  "order": 2240,
+  "level": "B1",
+  "cyr": "ослабети",
+  "lat": "oslabeti",
+  "tr": "ослабети",
+  "ru": "ослабеть; ослабнуть",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Болест је ослабила његов имунитет.",
+   "lat": "Bolest je oslabila njegov imunitet.",
+   "ru": "Болезнь ослабила его иммунитет."
+  }
+ },
+ {
+  "id": "w2241",
+  "order": 2241,
+  "level": "B1",
+  "cyr": "проценити",
+  "lat": "proceniti",
+  "tr": "проценити",
+  "ru": "оценить; оценить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Лекар је оценио његово стање као стабилно.",
+   "lat": "Lekar je ocenio njegovo stanje kao stabilno.",
+   "ru": "Врач оценил его состояние как стабильное."
+  }
+ },
+ {
+  "id": "w2242",
+  "order": 2242,
+  "level": "B1",
+  "cyr": "отровати се",
+  "lat": "otrovati se",
+  "tr": "отровати се",
+  "ru": "отравиться",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Дете се отровило јестењем из врта.",
+   "lat": "Dete se otrovilo jestenjem iz vrta.",
+   "ru": "Ребенок отравился ягодами из сада."
+  }
+ },
+ {
+  "id": "w2243",
+  "order": 2243,
+  "level": "B1",
+  "cyr": "сломити се",
+  "lat": "slomiti se",
+  "tr": "сломити се",
+  "ru": "сломиться (о кости); сломаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Девојка се сломила ногу на клизалишту.",
+   "lat": "Devojka se slomila nogu na klizalištu.",
+   "ru": "Девочка сломала ногу на катке."
+  }
+ },
+ {
+  "id": "w2244",
+  "order": 2244,
+  "level": "B1",
+  "cyr": "побољшавати",
+  "lat": "poboljšavati",
+  "tr": "побольшавати",
+  "ru": "улучшать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Лекови побољшавају здравље.",
+   "lat": "Lekovi poboljšavaju zdravlje.",
+   "ru": "Лекарства улучшают здоровье."
+  }
+ },
+ {
+  "id": "w2245",
+  "order": 2245,
+  "level": "B1",
+  "cyr": "утврдити",
+  "lat": "utvrditi",
+  "tr": "утврдити",
+  "ru": "установить; подтвердить; укрепить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Лекар утврђује дијагнозу.",
+   "lat": "Lekar utvrđuje dijagnozu.",
+   "ru": "Врач устанавливает диагноз."
+  }
+ },
+ {
+  "id": "w2246",
+  "order": 2246,
+  "level": "B1",
+  "cyr": "повраћати",
+  "lat": "povraćati",
+  "tr": "поврачати",
+  "ru": "блевать; рвать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Беба често повраћа после храњења.",
+   "lat": "Beba često povraća posle hranjenja.",
+   "ru": "Младенец часто срыгивает после кормления."
+  }
+ },
+ {
+  "id": "w2247",
+  "order": 2247,
+  "level": "B1",
+  "cyr": "ушивити",
+  "lat": "ušiviti",
+  "tr": "ушивити",
+  "ru": "зашить; заштопать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Хирург је успешно ушио дубоку рану.",
+   "lat": "Hirurg je uspešno ušio duboku ranu.",
+   "ru": "Хирург успешно зашил глубокую рану."
+  }
+ },
+ {
+  "id": "w2248",
+  "order": 2248,
+  "level": "B1",
+  "cyr": "погоршавати",
+  "lat": "pogoršavati",
+  "tr": "погоршавати",
+  "ru": "ухудшать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Хладноћа погоршава кашљање.",
+   "lat": "Hladnoća pogoršava kašljanje.",
+   "ru": "Холод усиливает кашель."
+  }
+ },
+ {
+  "id": "w2249",
+  "order": 2249,
+  "level": "B1",
+  "cyr": "шивати",
+  "lat": "šivati",
+  "tr": "шивати",
+  "ru": "шить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Бака често шива дечије панталоне.",
+   "lat": "Baka često šiva dečije pantalone.",
+   "ru": "Бабушка часто ш детские штаны."
+  }
+ },
+ {
+  "id": "w2250",
+  "order": 2250,
+  "level": "B1",
+  "cyr": "постити се",
+  "lat": "postiti se",
+  "tr": "постити се",
+  "ru": "поститься",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Хришћанин се пости у време поста.",
+   "lat": "Hrišćanin se posti u vreme posta.",
+   "ru": "Христианин постится во время поста."
+  }
+ },
+ {
+  "id": "w2251",
+  "order": 2251,
+  "level": "B1",
+  "cyr": "јављати се",
+  "lat": "javljati se",
+  "tr": "јавляти се",
+  "ru": "являться; сообщать; обращаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Пацијент јавља се на ред.",
+   "lat": "Pacijent javlja se na red.",
+   "ru": "Пациент выходит на приём."
+  }
+ },
+ {
+  "id": "w2252",
+  "order": 2252,
+  "level": "B1",
+  "cyr": "превијати",
+  "lat": "previjati",
+  "tr": "превијати",
+  "ru": "перевязывать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Медицинска сестра превија рану сваки дан.",
+   "lat": "Medicinska sestra previja ranu svaki dan.",
+   "ru": "Медсестра перевязывает рану каждый день."
+  }
+ },
+ {
+  "id": "w2253",
+  "order": 2253,
+  "level": "B1",
+  "cyr": "преминути",
+  "lat": "preminuti",
+  "tr": "преминути",
+  "ru": "умереть; перейти",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Стари лекар је преминуо у сну.",
+   "lat": "Stari lekar je preminuo u snu.",
+   "ru": "Старый врач умер во сне."
+  }
+ },
+ {
+  "id": "w2254",
+  "order": 2254,
+  "level": "B1",
+  "cyr": "процењивати",
+  "lat": "procenjivati",
+  "tr": "проценивати",
+  "ru": "оценивать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Стручњаци процењују ризике.",
+   "lat": "Stručnjaci procenjuju rizike.",
+   "ru": "Специалисты оценивают риски."
+  }
+ },
+ {
+  "id": "w2255",
+  "order": 2255,
+  "level": "B1",
+  "cyr": "сврбети",
+  "lat": "svrbeti",
+  "tr": "сврбети",
+  "ru": "зудеть; чесаться",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Место убода инсекта јако сврби.",
+   "lat": "Mesto uboda insekta jako svrbi.",
+   "ru": "Место укуса насекомого сильно чешется."
+  }
+ },
+ {
+  "id": "w2256",
+  "order": 2256,
+  "level": "B1",
+  "cyr": "слабети",
+  "lat": "slabeti",
+  "tr": "слабети",
+  "ru": "слабеть; хиреть",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "После болести јако слабе.",
+   "lat": "Posle bolesti jako slabe.",
+   "ru": "После болезни они сильно слабеют."
+  }
+ },
+ {
+  "id": "w2257",
+  "order": 2257,
+  "level": "B1",
+  "cyr": "тровати",
+  "lat": "trovati",
+  "tr": "тровати",
+  "ru": "отравлять",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Овај гљивама трована храна може бити опасна.",
+   "lat": "Ovaj gljivama trovana hrana može biti opasna.",
+   "ru": "Эта отравленная грибами пища может быть опасной."
+  }
+ },
+ {
+  "id": "w2258",
+  "order": 2258,
+  "level": "B1",
+  "cyr": "ублажавати",
+  "lat": "ublažavati",
+  "tr": "ублажавати",
+  "ru": "смягчать; облегчать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Тој ублажава симптоме болести.",
+   "lat": "Toj ublažava simptome bolesti.",
+   "ru": "То он смягчает симптомы болезни."
+  }
+ },
+ {
+  "id": "w2259",
+  "order": 2259,
+  "level": "B1",
+  "cyr": "уједати",
+  "lat": "ujedati",
+  "tr": "уједати",
+  "ru": "кусать; жалить",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Пас ме је угризао.",
+   "lat": "Pas me je ugrizao.",
+   "ru": "Пес меня укусил."
+  }
+ },
+ {
+  "id": "w2260",
+  "order": 2260,
+  "level": "B1",
+  "cyr": "хромати",
+  "lat": "hromati",
+  "tr": "хромати",
+  "ru": "хромать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Стари војник хрома због ране.",
+   "lat": "Stari vojnik hroma zbog rane.",
+   "ru": "Старый солдат хромает из-за раны."
+  }
+ },
+ {
+  "id": "w2261",
+  "order": 2261,
+  "level": "B1",
+  "cyr": "јачати",
+  "lat": "jačati",
+  "tr": "јачати",
+  "ru": "крепнуть; усиливаться",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Његово здравље све више јача.",
+   "lat": "Njegovo zdravlje sve više jača.",
+   "ru": "Его здоровье всё крепнет."
+  }
+ },
+ {
+  "id": "w2262",
+  "order": 2262,
+  "level": "B1",
+  "cyr": "акушерка",
+  "lat": "akušerka",
+  "tr": "акушерка",
+  "ru": "акушерка; повитуха",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Акушерка је била уз током порођаја.",
+   "lat": "Akušerka je bila uz tokom porođaja.",
+   "ru": "Акушерка была рядом во время родов."
+  }
+ },
+ {
+  "id": "w2263",
+  "order": 2263,
+  "level": "B1",
+  "cyr": "анемија",
+  "lat": "anemija",
+  "tr": "анемија",
+  "ru": "анемия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Имао је анемију због лоше исхране.",
+   "lat": "Imao je anemiju zbog loše ishrane.",
+   "ru": "У него была анемия из-за плохого питания."
+  }
+ },
+ {
+  "id": "w2264",
+  "order": 2264,
+  "level": "B1",
+  "cyr": "анестезија",
+  "lat": "anestezija",
+  "tr": "анестезија",
+  "ru": "анестезия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пре операције пацијент је добио анестезију.",
+   "lat": "Pre operacije pacijent je dobio anesteziju.",
+   "ru": "Перед операцией пациенту ввели анестезию."
+  }
+ },
+ {
+  "id": "w2265",
+  "order": 2265,
+  "level": "B1",
+  "cyr": "антибиотик",
+  "lat": "antibiotik",
+  "tr": "антибиотик",
+  "ru": "антибиотик",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Доктор му је прописала антибиотик.",
+   "lat": "Doktor mu je propisala antibiotik.",
+   "ru": "Доктор прописал ему антибиотик."
+  }
+ },
+ {
+  "id": "w2266",
+  "order": 2266,
+  "level": "B1",
+  "cyr": "апарат",
+  "lat": "aparat",
+  "tr": "апарат",
+  "ru": "аппарат; прибор",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Апарат за рендген је у соби.",
+   "lat": "Aparat za rendgen je u sobi.",
+   "ru": "Аппарат для рентгена в комнате."
+  }
+ },
+ {
+  "id": "w2267",
+  "order": 2267,
+  "level": "B1",
+  "cyr": "апендицит",
+  "lat": "apendicit",
+  "tr": "апендицит",
+  "ru": "аппендицит",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Његов проблем са стомахом је био апендицит.",
+   "lat": "Njegov problem sa stomahom je bio apendicit.",
+   "ru": "Его проблема с желудком была аппендицит."
+  }
+ },
+ {
+  "id": "w2268",
+  "order": 2268,
+  "level": "B1",
+  "cyr": "апотекар",
+  "lat": "apotekar",
+  "tr": "апотекар",
+  "ru": "аптекарь",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Апотекар је препоручио нови лек.",
+   "lat": "Apotekar je preporučio novi lek.",
+   "ru": "Аптекарь порекомендовал новое лекарство."
+  }
+ },
+ {
+  "id": "w2269",
+  "order": 2269,
+  "level": "B1",
+  "cyr": "апотекарка",
+  "lat": "apotekarka",
+  "tr": "апотекарка",
+  "ru": "аптекарша; провизор",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Апотекарка ми је препоручила нови лек.",
+   "lat": "Apotekarka mi je preporučila novi lek.",
+   "ru": "Аптекарша порекомендовала мне новое лекарство."
+  }
+ },
+ {
+  "id": "w2270",
+  "order": 2270,
+  "level": "B1",
+  "cyr": "артерија",
+  "lat": "arterija",
+  "tr": "артерија",
+  "ru": "артерия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Упала је у артерији ноге.",
+   "lat": "Upala je u arteriji noge.",
+   "ru": "Воспаление в артерии ноги."
+  }
+ },
+ {
+  "id": "w2271",
+  "order": 2271,
+  "level": "B1",
+  "cyr": "аспирин",
+  "lat": "aspirin",
+  "tr": "аспирин",
+  "ru": "аспирин",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Узео је аспирин за главобољу.",
+   "lat": "Uzeo je aspirin za glavobolju.",
+   "ru": "Он принял аспирин от головной боли."
+  }
+ },
+ {
+  "id": "w2272",
+  "order": 2272,
+  "level": "B1",
+  "cyr": "астма",
+  "lat": "astma",
+  "tr": "астма",
+  "ru": "астма",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Астма му често отежава дисање ноћу.",
+   "lat": "Astma mu često otežava disanje noću.",
+   "ru": "Астма часто затрудняет ему дыхание ночью."
+  }
+ },
+ {
+  "id": "w2273",
+  "order": 2273,
+  "level": "B1",
+  "cyr": "бактерија",
+  "lat": "bakterija",
+  "tr": "бактерија",
+  "ru": "бактерия",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова бактерија је узрок инфекције.",
+   "lat": "Ova bakterija je uzrok infekcije.",
+   "ru": "Эта бактерия является причиной инфекции."
+  }
+ },
+ {
+  "id": "w2274",
+  "order": 2274,
+  "level": "B1",
+  "cyr": "бања",
+  "lat": "banja",
+  "tr": "банья",
+  "ru": "баня; курорт; лечебница",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова бања је позната по лековитим изворима.",
+   "lat": "Ova banja je poznata po lekovitim izvorima.",
+   "ru": "Эта баня известна своими целебными источниками."
+  }
+ },
+ {
+  "id": "w2275",
+  "order": 2275,
+  "level": "B1",
+  "cyr": "бешика",
+  "lat": "bešika",
+  "tr": "бешика",
+  "ru": "мочевой пузырь",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Лекар је прегледао бешику.",
+   "lat": "Lekar je pregledao bešiku.",
+   "ru": "Врач осмотрел мочевой пузырь."
+  }
+ },
+ {
+  "id": "w2276",
+  "order": 2276,
+  "level": "B1",
+  "cyr": "болничар",
+  "lat": "bolničar",
+  "tr": "болничар",
+  "ru": "медбрат; санитар",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Болничар је донео болнички ручник.",
+   "lat": "Bolničar je doneo bolnički ručnik.",
+   "ru": "Медбрат принёс больничное полотенце."
+  }
+ },
+ {
+  "id": "w2277",
+  "order": 2277,
+  "level": "B1",
+  "cyr": "болничка",
+  "lat": "bolnička",
+  "tr": "болничка",
+  "ru": "больничный; больничная койка",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Болничка је чиста и удобна за пацијенте.",
+   "lat": "Bolnička je čista i udobna za pacijente.",
+   "ru": "Больничная койка чистая и удобная для пациентов."
+  }
+ },
+ {
+  "id": "w2278",
+  "order": 2278,
+  "level": "B1",
+  "cyr": "боравак",
+  "lat": "boravak",
+  "tr": "боравак",
+  "ru": "пребывание; пребывание в больнице",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Боравак у болници траје десет дана.",
+   "lat": "Boravak u bolnici traje deset dana.",
+   "ru": "Пребывание в больнице длится десять дней."
+  }
+ },
+ {
+  "id": "w2279",
+  "order": 2279,
+  "level": "B1",
+  "cyr": "брадавица",
+  "lat": "bradavica",
+  "tr": "брадавица",
+  "ru": "бородавка",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Докторка је уклонила малу брадавицу.",
+   "lat": "Doktorka je uklonila malu bradavicu.",
+   "ru": "Доктор удалил небольшую бородавку."
+  }
+ },
+ {
+  "id": "w2280",
+  "order": 2280,
+  "level": "B1",
+  "cyr": "вакцинација",
+  "lat": "vakcinacija",
+  "tr": "вакцинација",
+  "ru": "вакцинация",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Вакцинација штити од многих болести.",
+   "lat": "Vakcinacija štiti od mnogih bolesti.",
+   "ru": "Вакцинация защищает от многих болезней."
+  }
+ },
+ {
+  "id": "w2281",
+  "order": 2281,
+  "level": "B1",
+  "cyr": "вртоглавица",
+  "lat": "vrtoglavica",
+  "tr": "вртоглавица",
+  "ru": "головокружение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Вртоглавица га је спречила да хода.",
+   "lat": "Vrtoglavica ga je sprečila da hoda.",
+   "ru": "Головокружение помешало ему ходить."
+  }
+ },
+ {
+  "id": "w2282",
+  "order": 2282,
+  "level": "B1",
+  "cyr": "гној",
+  "lat": "gnoj",
+  "tr": "гној",
+  "ru": "гной",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Рана је била пуна гноја.",
+   "lat": "Rana je bila puna gnoja.",
+   "ru": "Рана была полна гноя."
+  }
+ },
+ {
+  "id": "w2283",
+  "order": 2283,
+  "level": "B1",
+  "cyr": "грлобоља",
+  "lat": "grlobolja",
+  "tr": "грлоболя",
+  "ru": "боль в горле",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Грлобоља је први симптом грипа.",
+   "lat": "Grlobolja je prvi simptom gripa.",
+   "ru": "Боль в горле первый симптом гриппа."
+  }
+ },
+ {
+  "id": "w2284",
+  "order": 2284,
+  "level": "B1",
+  "cyr": "гушобоља",
+  "lat": "gušobolja",
+  "tr": "гушоболя",
+  "ru": "бол в горле; ангина",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Гушобоља га спава целу ноћ.",
+   "lat": "Gušobolja ga spava celu noć.",
+   "ru": "Боль в горле не дает ему спать всю ночь."
+  }
+ },
+ {
+  "id": "w2285",
+  "order": 2285,
+  "level": "B1",
+  "cyr": "давалац",
+  "lat": "davalac",
+  "tr": "давалац",
+  "ru": "даритель; донор",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Давалац органа је био храбар човек.",
+   "lat": "Davalac organa je bio hrabar čovek.",
+   "ru": "Донор органов был храбрым человеком."
+  }
+ },
+ {
+  "id": "w2286",
+  "order": 2286,
+  "level": "B1",
+  "cyr": "дахнуће",
+  "lat": "dahnuće",
+  "tr": "дахнуче",
+  "ru": "вдох; вздох",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Тешко дахнуће показује умор.",
+   "lat": "Teško dahnuće pokazuje umor.",
+   "ru": "Тяжелый вздох показывает усталость."
+  }
+ },
+ {
+  "id": "w2287",
+  "order": 2287,
+  "level": "B1",
+  "cyr": "диоптрија",
+  "lat": "dioptrija",
+  "tr": "диоптрија",
+  "ru": "диоптрий",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Моја диоптрија је слаба, само минус један.",
+   "lat": "Moja dioptrija je slaba, samo minus jedan.",
+   "ru": "Мои диоптрий слабые, всего минус один."
+  }
+ },
+ {
+  "id": "w2288",
+  "order": 2288,
+  "level": "B1",
+  "cyr": "диспансер",
+  "lat": "dispanser",
+  "tr": "диспансер",
+  "ru": "диспансер",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Диспансер је специјализована амбуланта.",
+   "lat": "Dispanser je specijalizovana ambulanta.",
+   "ru": "Диспансер — это специализированная поликлиника."
+  }
+ },
+ {
+  "id": "w2289",
+  "order": 2289,
+  "level": "B1",
+  "cyr": "дијабетес",
+  "lat": "dijabetes",
+  "tr": "дијабетес",
+  "ru": "диабет; сахарный диабет",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Код дијабетеса је важна дијета.",
+   "lat": "Kod dijabetesa je važna dijeta.",
+   "ru": "При диабете важна диета."
+  }
+ },
+ {
+  "id": "w2290",
+  "order": 2290,
+  "level": "B1",
+  "cyr": "дијагноза",
+  "lat": "dijagnoza",
+  "tr": "дијагноза",
+  "ru": "диагноза",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дијагноза је била потпуно неочекивана.",
+   "lat": "Dijagnoza je bila potpuno neočekivana.",
+   "ru": "Диагноза была совершенно неожиданной."
+  }
+ },
+ {
+  "id": "w2291",
+  "order": 2291,
+  "level": "B1",
+  "cyr": "доза",
+  "lat": "doza",
+  "tr": "доза",
+  "ru": "доза",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Доза лека је била мала.",
+   "lat": "Doza leka je bila mala.",
+   "ru": "Доза лекарства была маленькой."
+  }
+ },
+ {
+  "id": "w2292",
+  "order": 2292,
+  "level": "B1",
+  "cyr": "докторка",
+  "lat": "doktorka",
+  "tr": "докторка",
+  "ru": "доктор (жен.); врач",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Докторка је врло пажљива са пацијентима.",
+   "lat": "Doktorka je vrlo pažljiva sa pacijentima.",
+   "ru": "Доктор очень внимательна к пациентам."
+  }
+ },
+ {
+  "id": "w2293",
+  "order": 2293,
+  "level": "B1",
+  "cyr": "електрокардиограм",
+  "lat": "elektrokardiogram",
+  "tr": "електрокардиограм",
+  "ru": "электрокардиограмма",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Електрокардиограм показује рад срца.",
+   "lat": "Elektrokardiogram pokazuje rad srca.",
+   "ru": "Электрокардиограм показывает работу сердца."
+  }
+ },
+ {
+  "id": "w2294",
+  "order": 2294,
+  "level": "B1",
+  "cyr": "живац",
+  "lat": "živac",
+  "tr": "живац",
+  "ru": "нерв; нервный ствол",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Лекар је прегледао оштећени живац.",
+   "lat": "Lekar je pregledao oštećeni živac.",
+   "ru": "Врач осмотрел поврежденный нерв."
+  }
+ },
+ {
+  "id": "w2295",
+  "order": 2295,
+  "level": "B1",
+  "cyr": "завршетак",
+  "lat": "završetak",
+  "tr": "завршетак",
+  "ru": "окончание; завершение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Завршак лечења је близу.",
+   "lat": "Završak lečenja je blizu.",
+   "ru": "Окончание лечения близко."
+  }
+ },
+ {
+  "id": "w2296",
+  "order": 2296,
+  "level": "B1",
+  "cyr": "закључак",
+  "lat": "zaključak",
+  "tr": "заключак",
+  "ru": "вывод",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Лекар је дошао до важног закључка.",
+   "lat": "Lekar je došao do važnog zaključka.",
+   "ru": "Врач пришел к важному выводу."
+  }
+ },
+ {
+  "id": "w2297",
+  "order": 2297,
+  "level": "B1",
+  "cyr": "запаљење",
+  "lat": "zapaljenje",
+  "tr": "запаленье",
+  "ru": "воспаление; воспаление",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Запаљење је почело да се смирује.",
+   "lat": "Zapaljenje je počelo da se smiruje.",
+   "ru": "Воспаление начало стихать."
+  }
+ },
+ {
+  "id": "w2298",
+  "order": 2298,
+  "level": "B1",
+  "cyr": "зараза",
+  "lat": "zaraza",
+  "tr": "зараза",
+  "ru": "зараза; инфекция",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Та болест је веома заразна.",
+   "lat": "Ta bolest je veoma zarazna.",
+   "ru": "Эта болезнь очень заразная."
+  }
+ },
+ {
+  "id": "w2299",
+  "order": 2299,
+  "level": "B1",
+  "cyr": "зној",
+  "lat": "znoj",
+  "tr": "зној",
+  "ru": "пот; потоотделение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Више зноји због врућине.",
+   "lat": "Više znoji zbog vrućine.",
+   "ru": "Больше пота из-за жары."
+  }
+ },
+ {
+  "id": "w2300",
+  "order": 2300,
+  "level": "B1",
+  "cyr": "имунизација",
+  "lat": "imunizacija",
+  "tr": "имунизација",
+  "ru": "иммунизация",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Имунизација је важна за децу.",
+   "lat": "Imunizacija je važna za decu.",
+   "ru": "Иммунизация важна для детей."
+  }
+ },
+ {
+  "id": "w2301",
+  "order": 2301,
+  "level": "B1",
+  "cyr": "инфекција",
+  "lat": "infekcija",
+  "tr": "инфекција",
+  "ru": "инфекция",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Та инфекција се лако преноси.",
+   "lat": "Ta infekcija se lako prenosi.",
+   "ru": "Эта инфекция легко передается."
+  }
+ },
+ {
+  "id": "w2302",
+  "order": 2302,
+  "level": "B1",
+  "cyr": "инфузија",
+  "lat": "infuzija",
+  "tr": "инфузија",
+  "ru": "инфузия; капельница",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Инфузија је трајала целу ноћ.",
+   "lat": "Infuzija je trajala celu noć.",
+   "ru": "Инфузия длилась всю ночь."
+  }
+ },
+ {
+  "id": "w2303",
+  "order": 2303,
+  "level": "B1",
+  "cyr": "испирање",
+  "lat": "ispiranje",
+  "tr": "испиранье",
+  "ru": "промывание; споласкивание",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Испирање ока је важно.",
+   "lat": "Ispiranje oka je važno.",
+   "ru": "Промывание глаз важно."
+  }
+ },
+ {
+  "id": "w2304",
+  "order": 2304,
+  "level": "B1",
+  "cyr": "испитивање",
+  "lat": "ispitivanje",
+  "tr": "испитиванье",
+  "ru": "исследование; обследование",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Испитивање је важно за дијагнозу.",
+   "lat": "Ispitivanje je važno za dijagnozu.",
+   "ru": "Исследование важно для диагнозы."
+  }
+ },
+ {
+  "id": "w2305",
+  "order": 2305,
+  "level": "B1",
+  "cyr": "капсула",
+  "lat": "kapsula",
+  "tr": "капсула",
+  "ru": "капсула",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Овај лек долази у капсулама.",
+   "lat": "Ovaj lek dolazi u kapsulama.",
+   "ru": "Это лекарство в капсулах."
+  }
+ },
+ {
+  "id": "w2306",
+  "order": 2306,
+  "level": "B1",
+  "cyr": "кардитис",
+  "lat": "karditis",
+  "tr": "кардитис",
+  "ru": "кардит",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кардитис је ретка али озбиљна болест.",
+   "lat": "Karditis je retka ali ozbiljna bolest.",
+   "ru": "Кардит — редкое, но серьезное заболевание."
+  }
+ },
+ {
+  "id": "w2307",
+  "order": 2307,
+  "level": "B1",
+  "cyr": "кијавост",
+  "lat": "kijavost",
+  "tr": "кијавост",
+  "ru": "простуда",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кијавост је честа у влажној години.",
+   "lat": "Kijavost je česta u vlažnoj godini.",
+   "ru": "Простуда бывает часто в влажный год."
+  }
+ },
+ {
+  "id": "w2308",
+  "order": 2308,
+  "level": "B1",
+  "cyr": "кратковид",
+  "lat": "kratkovid",
+  "tr": "кратковид",
+  "ru": "близорукость",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кратковид захтева наочаре за даљину.",
+   "lat": "Kratkovid zahteva naočare za daljinu.",
+   "ru": "Близорукость требует очки для дали."
+  }
+ },
+ {
+  "id": "w2309",
+  "order": 2309,
+  "level": "B1",
+  "cyr": "крвни притисак",
+  "lat": "krvni pritisak",
+  "tr": "крвни притисак",
+  "ru": "кровяное давление",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Висок крвни притисак је опасан.",
+   "lat": "Visok krvni pritisak je opasan.",
+   "ru": "Высокое давление опасно."
+  }
+ },
+ {
+  "id": "w2310",
+  "order": 2310,
+  "level": "B1",
+  "cyr": "књижица",
+  "lat": "knjižica",
+  "tr": "книжица",
+  "ru": "книжечка; амбулаторная карта",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Књижица је била у његовом џепу.",
+   "lat": "Knjižica je bila u njegovom džepu.",
+   "ru": "Книжечка была в его кармане."
+  }
+ },
+ {
+  "id": "w2311",
+  "order": 2311,
+  "level": "B1",
+  "cyr": "лековито биље",
+  "lat": "lekovito bilje",
+  "tr": "лековито биле",
+  "ru": "лекарственные травы",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Фармацеут ми је преписао неко лековито биље.",
+   "lat": "Farmaceut mi je prepisao neko lekovito bilje.",
+   "ru": "Аптекарь выписал мне какие-то лекарственные травы."
+  }
+ },
+ {
+  "id": "w2312",
+  "order": 2312,
+  "level": "B1",
+  "cyr": "лечилиште",
+  "lat": "lečilište",
+  "tr": "лечилиште",
+  "ru": "лечебница; санаторий",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ово лечилиште је у планинама.",
+   "lat": "Ovo lečilište je u planinama.",
+   "ru": "Эта лечебница находится в горах."
+  }
+ },
+ {
+  "id": "w2313",
+  "order": 2313,
+  "level": "B1",
+  "cyr": "марлица",
+  "lat": "marlica",
+  "tr": "марлица",
+  "ru": "бинт; повязка",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Медицинска сестра је ставила нову марлицу.",
+   "lat": "Medicinska sestra je stavila novu marlicu.",
+   "ru": "Медсестра наложила новую повязку."
+  }
+ },
+ {
+  "id": "w2314",
+  "order": 2314,
+  "level": "B1",
+  "cyr": "материјал",
+  "lat": "materijal",
+  "tr": "материјал",
+  "ru": "материал; вещество",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Медицински материјал је у кутији.",
+   "lat": "Medicinski materijal je u kutiji.",
+   "ru": "Медицинский материал в коробке."
+  }
+ },
+ {
+  "id": "w2315",
+  "order": 2315,
+  "level": "B1",
+  "cyr": "мигрена",
+  "lat": "migrena",
+  "tr": "мигрена",
+  "ru": "мигрень",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мигрена му је веома јака.",
+   "lat": "Migrena mu je veoma jaka.",
+   "ru": "У него очень сильная мигрень."
+  }
+ },
+ {
+  "id": "w2316",
+  "order": 2316,
+  "level": "B1",
+  "cyr": "налаз",
+  "lat": "nalaz",
+  "tr": "налаз",
+  "ru": "результат (анализа); заключение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Лекар ми је саопштио налаз.",
+   "lat": "Lekar mi je saopštio nalaz.",
+   "ru": "Врач сообщил мне результат."
+  }
+ },
+ {
+  "id": "w2317",
+  "order": 2317,
+  "level": "B1",
+  "cyr": "напад",
+  "lat": "napad",
+  "tr": "напад",
+  "ru": "напад; приступ",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Срчани напад захтева хитну помоћ.",
+   "lat": "Srčani napad zahteva hitnu pomoć.",
+   "ru": "Сердечный приступ требует срочной помощи."
+  }
+ },
+ {
+  "id": "w2318",
+  "order": 2318,
+  "level": "B1",
+  "cyr": "нега",
+  "lat": "nega",
+  "tr": "нега",
+  "ru": "уход; забота; лечение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Добра нега пацијента је веома важна.",
+   "lat": "Dobra nega pacijenta je veoma važna.",
+   "ru": "Хороший уход за пациентом очень важен."
+  }
+ },
+ {
+  "id": "w2319",
+  "order": 2319,
+  "level": "B1",
+  "cyr": "несвестица",
+  "lat": "nesvestica",
+  "tr": "несвестица",
+  "ru": "обморок; головокружение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Несвестица га је сачекала на врућем сунцу.",
+   "lat": "Nesvestica ga je sačekala na vrućem suncu.",
+   "ru": "Обморок его подстерёг на жарком солнце."
+  }
+ },
+ {
+  "id": "w2320",
+  "order": 2320,
+  "level": "B1",
+  "cyr": "озбиљно стање",
+  "lat": "ozbiljno stanje",
+  "tr": "озбильно станье",
+  "ru": "тяжёлое состояние",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пациент има озбиљно стање после несреће.",
+   "lat": "Pacient ima ozbiljno stanje posle nesreće.",
+   "ru": "У пациента тяжёлое состояние после несчастного случая."
+  }
+ },
+ {
+  "id": "w2321",
+  "order": 2321,
+  "level": "B1",
+  "cyr": "оздрављење",
+  "lat": "ozdravljenje",
+  "tr": "оздравленье",
+  "ru": "выздоровление; исцеление",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Оздрављење је процес који траје.",
+   "lat": "Ozdravljenje je proces koji traje.",
+   "ru": "Выздоровление — это процесс, который длится."
+  }
+ },
+ {
+  "id": "w2322",
+  "order": 2322,
+  "level": "B1",
+  "cyr": "омаглица",
+  "lat": "omaglica",
+  "tr": "омаглица",
+  "ru": "головокружение; головокружение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Омаглица га је савукла.",
+   "lat": "Omaglica ga je savukla.",
+   "ru": "Головокружение его сразило."
+  }
+ },
+ {
+  "id": "w2323",
+  "order": 2323,
+  "level": "B1",
+  "cyr": "осип",
+  "lat": "osip",
+  "tr": "осип",
+  "ru": "сыпь; сыпь",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Осип се појавио на кожи.",
+   "lat": "Osip se pojavio na koži.",
+   "ru": "Сыпь появилась на коже."
+  }
+ },
+ {
+  "id": "w2324",
+  "order": 2324,
+  "level": "B1",
+  "cyr": "откуцај",
+  "lat": "otkucaj",
+  "tr": "откуцај",
+  "ru": "удар; биение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Осетих јак откуцај срца.",
+   "lat": "Osetih jak otkucaj srca.",
+   "ru": "Я почувствовал сильное биение сердца."
+  }
+ },
+ {
+  "id": "w2325",
+  "order": 2325,
+  "level": "B1",
+  "cyr": "оток",
+  "lat": "otok",
+  "tr": "оток",
+  "ru": "отёк; отёк",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Лекар је приметио оток на нози.",
+   "lat": "Lekar je primetio otok na nozi.",
+   "ru": "Врач заметил отёк на ноге."
+  }
+ },
+ {
+  "id": "w2326",
+  "order": 2326,
+  "level": "B1",
+  "cyr": "палата",
+  "lat": "palata",
+  "tr": "палата",
+  "ru": "палата; палата",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "У палати је било много пацијената.",
+   "lat": "U palati je bilo mnogo pacijenata.",
+   "ru": "В палате было много пациентов."
+  }
+ },
+ {
+  "id": "w2327",
+  "order": 2327,
+  "level": "B1",
+  "cyr": "панкреатитис",
+  "lat": "pankreatitis",
+  "tr": "панкреатитис",
+  "ru": "панкреатит",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Панкреатитис изазива јаке болове у стомаку.",
+   "lat": "Pankreatitis izaziva jake bolove u stomaku.",
+   "ru": "Панкреатит вызывает сильные боли в животе."
+  }
+ },
+ {
+  "id": "w2328",
+  "order": 2328,
+  "level": "B1",
+  "cyr": "паразит",
+  "lat": "parazit",
+  "tr": "паразит",
+  "ru": "паразит",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тај паразит живи у цревима.",
+   "lat": "Taj parazit živi u crevima.",
+   "ru": "Тот паразит живет в кишечнике."
+  }
+ },
+ {
+  "id": "w2329",
+  "order": 2329,
+  "level": "B1",
+  "cyr": "пилула",
+  "lat": "pilula",
+  "tr": "пилула",
+  "ru": "пилюля; таблетка",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Узео је једну пилулу за главобољу.",
+   "lat": "Uzeo je jednu pilulu za glavobolju.",
+   "ru": "Он принял одну таблетку от головной боли."
+  }
+ },
+ {
+  "id": "w2330",
+  "order": 2330,
+  "level": "B1",
+  "cyr": "повез",
+  "lat": "povez",
+  "tr": "повез",
+  "ru": "бинт; повязка",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Медицинска сестра ставља нови повез.",
+   "lat": "Medicinska sestra stavlja novi povez.",
+   "ru": "Медсестра накладывает новую повязку."
+  }
+ },
+ {
+  "id": "w2331",
+  "order": 2331,
+  "level": "B1",
+  "cyr": "повезивање",
+  "lat": "povezivanje",
+  "tr": "повезиванье",
+  "ru": "перевязка; соединение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пацијент не воли повезивање ране.",
+   "lat": "Pacijent ne voli povezivanje rane.",
+   "ru": "Пациент не любит перевязку раны."
+  }
+ },
+ {
+  "id": "w2332",
+  "order": 2332,
+  "level": "B1",
+  "cyr": "поремећај",
+  "lat": "poremećaj",
+  "tr": "поремечај",
+  "ru": "расстройство; нарушение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Поремећај у сну често изазива стрес.",
+   "lat": "Poremećaj u snu često izaziva stres.",
+   "ru": "Расстройство во сне часто вызывает стресс."
+  }
+ },
+ {
+  "id": "w2333",
+  "order": 2333,
+  "level": "B1",
+  "cyr": "потрес",
+  "lat": "potres",
+  "tr": "потрес",
+  "ru": "сотрясение; потрясение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Доктор га је испитао на потрес.",
+   "lat": "Doktor ga je ispitao na potres.",
+   "ru": "Врач исследовал его на сотрясение."
+  }
+ },
+ {
+  "id": "w2334",
+  "order": 2334,
+  "level": "B1",
+  "cyr": "прашење",
+  "lat": "prašenje",
+  "tr": "прашенье",
+  "ru": "пыль",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Прашење из ковчега изазвало је кијавицу.",
+   "lat": "Prašenje iz kovčega izazvalo je kijavicu.",
+   "ru": "Пыль из сундука вызвала чиханье."
+  }
+ },
+ {
+  "id": "w2335",
+  "order": 2335,
+  "level": "B1",
+  "cyr": "превијање",
+  "lat": "previjanje",
+  "tr": "превијанье",
+  "ru": "перевязка",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Превијање ране је важно за бржи опоравак.",
+   "lat": "Previjanje rane je važno za brži oporavak.",
+   "ru": "Перевязка раны важна для более быстрого выздоровления."
+  }
+ },
+ {
+  "id": "w2336",
+  "order": 2336,
+  "level": "B1",
+  "cyr": "предозирање",
+  "lat": "predoziranje",
+  "tr": "предозиранье",
+  "ru": "передозировка",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Предозирање леком може бити опасно.",
+   "lat": "Predoziranje lekom može biti opasno.",
+   "ru": "Передозировка лекарством может быть опасной."
+  }
+ },
+ {
+  "id": "w2337",
+  "order": 2337,
+  "level": "B1",
+  "cyr": "препарат",
+  "lat": "preparat",
+  "tr": "препарат",
+  "ru": "препарат; лекарство",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај препарат се користи за крвни притисак.",
+   "lat": "Ovaj preparat se koristi za krvni pritisak.",
+   "ru": "Этот препарат используется для давления крови."
+  }
+ },
+ {
+  "id": "w2338",
+  "order": 2338,
+  "level": "B1",
+  "cyr": "преумор",
+  "lat": "preumor",
+  "tr": "преумор",
+  "ru": "утомление; переутомление",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Преумор га је спречио да заврши посао.",
+   "lat": "Preumor ga je sprečio da završi posao.",
+   "ru": "Утомление не позволило ему закончить работу."
+  }
+ },
+ {
+  "id": "w2339",
+  "order": 2339,
+  "level": "B1",
+  "cyr": "равнотежа",
+  "lat": "ravnoteža",
+  "tr": "равнотежа",
+  "ru": "равновесие; баланс",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Добра равнотежа је важна за старије особе.",
+   "lat": "Dobra ravnoteža je važna za starije osobe.",
+   "ru": "Хорошее равновесие важно для пожилых людей."
+  }
+ },
+ {
+  "id": "w2340",
+  "order": 2340,
+  "level": "B1",
+  "cyr": "рана",
+  "lat": "rana",
+  "tr": "рана",
+  "ru": "рана",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Рана му је на руци.",
+   "lat": "Rana mu je na ruci.",
+   "ru": "У него рана на руке."
+  }
+ },
+ {
+  "id": "w2341",
+  "order": 2341,
+  "level": "B1",
+  "cyr": "резултат",
+  "lat": "rezultat",
+  "tr": "резултат",
+  "ru": "результат",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Резултат теста је позитиван.",
+   "lat": "Rezultat testa je pozitivan.",
+   "ru": "Результат теста положительный."
+  }
+ },
+ {
+  "id": "w2342",
+  "order": 2342,
+  "level": "B1",
+  "cyr": "рехабилитација",
+  "lat": "rehabilitacija",
+  "tr": "рехабилитација",
+  "ru": "реабилитация",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "После операције потребна је рехабилитација.",
+   "lat": "Posle operacije potrebna je rehabilitacija.",
+   "ru": "После операции необходима реабилитация."
+  }
+ },
+ {
+  "id": "w2343",
+  "order": 2343,
+  "level": "B1",
+  "cyr": "сестринство",
+  "lat": "sestrinstvo",
+  "tr": "сестринство",
+  "ru": "сестринство; милосердие",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Сестринство је темељне вредности у медицини.",
+   "lat": "Sestrinstvo je temeljne vrednosti u medicini.",
+   "ru": "Сестринство — это основная ценность в медицине."
+  }
+ },
+ {
+  "id": "w2344",
+  "order": 2344,
+  "level": "B1",
+  "cyr": "слабост",
+  "lat": "slabost",
+  "tr": "слабост",
+  "ru": "слабость; немощь",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Слабост у ногама је непријатна.",
+   "lat": "Slabost u nogama je neprijatna.",
+   "ru": "Слабость в ногах неприятная."
+  }
+ },
+ {
+  "id": "w2345",
+  "order": 2345,
+  "level": "B1",
+  "cyr": "слепило",
+  "lat": "slepilo",
+  "tr": "слепило",
+  "ru": "слепота",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Старац је изгубио вид због слепила.",
+   "lat": "Starac je izgubio vid zbog slepila.",
+   "ru": "Старец потерял зрение из-за слепоты."
+  }
+ },
+ {
+  "id": "w2346",
+  "order": 2346,
+  "level": "B1",
+  "cyr": "снага",
+  "lat": "snaga",
+  "tr": "снага",
+  "ru": "сила; мощь",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Физичка снага је потребна за посао.",
+   "lat": "Fizička snaga je potrebna za posao.",
+   "ru": "Физическая сила нужна для работы."
+  }
+ },
+ {
+  "id": "w2347",
+  "order": 2347,
+  "level": "B1",
+  "cyr": "снимање",
+  "lat": "snimanje",
+  "tr": "сниманье",
+  "ru": "снятие; запись",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Снимање рендгена траје пар минута.",
+   "lat": "Snimanje rendgena traje par minuta.",
+   "ru": "Снятие рентгена занимает пару минут."
+  }
+ },
+ {
+  "id": "w2348",
+  "order": 2348,
+  "level": "B1",
+  "cyr": "спавање",
+  "lat": "spavanje",
+  "tr": "спаванье",
+  "ru": "сон; засыпание",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Дубоко спавање је важно за здравље.",
+   "lat": "Duboko spavanje je važno za zdravlje.",
+   "ru": "Глубокий сон важен для здоровья."
+  }
+ },
+ {
+  "id": "w2349",
+  "order": 2349,
+  "level": "B1",
+  "cyr": "стуб",
+  "lat": "stub",
+  "tr": "стуб",
+  "ru": "столб; опора",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стуб зграде је био оштећен у земљотресу.",
+   "lat": "Stub zgrade je bio oštećen u zemljotresu.",
+   "ru": "Столб здания был повреждён при землетрясении."
+  }
+ },
+ {
+  "id": "w2350",
+  "order": 2350,
+  "level": "B1",
+  "cyr": "терапеут",
+  "lat": "terapeut",
+  "tr": "терапеут",
+  "ru": "терапевт",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Терапеут је саветовао промену исхране.",
+   "lat": "Terapeut je savetovao promenu ishrane.",
+   "ru": "Терапевт посоветовал сменить диету."
+  }
+ },
+ {
+  "id": "w2351",
+  "order": 2351,
+  "level": "B1",
+  "cyr": "тетива",
+  "lat": "tetiva",
+  "tr": "тетива",
+  "ru": "сухожилие",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Лекар је прегледао тетиву на ногу.",
+   "lat": "Lekar je pregledao tetivu na nogu.",
+   "ru": "Врач осмотрел сухожилие на ноге."
+  }
+ },
+ {
+  "id": "w2352",
+  "order": 2352,
+  "level": "B1",
+  "cyr": "тровање",
+  "lat": "trovanje",
+  "tr": "трованье",
+  "ru": "отравление; отравление",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Тровање је опасно по живот.",
+   "lat": "Trovanje je opasno po život.",
+   "ru": "Отравление опасно для жизни."
+  }
+ },
+ {
+  "id": "w2353",
+  "order": 2353,
+  "level": "B1",
+  "cyr": "тумор",
+  "lat": "tumor",
+  "tr": "тумор",
+  "ru": "опухоль; опухоль",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тумор је откривен на време.",
+   "lat": "Tumor je otkriven na vreme.",
+   "ru": "Опухоль была обнаружена вовремя."
+  }
+ },
+ {
+  "id": "w2354",
+  "order": 2354,
+  "level": "B1",
+  "cyr": "узорак",
+  "lat": "uzorak",
+  "tr": "узорак",
+  "ru": "образец; проба",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Узорак крви је на анализи.",
+   "lat": "Uzorak krvi je na analizi.",
+   "ru": "Образец крови на анализе."
+  }
+ },
+ {
+  "id": "w2355",
+  "order": 2355,
+  "level": "B1",
+  "cyr": "узорковање",
+  "lat": "uzorkovanje",
+  "tr": "узоркованье",
+  "ru": "отбор проб; взятие образца",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Узорковање је важан дијагностички поступак.",
+   "lat": "Uzorkovanje je važan dijagnostički postupak.",
+   "ru": "Отбор проб — важный диагностический процесс."
+  }
+ },
+ {
+  "id": "w2356",
+  "order": 2356,
+  "level": "B1",
+  "cyr": "ултразвук",
+  "lat": "ultrazvuk",
+  "tr": "ултразвук",
+  "ru": "ультразвук",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ултразвук приказује унутрашње органе.",
+   "lat": "Ultrazvuk prikazuje unutrašnje organe.",
+   "ru": "Ультразвук показывает внутренние органы."
+  }
+ },
+ {
+  "id": "w2357",
+  "order": 2357,
+  "level": "B1",
+  "cyr": "упутство",
+  "lat": "uputstvo",
+  "tr": "упутство",
+  "ru": "инструкция; руководство",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Упутство за лек је на кутији.",
+   "lat": "Uputstvo za lek je na kutiji.",
+   "ru": "Инструкция к лекарству на коробке."
+  }
+ },
+ {
+  "id": "w2358",
+  "order": 2358,
+  "level": "B1",
+  "cyr": "ушобоља",
+  "lat": "ušobolja",
+  "tr": "ушоболя",
+  "ru": "боль в ухе",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ушобоља га је спречила да спава.",
+   "lat": "Ušobolja ga je sprečila da spava.",
+   "ru": "Боль в ухе не давала ему спать."
+  }
+ },
+ {
+  "id": "w2359",
+  "order": 2359,
+  "level": "B1",
+  "cyr": "црева",
+  "lat": "creva",
+  "tr": "црева",
+  "ru": "кишки; кишечник",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "После антибиотика црева су мирнија.",
+   "lat": "Posle antibiotika creva su mirnija.",
+   "ru": "После антибиотика кишечник спокойнее."
+  }
+ },
+ {
+  "id": "w2360",
+  "order": 2360,
+  "level": "B1",
+  "cyr": "шприц",
+  "lat": "špric",
+  "tr": "шприц",
+  "ru": "шприц; инъекция",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Наспрам мене је медицинска сестра са шприцом.",
+   "lat": "Naspram mene je medicinska sestra sa špricom.",
+   "ru": "Передо мной сидит медсестра со шприцом."
+  }
+ },
+ {
+  "id": "w2361",
+  "order": 2361,
+  "level": "B1",
+  "cyr": "алергичан",
+  "lat": "alergičan",
+  "tr": "алергичан",
+  "ru": "аллергический",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Дете је алергично на орахе.",
+   "lat": "Dete je alergično na orahe.",
+   "ru": "Ребенок аллергический на орехи."
+  }
+ },
+ {
+  "id": "w2362",
+  "order": 2362,
+  "level": "B1",
+  "cyr": "апотекарски",
+  "lat": "apotekarski",
+  "tr": "апотекарски",
+  "ru": "аптечный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Апотекарска шоља служи за мерење лекова.",
+   "lat": "Apotekarska šolja služi za merenje lekova.",
+   "ru": "Аптечная чашечка служит для измерения лекарств."
+  }
+ },
+ {
+  "id": "w2363",
+  "order": 2363,
+  "level": "B1",
+  "cyr": "болан",
+  "lat": "bolan",
+  "tr": "болан",
+  "ru": "болезненный; больной",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Болан зуб ме је спречио да једем.",
+   "lat": "Bolan zub me je sprečio da jedem.",
+   "ru": "Больной зуб помешал мне есть."
+  }
+ },
+ {
+  "id": "w2364",
+  "order": 2364,
+  "level": "B1",
+  "cyr": "болнички",
+  "lat": "bolnički",
+  "tr": "болнички",
+  "ru": "больничный; стационарный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Болнички кревет је био прилично удобан.",
+   "lat": "Bolnički krevet je bio prilično udoban.",
+   "ru": "Больничная кровать была довольно удобной."
+  }
+ },
+ {
+  "id": "w2365",
+  "order": 2365,
+  "level": "B1",
+  "cyr": "вртоглав",
+  "lat": "vrtoglav",
+  "tr": "вртоглав",
+  "ru": "головокружительный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "После пада осећао сам се вртоглав.",
+   "lat": "Posle pada osećao sam se vrtoglav.",
+   "ru": "После падка я чувствовал головокружение."
+  }
+ },
+ {
+  "id": "w2366",
+  "order": 2366,
+  "level": "B1",
+  "cyr": "грозничав",
+  "lat": "grozničav",
+  "tr": "грозничав",
+  "ru": "лихорадочный; горячечный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Грозничава деца често спавају лоше.",
+   "lat": "Grozničava deca često spavaju loše.",
+   "ru": "Лихорадочные дети часто плохо спят."
+  }
+ },
+ {
+  "id": "w2367",
+  "order": 2367,
+  "level": "B1",
+  "cyr": "заразан",
+  "lat": "zarazan",
+  "tr": "заразан",
+  "ru": "заразный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Грип је веома заразна болест.",
+   "lat": "Grip je veoma zarazna bolest.",
+   "ru": "Грипп очень заразная болезнь."
+  }
+ },
+ {
+  "id": "w2368",
+  "order": 2368,
+  "level": "B1",
+  "cyr": "кичмени",
+  "lat": "kičmeni",
+  "tr": "кичмени",
+  "ru": "позвоночный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Кичмени стуб има много важних функција.",
+   "lat": "Kičmeni stub ima mnogo važnih funkcija.",
+   "ru": "Позвоночник имеет много важных функций."
+  }
+ },
+ {
+  "id": "w2369",
+  "order": 2369,
+  "level": "B1",
+  "cyr": "крвна",
+  "lat": "krvna",
+  "tr": "крвна",
+  "ru": "кровный; кровяной",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Крвна група је важна за трансфузију.",
+   "lat": "Krvna grupa je važna za transfuziju.",
+   "ru": "Группа крови важна для переливания."
+  }
+ },
+ {
+  "id": "w2370",
+  "order": 2370,
+  "level": "B1",
+  "cyr": "крут",
+  "lat": "krut",
+  "tr": "крут",
+  "ru": "жёсткий; твёрдый",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Крут материјал се не савија.",
+   "lat": "Krut materijal se ne savija.",
+   "ru": "Жёсткий материал не гнётся."
+  }
+ },
+ {
+  "id": "w2371",
+  "order": 2371,
+  "level": "B1",
+  "cyr": "мучан",
+  "lat": "mučan",
+  "tr": "мучан",
+  "ru": "мучительный; болезненный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Мучан тест је трајао читав сат.",
+   "lat": "Mučan test je trajao čitav sat.",
+   "ru": "Мучительный тест длился целый час."
+  }
+ },
+ {
+  "id": "w2372",
+  "order": 2372,
+  "level": "B1",
+  "cyr": "наслеђен",
+  "lat": "nasleđen",
+  "tr": "наследжен",
+  "ru": "наследственный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Наслеђена болест је ретка.",
+   "lat": "Nasleđena bolest je retka.",
+   "ru": "Насherited болезнь редка."
+  }
+ },
+ {
+  "id": "w2373",
+  "order": 2373,
+  "level": "B1",
+  "cyr": "несвесан",
+  "lat": "nesvesan",
+  "tr": "несвесан",
+  "ru": "бессознательный; невольный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Несвесан човек је пао са степеница.",
+   "lat": "Nesvesan čovek je pao sa stepenica.",
+   "ru": "Бессознательный человек упал с лестницы."
+  }
+ },
+ {
+  "id": "w2374",
+  "order": 2374,
+  "level": "B1",
+  "cyr": "осетљив",
+  "lat": "osetljiv",
+  "tr": "осетлив",
+  "ru": "чувствительный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Она је веома осетљива на кисело.",
+   "lat": "Ona je veoma osetljiva na kiselo.",
+   "ru": "Она очень чувствительна к кислому."
+  }
+ },
+ {
+  "id": "w2375",
+  "order": 2375,
+  "level": "B1",
+  "cyr": "отпоран",
+  "lat": "otporan",
+  "tr": "отпоран",
+  "ru": "устойчивый; прочный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Отпоран организам боље се бори са инфекцијом.",
+   "lat": "Otporan organizam bolje se bori sa infekcijom.",
+   "ru": "Устойчивый организм лучше борется с инфекцией."
+  }
+ },
+ {
+  "id": "w2376",
+  "order": 2376,
+  "level": "B1",
+  "cyr": "парализован",
+  "lat": "paralizovan",
+  "tr": "парализован",
+  "ru": "парализованный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Стари пас је био парализован задњим ногама.",
+   "lat": "Stari pas je bio paralizovan zadnjim nogama.",
+   "ru": "Старая собака была парализована задними лапами."
+  }
+ },
+ {
+  "id": "w2377",
+  "order": 2377,
+  "level": "B1",
+  "cyr": "статичан",
+  "lat": "statičan",
+  "tr": "статичан",
+  "ru": "статичный; неподвижный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Статичан посао узрокује бол у леђима.",
+   "lat": "Statičan posao uzrokuje bol u leđima.",
+   "ru": "Статичная работа вызывает боль в спине."
+  }
+ },
+ {
+  "id": "w2378",
+  "order": 2378,
+  "level": "B1",
+  "cyr": "стерилан",
+  "lat": "sterilan",
+  "tr": "стерилан",
+  "ru": "стерильный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Ова операциона сала је потпуно стерилна.",
+   "lat": "Ova operaciona sala je potpuno sterilna.",
+   "ru": "Эта операционная совершенно стерильная."
+  }
+ },
+ {
+  "id": "w2379",
+  "order": 2379,
+  "level": "B1",
+  "cyr": "стечен",
+  "lat": "stečen",
+  "tr": "стечен",
+  "ru": "приобретённый",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Стечено знање је веома вредно.",
+   "lat": "Stečeno znanje je veoma vredno.",
+   "ru": "Приобретённые знания очень ценны."
+  }
+ },
+ {
+  "id": "w2380",
+  "order": 2380,
+  "level": "B1",
+  "cyr": "трбушни",
+  "lat": "trbušni",
+  "tr": "трбушни",
+  "ru": "брюшной",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Трбушни бол је један од честих симптома.",
+   "lat": "Trbušni bol je jedan od čestih simptoma.",
+   "ru": "Брюшная боль — один из частых симптомов."
+  }
+ },
+ {
+  "id": "w2381",
+  "order": 2381,
+  "level": "B1",
+  "cyr": "урођен",
+  "lat": "urođen",
+  "tr": "уроджен",
+  "ru": "врождённый",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Урођена мана се види одмах.",
+   "lat": "Urođena mana se vidi odmah.",
+   "ru": "Врождённый дефект виден сразу."
+  }
+ },
+ {
+  "id": "w2382",
+  "order": 2382,
+  "level": "B1",
+  "cyr": "флексибилан",
+  "lat": "fleksibilan",
+  "tr": "флексибилан",
+  "ru": "гибкий; эластичный",
+  "pos": "adj",
+  "cat": "body",
+  "ex": {
+   "cyr": "Флексибилан програм лакше се прилагођава.",
+   "lat": "Fleksibilan program lakše se prilagođava.",
+   "ru": "Гибкая программа легче адаптируется."
+  }
+ }
+]

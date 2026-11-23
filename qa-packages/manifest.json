@@ -1,0 +1,20 @@
+{
+  "version": "1.2.0",
+  "packsRepoVer": "2.34.0",
+  "packages": [
+    {
+      "id": "qa-a2-1",
+      "title": "Вопросы A2 · часть 1",
+      "level": "A2",
+      "count": 60,
+      "version": "1.1.0"
+    },
+    {
+      "id": "qa-b1-1",
+      "title": "Вопросы B1 · часть 1",
+      "level": "B1",
+      "count": 80,
+      "version": "1.1.0"
+    }
+  ]
+}

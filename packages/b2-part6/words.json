@@ -1,0 +1,4222 @@
+[
+ {
+  "id": "w4252",
+  "order": 4252,
+  "level": "B2",
+  "cyr": "антициклон",
+  "lat": "anticiklon",
+  "tr": "антициклон",
+  "ru": "антициклон",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Антициклон је донео стабилно време.",
+   "lat": "Anticiklon je doneo stabilno vreme.",
+   "ru": "Антициклон принёс стабильную погоду."
+  }
+ },
+ {
+  "id": "w4253",
+  "order": 4253,
+  "level": "B2",
+  "cyr": "акумулација",
+  "lat": "akumulacija",
+  "tr": "акумулација",
+  "ru": "водохранилище; накопление",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Акумулација се испразнила ради прегледа бране.",
+   "lat": "Akumulacija se ispraznila radi pregleda brane.",
+   "ru": "Водохранилище опустело для осмотра плотины."
+  }
+ },
+ {
+  "id": "w4254",
+  "order": 4254,
+  "level": "B2",
+  "cyr": "биохрана",
+  "lat": "biohrana",
+  "tr": "биохрана",
+  "ru": "биопродукты",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "f",
+  "ex": {
+   "cyr": "Биохрана са фарми стиже на градске пијаце.",
+   "lat": "Biohrana sa farmi stiže na gradske pijace.",
+   "ru": "Биопродукты с ферм поступают на городские рынки."
+  }
+ },
+ {
+  "id": "w4255",
+  "order": 4255,
+  "level": "B2",
+  "cyr": "виноградарство",
+  "lat": "vinogradarstvo",
+  "tr": "виноградарство",
+  "ru": "виноградарство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Виноградарство напредује у брежуљкастим крајевима.",
+   "lat": "Vinogradarstvo napreduje u brežuljkastim krajevima.",
+   "ru": "Виноградарство развивается в холмистых краях."
+  }
+ },
+ {
+  "id": "w4256",
+  "order": 4256,
+  "level": "B2",
+  "cyr": "биомаса",
+  "lat": "biomasa",
+  "tr": "биомаса",
+  "ru": "биомасса",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Биомаса је јефтина замена за гас.",
+   "lat": "Biomasa je jeftina zamena za gas.",
+   "ru": "Биомасса — дешёвая замена газу."
+  }
+ },
+ {
+  "id": "w4257",
+  "order": 4257,
+  "level": "B2",
+  "cyr": "гнежђење",
+  "lat": "gnežđenje",
+  "tr": "гнеждженье",
+  "ru": "гнездование",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "n",
+  "ex": {
+   "cyr": "Гнежђење орлова прати камера скривена у крошњи.",
+   "lat": "Gnežđenje orlova prati kamera skrivena u krošnji.",
+   "ru": "Гнездование орлов отслеживает камера в кроне."
+  }
+ },
+ {
+  "id": "w4258",
+  "order": 4258,
+  "level": "B2",
+  "cyr": "ведар",
+  "lat": "vedar",
+  "tr": "ведар",
+  "ru": "ясный (о погоде)",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ведар дан је најлепши за излет.",
+   "lat": "Vedar dan je najlepši za izlet.",
+   "ru": "Ясный день самый лучший для прогулки."
+  }
+ },
+ {
+  "id": "w4259",
+  "order": 4259,
+  "level": "B2",
+  "cyr": "грејалица",
+  "lat": "grejalica",
+  "tr": "грејалица",
+  "ru": "обогреватель",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Грејалица је грела подрум цео дан.",
+   "lat": "Grejalica je grela podrum ceo dan.",
+   "ru": "Обогреватель грел подвал весь день."
+  }
+ },
+ {
+  "id": "w4260",
+  "order": 4260,
+  "level": "B2",
+  "cyr": "дојити",
+  "lat": "dojiti",
+  "tr": "дојити",
+  "ru": "доить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Краве се доје два пута дневно.",
+   "lat": "Krave se doje dva puta dnevno.",
+   "ru": "Коров доят два раза в день."
+  }
+ },
+ {
+  "id": "w4261",
+  "order": 4261,
+  "level": "B2",
+  "cyr": "архипелаг",
+  "lat": "arhipelag",
+  "tr": "архипелаг",
+  "ru": "архипелаг",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Архипелаг броји преко триста острва.",
+   "lat": "Arhipelag broji preko trista ostrva.",
+   "ru": "Архипелаг насчитывает свыше трёхсот островов."
+  }
+ },
+ {
+  "id": "w4262",
+  "order": 4262,
+  "level": "B2",
+  "cyr": "евакуација",
+  "lat": "evakuacija",
+  "tr": "евакуација",
+  "ru": "эвакуация",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "f",
+  "ex": {
+   "cyr": "Евакуација села почела је у зору.",
+   "lat": "Evakuacija sela počela je u zoru.",
+   "ru": "Эвакуация села началась на рассвете."
+  }
+ },
+ {
+  "id": "w4263",
+  "order": 4263,
+  "level": "B2",
+  "cyr": "активиста",
+  "lat": "aktivista",
+  "tr": "активиста",
+  "ru": "активист",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Активисти су сакупили хиљаду потписа.",
+   "lat": "Aktivisti su sakupili hiljadu potpisa.",
+   "ru": "Активисты собрали тысячу подписей."
+  }
+ },
+ {
+  "id": "w4264",
+  "order": 4264,
+  "level": "B2",
+  "cyr": "донација",
+  "lat": "donacija",
+  "tr": "донација",
+  "ru": "пожертвование; донация",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Донације су сабране за два дана.",
+   "lat": "Donacije su sabrane za dva dana.",
+   "ru": "Пожертвования собрали за два дня."
+  }
+ },
+ {
+  "id": "w4265",
+  "order": 4265,
+  "level": "B2",
+  "cyr": "респиратор",
+  "lat": "respirator",
+  "tr": "респиратор",
+  "ru": "респиратор",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Респиратор је обавезан у данима смога.",
+   "lat": "Respirator je obavezan u danima smoga.",
+   "ru": "Респиратор обязателен в дни смога."
+  }
+ },
+ {
+  "id": "w4266",
+  "order": 4266,
+  "level": "B2",
+  "cyr": "хектар",
+  "lat": "hektar",
+  "tr": "хектар",
+  "ru": "гектар",
+  "pos": "noun",
+  "cat": "numbers",
+  "gender": "m",
+  "ex": {
+   "cyr": "Хектар старог винограда замењен је младицама.",
+   "lat": "Hektar starog vinograda zamenjen je mladicama.",
+   "ru": "Гектар старого винограда заменён саженцами."
+  }
+ },
+ {
+  "id": "w4267",
+  "order": 4267,
+  "level": "B2",
+  "cyr": "метеоролог",
+  "lat": "meteorolog",
+  "tr": "метеоролог",
+  "ru": "метеоролог",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "m",
+  "ex": {
+   "cyr": "Метеоролози су тачно најавили удар невремена.",
+   "lat": "Meteorolozi su tačno najavili udar nevremena.",
+   "ru": "Метеорологи точно объявили удар непогоды."
+  }
+ },
+ {
+  "id": "w4268",
+  "order": 4268,
+  "level": "B2",
+  "cyr": "бара",
+  "lat": "bara",
+  "tr": "бара",
+  "ru": "лужа; болотце",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Бара у шуми је лети пуна жаба.",
+   "lat": "Bara u šumi je leti puna žaba.",
+   "ru": "Лужа в лесу летом полна жаб."
+  }
+ },
+ {
+  "id": "w4269",
+  "order": 4269,
+  "level": "B2",
+  "cyr": "баланс",
+  "lat": "balans",
+  "tr": "баланс",
+  "ru": "баланс",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Баланс између поља и природе је крхак.",
+   "lat": "Balans između polja i prirode je krhak.",
+   "ru": "Баланс между полями и природой хрупок."
+  }
+ },
+ {
+  "id": "w4270",
+  "order": 4270,
+  "level": "B2",
+  "cyr": "виноградник",
+  "lat": "vinogradnik",
+  "tr": "виноградник",
+  "ru": "виноградник",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Виноградник је проширен за два хектара.",
+   "lat": "Vinogradnik je proširen za dva hektara.",
+   "ru": "Виноградник расширен на два гектара."
+  }
+ },
+ {
+  "id": "w4271",
+  "order": 4271,
+  "level": "B2",
+  "cyr": "воћар",
+  "lat": "voćar",
+  "tr": "вочар",
+  "ru": "садовод",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Воћар обрезује гране у првим топлим данима.",
+   "lat": "Voćar obrezuje grane u prvim toplim danima.",
+   "ru": "Садовод обрезывает ветки в первые тёплые дни."
+  }
+ },
+ {
+  "id": "w4272",
+  "order": 4272,
+  "level": "B2",
+  "cyr": "ветропарк",
+  "lat": "vetropark",
+  "tr": "ветропарк",
+  "ru": "ветряная ферма",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ветропарк покрива трећину потрошње читавог краја.",
+   "lat": "Vetropark pokriva trećinu potrošnje čitavog kraja.",
+   "ru": "Ветропарк покрывает треть потребления всего края."
+  }
+ },
+ {
+  "id": "w4273",
+  "order": 4273,
+  "level": "B2",
+  "cyr": "ждребе",
+  "lat": "ždrebe",
+  "tr": "ждребе",
+  "ru": "жеребёнок",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ждребе јури поред кобиле по ливади.",
+   "lat": "Ždrebe juri pored kobile po livadi.",
+   "ru": "Жеребёнок носится рядом с кобылой по лугу."
+  }
+ },
+ {
+  "id": "w4274",
+  "order": 4274,
+  "level": "B2",
+  "cyr": "ветровит",
+  "lat": "vetrovit",
+  "tr": "ветровит",
+  "ru": "ветреный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ветровит врх је идеалан за панеле.",
+   "lat": "Vetrovit vrh je idealan za panele.",
+   "ru": "Ветреная вершина идеальна для панелей."
+  }
+ },
+ {
+  "id": "w4275",
+  "order": 4275,
+  "level": "B2",
+  "cyr": "громобран",
+  "lat": "gromobran",
+  "tr": "громобран",
+  "ru": "громоотвод",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "m",
+  "ex": {
+   "cyr": "Громобран је постављен на кров.",
+   "lat": "Gromobran je postavljen na krov.",
+   "ru": "Громоотвод установлен на крышу."
+  }
+ },
+ {
+  "id": "w4276",
+  "order": 4276,
+  "level": "B2",
+  "cyr": "затопити",
+  "lat": "zatopiti",
+  "tr": "затопити",
+  "ru": "затопить (о воде)",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Таласи су затопили доњи део луке.",
+   "lat": "Talasi su zatopili donji deo luke.",
+   "ru": "Волны затопили нижнюю часть порта."
+  }
+ },
+ {
+  "id": "w4277",
+  "order": 4277,
+  "level": "B2",
+  "cyr": "лагуна",
+  "lat": "laguna",
+  "tr": "лагуна",
+  "ru": "лагуна",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "f",
+  "ex": {
+   "cyr": "Лагуна је бледозелена и сасвим плитка.",
+   "lat": "Laguna je bledozelena i sasvim plitka.",
+   "ru": "Лагуна бледно-зелёная и совсем мелкая."
+  }
+ },
+ {
+  "id": "w4278",
+  "order": 4278,
+  "level": "B2",
+  "cyr": "канализација",
+  "lat": "kanalizacija",
+  "tr": "канализација",
+  "ru": "канализация",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "f",
+  "ex": {
+   "cyr": "Реконструкција канализације почела је у старом граду.",
+   "lat": "Rekonstrukcija kanalizacije počela je u starom gradu.",
+   "ru": "Реконструкция канализации началась в старом городе."
+  }
+ },
+ {
+  "id": "w4279",
+  "order": 4279,
+  "level": "B2",
+  "cyr": "добровољац",
+  "lat": "dobrovoljac",
+  "tr": "доброволяц",
+  "ru": "доброволец",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Добровољци су песком учврстили насип.",
+   "lat": "Dobrovoljci su peskom učvrstili nasip.",
+   "ru": "Добровольцы укрепили насыпь песком."
+  }
+ },
+ {
+  "id": "w4280",
+  "order": 4280,
+  "level": "B2",
+  "cyr": "испорука",
+  "lat": "isporuka",
+  "tr": "испорука",
+  "ru": "доставка",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Испорука жита је почела јуче.",
+   "lat": "Isporuka žita je počela juče.",
+   "ru": "Доставка зерна началась вчера."
+  }
+ },
+ {
+  "id": "w4281",
+  "order": 4281,
+  "level": "B2",
+  "cyr": "смог",
+  "lat": "smog",
+  "tr": "смог",
+  "ru": "смог",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Смог се држи над градом цео јануар.",
+   "lat": "Smog se drži nad gradom ceo januar.",
+   "ru": "Смог держится над городом весь январь."
+  }
+ },
+ {
+  "id": "w4282",
+  "order": 4282,
+  "level": "B2",
+  "cyr": "биоразноврсност",
+  "lat": "bioraznovrsnost",
+  "tr": "биоразноврсност",
+  "ru": "биоразнообразие",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Биоразноврсност мочвара је изненађујуће велика.",
+   "lat": "Bioraznovrsnost močvara je iznenađujuće velika.",
+   "ru": "Биоразнообразие болот удивительно велико."
+  }
+ },
+ {
+  "id": "w4283",
+  "order": 4283,
+  "level": "B2",
+  "cyr": "гашење",
+  "lat": "gašenje",
+  "tr": "гашенье",
+  "ru": "тушение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Гашење пожара је трајало до јутра.",
+   "lat": "Gašenje požara je trajalo do jutra.",
+   "ru": "Тушение пожара продолжалось до утра."
+  }
+ },
+ {
+  "id": "w4284",
+  "order": 4284,
+  "level": "B2",
+  "cyr": "воденица",
+  "lat": "vodenica",
+  "tr": "воденица",
+  "ru": "водяная мельница",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара воденица је меље жито за село.",
+   "lat": "Stara vodenica je melje žito za selo.",
+   "ru": "Старая водяная мельница мелет зерно для села."
+  }
+ },
+ {
+  "id": "w4285",
+  "order": 4285,
+  "level": "B2",
+  "cyr": "енергетика",
+  "lat": "energetika",
+  "tr": "енергетика",
+  "ru": "энергетика",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Енергетика је окосница целе привреде.",
+   "lat": "Energetika je okosnica cele privrede.",
+   "ru": "Энергетика — основа всей экономики."
+  }
+ },
+ {
+  "id": "w4286",
+  "order": 4286,
+  "level": "B2",
+  "cyr": "гасовод",
+  "lat": "gasovod",
+  "tr": "гасовод",
+  "ru": "газопровод",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гасовод снабдева градове и преко највећих хладноћа.",
+   "lat": "Gasovod snabdeva gradove i preko najvećih hladnoća.",
+   "ru": "Газопровод снабжает города даже в самые лютые холода."
+  }
+ },
+ {
+  "id": "w4287",
+  "order": 4287,
+  "level": "B2",
+  "cyr": "зимница",
+  "lat": "zimnica",
+  "tr": "зимница",
+  "ru": "кормушка для дичи",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Зимнице за дивљач постављају се у јесен.",
+   "lat": "Zimnice za divljač postavljaju se u jesen.",
+   "ru": "Кормушки для дичи ставят осенью."
+  }
+ },
+ {
+  "id": "w4288",
+  "order": 4288,
+  "level": "B2",
+  "cyr": "еколошки",
+  "lat": "ekološki",
+  "tr": "еколошки",
+  "ru": "экологический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Нови еколошки стандарди ступају на снагу.",
+   "lat": "Novi ekološki standardi stupaju na snagu.",
+   "ru": "Новые экологические стандарты вступают в силу."
+  }
+ },
+ {
+  "id": "w4289",
+  "order": 4289,
+  "level": "B2",
+  "cyr": "котао",
+  "lat": "kotao",
+  "tr": "котао",
+  "ru": "котёл",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "m",
+  "ex": {
+   "cyr": "Котао је топлио читаву зграду.",
+   "lat": "Kotao je toplio čitavu zgradu.",
+   "ru": "Котёл отапливал всё здание."
+  }
+ },
+ {
+  "id": "w4290",
+  "order": 4290,
+  "level": "B2",
+  "cyr": "исушити",
+  "lat": "isušiti",
+  "tr": "исушити",
+  "ru": "осушить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Мочвара је исушена ради ораница.",
+   "lat": "Močvara je isušena radi oranica.",
+   "ru": "Болото осушено ради пашни."
+  }
+ },
+ {
+  "id": "w4291",
+  "order": 4291,
+  "level": "B2",
+  "cyr": "ловиште",
+  "lat": "lovište",
+  "tr": "ловиште",
+  "ru": "охотничьи угодья",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ловиште је отворено од октобра.",
+   "lat": "Lovište je otvoreno od oktobra.",
+   "ru": "Охотничьи угодья открыты с октября."
+  }
+ },
+ {
+  "id": "w4292",
+  "order": 4292,
+  "level": "B2",
+  "cyr": "насип",
+  "lat": "nasip",
+  "tr": "насип",
+  "ru": "насыпь; дамба",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "m",
+  "ex": {
+   "cyr": "Насип је издржао све до зоре.",
+   "lat": "Nasip je izdržao sve do zore.",
+   "ru": "Насыпь выдержала до самого рассвета."
+  }
+ },
+ {
+  "id": "w4293",
+  "order": 4293,
+  "level": "B2",
+  "cyr": "ловокрадац",
+  "lat": "lovokradac",
+  "tr": "ловокрадац",
+  "ru": "браконьер",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ловокрадце кажњавају високе новчане казне.",
+   "lat": "Lovokradce kažnjavaju visoke novčane kazne.",
+   "ru": "Браконьеров карают высокие денежные штрафы."
+  }
+ },
+ {
+  "id": "w4294",
+  "order": 4294,
+  "level": "B2",
+  "cyr": "принос",
+  "lat": "prinos",
+  "tr": "принос",
+  "ru": "урожайность; доход",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Приноси расту уз проширење наводњавања.",
+   "lat": "Prinosi rastu uz proširenje navodnjavanja.",
+   "ru": "Урожайность растёт с расширением орошения."
+  }
+ },
+ {
+  "id": "w4295",
+  "order": 4295,
+  "level": "B2",
+  "cyr": "биосфера",
+  "lat": "biosfera",
+  "tr": "биосфера",
+  "ru": "биосфера",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Биосфера је простор целог живог света.",
+   "lat": "Biosfera je prostor celog živog sveta.",
+   "ru": "Биосфера — пространство всего живого мира."
+  }
+ },
+ {
+  "id": "w4296",
+  "order": 4296,
+  "level": "B2",
+  "cyr": "горење",
+  "lat": "gorenje",
+  "tr": "горенье",
+  "ru": "горение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Горење је трајало све до зоре.",
+   "lat": "Gorenje je trajalo sve do zore.",
+   "ru": "Горение продолжалось до самой зари."
+  }
+ },
+ {
+  "id": "w4297",
+  "order": 4297,
+  "level": "B2",
+  "cyr": "вргањ",
+  "lat": "vrganj",
+  "tr": "вргань",
+  "ru": "белый гриб",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Вргањи излазе под храстима после киша.",
+   "lat": "Vrganji izlaze pod hrastima posle kiša.",
+   "ru": "Белые грибы выходят под дубами после дождей."
+  }
+ },
+ {
+  "id": "w4298",
+  "order": 4298,
+  "level": "B2",
+  "cyr": "каменолом",
+  "lat": "kamenolom",
+  "tr": "каменолом",
+  "ru": "каменоломня",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Каменолом испоручује блокове за градилиште.",
+   "lat": "Kamenolom isporučuje blokove za gradilište.",
+   "ru": "Каменоломня поставляет блоки для стройки."
+  }
+ },
+ {
+  "id": "w4299",
+  "order": 4299,
+  "level": "B2",
+  "cyr": "далековод",
+  "lat": "dalekovod",
+  "tr": "далековод",
+  "ru": "ЛЭП; линия электропередачи",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Далековод преко брда снабдева град струјом.",
+   "lat": "Dalekovod preko brda snabdeva grad strujom.",
+   "ru": "ЛЭП через гору снабжает город током."
+  }
+ },
+ {
+  "id": "w4300",
+  "order": 4300,
+  "level": "B2",
+  "cyr": "куна",
+  "lat": "kuna",
+  "tr": "куна",
+  "ru": "куница",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Куна је пала у замку.",
+   "lat": "Kuna je pala u zamku.",
+   "ru": "Куница попала в капкан."
+  }
+ },
+ {
+  "id": "w4301",
+  "order": 4301,
+  "level": "B2",
+  "cyr": "загушљив",
+  "lat": "zagušljiv",
+  "tr": "загушлив",
+  "ru": "душный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ваздух је загушљив пре грмљавине.",
+   "lat": "Vazduh je zagušljiv pre grmljavine.",
+   "ru": "Воздух душный перед грозой."
+  }
+ },
+ {
+  "id": "w4302",
+  "order": 4302,
+  "level": "B2",
+  "cyr": "котларница",
+  "lat": "kotlarnica",
+  "tr": "котларница",
+  "ru": "котельная",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Котларница је топила читаво насеље.",
+   "lat": "Kotlarnica je topila čitavo naselje.",
+   "ru": "Котельная отапливала всё поселение."
+  }
+ },
+ {
+  "id": "w4303",
+  "order": 4303,
+  "level": "B2",
+  "cyr": "млети",
+  "lat": "mleti",
+  "tr": "млети",
+  "ru": "молоть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Млеве жито у старој ветрењачи уз реку.",
+   "lat": "Mleve žito u staroj vetrenjači uz reku.",
+   "ru": "Мелют зерно в старой мельнице у реки."
+  }
+ },
+ {
+  "id": "w4304",
+  "order": 4304,
+  "level": "B2",
+  "cyr": "мореуз",
+  "lat": "moreuz",
+  "tr": "мореуз",
+  "ru": "пролив",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кроз мореуз дневно прође стотине бродова.",
+   "lat": "Kroz moreuz dnevno prođe stotine brodova.",
+   "ru": "Через пролив ежедневно проходят сотни судов."
+  }
+ },
+ {
+  "id": "w4305",
+  "order": 4305,
+  "level": "B2",
+  "cyr": "сирена",
+  "lat": "sirena",
+  "tr": "сирена",
+  "ru": "сирена",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сирене су јавиле нови удар ветра.",
+   "lat": "Sirene su javile novi udar vetra.",
+   "ru": "Сирены сообщили о новом ударе ветра."
+  }
+ },
+ {
+  "id": "w4306",
+  "order": 4306,
+  "level": "B2",
+  "cyr": "спашавање",
+  "lat": "spašavanje",
+  "tr": "спашаванье",
+  "ru": "спасение",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "n",
+  "ex": {
+   "cyr": "Спашавање стоке трајало је цео дан.",
+   "lat": "Spašavanje stoke trajalo je ceo dan.",
+   "ru": "Спасение скота продолжалось весь день."
+  }
+ },
+ {
+  "id": "w4307",
+  "order": 4307,
+  "level": "B2",
+  "cyr": "брест",
+  "lat": "brest",
+  "tr": "брест",
+  "ru": "вяз",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Брест је осенио читаво двориште.",
+   "lat": "Brest je osenio čitavo dvorište.",
+   "ru": "Вяз затенил весь двор."
+  }
+ },
+ {
+  "id": "w4308",
+  "order": 4308,
+  "level": "B2",
+  "cyr": "гранит",
+  "lat": "granit",
+  "tr": "гранит",
+  "ru": "гранит",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гранит није попустио ни под најжешћим ударима.",
+   "lat": "Granit nije popustio ni pod najžešćim udarima.",
+   "ru": "Гранит не поддался даже самым жёстким ударам."
+  }
+ },
+ {
+  "id": "w4309",
+  "order": 4309,
+  "level": "B2",
+  "cyr": "дуван",
+  "lat": "duvan",
+  "tr": "дуван",
+  "ru": "табак",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дуван захтева дуготрајну ручну обраду.",
+   "lat": "Duvan zahteva dugotrajnu ručnu obradu.",
+   "ru": "Табак требует долгой ручной обработки."
+  }
+ },
+ {
+  "id": "w4310",
+  "order": 4310,
+  "level": "B2",
+  "cyr": "каменорезац",
+  "lat": "kamenorezac",
+  "tr": "каменорезац",
+  "ru": "каменотёс",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Каменорезац је урезао име у плочу.",
+   "lat": "Kamenorezac je urezao ime u ploču.",
+   "ru": "Каменотёс вырезал имя в плите."
+  }
+ },
+ {
+  "id": "w4311",
+  "order": 4311,
+  "level": "B2",
+  "cyr": "лигнит",
+  "lat": "lignit",
+  "tr": "лигнит",
+  "ru": "бурый уголь",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Лигнит из копова гре читав крај.",
+   "lat": "Lignit iz kopova gre čitav kraj.",
+   "ru": "Бурый уголь из шахт греет весь край."
+  }
+ },
+ {
+  "id": "w4312",
+  "order": 4312,
+  "level": "B2",
+  "cyr": "мазга",
+  "lat": "mazga",
+  "tr": "мазга",
+  "ru": "мул",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мазга је прошла кроз кланац.",
+   "lat": "Mazga je prošla kroz klanac.",
+   "ru": "Мул прошёл через ущелье."
+  }
+ },
+ {
+  "id": "w4313",
+  "order": 4313,
+  "level": "B2",
+  "cyr": "инвазиван",
+  "lat": "invazivan",
+  "tr": "инвазиван",
+  "ru": "инвазивный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Инвазивне врсте потискују домаће биљке.",
+   "lat": "Invazivne vrste potiskuju domaće biljke.",
+   "ru": "Инвазивные виды вытесняют местные растения."
+  }
+ },
+ {
+  "id": "w4314",
+  "order": 4314,
+  "level": "B2",
+  "cyr": "леденица",
+  "lat": "ledenica",
+  "tr": "леденица",
+  "ru": "ледник (погреб)",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Леденица је чувала храну цео годиш.",
+   "lat": "Ledenica je čuvala hranu ceo godiš.",
+   "ru": "Ледник хранил еду всё лето."
+  }
+ },
+ {
+  "id": "w4315",
+  "order": 4315,
+  "level": "B2",
+  "cyr": "насадити",
+  "lat": "nasaditi",
+  "tr": "насадити",
+  "ru": "посадить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Насадили су липе дуж целе нове алеје.",
+   "lat": "Nasadili su lipe duž cele nove aleje.",
+   "ru": "Посадили липы вдоль всей новой аллеи."
+  }
+ },
+ {
+  "id": "w4316",
+  "order": 4316,
+  "level": "B2",
+  "cyr": "предел",
+  "lat": "predel",
+  "tr": "предел",
+  "ru": "местность; край",
+  "pos": "noun",
+  "cat": "travel",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај предел одликује се благим зимама.",
+   "lat": "Ovaj predel odlikuje se blagim zimama.",
+   "ru": "Эта местность отличается мягкими зимами."
+  }
+ },
+ {
+  "id": "w4317",
+  "order": 4317,
+  "level": "B2",
+  "cyr": "бљузгавица",
+  "lat": "bljuzgavica",
+  "tr": "блюзгавица",
+  "ru": "слякоть",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Бљузгавица је покварила планирани излет.",
+   "lat": "Bljuzgavica je pokvarila planirani izlet.",
+   "ru": "Слякоть испортила запланированную прогулку."
+  }
+ },
+ {
+  "id": "w4318",
+  "order": 4318,
+  "level": "B2",
+  "cyr": "дим",
+  "lat": "dim",
+  "tr": "дим",
+  "ru": "дым",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дим је излазио из свих прозора.",
+   "lat": "Dim je izlazio iz svih prozora.",
+   "ru": "Дым выходил из всех окон."
+  }
+ },
+ {
+  "id": "w4319",
+  "order": 4319,
+  "level": "B2",
+  "cyr": "клас",
+  "lat": "klas",
+  "tr": "клас",
+  "ru": "колос",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Клас је ове године тежак зрном.",
+   "lat": "Klas je ove godine težak zrnom.",
+   "ru": "Колос в этом году тяжёл зерном."
+  }
+ },
+ {
+  "id": "w4320",
+  "order": 4320,
+  "level": "B2",
+  "cyr": "коп",
+  "lat": "kop",
+  "tr": "коп",
+  "ru": "шахта; карьер",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Коп је затворен пре првих мразева.",
+   "lat": "Kop je zatvoren pre prvih mrazeva.",
+   "ru": "Шахта закрыта перед первыми морозами."
+  }
+ },
+ {
+  "id": "w4321",
+  "order": 4321,
+  "level": "B2",
+  "cyr": "нафта",
+  "lat": "nafta",
+  "tr": "нафта",
+  "ru": "нефть",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Нафта је скупља у зимским месецима.",
+   "lat": "Nafta je skuplja u zimskim mesecima.",
+   "ru": "Нефть дороже в зимние месяцы."
+  }
+ },
+ {
+  "id": "w4322",
+  "order": 4322,
+  "level": "B2",
+  "cyr": "пума",
+  "lat": "puma",
+  "tr": "пума",
+  "ru": "пума",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пума је ноћу вребала овце.",
+   "lat": "Puma je noću vrebala ovce.",
+   "ru": "Пума ночью подстерегала овец."
+  }
+ },
+ {
+  "id": "w4323",
+  "order": 4323,
+  "level": "B2",
+  "cyr": "катастрофичан",
+  "lat": "katastrofičan",
+  "tr": "катастрофичан",
+  "ru": "катастрофический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Штете су катастрофичне у целој низији.",
+   "lat": "Štete su katastrofične u celoj niziji.",
+   "ru": "Убытки катастрофичны во всей низменности."
+  }
+ },
+ {
+  "id": "w4324",
+  "order": 4324,
+  "level": "B2",
+  "cyr": "рушевина",
+  "lat": "ruševina",
+  "tr": "рушевина",
+  "ru": "развалина; руина",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Након пожара остале су само угљенисане рушевине.",
+   "lat": "Nakon požara ostale su samo ugljenisane ruševine.",
+   "ru": "После пожара остались лишь обугленные развалины."
+  }
+ },
+ {
+  "id": "w4325",
+  "order": 4325,
+  "level": "B2",
+  "cyr": "посејати",
+  "lat": "posejati",
+  "tr": "посејати",
+  "ru": "посеять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Посејали су шаргарепу уз саму ограду.",
+   "lat": "Posejali su šargarepu uz samu ogradu.",
+   "ru": "Посеяли морковь у самой ограды."
+  }
+ },
+ {
+  "id": "w4326",
+  "order": 4326,
+  "level": "B2",
+  "cyr": "надморска висина",
+  "lat": "nadmorska visina",
+  "tr": "надморска висина",
+  "ru": "высота над уровнем моря",
+  "pos": "phrase",
+  "cat": "travel",
+  "ex": {
+   "cyr": "Надморска висина врха је готово три километра.",
+   "lat": "Nadmorska visina vrha je gotovo tri kilometra.",
+   "ru": "Высота вершины почти три километра."
+  }
+ },
+ {
+  "id": "w4327",
+  "order": 4327,
+  "level": "B2",
+  "cyr": "вир",
+  "lat": "vir",
+  "tr": "вир",
+  "ru": "омут; пучина",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "У виру испод млина живи највећи шаран.",
+   "lat": "U viru ispod mlina živi najveći šaran.",
+   "ru": "В омуте у мельницы живёт самый большой карп."
+  }
+ },
+ {
+  "id": "w4328",
+  "order": 4328,
+  "level": "B2",
+  "cyr": "дренажа",
+  "lat": "drenaža",
+  "tr": "дренажа",
+  "ru": "дренаж",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дренажа је исушила мокро тло.",
+   "lat": "Drenaža je isušila mokro tlo.",
+   "ru": "Дренаж осушил мокрую почву."
+  }
+ },
+ {
+  "id": "w4329",
+  "order": 4329,
+  "level": "B2",
+  "cyr": "кошење",
+  "lat": "košenje",
+  "tr": "кошенье",
+  "ru": "косьба",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "n",
+  "ex": {
+   "cyr": "Кошење ливаде је трајало до подне.",
+   "lat": "Košenje livade je trajalo do podne.",
+   "ru": "Косьба луга продолжалась до полудня."
+  }
+ },
+ {
+  "id": "w4330",
+  "order": 4330,
+  "level": "B2",
+  "cyr": "механизација",
+  "lat": "mehanizacija",
+  "tr": "механизација",
+  "ru": "механизация",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Механизација је готово потпуно заменила ручни рад.",
+   "lat": "Mehanizacija je gotovo potpuno zamenila ručni rad.",
+   "ru": "Механизация почти полностью заменила ручной труд."
+  }
+ },
+ {
+  "id": "w4331",
+  "order": 4331,
+  "level": "B2",
+  "cyr": "нафтовод",
+  "lat": "naftovod",
+  "tr": "нафтовод",
+  "ru": "нефтепровод",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Нафтовод иде све до рафинерије на обали.",
+   "lat": "Naftovod ide sve do rafinerije na obali.",
+   "ru": "Нефтепровод идёт до самого завода на побережье."
+  }
+ },
+ {
+  "id": "w4332",
+  "order": 4332,
+  "level": "B2",
+  "cyr": "селица",
+  "lat": "selica",
+  "tr": "селица",
+  "ru": "перелётная птица",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Селице стижу десетак дана раније него обично.",
+   "lat": "Selice stižu desetak dana ranije nego obično.",
+   "ru": "Перелётные птицы прибывают дней на десять раньше обычного."
+  }
+ },
+ {
+  "id": "w4333",
+  "order": 4333,
+  "level": "B2",
+  "cyr": "кишовит",
+  "lat": "kišovit",
+  "tr": "кишовит",
+  "ru": "дождливый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Кишовит октобар одложио је бербу јабука.",
+   "lat": "Kišovit oktobar odložio je berbu jabuka.",
+   "ru": "Дождливый октябрь отложил сбор яблок."
+  }
+ },
+ {
+  "id": "w4334",
+  "order": 4334,
+  "level": "B2",
+  "cyr": "салаш",
+  "lat": "salaš",
+  "tr": "салаш",
+  "ru": "хутор",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "m",
+  "ex": {
+   "cyr": "Салаш у равници је мирно место.",
+   "lat": "Salaš u ravnici je mirno mesto.",
+   "ru": "Хутор в равнине — спокойное место."
+  }
+ },
+ {
+  "id": "w4335",
+  "order": 4335,
+  "level": "B2",
+  "cyr": "убрати",
+  "lat": "ubrati",
+  "tr": "убрати",
+  "ru": "собрать урожай",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Убрао је три сандука бресака са стабла.",
+   "lat": "Ubrao je tri sanduka bresaka sa stabla.",
+   "ru": "Собрал три ящика персиков с дерева."
+  }
+ },
+ {
+  "id": "w4336",
+  "order": 4336,
+  "level": "B2",
+  "cyr": "врелина",
+  "lat": "vrelina",
+  "tr": "врелина",
+  "ru": "жара; зной",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Врелина држи низију од јутра до мрака.",
+   "lat": "Vrelina drži niziju od jutra do mraka.",
+   "ru": "Зной держит низменность от утра до темноты."
+  }
+ },
+ {
+  "id": "w4337",
+  "order": 4337,
+  "level": "B2",
+  "cyr": "енергија",
+  "lat": "energija",
+  "tr": "енергија",
+  "ru": "энергия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Енергија ветра покрива све већи део потражње.",
+   "lat": "Energija vetra pokriva sve veći deo potražnje.",
+   "ru": "Энергия ветра покрывает всё большую часть спроса."
+  }
+ },
+ {
+  "id": "w4338",
+  "order": 4338,
+  "level": "B2",
+  "cyr": "међа",
+  "lat": "međa",
+  "tr": "меджа",
+  "ru": "межа",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "f",
+  "ex": {
+   "cyr": "Међа између њива је зарасла у траву.",
+   "lat": "Međa između njiva je zarasla u travu.",
+   "ru": "Межа между полями заросла травой."
+  }
+ },
+ {
+  "id": "w4339",
+  "order": 4339,
+  "level": "B2",
+  "cyr": "млинар",
+  "lat": "mlinar",
+  "tr": "млинар",
+  "ru": "мельник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Млинар је јутрос поправио точак.",
+   "lat": "Mlinar je jutros popravio točak.",
+   "ru": "Мельник утром починил колесо."
+  }
+ },
+ {
+  "id": "w4340",
+  "order": 4340,
+  "level": "B2",
+  "cyr": "панел",
+  "lat": "panel",
+  "tr": "панел",
+  "ru": "панель",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Панели на крову очишћени су пре лета.",
+   "lat": "Paneli na krovu očišćeni su pre leta.",
+   "ru": "Панели на крыше очищены перед летом."
+  }
+ },
+ {
+  "id": "w4341",
+  "order": 4341,
+  "level": "B2",
+  "cyr": "сом",
+  "lat": "som",
+  "tr": "сом",
+  "ru": "сом",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сом се крије у најдубљем виру.",
+   "lat": "Som se krije u najdubljem viru.",
+   "ru": "Сом прячется в самом глубоком омуте."
+  }
+ },
+ {
+  "id": "w4342",
+  "order": 4342,
+  "level": "B2",
+  "cyr": "мрки",
+  "lat": "mrki",
+  "tr": "мрки",
+  "ru": "бурый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Мрки орао је кружио над клисуром.",
+   "lat": "Mrki orao je kružio nad klisurom.",
+   "ru": "Бурый орёл кружил над ущельем."
+  }
+ },
+ {
+  "id": "w4343",
+  "order": 4343,
+  "level": "B2",
+  "cyr": "складиште",
+  "lat": "skladište",
+  "tr": "складиште",
+  "ru": "склад",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "n",
+  "ex": {
+   "cyr": "Складиште жита је испуњено до крова.",
+   "lat": "Skladište žita je ispunjeno do krova.",
+   "ru": "Склад зерна наполнен до крыши."
+  }
+ },
+ {
+  "id": "w4344",
+  "order": 4344,
+  "level": "B2",
+  "cyr": "гај",
+  "lat": "gaj",
+  "tr": "гај",
+  "ru": "роща; сад",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Деца се крију у гају.",
+   "lat": "Deca se kriju u gaju.",
+   "ru": "Дети прячутся в роще."
+  }
+ },
+ {
+  "id": "w4345",
+  "order": 4345,
+  "level": "B2",
+  "cyr": "жар",
+  "lat": "žar",
+  "tr": "жар",
+  "ru": "жар",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Жар из пећи је грејао читаву собу.",
+   "lat": "Žar iz peći je grejao čitavu sobu.",
+   "ru": "Жар из печи грел всю комнату."
+  }
+ },
+ {
+  "id": "w4346",
+  "order": 4346,
+  "level": "B2",
+  "cyr": "нана",
+  "lat": "nana",
+  "tr": "нана",
+  "ru": "мята",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "f",
+  "ex": {
+   "cyr": "Нана је најбоља за чај.",
+   "lat": "Nana je najbolja za čaj.",
+   "ru": "Мята лучшая для чая."
+  }
+ },
+ {
+  "id": "w4347",
+  "order": 4347,
+  "level": "B2",
+  "cyr": "овоштарство",
+  "lat": "ovoštarstvo",
+  "tr": "овоштарство",
+  "ru": "садоводство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Овоштарство напредује у брежуљкастим крајевима.",
+   "lat": "Ovoštarstvo napreduje u brežuljkastim krajevima.",
+   "ru": "Садоводство развивается в холмистых краях."
+  }
+ },
+ {
+  "id": "w4348",
+  "order": 4348,
+  "level": "B2",
+  "cyr": "пелет",
+  "lat": "pelet",
+  "tr": "пелет",
+  "ru": "пеллеты",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пелет гре читаву кућу.",
+   "lat": "Pelet gre čitavu kuću.",
+   "ru": "Пеллеты греют весь дом."
+  }
+ },
+ {
+  "id": "w4349",
+  "order": 4349,
+  "level": "B2",
+  "cyr": "срндаћ",
+  "lat": "srndać",
+  "tr": "срндач",
+  "ru": "олень-самец",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Срндаћ је пршнуо из грмља.",
+   "lat": "Srndać je pršnuo iz grmlja.",
+   "ru": "Олень-самец рванул из кустарника."
+  }
+ },
+ {
+  "id": "w4350",
+  "order": 4350,
+  "level": "B2",
+  "cyr": "олујан",
+  "lat": "olujan",
+  "tr": "олујан",
+  "ru": "штормовой",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Олујан ветар је кидао кровове.",
+   "lat": "Olujan vetar je kidao krovove.",
+   "ru": "Штормовой ветер рвал крыши."
+  }
+ },
+ {
+  "id": "w4351",
+  "order": 4351,
+  "level": "B2",
+  "cyr": "склониште",
+  "lat": "sklonište",
+  "tr": "склониште",
+  "ru": "укрытие; убежище",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "n",
+  "ex": {
+   "cyr": "Подрум школе је склониште при невремену.",
+   "lat": "Podrum škole je sklonište pri nevremenu.",
+   "ru": "Подвал школы — укрытие при непогоде."
+  }
+ },
+ {
+  "id": "w4352",
+  "order": 4352,
+  "level": "B2",
+  "cyr": "гејзир",
+  "lat": "gejzir",
+  "tr": "гејзир",
+  "ru": "гейзер",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гејзир је фонтана вреле воде.",
+   "lat": "Gejzir je fontana vrele vode.",
+   "ru": "Гейзер — фонтан горячей воды."
+  }
+ },
+ {
+  "id": "w4353",
+  "order": 4353,
+  "level": "B2",
+  "cyr": "жива",
+  "lat": "živa",
+  "tr": "жива",
+  "ru": "ртуть",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Жива у старим термометрима је отровна.",
+   "lat": "Živa u starim termometrima je otrovna.",
+   "ru": "Ртуть в старых термометрах ядовита."
+  }
+ },
+ {
+  "id": "w4354",
+  "order": 4354,
+  "level": "B2",
+  "cyr": "овас",
+  "lat": "ovas",
+  "tr": "овас",
+  "ru": "овёс",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овас сазрева крајем јула.",
+   "lat": "Ovas sazreva krajem jula.",
+   "ru": "Овёс созревает в конце июля."
+  }
+ },
+ {
+  "id": "w4355",
+  "order": 4355,
+  "level": "B2",
+  "cyr": "повртарство",
+  "lat": "povrtarstvo",
+  "tr": "повртарство",
+  "ru": "овощеводство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Повртарство захтева наводњавање од маја.",
+   "lat": "Povrtarstvo zahteva navodnjavanje od maja.",
+   "ru": "Овощеводство требует орошения с мая."
+  }
+ },
+ {
+  "id": "w4356",
+  "order": 4356,
+  "level": "B2",
+  "cyr": "реактор",
+  "lat": "reaktor",
+  "tr": "реактор",
+  "ru": "реактор",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Реактор је заустављен ради ревизије.",
+   "lat": "Reaktor je zaustavljen radi revizije.",
+   "ru": "Реактор остановлен для ревизии."
+  }
+ },
+ {
+  "id": "w4357",
+  "order": 4357,
+  "level": "B2",
+  "cyr": "стадо",
+  "lat": "stado",
+  "tr": "стадо",
+  "ru": "стадо",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "n",
+  "ex": {
+   "cyr": "Стадо се сваког јутра пасе поред реке.",
+   "lat": "Stado se svakog jutra pase pored reke.",
+   "ru": "Стадо каждое утро пасётся у реки."
+  }
+ },
+ {
+  "id": "w4358",
+  "order": 4358,
+  "level": "B2",
+  "cyr": "разаран",
+  "lat": "razaran",
+  "tr": "разаран",
+  "ru": "разрушительный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Разаран потрес је срушио стари град.",
+   "lat": "Razaran potres je srušio stari grad.",
+   "ru": "Разрушительное землетрясение снесло старый город."
+  }
+ },
+ {
+  "id": "w4359",
+  "order": 4359,
+  "level": "B2",
+  "cyr": "термоизолација",
+  "lat": "termoizolacija",
+  "tr": "термоизолација",
+  "ru": "термоизоляция",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Термоизолација крова је умањила рачуне.",
+   "lat": "Termoizolacija krova je umanjila račune.",
+   "ru": "Термоизоляция крыши уменьшила счета."
+  }
+ },
+ {
+  "id": "w4360",
+  "order": 4360,
+  "level": "B2",
+  "cyr": "глечер",
+  "lat": "glečer",
+  "tr": "глечер",
+  "ru": "ледник",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Глечер се топи од јаког сунца.",
+   "lat": "Glečer se topi od jakog sunca.",
+   "ru": "Ледник тает от сильного солнца."
+  }
+ },
+ {
+  "id": "w4361",
+  "order": 4361,
+  "level": "B2",
+  "cyr": "завала",
+  "lat": "zavala",
+  "tr": "завала",
+  "ru": "завал",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Завала у руднику је отклоњена за дан.",
+   "lat": "Zavala u rudniku je otklonjena za dan.",
+   "ru": "Завал в руднике устранён за день."
+  }
+ },
+ {
+  "id": "w4362",
+  "order": 4362,
+  "level": "B2",
+  "cyr": "ораница",
+  "lat": "oranica",
+  "tr": "ораница",
+  "ru": "пашня",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "f",
+  "ex": {
+   "cyr": "Оранице чекају прву јесењу сетву.",
+   "lat": "Oranice čekaju prvu jesenju setvu.",
+   "ru": "Пашни ждут первого осеннего сева."
+  }
+ },
+ {
+  "id": "w4363",
+  "order": 4363,
+  "level": "B2",
+  "cyr": "погон",
+  "lat": "pogon",
+  "tr": "погон",
+  "ru": "производство; завод",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Погон је заустављен ради поправке.",
+   "lat": "Pogon je zaustavljen radi popravke.",
+   "ru": "Производство остановлено для починки."
+  }
+ },
+ {
+  "id": "w4364",
+  "order": 4364,
+  "level": "B2",
+  "cyr": "турбина",
+  "lat": "turbina",
+  "tr": "турбина",
+  "ru": "турбина",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Турбине раде без прекида читавог пролећа.",
+   "lat": "Turbine rade bez prekida čitavog proleća.",
+   "ru": "Турбины работают без перерыва всю весну."
+  }
+ },
+ {
+  "id": "w4365",
+  "order": 4365,
+  "level": "B2",
+  "cyr": "стеница",
+  "lat": "stenica",
+  "tr": "стеница",
+  "ru": "клоп",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стеница је пробушила лист купуса.",
+   "lat": "Stenica je probušila list kupusa.",
+   "ru": "Клоп проткнул лист капусты."
+  }
+ },
+ {
+  "id": "w4366",
+  "order": 4366,
+  "level": "B2",
+  "cyr": "сушан",
+  "lat": "sušan",
+  "tr": "сушан",
+  "ru": "засушливый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Сушан август опалио је све ливаде.",
+   "lat": "Sušan avgust opalio je sve livade.",
+   "ru": "Засушливый август опалил все луга."
+  }
+ },
+ {
+  "id": "w4367",
+  "order": 4367,
+  "level": "B2",
+  "cyr": "даљинско грејање",
+  "lat": "daljinsko grejanje",
+  "tr": "далинско грејанье",
+  "ru": "центральное отопление",
+  "pos": "phrase",
+  "cat": "home",
+  "ex": {
+   "cyr": "Даљинско грејање је пуштено у суботу.",
+   "lat": "Daljinsko grejanje je pušteno u subotu.",
+   "ru": "Центральное отопление запущено в субботу."
+  }
+ },
+ {
+  "id": "w4368",
+  "order": 4368,
+  "level": "B2",
+  "cyr": "градобија",
+  "lat": "gradobija",
+  "tr": "градобија",
+  "ru": "градобитие",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Градобија је уништила усев за минут.",
+   "lat": "Gradobija je uništila usev za minut.",
+   "ru": "Градобитие уничтожило урожай за минуту."
+  }
+ },
+ {
+  "id": "w4369",
+  "order": 4369,
+  "level": "B2",
+  "cyr": "изливање",
+  "lat": "izlivanje",
+  "tr": "изливанье",
+  "ru": "разлив; разливание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Изливање нафте угрозило је колоније морских птица.",
+   "lat": "Izlivanje nafte ugrozilo je kolonije morskih ptica.",
+   "ru": "Разлив нефти угрожал колониям морских птиц."
+  }
+ },
+ {
+  "id": "w4370",
+  "order": 4370,
+  "level": "B2",
+  "cyr": "орање",
+  "lat": "oranje",
+  "tr": "оранье",
+  "ru": "пахота",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "n",
+  "ex": {
+   "cyr": "Орање је почело одмах после жетве.",
+   "lat": "Oranje je počelo odmah posle žetve.",
+   "ru": "Пахота началась сразу после жатвы."
+  }
+ },
+ {
+  "id": "w4371",
+  "order": 4371,
+  "level": "B2",
+  "cyr": "производња",
+  "lat": "proizvodnja",
+  "tr": "производнья",
+  "ru": "производство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Производња без филтера забрањена је од јануара.",
+   "lat": "Proizvodnja bez filtera zabranjena je od januara.",
+   "ru": "Производство без фильтров запрещено с января."
+  }
+ },
+ {
+  "id": "w4372",
+  "order": 4372,
+  "level": "B2",
+  "cyr": "филтер",
+  "lat": "filter",
+  "tr": "филтер",
+  "ru": "фильтр",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Филтери на димњацима су од сада обавезни.",
+   "lat": "Filteri na dimnjacima su od sada obavezni.",
+   "ru": "Фильтры на дымовых трубах отныне обязательны."
+  }
+ },
+ {
+  "id": "w4373",
+  "order": 4373,
+  "level": "B2",
+  "cyr": "цврчак",
+  "lat": "cvrčak",
+  "tr": "цврчак",
+  "ru": "сверчок; кузнечик",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Цврчак је цврчао цео подне.",
+   "lat": "Cvrčak je cvrčao ceo podne.",
+   "ru": "Сверчок стрекотал весь полдень."
+  }
+ },
+ {
+  "id": "w4374",
+  "order": 4374,
+  "level": "B2",
+  "cyr": "тмуран",
+  "lat": "tmuran",
+  "tr": "тмуран",
+  "ru": "пасмурный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Тмуран дан је обећавао кишу.",
+   "lat": "Tmuran dan je obećavao kišu.",
+   "ru": "Пасмурный день обещал дождь."
+  }
+ },
+ {
+  "id": "w4375",
+  "order": 4375,
+  "level": "B2",
+  "cyr": "дебло",
+  "lat": "deblo",
+  "tr": "дебло",
+  "ru": "ствол",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Дебло старог храста тешко да обхвате двојица.",
+   "lat": "Deblo starog hrasta teško da obhvate dvojica.",
+   "ru": "Ствол старого дуба едва обхватят двое."
+  }
+ },
+ {
+  "id": "w4376",
+  "order": 4376,
+  "level": "B2",
+  "cyr": "искорењење",
+  "lat": "iskorenjenje",
+  "tr": "искореньенье",
+  "ru": "искоренение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Искорењење инвазивне врсте трајаће годинама.",
+   "lat": "Iskorenjenje invazivne vrste trajaće godinama.",
+   "ru": "Искоренение инвазивного вида продлится годами."
+  }
+ },
+ {
+  "id": "w4377",
+  "order": 4377,
+  "level": "B2",
+  "cyr": "пестицид",
+  "lat": "pesticid",
+  "tr": "пестицид",
+  "ru": "пестицид",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пестициде прскају само по мирном времену.",
+   "lat": "Pesticide prskaju samo po mirnom vremenu.",
+   "ru": "Пестицидами опрыскивают только в тихую погоду."
+  }
+ },
+ {
+  "id": "w4378",
+  "order": 4378,
+  "level": "B2",
+  "cyr": "пчеларство",
+  "lat": "pčelarstvo",
+  "tr": "пчеларство",
+  "ru": "пчеловодство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пчеларство напредује уз липове шуме.",
+   "lat": "Pčelarstvo napreduje uz lipove šume.",
+   "ru": "Пчеловодство развивается при липовых лесах."
+  }
+ },
+ {
+  "id": "w4379",
+  "order": 4379,
+  "level": "B2",
+  "cyr": "хидроелектрана",
+  "lat": "hidroelektrana",
+  "tr": "хидроелектрана",
+  "ru": "ГЭС",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хидроелектрана ради пуним капацитетом у пролеће.",
+   "lat": "Hidroelektrana radi punim kapacitetom u proleće.",
+   "ru": "ГЭС работает на полную мощность весной."
+  }
+ },
+ {
+  "id": "w4380",
+  "order": 4380,
+  "level": "B2",
+  "cyr": "шаран",
+  "lat": "šaran",
+  "tr": "шаран",
+  "ru": "карп",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "m",
+  "ex": {
+   "cyr": "Шаран је највећа риба овог вира.",
+   "lat": "Šaran je najveća riba ovog vira.",
+   "ru": "Карп самая большая рыба этого омута."
+  }
+ },
+ {
+  "id": "w4381",
+  "order": 4381,
+  "level": "B2",
+  "cyr": "хемијски",
+  "lat": "hemijski",
+  "tr": "хемијски",
+  "ru": "химический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Хемијски отпад је опасан за воду.",
+   "lat": "Hemijski otpad je opasan za vodu.",
+   "ru": "Химические отходы опасны для воды."
+  }
+ },
+ {
+  "id": "w4382",
+  "order": 4382,
+  "level": "B2",
+  "cyr": "делта",
+  "lat": "delta",
+  "tr": "делта",
+  "ru": "дельта",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Делта је рај за птице селице.",
+   "lat": "Delta je raj za ptice selice.",
+   "ru": "Дельта — рай для перелётных птиц."
+  }
+ },
+ {
+  "id": "w4383",
+  "order": 4383,
+  "level": "B2",
+  "cyr": "искориштење",
+  "lat": "iskorištenje",
+  "tr": "искориштенье",
+  "ru": "использование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Искориштење воде је строго контролисано.",
+   "lat": "Iskorištenje vode je strogo kontrolisano.",
+   "ru": "Использование воды строго контролируется."
+  }
+ },
+ {
+  "id": "w4384",
+  "order": 4384,
+  "level": "B2",
+  "cyr": "пресађивање",
+  "lat": "presađivanje",
+  "tr": "пресадживанье",
+  "ru": "пересадка",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пресађивање садница је трајало до подне.",
+   "lat": "Presađivanje sadnica je trajalo do podne.",
+   "ru": "Пересадка рассады продолжалась до полудня."
+  }
+ },
+ {
+  "id": "w4385",
+  "order": 4385,
+  "level": "B2",
+  "cyr": "ратар",
+  "lat": "ratar",
+  "tr": "ратар",
+  "ru": "хлебороб",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ратар више верује небу него прогнози.",
+   "lat": "Ratar više veruje nebu nego prognozi.",
+   "ru": "Хлебороб больше верит небу, чем прогнозу."
+  }
+ },
+ {
+  "id": "w4386",
+  "order": 4386,
+  "level": "B2",
+  "cyr": "цев",
+  "lat": "cev",
+  "tr": "цев",
+  "ru": "труба; трубка",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "f",
+  "ex": {
+   "cyr": "Старе цеви испуштају отпадну воду у поток.",
+   "lat": "Stare cevi ispuštaju otpadnu vodu u potok.",
+   "ru": "Старые трубы сбрасывают сточную воду в ручей."
+  }
+ },
+ {
+  "id": "w4387",
+  "order": 4387,
+  "level": "B2",
+  "cyr": "штеточина",
+  "lat": "štetočina",
+  "tr": "штеточина",
+  "ru": "вредитель",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Против штеточина је прскано ујутру.",
+   "lat": "Protiv štetočina je prskano ujutru.",
+   "ru": "Против вредителей опрыскивали утром."
+  }
+ },
+ {
+  "id": "w4388",
+  "order": 4388,
+  "level": "B2",
+  "cyr": "хуманитаран",
+  "lat": "humanitaran",
+  "tr": "хуманитаран",
+  "ru": "гуманитарный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Хуманитарна помоћ је стигла првим камионима.",
+   "lat": "Humanitarna pomoć je stigla prvim kamionima.",
+   "ru": "Гуманитарная помощь прибыла первыми грузовиками."
+  }
+ },
+ {
+  "id": "w4389",
+  "order": 4389,
+  "level": "B2",
+  "cyr": "жир",
+  "lat": "žir",
+  "tr": "жир",
+  "ru": "жёлудь",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Жир је храна за дивље свиње.",
+   "lat": "Žir je hrana za divlje svinje.",
+   "ru": "Жёлудь — корм для диких свиней."
+  }
+ },
+ {
+  "id": "w4390",
+  "order": 4390,
+  "level": "B2",
+  "cyr": "исправка",
+  "lat": "ispravka",
+  "tr": "исправка",
+  "ru": "починка; исправление",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Исправка далековода трајаће до викенда.",
+   "lat": "Ispravka dalekovoda trajaće do vikenda.",
+   "ru": "Починка ЛЭП продлится до выходных."
+  }
+ },
+ {
+  "id": "w4391",
+  "order": 4391,
+  "level": "B2",
+  "cyr": "раж",
+  "lat": "raž",
+  "tr": "раж",
+  "ru": "рожь",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "f",
+  "ex": {
+   "cyr": "Раж успева и на сиромашном земљишту.",
+   "lat": "Raž uspeva i na siromašnom zemljištu.",
+   "ru": "Рожь удаётся и на бедной почве."
+  }
+ },
+ {
+  "id": "w4392",
+  "order": 4392,
+  "level": "B2",
+  "cyr": "ревизија",
+  "lat": "revizija",
+  "tr": "ревизија",
+  "ru": "ревизия; проверка",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ревизија погона открила је три неисправне цеви.",
+   "lat": "Revizija pogona otkrila je tri neispravne cevi.",
+   "ru": "Ревизия производства обнаружила три неисправные трубы."
+  }
+ },
+ {
+  "id": "w4393",
+  "order": 4393,
+  "level": "B2",
+  "cyr": "временска прогноза",
+  "lat": "vremenska prognoza",
+  "tr": "временска прогноза",
+  "ru": "прогноз погоды",
+  "pos": "phrase",
+  "cat": "tech",
+  "ex": {
+   "cyr": "Временска прогноза обећава седам сунчаних дана.",
+   "lat": "Vremenska prognoza obećava sedam sunčanih dana.",
+   "ru": "Прогноз погоды обещает семь солнечных дней."
+  }
+ },
+ {
+  "id": "w4394",
+  "order": 4394,
+  "level": "B2",
+  "cyr": "штука",
+  "lat": "štuka",
+  "tr": "штука",
+  "ru": "щука",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Штука је вреба у трској.",
+   "lat": "Štuka je vreba u trskoj.",
+   "ru": "Щука подстерегает в тростнике."
+  }
+ },
+ {
+  "id": "w4395",
+  "order": 4395,
+  "level": "B2",
+  "cyr": "штедљив",
+  "lat": "štedljiv",
+  "tr": "штедлив",
+  "ru": "экономный; бережливый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Штедљиво домаћинство плаћа упола мање рачуне.",
+   "lat": "Štedljivo domaćinstvo plaća upola manje račune.",
+   "ru": "Экономное хозяйство платит вдвое меньше счетов."
+  }
+ },
+ {
+  "id": "w4396",
+  "order": 4396,
+  "level": "B2",
+  "cyr": "загађеност",
+  "lat": "zagađenost",
+  "tr": "загадженост",
+  "ru": "загрязнённость",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Загађеност ваздуха се удвостручила за десет година.",
+   "lat": "Zagađenost vazduha se udvostručila za deset godina.",
+   "ru": "Загрязнённость воздуха удвоилась за десять лет."
+  }
+ },
+ {
+  "id": "w4397",
+  "order": 4397,
+  "level": "B2",
+  "cyr": "испуштање",
+  "lat": "ispuštanje",
+  "tr": "испуштанье",
+  "ru": "выброс; сброс",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Испуштање токсичних вода кажњава се новчано.",
+   "lat": "Ispuštanje toksičnih voda kažnjava se novčano.",
+   "ru": "Сброс токсичных вод карается штрафом."
+  }
+ },
+ {
+  "id": "w4398",
+  "order": 4398,
+  "level": "B2",
+  "cyr": "садња",
+  "lat": "sadnja",
+  "tr": "саднья",
+  "ru": "посадка",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "f",
+  "ex": {
+   "cyr": "Садња кромпира је почела рано.",
+   "lat": "Sadnja krompira je počela rano.",
+   "ru": "Посадка картофеля началась рано."
+  }
+ },
+ {
+  "id": "w4399",
+  "order": 4399,
+  "level": "B2",
+  "cyr": "рудник",
+  "lat": "rudnik",
+  "tr": "рудник",
+  "ru": "рудник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Рудник бакра запошљава трећину малог града.",
+   "lat": "Rudnik bakra zapošljava trećinu malog grada.",
+   "ru": "Медный рудник даёт работу трети малого города."
+  }
+ },
+ {
+  "id": "w4400",
+  "order": 4400,
+  "level": "B2",
+  "cyr": "геотермална енергија",
+  "lat": "geotermalna energija",
+  "tr": "геотермална енергија",
+  "ru": "геотермальная энергия",
+  "pos": "phrase",
+  "cat": "tech",
+  "ex": {
+   "cyr": "Геотермална енергија гре базен током зиме.",
+   "lat": "Geotermalna energija gre bazen tokom zime.",
+   "ru": "Геотермальная энергия греет бассейн зимой."
+  }
+ },
+ {
+  "id": "w4401",
+  "order": 4401,
+  "level": "B2",
+  "cyr": "јаребица",
+  "lat": "jarebica",
+  "tr": "јаребица",
+  "ru": "куропатка",
+  "pos": "noun",
+  "cat": "animals",
+  "gender": "f",
+  "ex": {
+   "cyr": "Јаребице скупљају зрно по ораницама.",
+   "lat": "Jarebice skupljaju zrno po oranicama.",
+   "ru": "Куропатки собирают зерно по пашням."
+  }
+ },
+ {
+  "id": "w4402",
+  "order": 4402,
+  "level": "B2",
+  "cyr": "зараван",
+  "lat": "zaravan",
+  "tr": "зараван",
+  "ru": "плато",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Зараван на врху је идеалан видиковац.",
+   "lat": "Zaravan na vrhu je idealan vidikovac.",
+   "ru": "Плато на вершине — идеальная смотровая площадка."
+  }
+ },
+ {
+  "id": "w4403",
+  "order": 4403,
+  "level": "B2",
+  "cyr": "киселина",
+  "lat": "kiselina",
+  "tr": "киселина",
+  "ru": "кислота",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Киселина је нагризла старе статуе.",
+   "lat": "Kiselina je nagrizla stare statue.",
+   "ru": "Кислота разъела старые статуи."
+  }
+ },
+ {
+  "id": "w4404",
+  "order": 4404,
+  "level": "B2",
+  "cyr": "силос",
+  "lat": "silos",
+  "tr": "силос",
+  "ru": "силос",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Силоси за жито стоје дуж пруге.",
+   "lat": "Silosi za žito stoje duž pruge.",
+   "ru": "Силосы для зерна стоят вдоль железной дороги."
+  }
+ },
+ {
+  "id": "w4405",
+  "order": 4405,
+  "level": "B2",
+  "cyr": "сточар",
+  "lat": "stočar",
+  "tr": "сточар",
+  "ru": "скотовод",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сточари се селе за бујним пашњацима.",
+   "lat": "Stočari se sele za bujnim pašnjacima.",
+   "ru": "Скотоводы перебираются за буйными пастбищами."
+  }
+ },
+ {
+  "id": "w4406",
+  "order": 4406,
+  "level": "B2",
+  "cyr": "соларна енергија",
+  "lat": "solarna energija",
+  "tr": "соларна енергија",
+  "ru": "солнечная энергия",
+  "pos": "phrase",
+  "cat": "tech",
+  "ex": {
+   "cyr": "Соларна енергија покрива половину потрошње насеља.",
+   "lat": "Solarna energija pokriva polovinu potrošnje naselja.",
+   "ru": "Солнечная энергия покрывает половину потребления посёлка."
+  }
+ },
+ {
+  "id": "w4407",
+  "order": 4407,
+  "level": "B2",
+  "cyr": "зрачење",
+  "lat": "zračenje",
+  "tr": "зраченье",
+  "ru": "излучение; радиация",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Зрачење из погођеног реактора било је фатално.",
+   "lat": "Zračenje iz pogođenog reaktora bilo je fatalno.",
+   "ru": "Излучение из повреждённого реактора было фатальным."
+  }
+ },
+ {
+  "id": "w4408",
+  "order": 4408,
+  "level": "B2",
+  "cyr": "најезда",
+  "lat": "najezda",
+  "tr": "најезда",
+  "ru": "нашествие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Најезда је покосила воћњак.",
+   "lat": "Najezda je pokosila voćnjak.",
+   "ru": "Нашествие выкосило сад."
+  }
+ },
+ {
+  "id": "w4409",
+  "order": 4409,
+  "level": "B2",
+  "cyr": "слама",
+  "lat": "slama",
+  "tr": "слама",
+  "ru": "солома",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "f",
+  "ex": {
+   "cyr": "Слама се користи за постељу у штали.",
+   "lat": "Slama se koristi za postelju u štali.",
+   "ru": "Солома используется для подстилки в хлеву."
+  }
+ },
+ {
+  "id": "w4410",
+  "order": 4410,
+  "level": "B2",
+  "cyr": "сточарство",
+  "lat": "stočarstvo",
+  "tr": "сточарство",
+  "ru": "животноводство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Сточарство остаје окосница планинских села.",
+   "lat": "Stočarstvo ostaje okosnica planinskih sela.",
+   "ru": "Животноводство остаётся основой горных сёл."
+  }
+ },
+ {
+  "id": "w4411",
+  "order": 4411,
+  "level": "B2",
+  "cyr": "извориште",
+  "lat": "izvorište",
+  "tr": "извориште",
+  "ru": "исток реки",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Извориште је скривено у планинској шуми.",
+   "lat": "Izvorište je skriveno u planinskoj šumi.",
+   "ru": "Исток реки скрыт в горном лесу."
+  }
+ },
+ {
+  "id": "w4412",
+  "order": 4412,
+  "level": "B2",
+  "cyr": "несрећа",
+  "lat": "nesreća",
+  "tr": "несреча",
+  "ru": "беда; авария",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Несрећа у копу је јављена одмах.",
+   "lat": "Nesreća u kopu je javljena odmah.",
+   "ru": "Беда в шахте сообщена сразу."
+  }
+ },
+ {
+  "id": "w4413",
+  "order": 4413,
+  "level": "B2",
+  "cyr": "сноп",
+  "lat": "snop",
+  "tr": "сноп",
+  "ru": "сноп",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Снопови пшенице стоје на стрњици.",
+   "lat": "Snopovi pšenice stoje na strnjici.",
+   "ru": "Снопы пшеницы стоят на стерне."
+  }
+ },
+ {
+  "id": "w4414",
+  "order": 4414,
+  "level": "B2",
+  "cyr": "топионица",
+  "lat": "topionica",
+  "tr": "топионица",
+  "ru": "плавильня",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Топионица је изграђена уз реку.",
+   "lat": "Topionica je izgrađena uz reku.",
+   "ru": "Плавильня построена у реки."
+  }
+ },
+ {
+  "id": "w4415",
+  "order": 4415,
+  "level": "B2",
+  "cyr": "измаглица",
+  "lat": "izmaglica",
+  "tr": "измаглица",
+  "ru": "дымка; мгла",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Измаглица је потпуно заклонила обронке брда.",
+   "lat": "Izmaglica je potpuno zaklonila obronke brda.",
+   "ru": "Дымка полностью скрыла склоны холма."
+  }
+ },
+ {
+  "id": "w4416",
+  "order": 4416,
+  "level": "B2",
+  "cyr": "олово",
+  "lat": "olovo",
+  "tr": "олово",
+  "ru": "свинец",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Олово је у старим цевима опасно.",
+   "lat": "Olovo je u starim cevima opasno.",
+   "ru": "Свинец в старых трубах опасен."
+  }
+ },
+ {
+  "id": "w4417",
+  "order": 4417,
+  "level": "B2",
+  "cyr": "сорта",
+  "lat": "sorta",
+  "tr": "сорта",
+  "ru": "сорт",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова сорта је отпорна на сушу.",
+   "lat": "Ova sorta je otporna na sušu.",
+   "ru": "Этот сорт устойчив к засухе."
+  }
+ },
+ {
+  "id": "w4418",
+  "order": 4418,
+  "level": "B2",
+  "cyr": "фарма",
+  "lat": "farma",
+  "tr": "фарма",
+  "ru": "ферма",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Фарма запошљава десетак радника из села.",
+   "lat": "Farma zapošljava desetak radnika iz sela.",
+   "ru": "Ферма нанимает десяток работников из села."
+  }
+ },
+ {
+  "id": "w4419",
+  "order": 4419,
+  "level": "B2",
+  "cyr": "камилица",
+  "lat": "kamilica",
+  "tr": "камилица",
+  "ru": "ромашка",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Камилица цвета најраније уз путеве.",
+   "lat": "Kamilica cveta najranije uz puteve.",
+   "ru": "Ромашка цветёт раньше всего у дорог."
+  }
+ },
+ {
+  "id": "w4420",
+  "order": 4420,
+  "level": "B2",
+  "cyr": "опасност",
+  "lat": "opasnost",
+  "tr": "опасност",
+  "ru": "опасность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Опасност од поплаве још траје.",
+   "lat": "Opasnost od poplave još traje.",
+   "ru": "Опасность наводнения ещё длится."
+  }
+ },
+ {
+  "id": "w4421",
+  "order": 4421,
+  "level": "B2",
+  "cyr": "стакленик",
+  "lat": "staklenik",
+  "tr": "стакленик",
+  "ru": "теплица; парник",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Краставци из стакленика су најранији.",
+   "lat": "Krastavci iz staklenika su najraniji.",
+   "ru": "Огурцы из теплицы самые ранние."
+  }
+ },
+ {
+  "id": "w4422",
+  "order": 4422,
+  "level": "B2",
+  "cyr": "хладњача",
+  "lat": "hladnjača",
+  "tr": "хладньяча",
+  "ru": "градирня",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хладњача је висока као торањ.",
+   "lat": "Hladnjača je visoka kao toranj.",
+   "ru": "Градирня высокая как башня."
+  }
+ },
+ {
+  "id": "w4423",
+  "order": 4423,
+  "level": "B2",
+  "cyr": "кањон",
+  "lat": "kanjon",
+  "tr": "каньон",
+  "ru": "каньон",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кањон се сужава све до старог моста.",
+   "lat": "Kanjon se sužava sve do starog mosta.",
+   "ru": "Каньон сужается до самого старого моста."
+  }
+ },
+ {
+  "id": "w4424",
+  "order": 4424,
+  "level": "B2",
+  "cyr": "опстанак",
+  "lat": "opstanak",
+  "tr": "опстанак",
+  "ru": "выживание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Опстанак врсте је доведен у питање.",
+   "lat": "Opstanak vrste je doveden u pitanje.",
+   "ru": "Выживание вида поставлено под вопрос."
+  }
+ },
+ {
+  "id": "w4425",
+  "order": 4425,
+  "level": "B2",
+  "cyr": "стог",
+  "lat": "stog",
+  "tr": "стог",
+  "ru": "стог",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стог је покривен старом сламом.",
+   "lat": "Stog je pokriven starom slamom.",
+   "ru": "Стог покрыт старой соломой."
+  }
+ },
+ {
+  "id": "w4426",
+  "order": 4426,
+  "level": "B2",
+  "cyr": "цвећарство",
+  "lat": "cvećarstvo",
+  "tr": "цвечарство",
+  "ru": "цветоводство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Цвећарство напредује око градова.",
+   "lat": "Cvećarstvo napreduje oko gradova.",
+   "ru": "Цветоводство развивается вокруг городов."
+  }
+ },
+ {
+  "id": "w4427",
+  "order": 4427,
+  "level": "B2",
+  "cyr": "кланац",
+  "lat": "klanac",
+  "tr": "кланац",
+  "ru": "ущелье; теснина",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Кроз кланац води једини пут ка селу.",
+   "lat": "Kroz klanac vodi jedini put ka selu.",
+   "ru": "Через ущелье ведёт единственная дорога к селу."
+  }
+ },
+ {
+  "id": "w4428",
+  "order": 4428,
+  "level": "B2",
+  "cyr": "очување",
+  "lat": "očuvanje",
+  "tr": "очуванье",
+  "ru": "сохранение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Очување шума зависи од локалне заједнице.",
+   "lat": "Očuvanje šuma zavisi od lokalne zajednice.",
+   "ru": "Сохранение лесов зависит от местной общины."
+  }
+ },
+ {
+  "id": "w4429",
+  "order": 4429,
+  "level": "B2",
+  "cyr": "стрњица",
+  "lat": "strnjica",
+  "tr": "стрница",
+  "ru": "стерня",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стрњица остаје тврда после безкишних дана.",
+   "lat": "Strnjica ostaje tvrda posle bezkišnih dana.",
+   "ru": "Стерня остаётся твёрдой после бездождных дней."
+  }
+ },
+ {
+  "id": "w4430",
+  "order": 4430,
+  "level": "B2",
+  "cyr": "циглана",
+  "lat": "ciglana",
+  "tr": "циглана",
+  "ru": "кирпичный завод",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Циглана је јутрос зауставила речање.",
+   "lat": "Ciglana je jutros zaustavila rečanje.",
+   "ru": "Кирпичный завод утром остановил обжиг."
+  }
+ },
+ {
+  "id": "w4431",
+  "order": 4431,
+  "level": "B2",
+  "cyr": "клизиште",
+  "lat": "klizište",
+  "tr": "клизиште",
+  "ru": "оползень",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Клизиште је померило пут за десет метара.",
+   "lat": "Klizište je pomerilo put za deset metara.",
+   "ru": "Оползень сдвинул дорогу на десять метров."
+  }
+ },
+ {
+  "id": "w4432",
+  "order": 4432,
+  "level": "B2",
+  "cyr": "оштећење",
+  "lat": "oštećenje",
+  "tr": "оштеченье",
+  "ru": "повреждение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Оштећење крова је поправљено одмах.",
+   "lat": "Oštećenje krova je popravljeno odmah.",
+   "ru": "Повреждение крыши починили сразу."
+  }
+ },
+ {
+  "id": "w4433",
+  "order": 4433,
+  "level": "B2",
+  "cyr": "сунцокрет",
+  "lat": "suncokret",
+  "tr": "сунцокрет",
+  "ru": "подсолнух",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сунцокрети окрећу главе за сунцем.",
+   "lat": "Suncokreti okreću glave za suncem.",
+   "ru": "Подсолнухи поворачивают головы за солнцем."
+  }
+ },
+ {
+  "id": "w4434",
+  "order": 4434,
+  "level": "B2",
+  "cyr": "челичана",
+  "lat": "čeličana",
+  "tr": "челичана",
+  "ru": "сталеплавильный завод",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Челичана је купила нове филтере.",
+   "lat": "Čeličana je kupila nove filtere.",
+   "ru": "Сталеплавильный завод купил новые фильтры."
+  }
+ },
+ {
+  "id": "w4435",
+  "order": 4435,
+  "level": "B2",
+  "cyr": "лаванда",
+  "lat": "lavanda",
+  "tr": "лаванда",
+  "ru": "лаванда",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Лаванда испуњава читаво двориште мирисом.",
+   "lat": "Lavanda ispunjava čitavo dvorište mirisom.",
+   "ru": "Лаванда наполняет весь двор ароматом."
+  }
+ },
+ {
+  "id": "w4436",
+  "order": 4436,
+  "level": "B2",
+  "cyr": "пламен",
+  "lat": "plamen",
+  "tr": "пламен",
+  "ru": "пламя",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пламен је прескочио у суседно двориште.",
+   "lat": "Plamen je preskočio u susedno dvorište.",
+   "ru": "Пламя перескочило в соседний двор."
+  }
+ },
+ {
+  "id": "w4437",
+  "order": 4437,
+  "level": "B2",
+  "cyr": "трешњик",
+  "lat": "trešnjik",
+  "tr": "трешник",
+  "ru": "вишнёвый сад",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Трешњик уз ограду обилно је цветао.",
+   "lat": "Trešnjik uz ogradu obilno je cvetao.",
+   "ru": "Вишнёвый сад у огради обильно цвёл."
+  }
+ },
+ {
+  "id": "w4438",
+  "order": 4438,
+  "level": "B2",
+  "cyr": "ледник",
+  "lat": "lednik",
+  "tr": "ледник",
+  "ru": "ледник",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ледник је склизнуо ка долини.",
+   "lat": "Lednik je skliznuo ka dolini.",
+   "ru": "Ледник сползает к долине."
+  }
+ },
+ {
+  "id": "w4439",
+  "order": 4439,
+  "level": "B2",
+  "cyr": "полумрак",
+  "lat": "polumrak",
+  "tr": "полумрак",
+  "ru": "полумрак",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Лисица је вребала у полумраку.",
+   "lat": "Lisica je vrebala u polumraku.",
+   "ru": "Лиса подстерегала в полумраке."
+  }
+ },
+ {
+  "id": "w4440",
+  "order": 4440,
+  "level": "B2",
+  "cyr": "урод",
+  "lat": "urod",
+  "tr": "урод",
+  "ru": "урожай собранный",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Урод јабука је ове године скроман.",
+   "lat": "Urod jabuka je ove godine skroman.",
+   "ru": "Урожай яблок в этом году скромный."
+  }
+ },
+ {
+  "id": "w4441",
+  "order": 4441,
+  "level": "B2",
+  "cyr": "литица",
+  "lat": "litica",
+  "tr": "литица",
+  "ru": "утёс; скала",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Литица над морем је опасно стрма.",
+   "lat": "Litica nad morem je opasno strma.",
+   "ru": "Утёс над морем опасно крут."
+  }
+ },
+ {
+  "id": "w4442",
+  "order": 4442,
+  "level": "B2",
+  "cyr": "пречишћавање",
+  "lat": "prečišćavanje",
+  "tr": "пречишчаванье",
+  "ru": "очистка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пречишћавање воде одвија се у три фазе.",
+   "lat": "Prečišćavanje vode odvija se u tri faze.",
+   "ru": "Очистка воды проходит в три фазы."
+  }
+ },
+ {
+  "id": "w4443",
+  "order": 4443,
+  "level": "B2",
+  "cyr": "фунгицид",
+  "lat": "fungicid",
+  "tr": "фунгицид",
+  "ru": "фунгицид",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Фунгицид је прскан пре цветања.",
+   "lat": "Fungicid je prskan pre cvetanja.",
+   "ru": "Фунгицид опрыскан перед цветением."
+  }
+ },
+ {
+  "id": "w4444",
+  "order": 4444,
+  "level": "B2",
+  "cyr": "месечина",
+  "lat": "mesečina",
+  "tr": "месечина",
+  "ru": "лунный свет",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Месечина је обасјала целу ливаду.",
+   "lat": "Mesečina je obasjala celu livadu.",
+   "ru": "Лунный свет осветил весь луг."
+  }
+ },
+ {
+  "id": "w4445",
+  "order": 4445,
+  "level": "B2",
+  "cyr": "пропадање",
+  "lat": "propadanje",
+  "tr": "пропаданье",
+  "ru": "гибель; упадок",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пропадање усева је узнемирило село.",
+   "lat": "Propadanje useva je uznemirilo selo.",
+   "ru": "Гибель урожая встревожила село."
+  }
+ },
+ {
+  "id": "w4446",
+  "order": 4446,
+  "level": "B2",
+  "cyr": "хербицид",
+  "lat": "herbicid",
+  "tr": "хербицид",
+  "ru": "гербицид",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Хербициди уништавају коров али и корисне инсекте.",
+   "lat": "Herbicidi uništavaju korov ali i korisne insekte.",
+   "ru": "Гербициды уничтожают сорняки, но и полезных насекомых."
+  }
+ },
+ {
+  "id": "w4447",
+  "order": 4447,
+  "level": "B2",
+  "cyr": "младица",
+  "lat": "mladica",
+  "tr": "младица",
+  "ru": "саженец",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Младице заливају добровољци сваке вечери.",
+   "lat": "Mladice zalivaju dobrovoljci svake večeri.",
+   "ru": "Саженцы поливают добровольцы каждый вечер."
+  }
+ },
+ {
+  "id": "w4448",
+  "order": 4448,
+  "level": "B2",
+  "cyr": "прљавштина",
+  "lat": "prljavština",
+  "tr": "прлявштина",
+  "ru": "грязь; мерзость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Прљавштина је кренула ка реци.",
+   "lat": "Prljavština je krenula ka reci.",
+   "ru": "Грязь потекла к реке."
+  }
+ },
+ {
+  "id": "w4449",
+  "order": 4449,
+  "level": "B2",
+  "cyr": "хмељ",
+  "lat": "hmelj",
+  "tr": "хмель",
+  "ru": "хмель",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Хмељ се увија око жице до врха.",
+   "lat": "Hmelj se uvija oko žice do vrha.",
+   "ru": "Хмель обвивается вокруг проволоки до верха."
+  }
+ },
+ {
+  "id": "w4450",
+  "order": 4450,
+  "level": "B2",
+  "cyr": "мочвара",
+  "lat": "močvara",
+  "tr": "мочвара",
+  "ru": "болото; топь",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мочвара даје уточиште ретким птицама селицама.",
+   "lat": "Močvara daje utočište retkim pticama selicama.",
+   "ru": "Болото даёт пристанище редким перелётным птицам."
+  }
+ },
+ {
+  "id": "w4451",
+  "order": 4451,
+  "level": "B2",
+  "cyr": "радиоактивност",
+  "lat": "radioaktivnost",
+  "tr": "радиоактивност",
+  "ru": "радиоактивность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Радиоактивност је пала на дозвољени ниво.",
+   "lat": "Radioaktivnost je pala na dozvoljeni nivo.",
+   "ru": "Радиоактивность упала до допустимого уровня."
+  }
+ },
+ {
+  "id": "w4452",
+  "order": 4452,
+  "level": "B2",
+  "cyr": "шљивик",
+  "lat": "šljivik",
+  "tr": "шливик",
+  "ru": "сливовый сад",
+  "pos": "noun",
+  "cat": "food",
+  "gender": "m",
+  "ex": {
+   "cyr": "Шљивик на брду је дао род.",
+   "lat": "Šljivik na brdu je dao rod.",
+   "ru": "Сливовый сад на холме дал урожай."
+  }
+ },
+ {
+  "id": "w4453",
+  "order": 4453,
+  "level": "B2",
+  "cyr": "мочуриште",
+  "lat": "močurište",
+  "tr": "мочуриште",
+  "ru": "болотистое место",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Мочуриште крај друма држи жабе читавог лета.",
+   "lat": "Močurište kraj druma drži žabe čitavog leta.",
+   "ru": "Болотце у дороги держит жаб всё лето."
+  }
+ },
+ {
+  "id": "w4454",
+  "order": 4454,
+  "level": "B2",
+  "cyr": "разарање",
+  "lat": "razaranje",
+  "tr": "разаранье",
+  "ru": "разрушение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Разарање је трајало три ноћи.",
+   "lat": "Razaranje je trajalo tri noći.",
+   "ru": "Разрушение продолжалось три ночи."
+  }
+ },
+ {
+  "id": "w4455",
+  "order": 4455,
+  "level": "B2",
+  "cyr": "сточна храна",
+  "lat": "stočna hrana",
+  "tr": "сточна храна",
+  "ru": "корм для скота",
+  "pos": "phrase",
+  "cat": "food",
+  "ex": {
+   "cyr": "Сточна храна најскупља је у време суше.",
+   "lat": "Stočna hrana najskuplja je u vreme suše.",
+   "ru": "Корм для скота самый дорогой в засуху."
+  }
+ },
+ {
+  "id": "w4456",
+  "order": 4456,
+  "level": "B2",
+  "cyr": "нанос",
+  "lat": "nanos",
+  "tr": "нанос",
+  "ru": "нанос",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Нанос из планине затрупао је пут.",
+   "lat": "Nanos iz planine zatrupao je put.",
+   "ru": "Нанос с горы засыпал дорогу."
+  }
+ },
+ {
+  "id": "w4457",
+  "order": 4457,
+  "level": "B2",
+  "cyr": "расипање",
+  "lat": "rasipanje",
+  "tr": "расипанье",
+  "ru": "расточительство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Расипање енергије скупо плаћа читава заједница.",
+   "lat": "Rasipanje energije skupo plaća čitava zajednica.",
+   "ru": "Расточительство энергии дорого обходится всему сообществу."
+  }
+ },
+ {
+  "id": "w4458",
+  "order": 4458,
+  "level": "B2",
+  "cyr": "озон",
+  "lat": "ozon",
+  "tr": "озон",
+  "ru": "озон",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Озон штити живи свет од штетног зрачења.",
+   "lat": "Ozon štiti živi svet od štetnog zračenja.",
+   "ru": "Озон защищает живой мир от вредного излучения."
+  }
+ },
+ {
+  "id": "w4459",
+  "order": 4459,
+  "level": "B2",
+  "cyr": "руда",
+  "lat": "ruda",
+  "tr": "руда",
+  "ru": "руда",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Руда је у возу за прераду.",
+   "lat": "Ruda je u vozu za preradu.",
+   "ru": "Руда в составе для переработки."
+  }
+ },
+ {
+  "id": "w4460",
+  "order": 4460,
+  "level": "B2",
+  "cyr": "осека",
+  "lat": "oseka",
+  "tr": "осека",
+  "ru": "отлив",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Осека открива широки појас песка.",
+   "lat": "Oseka otkriva široki pojas peska.",
+   "ru": "Отлив открывает широкий пояс песка."
+  }
+ },
+ {
+  "id": "w4461",
+  "order": 4461,
+  "level": "B2",
+  "cyr": "рушење",
+  "lat": "rušenje",
+  "tr": "рушенье",
+  "ru": "разрушение; снос",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Рушење небезбедне зграде почело је у понедељак.",
+   "lat": "Rušenje nebezbedne zgrade počelo je u ponedeljak.",
+   "ru": "Снос небезопасного здания начался в понедельник."
+  }
+ },
+ {
+  "id": "w4462",
+  "order": 4462,
+  "level": "B2",
+  "cyr": "плавина",
+  "lat": "plavina",
+  "tr": "плавина",
+  "ru": "паводок; половодье",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Плавина је успорила сав железнички превоз.",
+   "lat": "Plavina je usporila sav železnički prevoz.",
+   "ru": "Паводок замедлил всё железнодорожное сообщение."
+  }
+ },
+ {
+  "id": "w4463",
+  "order": 4463,
+  "level": "B2",
+  "cyr": "санација",
+  "lat": "sanacija",
+  "tr": "санација",
+  "ru": "ликвидация последствий; санация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Санација клизишта трајаће до јесени.",
+   "lat": "Sanacija klizišta trajaće do jeseni.",
+   "ru": "Ликвидация оползня продлится до осени."
+  }
+ },
+ {
+  "id": "w4464",
+  "order": 4464,
+  "level": "B2",
+  "cyr": "плима",
+  "lat": "plima",
+  "tr": "плима",
+  "ru": "прилив",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Плима је преплавила доњи део града.",
+   "lat": "Plima je preplavila donji deo grada.",
+   "ru": "Прилив затопил нижнюю часть города."
+  }
+ },
+ {
+  "id": "w4465",
+  "order": 4465,
+  "level": "B2",
+  "cyr": "сечење",
+  "lat": "sečenje",
+  "tr": "сеченье",
+  "ru": "вырубка; срезание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Сечење сувих грана је почело јуче.",
+   "lat": "Sečenje suvih grana je počelo juče.",
+   "ru": "Срезание сухих веток началось вчера."
+  }
+ },
+ {
+  "id": "w4466",
+  "order": 4466,
+  "level": "B2",
+  "cyr": "пољана",
+  "lat": "poljana",
+  "tr": "поляна",
+  "ru": "поляна",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пољана је још пуна цвећа.",
+   "lat": "Poljana je još puna cveća.",
+   "ru": "Поляна ещё полна цветов."
+  }
+ },
+ {
+  "id": "w4467",
+  "order": 4467,
+  "level": "B2",
+  "cyr": "смрад",
+  "lat": "smrad",
+  "tr": "смрад",
+  "ru": "вонь; зловоние",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Смрад из депоније доноси ветар.",
+   "lat": "Smrad iz deponije donosi vetar.",
+   "ru": "Вонь со свалки приносит ветер."
+  }
+ },
+ {
+  "id": "w4468",
+  "order": 4468,
+  "level": "B2",
+  "cyr": "просјека",
+  "lat": "prosjeka",
+  "tr": "просјека",
+  "ru": "просека",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кроз просјеку води шумски пут.",
+   "lat": "Kroz prosjeku vodi šumski put.",
+   "ru": "Через просеку ведёт лесная дорога."
+  }
+ },
+ {
+  "id": "w4469",
+  "order": 4469,
+  "level": "B2",
+  "cyr": "сортирање",
+  "lat": "sortiranje",
+  "tr": "сортиранье",
+  "ru": "сортировка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Сортирање отпада постало је свакодневна навика.",
+   "lat": "Sortiranje otpada postalo je svakodnevna navika.",
+   "ru": "Сортировка мусора стала повседневной привычкой."
+  }
+ },
+ {
+  "id": "w4470",
+  "order": 4470,
+  "level": "B2",
+  "cyr": "прохлада",
+  "lat": "prohlada",
+  "tr": "прохлада",
+  "ru": "прохлада",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Прохлада је доспела са планине.",
+   "lat": "Prohlada je dospela sa planine.",
+   "ru": "Прохлада пришла с горы."
+  }
+ },
+ {
+  "id": "w4471",
+  "order": 4471,
+  "level": "B2",
+  "cyr": "сумпор",
+  "lat": "sumpor",
+  "tr": "сумпор",
+  "ru": "сера",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сумпор жути стене у вулканском крају.",
+   "lat": "Sumpor žuti stene u vulkanskom kraju.",
+   "ru": "Сера желтит скалы в вулканическом краю."
+  }
+ },
+ {
+  "id": "w4472",
+  "order": 4472,
+  "level": "B2",
+  "cyr": "пуштина",
+  "lat": "puština",
+  "tr": "пуштина",
+  "ru": "пустошь",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пуштина је још без иједног дрвета.",
+   "lat": "Puština je još bez ijednog drveta.",
+   "ru": "Пустошь ещё без единого дерева."
+  }
+ },
+ {
+  "id": "w4473",
+  "order": 4473,
+  "level": "B2",
+  "cyr": "фумигација",
+  "lat": "fumigacija",
+  "tr": "фумигација",
+  "ru": "фумигация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Фумигација је обављена пре складиштења.",
+   "lat": "Fumigacija je obavljena pre skladištenja.",
+   "ru": "Фумигация проведена перед складированием."
+  }
+ },
+ {
+  "id": "w4474",
+  "order": 4474,
+  "level": "B2",
+  "cyr": "смола",
+  "lat": "smola",
+  "tr": "смола",
+  "ru": "смола",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Смола се сакупља на посеченим гранама.",
+   "lat": "Smola se sakuplja na posečenim granama.",
+   "ru": "Смола собирается на срезанных ветках."
+  }
+ },
+ {
+  "id": "w4475",
+  "order": 4475,
+  "level": "B2",
+  "cyr": "чад",
+  "lat": "čad",
+  "tr": "чад",
+  "ru": "чад; копоть",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Чад је обојио фасаде у сиво.",
+   "lat": "Čad je obojio fasade u sivo.",
+   "ru": "Копоть окрасила фасады в серый."
+  }
+ },
+ {
+  "id": "w4476",
+  "order": 4476,
+  "level": "B2",
+  "cyr": "смрча",
+  "lat": "smrča",
+  "tr": "смрча",
+  "ru": "ель",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Смрче уз врх планине издржавају сваке олује.",
+   "lat": "Smrče uz vrh planine izdržavaju svake oluje.",
+   "ru": "Ели у вершины горы выдерживают все бури."
+  }
+ },
+ {
+  "id": "w4477",
+  "order": 4477,
+  "level": "B2",
+  "cyr": "чистоћа",
+  "lat": "čistoća",
+  "tr": "чисточа",
+  "ru": "чистота",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Чистоћа реке се полако враћа.",
+   "lat": "Čistoća reke se polako vraća.",
+   "ru": "Чистота реки медленно возвращается."
+  }
+ },
+ {
+  "id": "w4478",
+  "order": 4478,
+  "level": "B2",
+  "cyr": "станиште",
+  "lat": "stanište",
+  "tr": "станиште",
+  "ru": "среда обитания",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ширење пута уништило је станиште жаба.",
+   "lat": "Širenje puta uništilo je stanište žaba.",
+   "ru": "Расширение дороги уничтожило местообитание жаб."
+  }
+ },
+ {
+  "id": "w4479",
+  "order": 4479,
+  "level": "B2",
+  "cyr": "јачина",
+  "lat": "jačina",
+  "tr": "јачина",
+  "ru": "сила; интенсивность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Јачина ветра је расла до подне.",
+   "lat": "Јačina vetra je rasla do podne.",
+   "ru": "Сила ветра росла до полудня."
+  }
+ },
+ {
+  "id": "w4480",
+  "order": 4480,
+  "level": "B2",
+  "cyr": "тањење",
+  "lat": "tanjenje",
+  "tr": "таньенье",
+  "ru": "таяние",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Тањење снега подигло је ниво река.",
+   "lat": "Tanjenje snega podiglo je nivo reka.",
+   "ru": "Таяние снега подняло уровень рек."
+  }
+ },
+ {
+  "id": "w4481",
+  "order": 4481,
+  "level": "B2",
+  "cyr": "течење",
+  "lat": "tečenje",
+  "tr": "теченье",
+  "ru": "течение",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Течење је јаче после обилних киша.",
+   "lat": "Tečenje je jače posle obilnih kiša.",
+   "ru": "Течение сильнее после обильных дождей."
+  }
+ },
+ {
+  "id": "w4482",
+  "order": 4482,
+  "level": "B2",
+  "cyr": "тло",
+  "lat": "tlo",
+  "tr": "тло",
+  "ru": "почва; грунт",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Тло је плодно после ђубрења.",
+   "lat": "Tlo je plodno posle đubrenja.",
+   "ru": "Почва плодородна после удобрения."
+  }
+ },
+ {
+  "id": "w4483",
+  "order": 4483,
+  "level": "B2",
+  "cyr": "топола",
+  "lat": "topola",
+  "tr": "топола",
+  "ru": "тополь",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Топола је висока као звоник.",
+   "lat": "Topola je visoka kao zvonik.",
+   "ru": "Тополь высокий как колокольня."
+  }
+ },
+ {
+  "id": "w4484",
+  "order": 4484,
+  "level": "B2",
+  "cyr": "ушче",
+  "lat": "ušče",
+  "tr": "ушче",
+  "ru": "устье",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Рибари се окупљају на ушчу сваке зоре.",
+   "lat": "Ribari se okupljaju na ušču svake zore.",
+   "ru": "Рыбаки собираются у устья каждой зари."
+  }
+ },
+ {
+  "id": "w4485",
+  "order": 4485,
+  "level": "B2",
+  "cyr": "хладовина",
+  "lat": "hladovina",
+  "tr": "хладовина",
+  "ru": "тень; прохлада",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "У хладовини је пријатно у подне.",
+   "lat": "U hladovini je prijatno u podne.",
+   "ru": "В тени приятно в полдень."
+  }
+ },
+ {
+  "id": "w4486",
+  "order": 4486,
+  "level": "B2",
+  "cyr": "циклон",
+  "lat": "ciklon",
+  "tr": "циклон",
+  "ru": "циклон",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Циклон доноси кишу и јаки ветар.",
+   "lat": "Ciklon donosi kišu i jaki vetar.",
+   "ru": "Циклон приносит дождь и сильный ветер."
+  }
+ },
+ {
+  "id": "w4487",
+  "order": 4487,
+  "level": "B2",
+  "cyr": "цунами",
+  "lat": "cunami",
+  "tr": "цунами",
+  "ru": "цунами",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "n",
+  "ex": {
+   "cyr": "Цунами је стигао брже него упозорења.",
+   "lat": "Cunami je stigao brže nego upozorenja.",
+   "ru": "Цунами пришёл быстрее предупреждений."
+  }
+ },
+ {
+  "id": "w4488",
+  "order": 4488,
+  "level": "B2",
+  "cyr": "честица",
+  "lat": "čestica",
+  "tr": "честица",
+  "ru": "частица",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ситне честице продиру најдубље у плућа.",
+   "lat": "Sitne čestice prodiru najdublje u pluća.",
+   "ru": "Мелкие частицы проникают глубже всего в лёгкие."
+  }
+ },
+ {
+  "id": "w4489",
+  "order": 4489,
+  "level": "B2",
+  "cyr": "чистина",
+  "lat": "čistina",
+  "tr": "чистина",
+  "ru": "поляна; чистое место",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "На чистини стоје три кошнице.",
+   "lat": "Na čistini stoje tri košnice.",
+   "ru": "На поляне стоят три улья."
+  }
+ },
+ {
+  "id": "w4490",
+  "order": 4490,
+  "level": "B2",
+  "cyr": "шикара",
+  "lat": "šikara",
+  "tr": "шикара",
+  "ru": "заросли; чаща",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "f",
+  "ex": {
+   "cyr": "Фазани се крију у шикари поред поља.",
+   "lat": "Fazani se kriju u šikari pored polja.",
+   "ru": "Фазаны прячутся в зарослях у поля."
+  }
+ },
+ {
+  "id": "w4491",
+  "order": 4491,
+  "level": "B2",
+  "cyr": "шипак",
+  "lat": "šipak",
+  "tr": "шипак",
+  "ru": "шиповник",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "Шипак је добро за чај зими.",
+   "lat": "Šipak je dobro za čaj zimi.",
+   "ru": "Шиповник хорош для чая зимой."
+  }
+ },
+ {
+  "id": "w4492",
+  "order": 4492,
+  "level": "B2",
+  "cyr": "шумарак",
+  "lat": "šumarak",
+  "tr": "шумарак",
+  "ru": "роща",
+  "pos": "noun",
+  "cat": "nature",
+  "gender": "m",
+  "ex": {
+   "cyr": "За шумараком се крије стари пашњак.",
+   "lat": "Za šumarakom se krije stari pašnjak.",
+   "ru": "За рощей скрывается старое пастбище."
+  }
+ },
+ {
+  "id": "w4493",
+  "order": 4493,
+  "level": "B2",
+  "cyr": "вештачко језеро",
+  "lat": "veštačko jezero",
+  "tr": "вештачко језеро",
+  "ru": "водохранилище",
+  "pos": "phrase",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Вештачко језеро се пуни у пролеће.",
+   "lat": "Veštačko jezero se puni u proleće.",
+   "ru": "Водохранилище наполняется весной."
+  }
+ },
+ {
+  "id": "w4494",
+  "order": 4494,
+  "level": "B2",
+  "cyr": "глобално загревање",
+  "lat": "globalno zagrevanje",
+  "tr": "глобално загреванье",
+  "ru": "глобальное потепление",
+  "pos": "phrase",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Глобално загревање помера пољопривреду ка северу.",
+   "lat": "Globalno zagrevanje pomera poljoprivredu ka severu.",
+   "ru": "Глобальное потепление сдвигает сельское хозяйство к северу."
+  }
+ },
+ {
+  "id": "w4495",
+  "order": 4495,
+  "level": "B2",
+  "cyr": "заштићено подручје",
+  "lat": "zaštićeno područje",
+  "tr": "заштичено подручје",
+  "ru": "охраняемая территория",
+  "pos": "phrase",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Заштићено подручје затвара се у време гнежђења.",
+   "lat": "Zaštićeno područje zatvara se u vreme gnežđenja.",
+   "ru": "Охраняемая территория закрывается на время гнездования."
+  }
+ },
+ {
+  "id": "w4496",
+  "order": 4496,
+  "level": "B2",
+  "cyr": "кисела киша",
+  "lat": "kisela kiša",
+  "tr": "кисела киша",
+  "ru": "кислотный дождь",
+  "pos": "phrase",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Кисела киша је нагризла статуе на тргу.",
+   "lat": "Kisela kiša je nagrizla statue na trgu.",
+   "ru": "Кислотный дождь разъел статуи на площади."
+  }
+ },
+ {
+  "id": "w4497",
+  "order": 4497,
+  "level": "B2",
+  "cyr": "озонска рупа",
+  "lat": "ozonska rupa",
+  "tr": "озонска рупа",
+  "ru": "озоновая дыра",
+  "pos": "phrase",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Озонска рупа је полако смањена.",
+   "lat": "Ozonska rupa je polako smanjena.",
+   "ru": "Озоновая дыра медленно уменьшилась."
+  }
+ },
+ {
+  "id": "w4498",
+  "order": 4498,
+  "level": "B2",
+  "cyr": "озонски омотач",
+  "lat": "ozonski omotač",
+  "tr": "озонски омотач",
+  "ru": "озоновый слой",
+  "pos": "phrase",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Озонски омотач опоравља се споро али сигурно.",
+   "lat": "Ozonski omotač oporavlja se sporo ali sigurno.",
+   "ru": "Озоновый слой восстанавливается медленно, но верно."
+  }
+ },
+ {
+  "id": "w4499",
+  "order": 4499,
+  "level": "B2",
+  "cyr": "стакленички ефекат",
+  "lat": "staklenički efekat",
+  "tr": "стакленички ефекат",
+  "ru": "парниковый эффект",
+  "pos": "phrase",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Стакленички ефекат појачава се испуштањем гасова.",
+   "lat": "Staklenički efekat pojačava se ispuštanjem gasova.",
+   "ru": "Парниковый эффект усиливается выбросами газов."
+  }
+ },
+ {
+  "id": "w4500",
+  "order": 4500,
+  "level": "B2",
+  "cyr": "топлотни талас",
+  "lat": "toplotni talas",
+  "tr": "топлотни талас",
+  "ru": "волна жары",
+  "pos": "phrase",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Топлотни талас је погодио југ Европе.",
+   "lat": "Toplotni talas je pogodio jug Evrope.",
+   "ru": "Волна жары ударила юг Европы."
+  }
+ },
+ {
+  "id": "w4501",
+  "order": 4501,
+  "level": "B2",
+  "cyr": "шумски пожар",
+  "lat": "šumski požar",
+  "tr": "шумски пожар",
+  "ru": "лесной пожар",
+  "pos": "phrase",
+  "cat": "nature",
+  "ex": {
+   "cyr": "Шумски пожар заустављен је пред самим селом.",
+   "lat": "Šumski požar zaustavljen je pred samim selom.",
+   "ru": "Лесной пожар остановлен перед самым селом."
+  }
+ }
+]

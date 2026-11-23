@@ -1,0 +1,4216 @@
+[
+ {
+  "id": "w3502",
+  "order": 3502,
+  "level": "B2",
+  "cyr": "ангажовати",
+  "lat": "angažovati",
+  "tr": "ангажовати",
+  "ru": "привлечь; нанять",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Компанија је ангажовала нове стручњаке.",
+   "lat": "Kompanija je angažovala nove stručnjake.",
+   "ru": "Компания привлекла новых специалистов."
+  }
+ },
+ {
+  "id": "w3503",
+  "order": 3503,
+  "level": "B2",
+  "cyr": "банкротирати",
+  "lat": "bankrotirati",
+  "tr": "банкротирати",
+  "ru": "объявлять банкротом; разоряться",
+  "pos": "verb",
+  "cat": "money",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Компанија банкротира због великог дуга.",
+   "lat": "Kompanija bankrotira zbog velikog duga.",
+   "ru": "Компания разоряется из-за больших долгов."
+  }
+ },
+ {
+  "id": "w3504",
+  "order": 3504,
+  "level": "B2",
+  "cyr": "важећи",
+  "lat": "važeći",
+  "tr": "важечи",
+  "ru": "действующий; актуальный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Важећи прописи морају да се поштују.",
+   "lat": "Važeći propisi moraju da se poštuju.",
+   "ru": "Действующие предписания должны соблюдаться."
+  }
+ },
+ {
+  "id": "w3505",
+  "order": 3505,
+  "level": "B2",
+  "cyr": "вредновати",
+  "lat": "vrednovati",
+  "tr": "вредновати",
+  "ru": "оценивать; ценить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Економисти вреднују тржишне услове.",
+   "lat": "Ekonomisti vrednuju tržišne uslove.",
+   "ru": "Экономисты оценивают рыночные условия."
+  }
+ },
+ {
+  "id": "w3506",
+  "order": 3506,
+  "level": "B2",
+  "cyr": "етика",
+  "lat": "etika",
+  "tr": "етика",
+  "ru": "этика",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Професионална етика је важна.",
+   "lat": "Profesionalna etika je važna.",
+   "ru": "Профессиональная этика важна."
+  }
+ },
+ {
+  "id": "w3507",
+  "order": 3507,
+  "level": "B2",
+  "cyr": "коефицијент",
+  "lat": "koeficijent",
+  "tr": "коефицијент",
+  "ru": "коэффициент",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Рачунају коефицијент ризика.",
+   "lat": "Računaju koeficijent rizika.",
+   "ru": "Они считают коэффициент риска."
+  }
+ },
+ {
+  "id": "w3508",
+  "order": 3508,
+  "level": "B2",
+  "cyr": "текући",
+  "lat": "tekući",
+  "tr": "текучи",
+  "ru": "текущий; текущий",
+  "pos": "adj",
+  "cat": "basics",
+  "ex": {
+   "cyr": "Текући рачун је отворен у овој банци.",
+   "lat": "Tekući račun je otvoren u ovoj banci.",
+   "ru": "Текущий счёт открыт в этом банке."
+  }
+ },
+ {
+  "id": "w3509",
+  "order": 3509,
+  "level": "B2",
+  "cyr": "такмичити се",
+  "lat": "takmičiti se",
+  "tr": "такмичити се",
+  "ru": "соревноваться; состязаться",
+  "pos": "verb",
+  "cat": "leisure",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Студенти се такмиче у решавању сложених проблема.",
+   "lat": "Studenti se takmiče u rešavanju složenih problema.",
+   "ru": "Студенты соревнуются в решении сложных задач."
+  }
+ },
+ {
+  "id": "w3510",
+  "order": 3510,
+  "level": "B2",
+  "cyr": "просторија",
+  "lat": "prostorija",
+  "tr": "просторија",
+  "ru": "помещение; комната",
+  "pos": "noun",
+  "cat": "home",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова просторија је идеална за састанке.",
+   "lat": "Ova prostorija je idealna za sastanke.",
+   "ru": "Это помещение идеально для встреч."
+  }
+ },
+ {
+  "id": "w3511",
+  "order": 3511,
+  "level": "B2",
+  "cyr": "допринети",
+  "lat": "doprineti",
+  "tr": "допринети",
+  "ru": "способствовать; внести вклад",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Добра идеја је допринела успеху пројекта.",
+   "lat": "Dobra ideja je doprinela uspehu projekta.",
+   "ru": "Хорошая идея способствовала успеху проекта."
+  }
+ },
+ {
+  "id": "w3512",
+  "order": 3512,
+  "level": "B2",
+  "cyr": "акциза",
+  "lat": "akciza",
+  "tr": "акциза",
+  "ru": "акциз",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Акциза на цигарете је порасла.",
+   "lat": "Akciza na cigarete je porasla.",
+   "ru": "Акциз на сигареты вырос."
+  }
+ },
+ {
+  "id": "w3513",
+  "order": 3513,
+  "level": "B2",
+  "cyr": "годишњи",
+  "lat": "godišnji",
+  "tr": "годишни",
+  "ru": "годовой; ежегодный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Одржали смо годишњи састанак.",
+   "lat": "Održali smo godišnji sastanak.",
+   "ru": "Мы провели годовое собрание."
+  }
+ },
+ {
+  "id": "w3514",
+  "order": 3514,
+  "level": "B2",
+  "cyr": "дуговати",
+  "lat": "dugovati",
+  "tr": "дуговати",
+  "ru": "быть должным; занимать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Фирма дугује банци више од милион евра.",
+   "lat": "Firma duguje banci više od milion evra.",
+   "ru": "Фирма должна банку больше миллиона евро."
+  }
+ },
+ {
+  "id": "w3515",
+  "order": 3515,
+  "level": "B2",
+  "cyr": "либерализација",
+  "lat": "liberalizacija",
+  "tr": "либерализација",
+  "ru": "либерализация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Либерализација трговине отворила је тржиште.",
+   "lat": "Liberalizacija trgovine otvorila je tržište.",
+   "ru": "Либерализация торговли открыла рынок."
+  }
+ },
+ {
+  "id": "w3516",
+  "order": 3516,
+  "level": "B2",
+  "cyr": "подсетник",
+  "lat": "podsetnik",
+  "tr": "подсетник",
+  "ru": "напоминание; напоминатель",
+  "pos": "noun",
+  "cat": "tech",
+  "gender": "m",
+  "ex": {
+   "cyr": "Подсетник у календару неће заборавити.",
+   "lat": "Podsetnik u kalendaru neće zaboraviti.",
+   "ru": "Напоминание в календаре не будет забыто."
+  }
+ },
+ {
+  "id": "w3517",
+  "order": 3517,
+  "level": "B2",
+  "cyr": "запослити",
+  "lat": "zaposliti",
+  "tr": "запослити",
+  "ru": "нанять; принять на работу; трудоустроить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Директор је запослио најбољег кандидата на интервјуу.",
+   "lat": "Direktor je zaposlio najboljeg kandidata na intervjuu.",
+   "ru": "Директор нанял лучшего кандидата на собеседовании."
+  }
+ },
+ {
+  "id": "w3518",
+  "order": 3518,
+  "level": "B2",
+  "cyr": "акционар",
+  "lat": "akcionar",
+  "tr": "акционар",
+  "ru": "акционер",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мали акционари губе поверење.",
+   "lat": "Mali akcionari gube poverenje.",
+   "ru": "Мелкие акционеры теряют доверие."
+  }
+ },
+ {
+  "id": "w3519",
+  "order": 3519,
+  "level": "B2",
+  "cyr": "дугорочан",
+  "lat": "dugoročan",
+  "tr": "дугорочан",
+  "ru": "долгосрочный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Тражимо дугорочно решење.",
+   "lat": "Tražimo dugoročno rešenje.",
+   "ru": "Мы ищем долгосрочное решение."
+  }
+ },
+ {
+  "id": "w3520",
+  "order": 3520,
+  "level": "B2",
+  "cyr": "економисати",
+  "lat": "ekonomisati",
+  "tr": "економисати",
+  "ru": "экономить; бережливо тратить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Она увек економиши на трошковима за домаћинство.",
+   "lat": "Ona uvek ekonomiši na troškovima za domaćinstvo.",
+   "ru": "Она всегда экономит на расходах по дому."
+  }
+ },
+ {
+  "id": "w3521",
+  "order": 3521,
+  "level": "B2",
+  "cyr": "поверење",
+  "lat": "poverenje",
+  "tr": "поверенье",
+  "ru": "доверие; поручение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пуно поверење има у свог пријатеља.",
+   "lat": "Puno poverenje ima u svog prijatelja.",
+   "ru": "Полное доверие он имеет к своему другу."
+  }
+ },
+ {
+  "id": "w3522",
+  "order": 3522,
+  "level": "B2",
+  "cyr": "запошљавати",
+  "lat": "zapošljavati",
+  "tr": "запошлявати",
+  "ru": "нанимать; устраивать на работу",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Ова компанија запошљава младе стручњаке.",
+   "lat": "Ova kompanija zapošljava mlade stručnjake.",
+   "ru": "Эта компания нанимает молодых специалистов."
+  }
+ },
+ {
+  "id": "w3523",
+  "order": 3523,
+  "level": "B2",
+  "cyr": "амортизација",
+  "lat": "amortizacija",
+  "tr": "амортизација",
+  "ru": "амортизация",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Амортизација опреме се рачуна годишње.",
+   "lat": "Amortizacija opreme se računa godišnje.",
+   "ru": "Амортизация оборудования считается ежегодно."
+  }
+ },
+ {
+  "id": "w3524",
+  "order": 3524,
+  "level": "B2",
+  "cyr": "економичан",
+  "lat": "ekonomičan",
+  "tr": "економичан",
+  "ru": "экономичный; бережливый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ова аутомобил је веома економичан.",
+   "lat": "Ova automobil je veoma ekonomičan.",
+   "ru": "Этот автомобиль очень экономичный."
+  }
+ },
+ {
+  "id": "w3525",
+  "order": 3525,
+  "level": "B2",
+  "cyr": "извозити",
+  "lat": "izvoziti",
+  "tr": "извозити",
+  "ru": "экспортировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Тај извозити је највећи извоз.",
+   "lat": "Taj izvoziti je najveći izvoz.",
+   "ru": "Этот экспорт — самый большой."
+  }
+ },
+ {
+  "id": "w3526",
+  "order": 3526,
+  "level": "B2",
+  "cyr": "препрека",
+  "lat": "prepreka",
+  "tr": "препрека",
+  "ru": "препятствие; помеха",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Велика препрека се појавила на путу.",
+   "lat": "Velika prepreka se pojavila na putu.",
+   "ru": "Большое препятствие появилось на пути."
+  }
+ },
+ {
+  "id": "w3527",
+  "order": 3527,
+  "level": "B2",
+  "cyr": "извршавати",
+  "lat": "izvršavati",
+  "tr": "извршавати",
+  "ru": "исполнять; выполнять",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Они извршавају своје обавезе.",
+   "lat": "Oni izvršavaju svoje obaveze.",
+   "ru": "Они исполняют свои обязательства."
+  }
+ },
+ {
+  "id": "w3528",
+  "order": 3528,
+  "level": "B2",
+  "cyr": "берза",
+  "lat": "berza",
+  "tr": "берза",
+  "ru": "биржа",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Берза је отворена до шеснаест сати.",
+   "lat": "Berza je otvorena do šesnaest sati.",
+   "ru": "Биржа открыта до шестнадцати часов."
+  }
+ },
+ {
+  "id": "w3529",
+  "order": 3529,
+  "level": "B2",
+  "cyr": "економски",
+  "lat": "ekonomski",
+  "tr": "економски",
+  "ru": "экономический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Економска криза је тешка.",
+   "lat": "Ekonomska kriza je teška.",
+   "ru": "Экономический кризис тяжёлый."
+  }
+ },
+ {
+  "id": "w3530",
+  "order": 3530,
+  "level": "B2",
+  "cyr": "извршити",
+  "lat": "izvršiti",
+  "tr": "извршити",
+  "ru": "исполнить; совершить; выполнить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Он је извршио важан задатак.",
+   "lat": "On je izvršio važan zadatak.",
+   "ru": "Он выполнил важное задание."
+  }
+ },
+ {
+  "id": "w3531",
+  "order": 3531,
+  "level": "B2",
+  "cyr": "флуктуација",
+  "lat": "fluktuacija",
+  "tr": "флуктуација",
+  "ru": "колебание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Флуктуација курса узнемирује инвеститоре.",
+   "lat": "Fluktuacija kursa uznemiruje investitore.",
+   "ru": "Колебание курса тревожит инвесторов."
+  }
+ },
+ {
+  "id": "w3532",
+  "order": 3532,
+  "level": "B2",
+  "cyr": "испоручити",
+  "lat": "isporučiti",
+  "tr": "испоручити",
+  "ru": "доверить; поручить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Шеф ми је испоручио важан пројекат.",
+   "lat": "Šef mi je isporučio važan projekat.",
+   "ru": "Начальник поручил мне важный проект."
+  }
+ },
+ {
+  "id": "w3533",
+  "order": 3533,
+  "level": "B2",
+  "cyr": "биланс",
+  "lat": "bilans",
+  "tr": "биланс",
+  "ru": "баланс",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Биланс стања је готов.",
+   "lat": "Bilans stanja je gotov.",
+   "ru": "Балансовый отчёт готов."
+  }
+ },
+ {
+  "id": "w3534",
+  "order": 3534,
+  "level": "B2",
+  "cyr": "ефикасан",
+  "lat": "efikasan",
+  "tr": "ефикасан",
+  "ru": "эффективный; результативный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ефикасан метод значајно смањује трошкове.",
+   "lat": "Efikasan metod značajno smanjuje troškove.",
+   "ru": "Эффективный метод значительно снижает издержки."
+  }
+ },
+ {
+  "id": "w3535",
+  "order": 3535,
+  "level": "B2",
+  "cyr": "измирити",
+  "lat": "izmiriti",
+  "tr": "измирити",
+  "ru": "уладить; примирить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Они су успели да измире своје несугласице.",
+   "lat": "Oni su uspeli da izmire svoje nesuglasice.",
+   "ru": "Они смогли уладить свои разногласия."
+  }
+ },
+ {
+  "id": "w3536",
+  "order": 3536,
+  "level": "B2",
+  "cyr": "иновативан",
+  "lat": "inovativan",
+  "tr": "иновативан",
+  "ru": "инновационный; новаторский",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Компанија је позната по иновативним решењима.",
+   "lat": "Kompanija je poznata po inovativnim rešenjima.",
+   "ru": "Компания известна своими инновационными решениями."
+  }
+ },
+ {
+  "id": "w3537",
+  "order": 3537,
+  "level": "B2",
+  "cyr": "кршити",
+  "lat": "kršiti",
+  "tr": "кршити",
+  "ru": "нарушать; ломать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Фирма крши уговор са својим добављачем.",
+   "lat": "Firma krši ugovor sa svojim dobavljačem.",
+   "ru": "Компания нарушает договор со своим поставщиком."
+  }
+ },
+ {
+  "id": "w3538",
+  "order": 3538,
+  "level": "B2",
+  "cyr": "бонус",
+  "lat": "bonus",
+  "tr": "бонус",
+  "ru": "бонус; премия",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Бонус је додатна зарада за запослене.",
+   "lat": "Bonus je dodatna zarada za zaposlene.",
+   "ru": "Бонус — это дополнительная оплата для сотрудников."
+  }
+ },
+ {
+  "id": "w3539",
+  "order": 3539,
+  "level": "B2",
+  "cyr": "исплатив",
+  "lat": "isplativ",
+  "tr": "исплатив",
+  "ru": "выгодный; рентабельный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ова инвестиција је веома исплатива.",
+   "lat": "Ova investicija je veoma isplativa.",
+   "ru": "Эта инвестиция очень выгодна."
+  }
+ },
+ {
+  "id": "w3540",
+  "order": 3540,
+  "level": "B2",
+  "cyr": "инвестирати",
+  "lat": "investirati",
+  "tr": "инвестирати",
+  "ru": "инвестировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Они одлучују да инвестирају у нову фабрику.",
+   "lat": "Oni odlučuju da investiraju u novu fabriku.",
+   "ru": "Они решают инвестировать в новый завод."
+  }
+ },
+ {
+  "id": "w3541",
+  "order": 3541,
+  "level": "B2",
+  "cyr": "спољна трговина",
+  "lat": "spoljna trgovina",
+  "tr": "спольна трговина",
+  "ru": "внешняя торговля",
+  "pos": "phrase",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Спољна трговина је важан део наше економике.",
+   "lat": "Spoljna trgovina je važan deo naše ekonomike.",
+   "ru": "Внешняя торговля — важная часть нашей экономики."
+  }
+ },
+ {
+  "id": "w3542",
+  "order": 3542,
+  "level": "B2",
+  "cyr": "набавити",
+  "lat": "nabaviti",
+  "tr": "набавити",
+  "ru": "приобрести; закупить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Фирма је набавила нову опрему.",
+   "lat": "Firma je nabavila novu opremu.",
+   "ru": "Компания приобрела новое оборудование."
+  }
+ },
+ {
+  "id": "w3543",
+  "order": 3543,
+  "level": "B2",
+  "cyr": "брокер",
+  "lat": "broker",
+  "tr": "брокер",
+  "ru": "брокер; маклер",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Брокер је купио акције за клијента.",
+   "lat": "Broker je kupio akcije za klijenta.",
+   "ru": "Брокер купил акции для клиента."
+  }
+ },
+ {
+  "id": "w3544",
+  "order": 3544,
+  "level": "B2",
+  "cyr": "марљив",
+  "lat": "marljiv",
+  "tr": "марлив",
+  "ru": "трудолюбивый; усердный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Марљив ученик увек спрема домаће задатке.",
+   "lat": "Marljiv učenik uvek sprema domaće zadatke.",
+   "ru": "Трудолюбивый ученик всегда делает домашние задания."
+  }
+ },
+ {
+  "id": "w3545",
+  "order": 3545,
+  "level": "B2",
+  "cyr": "наплатити",
+  "lat": "naplatiti",
+  "tr": "наплатити",
+  "ru": "оплатить; взыскать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Клијент је наплатио услугу.",
+   "lat": "Klijent je naplatio uslugu.",
+   "ru": "Клиент оплатил услугу."
+  }
+ },
+ {
+  "id": "w3546",
+  "order": 3546,
+  "level": "B2",
+  "cyr": "надзирати",
+  "lat": "nadzirati",
+  "tr": "надзирати",
+  "ru": "надзирать; контролировать; наблюдать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Савет директора надзире финансијску стабилност компаније.",
+   "lat": "Savet direktora nadzire finansijsku stabilnost kompanije.",
+   "ru": "Совет директоров контролирует финансовую стабильность компании."
+  }
+ },
+ {
+  "id": "w3547",
+  "order": 3547,
+  "level": "B2",
+  "cyr": "буџет",
+  "lat": "budžet",
+  "tr": "буджет",
+  "ru": "бюджет",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Министарство је потрошило читав буџет.",
+   "lat": "Ministarstvo je potrošilo čitav budžet.",
+   "ru": "Министерство израсходовало весь бюджет."
+  }
+ },
+ {
+  "id": "w3548",
+  "order": 3548,
+  "level": "B2",
+  "cyr": "монетарни",
+  "lat": "monetarni",
+  "tr": "монетарни",
+  "ru": "денежный; монетарный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Монетарна политика је сложена.",
+   "lat": "Monetarna politika je složena.",
+   "ru": "Денежно-кредитная политика сложная."
+  }
+ },
+ {
+  "id": "w3549",
+  "order": 3549,
+  "level": "B2",
+  "cyr": "најавити",
+  "lat": "najaviti",
+  "tr": "најавити",
+  "ru": "объявить; предупредить; анонсировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Концерт је најављен за следећи месец.",
+   "lat": "Koncert je najavljen za sledeći mesec.",
+   "ru": "Концерт анонсирован на следующий месяц."
+  }
+ },
+ {
+  "id": "w3550",
+  "order": 3550,
+  "level": "B2",
+  "cyr": "обучити",
+  "lat": "obučiti",
+  "tr": "обучити",
+  "ru": "обучить; научить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Фирма ће обучити нове раднике.",
+   "lat": "Firma će obučiti nove radnike.",
+   "ru": "Компания обучит новых работников."
+  }
+ },
+ {
+  "id": "w3551",
+  "order": 3551,
+  "level": "B2",
+  "cyr": "валута",
+  "lat": "valuta",
+  "tr": "валута",
+  "ru": "валюта; денежная единица",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова валута је веома стабилна.",
+   "lat": "Ova valuta je veoma stabilna.",
+   "ru": "Эта валюта очень стабильная."
+  }
+ },
+ {
+  "id": "w3552",
+  "order": 3552,
+  "level": "B2",
+  "cyr": "одлучан",
+  "lat": "odlučan",
+  "tr": "одлучан",
+  "ru": "решительный; твёрдый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Одлучан спортиста не одустаје од циља.",
+   "lat": "Odlučan sportista ne odustaje od cilja.",
+   "ru": "Решительный спортсмен не сдаётся от цели."
+  }
+ },
+ {
+  "id": "w3553",
+  "order": 3553,
+  "level": "B2",
+  "cyr": "обавити",
+  "lat": "obaviti",
+  "tr": "обавити",
+  "ru": "совершить; выполнить; провести",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Посао мора бити обављен до петка.",
+   "lat": "Posao mora biti obavljen do petka.",
+   "ru": "Работа должна быть выполнена до пятницы."
+  }
+ },
+ {
+  "id": "w3554",
+  "order": 3554,
+  "level": "B2",
+  "cyr": "одужити се",
+  "lat": "odužiti se",
+  "tr": "одужити се",
+  "ru": "вернуть долг; расплатиться",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Он је одужио се за све дугове.",
+   "lat": "On je odužio se za sve dugove.",
+   "ru": "Он вернул все долги."
+  }
+ },
+ {
+  "id": "w3555",
+  "order": 3555,
+  "level": "B2",
+  "cyr": "велепродаја",
+  "lat": "veleprodaja",
+  "tr": "велепродаја",
+  "ru": "оптовая продажа",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Купујемо робу на велепродаји.",
+   "lat": "Kupujemo robu na veleprodaji.",
+   "ru": "Мы покупаем товар оптом."
+  }
+ },
+ {
+  "id": "w3556",
+  "order": 3556,
+  "level": "B2",
+  "cyr": "послован",
+  "lat": "poslovan",
+  "tr": "послован",
+  "ru": "деловой; коммерческий",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Послован партнер је поуздан.",
+   "lat": "Poslovan partner je pouzdan.",
+   "ru": "Деловой партнер надежный."
+  }
+ },
+ {
+  "id": "w3557",
+  "order": 3557,
+  "level": "B2",
+  "cyr": "остварити",
+  "lat": "ostvariti",
+  "tr": "остварити",
+  "ru": "осуществить; достичь; получить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Успели смо да остваримо значајан профит.",
+   "lat": "Uspeli smo da ostvarimo značajan profit.",
+   "ru": "Нам удалось получить значительную прибыль."
+  }
+ },
+ {
+  "id": "w3558",
+  "order": 3558,
+  "level": "B2",
+  "cyr": "основати",
+  "lat": "osnovati",
+  "tr": "основати",
+  "ru": "основать; учредить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тај предузетник је основао три компаније.",
+   "lat": "Taj preduzetnik je osnovao tri kompanije.",
+   "ru": "Тот предприниматель основал три компании."
+  }
+ },
+ {
+  "id": "w3559",
+  "order": 3559,
+  "level": "B2",
+  "cyr": "гаранција",
+  "lat": "garancija",
+  "tr": "гаранција",
+  "ru": "гарантия; обеспечение",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Гаранција штити купца од лоше робе.",
+   "lat": "Garancija štiti kupca od loše robe.",
+   "ru": "Гарантия защищает покупателя от плохого товара."
+  }
+ },
+ {
+  "id": "w3560",
+  "order": 3560,
+  "level": "B2",
+  "cyr": "пословни",
+  "lat": "poslovni",
+  "tr": "пословни",
+  "ru": "деловой; коммерческий",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Пословни партнер је дошао.",
+   "lat": "Poslovni partner je došao.",
+   "ru": "Деловой партнёр пришёл."
+  }
+ },
+ {
+  "id": "w3561",
+  "order": 3561,
+  "level": "B2",
+  "cyr": "откупити",
+  "lat": "otkupiti",
+  "tr": "откупити",
+  "ru": "выкупить; скупить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тај предузетник је откупио стару фабрику.",
+   "lat": "Taj preduzetnik je otkupio staru fabriku.",
+   "ru": "Тот предприниматель выкупил старый завод."
+  }
+ },
+ {
+  "id": "w3562",
+  "order": 3562,
+  "level": "B2",
+  "cyr": "оспособити",
+  "lat": "osposobiti",
+  "tr": "оспособити",
+  "ru": "обеспечить; дать возможность",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тај курс ће вас оспособити за посао.",
+   "lat": "Taj kurs će vas osposobiti za posao.",
+   "ru": "Этот курс обеспечит вас работой."
+  }
+ },
+ {
+  "id": "w3563",
+  "order": 3563,
+  "level": "B2",
+  "cyr": "главница",
+  "lat": "glavnica",
+  "tr": "главница",
+  "ru": "основная сумма долга",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Главница кредита се исплаћује годинама.",
+   "lat": "Glavnica kredita se isplaćuje godinama.",
+   "ru": "Основная сумма кредита выплачивается годами."
+  }
+ },
+ {
+  "id": "w3564",
+  "order": 3564,
+  "level": "B2",
+  "cyr": "потрошачки",
+  "lat": "potrošački",
+  "tr": "потрошачки",
+  "ru": "потребительский; для покупателей",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Потрошачка цена је виша од фабричке.",
+   "lat": "Potrošačka cena je viša od fabričke.",
+   "ru": "Потребительская цена выше оптовой."
+  }
+ },
+ {
+  "id": "w3565",
+  "order": 3565,
+  "level": "B2",
+  "cyr": "отплаћивати",
+  "lat": "otplaćivati",
+  "tr": "отплачивати",
+  "ru": "отплачивать; возвращать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Фирма отплаћује дугове постепено.",
+   "lat": "Firma otplaćuje dugove postepeno.",
+   "ru": "Компания постепенно выплачивает долги."
+  }
+ },
+ {
+  "id": "w3566",
+  "order": 3566,
+  "level": "B2",
+  "cyr": "отплатити",
+  "lat": "otplatiti",
+  "tr": "отплатити",
+  "ru": "отплатить; вознаградить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Хтео је да јој отплати услугу.",
+   "lat": "Hteo je da joj otplati uslugu.",
+   "ru": "Он хотел вознаградить её за услугу."
+  }
+ },
+ {
+  "id": "w3567",
+  "order": 3567,
+  "level": "B2",
+  "cyr": "губитак",
+  "lat": "gubitak",
+  "tr": "губитак",
+  "ru": "убыток; потеря",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Губитак је велики за компанију.",
+   "lat": "Gubitak je veliki za kompaniju.",
+   "ru": "Убыток велик для компании."
+  }
+ },
+ {
+  "id": "w3568",
+  "order": 3568,
+  "level": "B2",
+  "cyr": "предан",
+  "lat": "predan",
+  "tr": "предан",
+  "ru": "преданный; преданный делу",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Предан радник често остаје касно на послу.",
+   "lat": "Predan radnik često ostaje kasno na poslu.",
+   "ru": "Преданный работник часто задерживается на работе."
+  }
+ },
+ {
+  "id": "w3569",
+  "order": 3569,
+  "level": "B2",
+  "cyr": "пословати",
+  "lat": "poslovati",
+  "tr": "пословати",
+  "ru": "вести дела; заниматься бизнесом",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Њихова компанија послује на тржишту више година.",
+   "lat": "Njihova kompanija posluje na tržištu više godina.",
+   "ru": "Их компания работает на рынке уже много лет."
+  }
+ },
+ {
+  "id": "w3570",
+  "order": 3570,
+  "level": "B2",
+  "cyr": "отпустити",
+  "lat": "otpustiti",
+  "tr": "отпустити",
+  "ru": "уволить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Отпустили су га због кашњења.",
+   "lat": "Otpustili su ga zbog kašnjenja.",
+   "ru": "Его уволили за опоздания."
+  }
+ },
+ {
+  "id": "w3571",
+  "order": 3571,
+  "level": "B2",
+  "cyr": "девалвација",
+  "lat": "devalvacija",
+  "tr": "девалвација",
+  "ru": "девальвация",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Девалвација утиче на извоз.",
+   "lat": "Devalvacija utiče na izvoz.",
+   "ru": "Девальвация влияет на экспорт."
+  }
+ },
+ {
+  "id": "w3572",
+  "order": 3572,
+  "level": "B2",
+  "cyr": "предузетљив",
+  "lat": "preduzetljiv",
+  "tr": "предузетлив",
+  "ru": "предприимчивый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Предузетљив младић отвара сопствену фирму.",
+   "lat": "Preduzetljiv mladić otvara sopstvenu firmu.",
+   "ru": "Предприимчивый молодой человек открывает собственную фирму."
+  }
+ },
+ {
+  "id": "w3573",
+  "order": 3573,
+  "level": "B2",
+  "cyr": "прилагодити",
+  "lat": "prilagoditi",
+  "tr": "прилагодити",
+  "ru": "приспособить; адаптировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Менаџер мора прилагодити план новим околностима.",
+   "lat": "Menadžer mora prilagoditi plan novim okolnostima.",
+   "ru": "Менеджер должен приспособить план к новым обстоятельствам."
+  }
+ },
+ {
+  "id": "w3574",
+  "order": 3574,
+  "level": "B2",
+  "cyr": "подстицати",
+  "lat": "podsticati",
+  "tr": "подстицати",
+  "ru": "поощрять; стимулировать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Менаџер подстиче запослене на иновативност.",
+   "lat": "Menadžer podstiče zaposlene na inovativnost.",
+   "ru": "Менеджер поощряет сотрудников к инновациям."
+  }
+ },
+ {
+  "id": "w3575",
+  "order": 3575,
+  "level": "B2",
+  "cyr": "девизе",
+  "lat": "devize",
+  "tr": "девизе",
+  "ru": "валюта; иностранные деньги; валютные ценности",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Девизе се користе у међународној трговини.",
+   "lat": "Devize se koriste u međunarodnoj trgovini.",
+   "ru": "Валюты используются в международной торговле."
+  }
+ },
+ {
+  "id": "w3576",
+  "order": 3576,
+  "level": "B2",
+  "cyr": "приватни",
+  "lat": "privatni",
+  "tr": "приватни",
+  "ru": "частный; личный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Приватни живот славних особа често је скандализујући.",
+   "lat": "Privatni život slavnih osoba često je skandalizujući.",
+   "ru": "Частная жизнь знаменитостей часто скандальна."
+  }
+ },
+ {
+  "id": "w3577",
+  "order": 3577,
+  "level": "B2",
+  "cyr": "разрешити",
+  "lat": "razrešiti",
+  "tr": "разрешити",
+  "ru": "разрешить; уладить; прояснить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Он је разрешио сложен проблем.",
+   "lat": "On je razrešio složen problem.",
+   "ru": "Он разрешил сложную проблему."
+  }
+ },
+ {
+  "id": "w3578",
+  "order": 3578,
+  "level": "B2",
+  "cyr": "преговарати",
+  "lat": "pregovarati",
+  "tr": "преговарати",
+  "ru": "вести переговоры; договариваться",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Директор преговара са партнерима о сарадњи.",
+   "lat": "Direktor pregovara sa partnerima o saradnji.",
+   "ru": "Директор ведет переговоры с партнерами о сотрудничестве."
+  }
+ },
+ {
+  "id": "w3579",
+  "order": 3579,
+  "level": "B2",
+  "cyr": "депозит",
+  "lat": "depozit",
+  "tr": "депозит",
+  "ru": "вклад; депозит",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Депозит је сигурна инвестиција.",
+   "lat": "Depozit je sigurna investicija.",
+   "ru": "Вклад — это безопасная инвестиция."
+  }
+ },
+ {
+  "id": "w3580",
+  "order": 3580,
+  "level": "B2",
+  "cyr": "привредни",
+  "lat": "privredni",
+  "tr": "привредни",
+  "ru": "хозяйственный; экономический",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Привредни раст је важан за земљу.",
+   "lat": "Privredni rast je važan za zemlju.",
+   "ru": "Экономический рост важен для страны."
+  }
+ },
+ {
+  "id": "w3581",
+  "order": 3581,
+  "level": "B2",
+  "cyr": "трговати",
+  "lat": "trgovati",
+  "tr": "трговати",
+  "ru": "торговать; торговаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Она тргује текстилном робом више од деценије.",
+   "lat": "Ona trguje tekstilnom robom više od decenije.",
+   "ru": "Она торгует текстильными товарами более десяти лет."
+  }
+ },
+ {
+  "id": "w3582",
+  "order": 3582,
+  "level": "B2",
+  "cyr": "проширити",
+  "lat": "proširiti",
+  "tr": "проширити",
+  "ru": "расширять; распространять",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Пројекат прошири свој утицај на целу регију.",
+   "lat": "Projekat proširi svoj uticaj na celu regiju.",
+   "ru": "Проект расширяет свое влияние на весь регион."
+  }
+ },
+ {
+  "id": "w3583",
+  "order": 3583,
+  "level": "B2",
+  "cyr": "дефицит",
+  "lat": "deficit",
+  "tr": "дефицит",
+  "ru": "дефицит",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дефицит трговине је порастао.",
+   "lat": "Deficit trgovine je porastao.",
+   "ru": "Дефицит торговли вырос."
+  }
+ },
+ {
+  "id": "w3584",
+  "order": 3584,
+  "level": "B2",
+  "cyr": "привремен",
+  "lat": "privremen",
+  "tr": "привремен",
+  "ru": "временный; временный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Привремен рад траје само неколико месеци.",
+   "lat": "Privremen rad traje samo nekoliko meseci.",
+   "ru": "Временная работа длится всего несколько месяцев."
+  }
+ },
+ {
+  "id": "w3585",
+  "order": 3585,
+  "level": "B2",
+  "cyr": "унапредити",
+  "lat": "unaprediti",
+  "tr": "унапредити",
+  "ru": "повысить; усовершенствовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Морамо да унапредимо нашу производњу.",
+   "lat": "Moramo da unapredimo našu proizvodnju.",
+   "ru": "Нам нужно повысить наше производство."
+  }
+ },
+ {
+  "id": "w3586",
+  "order": 3586,
+  "level": "B2",
+  "cyr": "регистровати",
+  "lat": "registrovati",
+  "tr": "регистровати",
+  "ru": "зарегистрировать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Фирма је регистрована прошле године.",
+   "lat": "Firma je registrovana prošle godine.",
+   "ru": "Фирма зарегистрирована в прошлом году."
+  }
+ },
+ {
+  "id": "w3587",
+  "order": 3587,
+  "level": "B2",
+  "cyr": "дефлација",
+  "lat": "deflacija",
+  "tr": "дефлација",
+  "ru": "дефляция",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дефлација смањује потрошњу.",
+   "lat": "Deflacija smanjuje potrošnju.",
+   "ru": "Дефляция снижает потребление."
+  }
+ },
+ {
+  "id": "w3588",
+  "order": 3588,
+  "level": "B2",
+  "cyr": "рентабилан",
+  "lat": "rentabilan",
+  "tr": "рентабилан",
+  "ru": "рентабельный; прибыльный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Овај пројекат је веома рентабилан.",
+   "lat": "Ovaj projekat je veoma rentabilan.",
+   "ru": "Этот проект очень рентабельный."
+  }
+ },
+ {
+  "id": "w3589",
+  "order": 3589,
+  "level": "B2",
+  "cyr": "уплаћивати",
+  "lat": "uplaćivati",
+  "tr": "уплачивати",
+  "ru": "вносить (платеж); оплачивать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Уплаћујемо месечну премију за осигурање.",
+   "lat": "Uplaćujemo mesečnu premiju za osiguranje.",
+   "ru": "Мы вносим ежемесячную премию за страхование."
+  }
+ },
+ {
+  "id": "w3590",
+  "order": 3590,
+  "level": "B2",
+  "cyr": "снабдевати",
+  "lat": "snabdevati",
+  "tr": "снабдевати",
+  "ru": "снабжать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Ова компанија снабдева многе продавнице.",
+   "lat": "Ova kompanija snabdeva mnoge prodavnice.",
+   "ru": "Эта компания снабжает многие магазины."
+  }
+ },
+ {
+  "id": "w3591",
+  "order": 3591,
+  "level": "B2",
+  "cyr": "дивиденда",
+  "lat": "dividenda",
+  "tr": "дивиденда",
+  "ru": "дивиденд; доход с акций",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Акционари добијају дивиденде сваке године.",
+   "lat": "Akcionari dobijaju dividende svake godine.",
+   "ru": "Акционеры получают дивиденды каждый год."
+  }
+ },
+ {
+  "id": "w3592",
+  "order": 3592,
+  "level": "B2",
+  "cyr": "самосталан",
+  "lat": "samostalan",
+  "tr": "самосталан",
+  "ru": "самостоятельный; самодостаточный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Самосталан тинејџер сам чисти собу.",
+   "lat": "Samostalan tinejdžer sam čisti sobu.",
+   "ru": "Самостоятельный подросток сам убирает в своей комнате."
+  }
+ },
+ {
+  "id": "w3593",
+  "order": 3593,
+  "level": "B2",
+  "cyr": "финансирати",
+  "lat": "finansirati",
+  "tr": "финансирати",
+  "ru": "финансировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Држава финансира истраживања у науци.",
+   "lat": "Država finansira istraživanja u nauci.",
+   "ru": "Государство финансирует исследования в науке."
+  }
+ },
+ {
+  "id": "w3594",
+  "order": 3594,
+  "level": "B2",
+  "cyr": "стећи",
+  "lat": "steći",
+  "tr": "стечи",
+  "ru": "приобрести; приобрести",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Брзо је стекао поверење колега.",
+   "lat": "Brzo je stekao poverenje kolega.",
+   "ru": "Он быстро приобрел доверие коллег."
+  }
+ },
+ {
+  "id": "w3595",
+  "order": 3595,
+  "level": "B2",
+  "cyr": "дисконт",
+  "lat": "diskont",
+  "tr": "дисконт",
+  "ru": "дискаунтер; скидка",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Купујем у дисконту јер је јефтино.",
+   "lat": "Kupujem u diskontu jer je jeftino.",
+   "ru": "Покупаю в дискаунтере, потому что дёшево."
+  }
+ },
+ {
+  "id": "w3596",
+  "order": 3596,
+  "level": "B2",
+  "cyr": "тржишни",
+  "lat": "tržišni",
+  "tr": "тржишни",
+  "ru": "рыночный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Тржишни услови су променљиви.",
+   "lat": "Tržišni uslovi su promenljivi.",
+   "ru": "Рыночные условия изменчивы."
+  }
+ },
+ {
+  "id": "w3597",
+  "order": 3597,
+  "level": "B2",
+  "cyr": "улагати",
+  "lat": "ulagati",
+  "tr": "улагати",
+  "ru": "инвестировать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Предузетници често улагате у нове технологије.",
+   "lat": "Preduzetnici često ulagate u nove tehnologije.",
+   "ru": "Предприниматели часто инвестируют в новые технологии."
+  }
+ },
+ {
+  "id": "w3598",
+  "order": 3598,
+  "level": "B2",
+  "cyr": "добит",
+  "lat": "dobit",
+  "tr": "добит",
+  "ru": "прибыль",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Фирма је остварила велику добит.",
+   "lat": "Firma je ostvarila veliku dobit.",
+   "ru": "Фирма получила большую прибыль."
+  }
+ },
+ {
+  "id": "w3599",
+  "order": 3599,
+  "level": "B2",
+  "cyr": "финансијски",
+  "lat": "finansijski",
+  "tr": "финансијски",
+  "ru": "финансовый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Финансијски извештај је спреман.",
+   "lat": "Finansijski izveštaj je spreman.",
+   "ru": "Финансовый отчёт готов."
+  }
+ },
+ {
+  "id": "w3600",
+  "order": 3600,
+  "level": "B2",
+  "cyr": "уложити",
+  "lat": "uložiti",
+  "tr": "уложити",
+  "ru": "инвестировать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Она је уложила много труда у пројекат.",
+   "lat": "Ona je uložila mnogo truda u projekat.",
+   "ru": "Она вложила много труда в проект."
+  }
+ },
+ {
+  "id": "w3601",
+  "order": 3601,
+  "level": "B2",
+  "cyr": "доходак",
+  "lat": "dohodak",
+  "tr": "доходак",
+  "ru": "доход",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пензионерски доходак је низак.",
+   "lat": "Penzionerski dohodak je nizak.",
+   "ru": "Пенсионный доход низкий."
+  }
+ },
+ {
+  "id": "w3602",
+  "order": 3602,
+  "level": "B2",
+  "cyr": "фискални",
+  "lat": "fiskalni",
+  "tr": "фискални",
+  "ru": "фискальный; бюджетный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Фискална реформа је неопходна.",
+   "lat": "Fiskalna reforma je neophodna.",
+   "ru": "Бюджетная реформа необходима."
+  }
+ },
+ {
+  "id": "w3603",
+  "order": 3603,
+  "level": "B2",
+  "cyr": "унапређивати",
+  "lat": "unapređivati",
+  "tr": "унапредживати",
+  "ru": "повышать; улучшать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Менаџер унапређује запослене за добар рад.",
+   "lat": "Menadžer unapređuje zaposlene za dobar rad.",
+   "ru": "Менеджер повышает сотрудников за хорошую работу."
+  }
+ },
+ {
+  "id": "w3604",
+  "order": 3604,
+  "level": "B2",
+  "cyr": "дужник",
+  "lat": "dužnik",
+  "tr": "дужник",
+  "ru": "должник",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дужник није одговорио на позив.",
+   "lat": "Dužnik nije odgovorio na poziv.",
+   "ru": "Должник не отозвался на повестку."
+  }
+ },
+ {
+  "id": "w3605",
+  "order": 3605,
+  "level": "B2",
+  "cyr": "усавршавати",
+  "lat": "usavršavati",
+  "tr": "усавршавати",
+  "ru": "усовершенствовать; улучшать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Студенти стално усавршавају своје знање.",
+   "lat": "Studenti stalno usavršavaju svoje znanje.",
+   "ru": "Студенты постоянно совершенствуют свои знания."
+  }
+ },
+ {
+  "id": "w3606",
+  "order": 3606,
+  "level": "B2",
+  "cyr": "економија",
+  "lat": "ekonomija",
+  "tr": "економија",
+  "ru": "экономика",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Економија расте сваке године.",
+   "lat": "Ekonomija raste svake godine.",
+   "ru": "Экономика растёт каждый год."
+  }
+ },
+ {
+  "id": "w3607",
+  "order": 3607,
+  "level": "B2",
+  "cyr": "усавршити",
+  "lat": "usavršiti",
+  "tr": "усавршити",
+  "ru": "усовершенствовать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Инжењер је усавршио пројекат.",
+   "lat": "Inženjer je usavršio projekat.",
+   "ru": "Инженер усовершенствовал проект."
+  }
+ },
+ {
+  "id": "w3608",
+  "order": 3608,
+  "level": "B2",
+  "cyr": "зарада",
+  "lat": "zarada",
+  "tr": "зарада",
+  "ru": "заработок; зарплата",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова месечна зарада је мала.",
+   "lat": "Njegova mesečna zarada je mala.",
+   "ru": "Его месячная зарплата маленькая."
+  }
+ },
+ {
+  "id": "w3609",
+  "order": 3609,
+  "level": "B2",
+  "cyr": "успоставити",
+  "lat": "uspostaviti",
+  "tr": "успоставити",
+  "ru": "устанавливать; восстанавливать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Фирма успостави сарадњу са новим партнером.",
+   "lat": "Firma uspostavi saradnju sa novim partnerom.",
+   "ru": "Компания устанавливает сотрудничество с новым партнером."
+  }
+ },
+ {
+  "id": "w3610",
+  "order": 3610,
+  "level": "B2",
+  "cyr": "зајам",
+  "lat": "zajam",
+  "tr": "зајам",
+  "ru": "заём",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тражимо зајам у банци.",
+   "lat": "Tražimo zajam u banci.",
+   "ru": "Ищем заём в банке."
+  }
+ },
+ {
+  "id": "w3611",
+  "order": 3611,
+  "level": "B2",
+  "cyr": "архив",
+  "lat": "arhiv",
+  "tr": "архив",
+  "ru": "архив; архивный фонд",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Стари документи чувају се у архиву.",
+   "lat": "Stari dokumenti čuvaju se u arhivu.",
+   "ru": "Старые документы хранятся в архиве."
+  }
+ },
+ {
+  "id": "w3612",
+  "order": 3612,
+  "level": "B2",
+  "cyr": "извоз",
+  "lat": "izvoz",
+  "tr": "извоз",
+  "ru": "экспорт",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Извоз земље је у сталном порасту.",
+   "lat": "Izvoz zemlje je u stalnom porastu.",
+   "ru": "Экспорт страны постоянно растёт."
+  }
+ },
+ {
+  "id": "w3613",
+  "order": 3613,
+  "level": "B2",
+  "cyr": "архивар",
+  "lat": "arhivar",
+  "tr": "архивар",
+  "ru": "архивариус",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Архивар чува важне историјске документе.",
+   "lat": "Arhivar čuva važne istorijske dokumente.",
+   "ru": "Архивариус хранит важные исторические документы."
+  }
+ },
+ {
+  "id": "w3614",
+  "order": 3614,
+  "level": "B2",
+  "cyr": "издатак",
+  "lat": "izdatak",
+  "tr": "издатак",
+  "ru": "расход; трата",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај издатак је неочекиван.",
+   "lat": "Ovaj izdatak je neočekivan.",
+   "ru": "Этот расход неожиданный."
+  }
+ },
+ {
+  "id": "w3615",
+  "order": 3615,
+  "level": "B2",
+  "cyr": "банкар",
+  "lat": "bankar",
+  "tr": "банкар",
+  "ru": "банкир; банковский служащий",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Банкар саветује клијенте о инвестицијама.",
+   "lat": "Bankar savetuje klijente o investicijama.",
+   "ru": "Банкир советует клиентов об инвестициях."
+  }
+ },
+ {
+  "id": "w3616",
+  "order": 3616,
+  "level": "B2",
+  "cyr": "инвеститор",
+  "lat": "investitor",
+  "tr": "инвеститор",
+  "ru": "инвестор",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Страни инвеститор је купио фабрику.",
+   "lat": "Strani investitor je kupio fabriku.",
+   "ru": "Иностранный инвестор купил фабрику."
+  }
+ },
+ {
+  "id": "w3617",
+  "order": 3617,
+  "level": "B2",
+  "cyr": "благајник",
+  "lat": "blagajnik",
+  "tr": "благајник",
+  "ru": "кассир; касса",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Благајник тражи новац.",
+   "lat": "Blagajnik traži novac.",
+   "ru": "Кассир просит деньги."
+  }
+ },
+ {
+  "id": "w3618",
+  "order": 3618,
+  "level": "B2",
+  "cyr": "инвестиција",
+  "lat": "investicija",
+  "tr": "инвестиција",
+  "ru": "инвестиция",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Куповина стана је велика инвестиција.",
+   "lat": "Kupovina stana je velika investicija.",
+   "ru": "Покупка квартиры — большая инвестиция."
+  }
+ },
+ {
+  "id": "w3619",
+  "order": 3619,
+  "level": "B2",
+  "cyr": "годишњи извештај",
+  "lat": "godišnji izveštaj",
+  "tr": "годишни извештај",
+  "ru": "годовой отчет",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Директор је потврдио годишњи извештај.",
+   "lat": "Direktor je potvrdio godišnji izveštaj.",
+   "ru": "Директор утвердил годовой отчет."
+  }
+ },
+ {
+  "id": "w3620",
+  "order": 3620,
+  "level": "B2",
+  "cyr": "индекс",
+  "lat": "indeks",
+  "tr": "индекс",
+  "ru": "индекс",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Главни берзански индекс је пао.",
+   "lat": "Glavni berzanski indeks je pao.",
+   "ru": "Главный биржевой индекс упал."
+  }
+ },
+ {
+  "id": "w3621",
+  "order": 3621,
+  "level": "B2",
+  "cyr": "делатност",
+  "lat": "delatnost",
+  "tr": "делатност",
+  "ru": "деятельность; род занятий",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Њена делатност је финансирање пројеката.",
+   "lat": "Njena delatnost je finansiranje projekata.",
+   "ru": "Её деятельность — финансирование проектов."
+  }
+ },
+ {
+  "id": "w3622",
+  "order": 3622,
+  "level": "B2",
+  "cyr": "инкасо",
+  "lat": "inkaso",
+  "tr": "инкасо",
+  "ru": "инкассо",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "n",
+  "ex": {
+   "cyr": "Плаћање иде преко инкаса.",
+   "lat": "Plaćanje ide preko inkasa.",
+   "ru": "Оплата идёт через инкассо."
+  }
+ },
+ {
+  "id": "w3623",
+  "order": 3623,
+  "level": "B2",
+  "cyr": "дерегулација",
+  "lat": "deregulacija",
+  "tr": "дерегулација",
+  "ru": "дерегулирование",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дерегулација олакшава пословање.",
+   "lat": "Deregulacija olakšava poslovanje.",
+   "ru": "Дерегулирование облегчает ведение бизнеса."
+  }
+ },
+ {
+  "id": "w3624",
+  "order": 3624,
+  "level": "B2",
+  "cyr": "инсолвентност",
+  "lat": "insolventnost",
+  "tr": "инсолвентност",
+  "ru": "неплатежеспособность; банкротство",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Инсолвентност доводи до ликвидације фирме.",
+   "lat": "Insolventnost dovodi do likvidacije firme.",
+   "ru": "Неплатежеспособность приводит к ликвидации фирмы."
+  }
+ },
+ {
+  "id": "w3625",
+  "order": 3625,
+  "level": "B2",
+  "cyr": "дистрибуција",
+  "lat": "distribucija",
+  "tr": "дистрибуција",
+  "ru": "дистрибуция",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дистрибуција производа иде преко партнера.",
+   "lat": "Distribucija proizvoda ide preko partnera.",
+   "ru": "Дистрибуция продукции идёт через партнёров."
+  }
+ },
+ {
+  "id": "w3626",
+  "order": 3626,
+  "level": "B2",
+  "cyr": "инфлација",
+  "lat": "inflacija",
+  "tr": "инфлација",
+  "ru": "инфляция",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Инфлација ове године расте.",
+   "lat": "Inflacija ove godine raste.",
+   "ru": "Инфляция в этом году растёт."
+  }
+ },
+ {
+  "id": "w3627",
+  "order": 3627,
+  "level": "B2",
+  "cyr": "добављач",
+  "lat": "dobavljač",
+  "tr": "добавляч",
+  "ru": "поставщик",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Главни добављач је из Немачке.",
+   "lat": "Glavni dobavljač je iz Nemačke.",
+   "ru": "Главный поставщик из Германии."
+  }
+ },
+ {
+  "id": "w3628",
+  "order": 3628,
+  "level": "B2",
+  "cyr": "капацитет",
+  "lat": "kapacitet",
+  "tr": "капацитет",
+  "ru": "ёмкость; мощность; производительность",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Фабрика пуни свој капацитет.",
+   "lat": "Fabrika puni svoj kapacitet.",
+   "ru": "Фабрика заполняет свою мощность."
+  }
+ },
+ {
+  "id": "w3629",
+  "order": 3629,
+  "level": "B2",
+  "cyr": "документација",
+  "lat": "dokumentacija",
+  "tr": "документација",
+  "ru": "документация; документы",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Документација за пројекат је већ спремна.",
+   "lat": "Dokumentacija za projekat je već spremna.",
+   "ru": "Документация по проекту уже готова."
+  }
+ },
+ {
+  "id": "w3630",
+  "order": 3630,
+  "level": "B2",
+  "cyr": "капитал",
+  "lat": "kapital",
+  "tr": "капитал",
+  "ru": "капитал",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Фирма је увећала капитал.",
+   "lat": "Firma je uvećala kapital.",
+   "ru": "Фирма увеличила капитал."
+  }
+ },
+ {
+  "id": "w3631",
+  "order": 3631,
+  "level": "B2",
+  "cyr": "допис",
+  "lat": "dopis",
+  "tr": "допис",
+  "ru": "письмо; переписка",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Допис са послова је веома важан.",
+   "lat": "Dopis sa poslova je veoma važan.",
+   "ru": "Деловое письмо очень важно."
+  }
+ },
+ {
+  "id": "w3632",
+  "order": 3632,
+  "level": "B2",
+  "cyr": "лизинг",
+  "lat": "lizing",
+  "tr": "лизинг",
+  "ru": "лизинг",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ауто је на лизинг две године.",
+   "lat": "Auto je na lizing dve godine.",
+   "ru": "Машина в лизинге два года."
+  }
+ },
+ {
+  "id": "w3633",
+  "order": 3633,
+  "level": "B2",
+  "cyr": "досије",
+  "lat": "dosije",
+  "tr": "досије",
+  "ru": "дело; личное дело; досье",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Досије кандидата садржи све информације.",
+   "lat": "Dosije kandidata sadrži sve informacije.",
+   "ru": "Досье кандидата содержит всю информацию."
+  }
+ },
+ {
+  "id": "w3634",
+  "order": 3634,
+  "level": "B2",
+  "cyr": "ликвидност",
+  "lat": "likvidnost",
+  "tr": "ликвидност",
+  "ru": "ликвидность; платежеспособность",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ликвидност компаније је кључна за успех.",
+   "lat": "Likvidnost kompanije je ključna za uspeh.",
+   "ru": "Ликвидность компании ключева для успеха."
+  }
+ },
+ {
+  "id": "w3635",
+  "order": 3635,
+  "level": "B2",
+  "cyr": "достигнуће",
+  "lat": "dostignuće",
+  "tr": "достигнуче",
+  "ru": "достижение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Достигнуће се слави у целом тиму.",
+   "lat": "Dostignuće se slavi u celom timu.",
+   "ru": "Достижение празднуется всей командой."
+  }
+ },
+ {
+  "id": "w3636",
+  "order": 3636,
+  "level": "B2",
+  "cyr": "маржа",
+  "lat": "marža",
+  "tr": "маржа",
+  "ru": "маржа",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Трговинска маржа је мала.",
+   "lat": "Trgovinska marža je mala.",
+   "ru": "Торговая маржа маленькая."
+  }
+ },
+ {
+  "id": "w3637",
+  "order": 3637,
+  "level": "B2",
+  "cyr": "дужност",
+  "lat": "dužnost",
+  "tr": "дужност",
+  "ru": "долг; обязанность",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Своју дужност обавља веома одговорно.",
+   "lat": "Svoju dužnost obavlja veoma odgovorno.",
+   "ru": "Свою обязанность он выполняет очень ответственно."
+  }
+ },
+ {
+  "id": "w3638",
+  "order": 3638,
+  "level": "B2",
+  "cyr": "маркетинг",
+  "lat": "marketing",
+  "tr": "маркетинг",
+  "ru": "маркетинг",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Маркетинг је кључан за продају производа.",
+   "lat": "Marketing je ključan za prodaju proizvoda.",
+   "ru": "Маркетинг ключевой для продажи продукта."
+  }
+ },
+ {
+  "id": "w3639",
+  "order": 3639,
+  "level": "B2",
+  "cyr": "евалуација",
+  "lat": "evaluacija",
+  "tr": "евалуација",
+  "ru": "оценка эффективности",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Годишња евалуација рада почиње у јуну.",
+   "lat": "Godišnja evaluacija rada počinje u junu.",
+   "ru": "Годовая оценка работы начинается в июне."
+  }
+ },
+ {
+  "id": "w3640",
+  "order": 3640,
+  "level": "B2",
+  "cyr": "надокнада",
+  "lat": "nadoknada",
+  "tr": "надокнада",
+  "ru": "возмещение; компенсация; доплата",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Надокнада је исплаћена због кашњења.",
+   "lat": "Nadoknada je isplaćena zbog kašnjenja.",
+   "ru": "Компенсация была выплачена из-за задержки."
+  }
+ },
+ {
+  "id": "w3641",
+  "order": 3641,
+  "level": "B2",
+  "cyr": "евиденција",
+  "lat": "evidencija",
+  "tr": "евиденција",
+  "ru": "учёт; регистрация; ведомость",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Евиденција радног времена је обавезна.",
+   "lat": "Evidencija radnog vremena je obavezna.",
+   "ru": "Учёт рабочего времени обязателен."
+  }
+ },
+ {
+  "id": "w3642",
+  "order": 3642,
+  "level": "B2",
+  "cyr": "обвезница",
+  "lat": "obveznica",
+  "tr": "обвезница",
+  "ru": "облигация",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Државне обвезнице су сигурне инвестиције.",
+   "lat": "Državne obveznice su sigurne investicije.",
+   "ru": "Государственные облигации — надёжные инвестиции."
+  }
+ },
+ {
+  "id": "w3643",
+  "order": 3643,
+  "level": "B2",
+  "cyr": "економиста",
+  "lat": "ekonomista",
+  "tr": "економиста",
+  "ru": "экономист",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Економиста је анализирао тржиште.",
+   "lat": "Ekonomista je analizirao tržište.",
+   "ru": "Экономист проанализировал рынок."
+  }
+ },
+ {
+  "id": "w3644",
+  "order": 3644,
+  "level": "B2",
+  "cyr": "обрачун",
+  "lat": "obračun",
+  "tr": "обрачун",
+  "ru": "расчёт; расчёт с долгами",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Обрачун са дуговима је завршен.",
+   "lat": "Obračun sa dugovima je završen.",
+   "ru": "Расчёт с долгами окончен."
+  }
+ },
+ {
+  "id": "w3645",
+  "order": 3645,
+  "level": "B2",
+  "cyr": "ефикасност",
+  "lat": "efikasnost",
+  "tr": "ефикасност",
+  "ru": "эффективность",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ефикасност производње се повећала.",
+   "lat": "Efikasnost proizvodnje se povećala.",
+   "ru": "Эффективность производства выросла."
+  }
+ },
+ {
+  "id": "w3646",
+  "order": 3646,
+  "level": "B2",
+  "cyr": "откуп",
+  "lat": "otkup",
+  "tr": "откуп",
+  "ru": "выкуп; закупка",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Откуп жита почиње у августу.",
+   "lat": "Otkup žita počinje u avgustu.",
+   "ru": "Закупка зерна начинается в августе."
+  }
+ },
+ {
+  "id": "w3647",
+  "order": 3647,
+  "level": "B2",
+  "cyr": "задруга",
+  "lat": "zadruga",
+  "tr": "задруга",
+  "ru": "кооператив; артель; община",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сељани су основали нову задругу.",
+   "lat": "Seljani su osnovali novu zadrugu.",
+   "ru": "Крестьяне основали новую артель."
+  }
+ },
+ {
+  "id": "w3648",
+  "order": 3648,
+  "level": "B2",
+  "cyr": "паушал",
+  "lat": "paušal",
+  "tr": "паушал",
+  "ru": "паушальный платёж",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мали предузетници плаћају паушал.",
+   "lat": "Mali preduzetnici plaćaju paušal.",
+   "ru": "Малые предприниматели платят паушал."
+  }
+ },
+ {
+  "id": "w3649",
+  "order": 3649,
+  "level": "B2",
+  "cyr": "заменик",
+  "lat": "zamenik",
+  "tr": "заменик",
+  "ru": "заместитель; заместительница",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Заменик директора води састанак у његовој одсутности.",
+   "lat": "Zamenik direktora vodi sastanak u njegovoj odsutnosti.",
+   "ru": "Заместитель директора проводит совещание в его отсутствие."
+  }
+ },
+ {
+  "id": "w3650",
+  "order": 3650,
+  "level": "B2",
+  "cyr": "пласман",
+  "lat": "plasman",
+  "tr": "пласман",
+  "ru": "сбыт; размещение",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пласман робе је проширен.",
+   "lat": "Plasman robe je proširen.",
+   "ru": "Сбыт товара расширен."
+  }
+ },
+ {
+  "id": "w3651",
+  "order": 3651,
+  "level": "B2",
+  "cyr": "занатлија",
+  "lat": "zanatlija",
+  "tr": "занатлија",
+  "ru": "ремесленник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Занатлија прави квалитетне кожне производе.",
+   "lat": "Zanatlija pravi kvalitetne kožne proizvode.",
+   "ru": "Ремесленник делает качественные кожные изделия."
+  }
+ },
+ {
+  "id": "w3652",
+  "order": 3652,
+  "level": "B2",
+  "cyr": "поверилац",
+  "lat": "poverilac",
+  "tr": "поверилац",
+  "ru": "кредитор",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Поверилац је одобрио кредит.",
+   "lat": "Poverilac je odobrio kredit.",
+   "ru": "Кредитор одобрил кредит."
+  }
+ },
+ {
+  "id": "w3653",
+  "order": 3653,
+  "level": "B2",
+  "cyr": "запослени",
+  "lat": "zaposleni",
+  "tr": "запослени",
+  "ru": "сотрудник; наёмный работник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Запослени добијају плате крајем месеца.",
+   "lat": "Zaposleni dobijaju plate krajem meseca.",
+   "ru": "Сотрудники получают зарплату в конце месяца."
+  }
+ },
+ {
+  "id": "w3654",
+  "order": 3654,
+  "level": "B2",
+  "cyr": "повећање",
+  "lat": "povećanje",
+  "tr": "повечанье",
+  "ru": "увеличение; повышение",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "n",
+  "ex": {
+   "cyr": "Повећање цене је неизбежно.",
+   "lat": "Povećanje cene je neizbežno.",
+   "ru": "Повышение цены неизбежно."
+  }
+ },
+ {
+  "id": "w3655",
+  "order": 3655,
+  "level": "B2",
+  "cyr": "запошљавање",
+  "lat": "zapošljavanje",
+  "tr": "запошляванье",
+  "ru": "трудоустройство; найм",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Запошљавање је процес за обе стране.",
+   "lat": "Zapošljavanje je proces za obe strane.",
+   "ru": "Трудоустройство — процесс для обеих сторон."
+  }
+ },
+ {
+  "id": "w3656",
+  "order": 3656,
+  "level": "B2",
+  "cyr": "поврат",
+  "lat": "povrat",
+  "tr": "поврат",
+  "ru": "возврат (налога)",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Поврат пореза је стигао.",
+   "lat": "Povrat poreza je stigao.",
+   "ru": "Возврат налога пришёл."
+  }
+ },
+ {
+  "id": "w3657",
+  "order": 3657,
+  "level": "B2",
+  "cyr": "запошљивост",
+  "lat": "zapošljivost",
+  "tr": "запошливост",
+  "ru": "трудоустройство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Знање језика повећава запошљивост.",
+   "lat": "Znanje jezika povećava zapošljivost.",
+   "ru": "Знание языка повышает шансы на работу."
+  }
+ },
+ {
+  "id": "w3658",
+  "order": 3658,
+  "level": "B2",
+  "cyr": "полиса",
+  "lat": "polisa",
+  "tr": "полиса",
+  "ru": "полис; страховка",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Полиса покрива случајеве несреће.",
+   "lat": "Polisa pokriva slučajeve nesreće.",
+   "ru": "Полис покрывает случаи несчастного случая."
+  }
+ },
+ {
+  "id": "w3659",
+  "order": 3659,
+  "level": "B2",
+  "cyr": "заступник",
+  "lat": "zastupnik",
+  "tr": "заступник",
+  "ru": "представитель; защитник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Заступник брани интересе свог клијента.",
+   "lat": "Zastupnik brani interese svog klijenta.",
+   "ru": "Представитель защищает интересы своего клиента."
+  }
+ },
+ {
+  "id": "w3660",
+  "order": 3660,
+  "level": "B2",
+  "cyr": "пораст",
+  "lat": "porast",
+  "tr": "пораст",
+  "ru": "прирост; рост",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Пораст цена је изненадио грађане.",
+   "lat": "Porast cena je iznenadio građane.",
+   "ru": "Рост цен удивил горожан."
+  }
+ },
+ {
+  "id": "w3661",
+  "order": 3661,
+  "level": "B2",
+  "cyr": "изазов",
+  "lat": "izazov",
+  "tr": "изазов",
+  "ru": "вызов; испытание",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај пројекат је прави изазов.",
+   "lat": "Ovaj projekat je pravi izazov.",
+   "ru": "Этот проект — настоящий вызов."
+  }
+ },
+ {
+  "id": "w3662",
+  "order": 3662,
+  "level": "B2",
+  "cyr": "потражња",
+  "lat": "potražnja",
+  "tr": "потражнья",
+  "ru": "спрос",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Потражња за новим аутомобилима је велика.",
+   "lat": "Potražnja za novim automobilima je velika.",
+   "ru": "Спрос на новые автомобили велик."
+  }
+ },
+ {
+  "id": "w3663",
+  "order": 3663,
+  "level": "B2",
+  "cyr": "извозник",
+  "lat": "izvoznik",
+  "tr": "извозник",
+  "ru": "экспортёр",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Извозник испоручује робу у Италију.",
+   "lat": "Izvoznik isporučuje robu u Italiju.",
+   "ru": "Экспортёр поставляет товар в Италию."
+  }
+ },
+ {
+  "id": "w3664",
+  "order": 3664,
+  "level": "B2",
+  "cyr": "превара",
+  "lat": "prevara",
+  "tr": "превара",
+  "ru": "мошенничество",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пажљиво, то је превара!",
+   "lat": "Pažljivo, to je prevara!",
+   "ru": "Осторожно, это мошенничество!"
+  }
+ },
+ {
+  "id": "w3665",
+  "order": 3665,
+  "level": "B2",
+  "cyr": "извршни директор",
+  "lat": "izvršni direktor",
+  "tr": "извршни директор",
+  "ru": "генеральный директор",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Нови извршни директор почиње у понедељак.",
+   "lat": "Novi izvršni direktor počinje u ponedeljak.",
+   "ru": "Новый генеральный директор начинает с понедельника."
+  }
+ },
+ {
+  "id": "w3666",
+  "order": 3666,
+  "level": "B2",
+  "cyr": "предрачун",
+  "lat": "predračun",
+  "tr": "предрачун",
+  "ru": "счёт-проформа",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Прво шаљемо предрачун, па фактуру.",
+   "lat": "Prvo šaljemo predračun, pa fakturu.",
+   "ru": "Сначала шлём счёт-проформу, потом фактуру."
+  }
+ },
+ {
+  "id": "w3667",
+  "order": 3667,
+  "level": "B2",
+  "cyr": "инвентар",
+  "lat": "inventar",
+  "tr": "инвентар",
+  "ru": "инвентарь; опись",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Инвентар канцеларије мора бити сваке године проверен.",
+   "lat": "Inventar kancelarije mora biti svake godine proveren.",
+   "ru": "Инвентарь офиса должен проверяться каждый год."
+  }
+ },
+ {
+  "id": "w3668",
+  "order": 3668,
+  "level": "B2",
+  "cyr": "премија",
+  "lat": "premija",
+  "tr": "премија",
+  "ru": "премия; вознаграждение",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Премија се додељује на крају године.",
+   "lat": "Premija se dodeljuje na kraju godine.",
+   "ru": "Премия присуждается в конце года."
+  }
+ },
+ {
+  "id": "w3669",
+  "order": 3669,
+  "level": "B2",
+  "cyr": "иновација",
+  "lat": "inovacija",
+  "tr": "иновација",
+  "ru": "инновация",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Иновација је важна за развој фирме.",
+   "lat": "Inovacija je važna za razvoj firme.",
+   "ru": "Инновация важна для развития фирмы."
+  }
+ },
+ {
+  "id": "w3670",
+  "order": 3670,
+  "level": "B2",
+  "cyr": "приватизација",
+  "lat": "privatizacija",
+  "tr": "приватизација",
+  "ru": "приватизация",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Приватизација предузећа текла је споро.",
+   "lat": "Privatizacija preduzeća tekla je sporo.",
+   "ru": "Приватизация предприятий шла медленно."
+  }
+ },
+ {
+  "id": "w3671",
+  "order": 3671,
+  "level": "B2",
+  "cyr": "инспектор",
+  "lat": "inspektor",
+  "tr": "инспектор",
+  "ru": "инспектор; инспектриса",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Инспектор је проверио документе.",
+   "lat": "Inspektor je proverio dokumente.",
+   "ru": "Инспектор проверил документы."
+  }
+ },
+ {
+  "id": "w3672",
+  "order": 3672,
+  "level": "B2",
+  "cyr": "привреда",
+  "lat": "privreda",
+  "tr": "привреда",
+  "ru": "экономика; хозяйство",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Србија развија своју привреду.",
+   "lat": "Srbija razvija svoju privredu.",
+   "ru": "Сербия развивает свою экономику."
+  }
+ },
+ {
+  "id": "w3673",
+  "order": 3673,
+  "level": "B2",
+  "cyr": "кадрови",
+  "lat": "kadrovi",
+  "tr": "кадрови",
+  "ru": "кадры; персонал",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Квалитетни кадрови су темељ успеха.",
+   "lat": "Kvalitetni kadrovi su temelj uspeha.",
+   "ru": "Качественные кадры — основа успеха."
+  }
+ },
+ {
+  "id": "w3674",
+  "order": 3674,
+  "level": "B2",
+  "cyr": "продуктивност",
+  "lat": "produktivnost",
+  "tr": "продуктивност",
+  "ru": "производительность",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Висока продуктивност повећава профит.",
+   "lat": "Visoka produktivnost povećava profit.",
+   "ru": "Высокая производительность увеличивает прибыль."
+  }
+ },
+ {
+  "id": "w3675",
+  "order": 3675,
+  "level": "B2",
+  "cyr": "калфа",
+  "lat": "kalfa",
+  "tr": "калфа",
+  "ru": "подмастерье; квалифицированный рабочий",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара калфа предаје тајне заната младом шегрту.",
+   "lat": "Stara kalfa predaje tajne zanata mladom šegrtu.",
+   "ru": "Старая подмастерье传授 секретов ремесла молодому ученику."
+  }
+ },
+ {
+  "id": "w3676",
+  "order": 3676,
+  "level": "B2",
+  "cyr": "промоција",
+  "lat": "promocija",
+  "tr": "промоција",
+  "ru": "продвижение; акция",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Промоција је најефикаснија пред празнике.",
+   "lat": "Promocija je najefikasnija pred praznike.",
+   "ru": "Акция самая эффективная перед праздниками."
+  }
+ },
+ {
+  "id": "w3677",
+  "order": 3677,
+  "level": "B2",
+  "cyr": "каријера",
+  "lat": "karijera",
+  "tr": "каријера",
+  "ru": "карьера",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Њена каријера креће успоном.",
+   "lat": "Njena karijera kreće usponom.",
+   "ru": "Её карьера идёт на подъёме."
+  }
+ },
+ {
+  "id": "w3678",
+  "order": 3678,
+  "level": "B2",
+  "cyr": "профит",
+  "lat": "profit",
+  "tr": "профит",
+  "ru": "прибыль",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Фирма остварује профит трећу годину.",
+   "lat": "Firma ostvaruje profit treću godinu.",
+   "ru": "Фирма получает прибыль третий год."
+  }
+ },
+ {
+  "id": "w3679",
+  "order": 3679,
+  "level": "B2",
+  "cyr": "квалификација",
+  "lat": "kvalifikacija",
+  "tr": "квалификација",
+  "ru": "квалификация; аттестация",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Добра квалификација је важна за посао.",
+   "lat": "Dobra kvalifikacija je važna za posao.",
+   "ru": "Хорошая квалификация важна для работы."
+  }
+ },
+ {
+  "id": "w3680",
+  "order": 3680,
+  "level": "B2",
+  "cyr": "распродаја",
+  "lat": "rasprodaja",
+  "tr": "распродаја",
+  "ru": "распродажа",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Распродаја зимске колекције је почела.",
+   "lat": "Rasprodaja zimske kolekcije je počela.",
+   "ru": "Распродажа зимней коллекции началась."
+  }
+ },
+ {
+  "id": "w3681",
+  "order": 3681,
+  "level": "B2",
+  "cyr": "квота",
+  "lat": "kvota",
+  "tr": "квота",
+  "ru": "квота",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Увозне квоте су испуњене.",
+   "lat": "Uvozne kvote su ispunjene.",
+   "ru": "Импортные квоты выполнены."
+  }
+ },
+ {
+  "id": "w3682",
+  "order": 3682,
+  "level": "B2",
+  "cyr": "раст",
+  "lat": "rast",
+  "tr": "раст",
+  "ru": "рост; увеличение",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Економија бележи позитиван раст.",
+   "lat": "Ekonomija beleži pozitivan rast.",
+   "ru": "Экономика показывает положительный рост."
+  }
+ },
+ {
+  "id": "w3683",
+  "order": 3683,
+  "level": "B2",
+  "cyr": "колектив",
+  "lat": "kolektiv",
+  "tr": "колектив",
+  "ru": "коллектив; коллектив работников",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Колектив је веома амбициозан.",
+   "lat": "Kolektiv je veoma ambiciozan.",
+   "ru": "Коллектив очень амбициозен."
+  }
+ },
+ {
+  "id": "w3684",
+  "order": 3684,
+  "level": "B2",
+  "cyr": "расход",
+  "lat": "rashod",
+  "tr": "расход",
+  "ru": "расход",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Расходи су већи од прихода.",
+   "lat": "Rashodi su veći od prihoda.",
+   "ru": "Расходы больше доходов."
+  }
+ },
+ {
+  "id": "w3685",
+  "order": 3685,
+  "level": "B2",
+  "cyr": "конкуренција",
+  "lat": "konkurencija",
+  "tr": "конкуренција",
+  "ru": "конкуренция",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Конкуренција је велика у овој индустрији.",
+   "lat": "Konkurencija je velika u ovoj industriji.",
+   "ru": "Конкуренция большая в этой индустрии."
+  }
+ },
+ {
+  "id": "w3686",
+  "order": 3686,
+  "level": "B2",
+  "cyr": "рецесија",
+  "lat": "recesija",
+  "tr": "рецесија",
+  "ru": "рецессия",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Рецесија штети малим фирмама.",
+   "lat": "Recesija šteti malim firmama.",
+   "ru": "Рецессия вредит малым фирмам."
+  }
+ },
+ {
+  "id": "w3687",
+  "order": 3687,
+  "level": "B2",
+  "cyr": "конкурс",
+  "lat": "konkurs",
+  "tr": "конкурс",
+  "ru": "конкурс; состязание",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Конкурс за посао је веома конкурентан.",
+   "lat": "Konkurs za posao je veoma konkurentan.",
+   "ru": "Конкурс на работу очень конкурентный."
+  }
+ },
+ {
+  "id": "w3688",
+  "order": 3688,
+  "level": "B2",
+  "cyr": "салдо",
+  "lat": "saldo",
+  "tr": "салдо",
+  "ru": "сальдо; остаток",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "n",
+  "ex": {
+   "cyr": "Салдо овог месеца је позитивно.",
+   "lat": "Saldo ovog meseca je pozitivno.",
+   "ru": "Сальдо этого месяца положительное."
+  }
+ },
+ {
+  "id": "w3689",
+  "order": 3689,
+  "level": "B2",
+  "cyr": "консултант",
+  "lat": "konsultant",
+  "tr": "консултант",
+  "ru": "консультант; советник",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Консултант му је дао савет.",
+   "lat": "Konsultant mu je dao savet.",
+   "ru": "Консультант дал ему совет."
+  }
+ },
+ {
+  "id": "w3690",
+  "order": 3690,
+  "level": "B2",
+  "cyr": "смањење",
+  "lat": "smanjenje",
+  "tr": "сманьенье",
+  "ru": "уменьшение; сокращение",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "n",
+  "ex": {
+   "cyr": "Смањење буџета је планирано.",
+   "lat": "Smanjenje budžeta je planirano.",
+   "ru": "Сокращение бюджета запланировано."
+  }
+ },
+ {
+  "id": "w3691",
+  "order": 3691,
+  "level": "B2",
+  "cyr": "књиговодство",
+  "lat": "knjigovodstvo",
+  "tr": "книговодство",
+  "ru": "бухгалтерский учёт",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Књиговодство је неопходно за сваку фирму.",
+   "lat": "Knjigovodstvo je neophodno za svaku firmu.",
+   "ru": "Бухгалтерский учёт необходим для каждой фирмы."
+  }
+ },
+ {
+  "id": "w3692",
+  "order": 3692,
+  "level": "B2",
+  "cyr": "стагнација",
+  "lat": "stagnacija",
+  "tr": "стагнација",
+  "ru": "стагнация",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стагнација успорава раст.",
+   "lat": "Stagnacija usporava rast.",
+   "ru": "Стагнация замедляет рост."
+  }
+ },
+ {
+  "id": "w3693",
+  "order": 3693,
+  "level": "B2",
+  "cyr": "лиценца",
+  "lat": "licenca",
+  "tr": "лиценца",
+  "ru": "лицензия",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "За тај посао треба лиценца.",
+   "lat": "Za taj posao treba licenca.",
+   "ru": "Для той работы нужна лицензия."
+  }
+ },
+ {
+  "id": "w3694",
+  "order": 3694,
+  "level": "B2",
+  "cyr": "стечај",
+  "lat": "stečaj",
+  "tr": "стечај",
+  "ru": "банкротство; конкурсное производство",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Фирма је ушла у стечај због дугова.",
+   "lat": "Firma je ušla u stečaj zbog dugova.",
+   "ru": "Компания вошла в банкротство из-за долгов."
+  }
+ },
+ {
+  "id": "w3695",
+  "order": 3695,
+  "level": "B2",
+  "cyr": "логистика",
+  "lat": "logistika",
+  "tr": "логистика",
+  "ru": "логистика",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Логистика је сложена али неопходна делатност.",
+   "lat": "Logistika je složena ali neophodna delatnost.",
+   "ru": "Логистика — сложная, но необходимая деятельность."
+  }
+ },
+ {
+  "id": "w3696",
+  "order": 3696,
+  "level": "B2",
+  "cyr": "суфицит",
+  "lat": "suficit",
+  "tr": "суфицит",
+  "ru": "профицит",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Буџет је у суфициту ове године.",
+   "lat": "Budžet je u suficitu ove godine.",
+   "ru": "Бюджет в профиците в этом году."
+  }
+ },
+ {
+  "id": "w3697",
+  "order": 3697,
+  "level": "B2",
+  "cyr": "магацин",
+  "lat": "magacin",
+  "tr": "магацин",
+  "ru": "склад; ангар",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "У магацину се чува готова производња.",
+   "lat": "U magacinu se čuva gotova proizvodnja.",
+   "ru": "На складе хранится готовая продукция."
+  }
+ },
+ {
+  "id": "w3698",
+  "order": 3698,
+  "level": "B2",
+  "cyr": "трансакција",
+  "lat": "transakcija",
+  "tr": "трансакција",
+  "ru": "транзакция; сделка",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Трансакција је обављена без проблема.",
+   "lat": "Transakcija je obavljena bez problema.",
+   "ru": "Транзакция была совершена без проблем."
+  }
+ },
+ {
+  "id": "w3699",
+  "order": 3699,
+  "level": "B2",
+  "cyr": "малопродаја",
+  "lat": "maloprodaja",
+  "tr": "малопродаја",
+  "ru": "розничная продажа; розница",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Цене малопродаје су више од великопродаје.",
+   "lat": "Cene maloprodaje su više od velikoprodaje.",
+   "ru": "Цены розницы выше цен опта."
+  }
+ },
+ {
+  "id": "w3700",
+  "order": 3700,
+  "level": "B2",
+  "cyr": "трговина",
+  "lat": "trgovina",
+  "tr": "трговина",
+  "ru": "торговля",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Трговина са суседним земљама је интензивна.",
+   "lat": "Trgovina sa susednim zemljama je intenzivna.",
+   "ru": "Торговля с соседними странами интенсивна."
+  }
+ },
+ {
+  "id": "w3701",
+  "order": 3701,
+  "level": "B2",
+  "cyr": "менаџер",
+  "lat": "menadžer",
+  "tr": "менаджер",
+  "ru": "менеджер; управляющий",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Менаџер води тим до успеха.",
+   "lat": "Menadžer vodi tim do uspeha.",
+   "ru": "Менеджер ведет команду к успеху."
+  }
+ },
+ {
+  "id": "w3702",
+  "order": 3702,
+  "level": "B2",
+  "cyr": "увоз",
+  "lat": "uvoz",
+  "tr": "увоз",
+  "ru": "импорт",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Увоз је скупљи од домаће производње.",
+   "lat": "Uvoz je skuplji od domaće proizvodnje.",
+   "ru": "Импорт дороже местного производства."
+  }
+ },
+ {
+  "id": "w3703",
+  "order": 3703,
+  "level": "B2",
+  "cyr": "менаџмент",
+  "lat": "menadžment",
+  "tr": "менаджмент",
+  "ru": "менеджмент",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Менаџмент је донео одлуку.",
+   "lat": "Menadžment je doneo odluku.",
+   "ru": "Менеджмент принял решение."
+  }
+ },
+ {
+  "id": "w3704",
+  "order": 3704,
+  "level": "B2",
+  "cyr": "фактура",
+  "lat": "faktura",
+  "tr": "фактура",
+  "ru": "счёт-фактура",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пошаљите нам фактуру до краја месеца.",
+   "lat": "Pošaljite nam fakturu do kraja meseca.",
+   "ru": "Пришлите нам счёт-фактуру до конца месяца."
+  }
+ },
+ {
+  "id": "w3705",
+  "order": 3705,
+  "level": "B2",
+  "cyr": "ментор",
+  "lat": "mentor",
+  "tr": "ментор",
+  "ru": "наставник; ментор",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ментор је помогао новом раднику.",
+   "lat": "Mentor je pomogao novom radniku.",
+   "ru": "Ментор помог новому работнику."
+  }
+ },
+ {
+  "id": "w3706",
+  "order": 3706,
+  "level": "B2",
+  "cyr": "фалсификат",
+  "lat": "falsifikat",
+  "tr": "фалсификат",
+  "ru": "подделка",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај пасош је фалсификат.",
+   "lat": "Ovaj pasoš je falsifikat.",
+   "ru": "Этот паспорт — подделка."
+  }
+ },
+ {
+  "id": "w3707",
+  "order": 3707,
+  "level": "B2",
+  "cyr": "монопол",
+  "lat": "monopol",
+  "tr": "монопол",
+  "ru": "монополия",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тај компанија има монопол на тржишту.",
+   "lat": "Taj kompanija ima monopol na tržištu.",
+   "ru": "Та компания имеет монопол на рынке."
+  }
+ },
+ {
+  "id": "w3708",
+  "order": 3708,
+  "level": "B2",
+  "cyr": "финансије",
+  "lat": "finansije",
+  "tr": "финансије",
+  "ru": "финансы",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Финансије су темељ пословања.",
+   "lat": "Finansije su temelj poslovanja.",
+   "ru": "Финансы основа бизнеса."
+  }
+ },
+ {
+  "id": "w3709",
+  "order": 3709,
+  "level": "B2",
+  "cyr": "мотивација",
+  "lat": "motivacija",
+  "tr": "мотивација",
+  "ru": "мотивация",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Повишица је велика мотивација.",
+   "lat": "Povišica je velika motivacija.",
+   "ru": "Прибавка к зарплате — большая мотивация."
+  }
+ },
+ {
+  "id": "w3710",
+  "order": 3710,
+  "level": "B2",
+  "cyr": "хиперинфлација",
+  "lat": "hiperinflacija",
+  "tr": "хиперинфлација",
+  "ru": "гиперинфляция",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хиперинфлација деведесетих уништила је штедњу.",
+   "lat": "Hiperinflacija devedesetih uništila je štednju.",
+   "ru": "Гиперинфляция девяностых уничтожила сбережения."
+  }
+ },
+ {
+  "id": "w3711",
+  "order": 3711,
+  "level": "B2",
+  "cyr": "муштерија",
+  "lat": "mušterija",
+  "tr": "муштерија",
+  "ru": "клиент; покупатель",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Муштерија је тражила нови модел телефона.",
+   "lat": "Mušterija je tražila novi model telefona.",
+   "ru": "Клиентка искаивала новую модель телефона."
+  }
+ },
+ {
+  "id": "w3712",
+  "order": 3712,
+  "level": "B2",
+  "cyr": "хипотека",
+  "lat": "hipoteka",
+  "tr": "хипотека",
+  "ru": "ипотека",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Хипотека се узима за куповину куће.",
+   "lat": "Hipoteka se uzima za kupovinu kuće.",
+   "ru": "Ипотека берётся на покупку дома."
+  }
+ },
+ {
+  "id": "w3713",
+  "order": 3713,
+  "level": "B2",
+  "cyr": "набавка",
+  "lat": "nabavka",
+  "tr": "набавка",
+  "ru": "закупка; закупать",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Менаџер је одговоран за набавку канцеларијског материјала.",
+   "lat": "Menadžer je odgovoran za nabavku kancelarijskog materijala.",
+   "ru": "Менеджер отвечает за закупку канцелярских принадлежностей."
+  }
+ },
+ {
+  "id": "w3714",
+  "order": 3714,
+  "level": "B2",
+  "cyr": "хонорар",
+  "lat": "honorar",
+  "tr": "хонорар",
+  "ru": "гонорар",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Писац је добио хонорар.",
+   "lat": "Pisac je dobio honorar.",
+   "ru": "Писатель получил гонорар."
+  }
+ },
+ {
+  "id": "w3715",
+  "order": 3715,
+  "level": "B2",
+  "cyr": "напредак",
+  "lat": "napredak",
+  "tr": "напредак",
+  "ru": "прогресс; продвижение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Напредак у каријери захтева рад.",
+   "lat": "Napredak u karijeri zahteva rad.",
+   "ru": "Прогресс в карьере требует труда."
+  }
+ },
+ {
+  "id": "w3716",
+  "order": 3716,
+  "level": "B2",
+  "cyr": "чек",
+  "lat": "ček",
+  "tr": "чек",
+  "ru": "чек",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "m",
+  "ex": {
+   "cyr": "Издао је чек за кирију.",
+   "lat": "Izdao je ček za kiriju.",
+   "ru": "Он выписал чек за аренду."
+  }
+ },
+ {
+  "id": "w3717",
+  "order": 3717,
+  "level": "B2",
+  "cyr": "напредовање",
+  "lat": "napredovanje",
+  "tr": "напредованье",
+  "ru": "продвижение; прогресс",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Напредовање у каријери захтева време.",
+   "lat": "Napredovanje u karijeri zahteva vreme.",
+   "ru": "Продвижение по карьере требует времени."
+  }
+ },
+ {
+  "id": "w3718",
+  "order": 3718,
+  "level": "B2",
+  "cyr": "банкарски",
+  "lat": "bankarski",
+  "tr": "банкарски",
+  "ru": "банковский",
+  "pos": "adj",
+  "cat": "money",
+  "ex": {
+   "cyr": "Банкарски саветник нам саветује нове акције.",
+   "lat": "Bankarski savetnik nam savetuje nove akcije.",
+   "ru": "Банковский советник советует нам новые акции."
+  }
+ },
+ {
+  "id": "w3719",
+  "order": 3719,
+  "level": "B2",
+  "cyr": "неуспех",
+  "lat": "neuspeh",
+  "tr": "неуспех",
+  "ru": "неудача; провал",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Неуспех пројекта разочарао је инвеститоре.",
+   "lat": "Neuspeh projekta razočarao je investitore.",
+   "ru": "Неудача проекта разочаровала инвесторов."
+  }
+ },
+ {
+  "id": "w3720",
+  "order": 3720,
+  "level": "B2",
+  "cyr": "индустријски",
+  "lat": "industrijski",
+  "tr": "индустријски",
+  "ru": "промышленный",
+  "pos": "adj",
+  "cat": "money",
+  "ex": {
+   "cyr": "Индустријски објекти често су велике површине.",
+   "lat": "Industrijski objekti često su velike površine.",
+   "ru": "Промышленные объекты часто имеют большую площадь."
+  }
+ },
+ {
+  "id": "w3721",
+  "order": 3721,
+  "level": "B2",
+  "cyr": "ниша",
+  "lat": "niša",
+  "tr": "ниша",
+  "ru": "ниша; сегмент рынка",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Та компанија нашао је своју нишу.",
+   "lat": "Ta kompanija našao je svoju nišu.",
+   "ru": "Та компания нашла свою нишу."
+  }
+ },
+ {
+  "id": "w3722",
+  "order": 3722,
+  "level": "B2",
+  "cyr": "капитални",
+  "lat": "kapitalni",
+  "tr": "капитални",
+  "ru": "основной; капитальный; основной капитал",
+  "pos": "adj",
+  "cat": "money",
+  "ex": {
+   "cyr": "Капитални пројекат захтева велика улагања.",
+   "lat": "Kapitalni projekat zahteva velika ulaganja.",
+   "ru": "Крупный проект требует больших инвестиций."
+  }
+ },
+ {
+  "id": "w3723",
+  "order": 3723,
+  "level": "B2",
+  "cyr": "норма",
+  "lat": "norma",
+  "tr": "норма",
+  "ru": "норма (выработки)",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Радници испуњавају норму рано.",
+   "lat": "Radnici ispunjavaju normu rano.",
+   "ru": "Рабочие выполняют норму рано."
+  }
+ },
+ {
+  "id": "w3724",
+  "order": 3724,
+  "level": "B2",
+  "cyr": "кредитни",
+  "lat": "kreditni",
+  "tr": "кредитни",
+  "ru": "кредитный",
+  "pos": "adj",
+  "cat": "money",
+  "ex": {
+   "cyr": "Кредитна картица је веома практична.",
+   "lat": "Kreditna kartica je veoma praktična.",
+   "ru": "Кредитная карта очень практична."
+  }
+ },
+ {
+  "id": "w3725",
+  "order": 3725,
+  "level": "B2",
+  "cyr": "огранак",
+  "lat": "ogranak",
+  "tr": "огранак",
+  "ru": "филиал; отделение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Огранак банке отворен је у центру града.",
+   "lat": "Ogranak banke otvoren je u centru grada.",
+   "ru": "Филиал банка открыт в центре города."
+  }
+ },
+ {
+  "id": "w3726",
+  "order": 3726,
+  "level": "B2",
+  "cyr": "профитабилан",
+  "lat": "profitabilan",
+  "tr": "профитабилан",
+  "ru": "прибыльный",
+  "pos": "adj",
+  "cat": "money",
+  "ex": {
+   "cyr": "Ова фирма је веома профитабилна последњих година.",
+   "lat": "Ova firma je veoma profitabilna poslednjih godina.",
+   "ru": "Эта фирма очень прибыльна в последние годы."
+  }
+ },
+ {
+  "id": "w3727",
+  "order": 3727,
+  "level": "B2",
+  "cyr": "одбор",
+  "lat": "odbor",
+  "tr": "одбор",
+  "ru": "совет; комитет; правление",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Одбор је одлучио о новом пројекту.",
+   "lat": "Odbor je odlučio o novom projektu.",
+   "ru": "Совет принял решение о новом проекте."
+  }
+ },
+ {
+  "id": "w3728",
+  "order": 3728,
+  "level": "B2",
+  "cyr": "трговински",
+  "lat": "trgovinski",
+  "tr": "трговински",
+  "ru": "торговый; коммерческий",
+  "pos": "adj",
+  "cat": "money",
+  "ex": {
+   "cyr": "Трговински споразум је потписан између две државе.",
+   "lat": "Trgovinski sporazum je potpisan između dve države.",
+   "ru": "Торговое соглашение подписано между двумя государствами."
+  }
+ },
+ {
+  "id": "w3729",
+  "order": 3729,
+  "level": "B2",
+  "cyr": "опрема",
+  "lat": "oprema",
+  "tr": "опрема",
+  "ru": "оборудование; оснащение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Савремена опрема повећава продуктивност.",
+   "lat": "Savremena oprema povećava produktivnost.",
+   "ru": "Современное оборудование повышает продуктивность."
+  }
+ },
+ {
+  "id": "w3730",
+  "order": 3730,
+  "level": "B2",
+  "cyr": "бруто",
+  "lat": "bruto",
+  "tr": "бруто",
+  "ru": "валовой; брутто",
+  "pos": "adv",
+  "cat": "money",
+  "ex": {
+   "cyr": "Бруто зарада је већа од нето.",
+   "lat": "Bruto zarada je veća od neto.",
+   "ru": "Брутто-зарплата больше, чем нето."
+  }
+ },
+ {
+  "id": "w3731",
+  "order": 3731,
+  "level": "B2",
+  "cyr": "оснивач",
+  "lat": "osnivač",
+  "tr": "оснивач",
+  "ru": "основатель; учредитель",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Оснивач компаније је њен први директор.",
+   "lat": "Osnivač kompanije je njen prvi direktor.",
+   "ru": "Основатель компании — её первый директор."
+  }
+ },
+ {
+  "id": "w3732",
+  "order": 3732,
+  "level": "B2",
+  "cyr": "нето",
+  "lat": "neto",
+  "tr": "нето",
+  "ru": "чистый; нетто",
+  "pos": "adv",
+  "cat": "money",
+  "ex": {
+   "cyr": "Нето зарада је стварна примања радника.",
+   "lat": "Neto zarada je stvarna primanja radnika.",
+   "ru": "Нетто-зарплата — это реальные доходы работника."
+  }
+ },
+ {
+  "id": "w3733",
+  "order": 3733,
+  "level": "B2",
+  "cyr": "отказ",
+  "lat": "otkaz",
+  "tr": "отказ",
+  "ru": "отказ; увольнение; расторжение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Радник је добио отказ због лошег рада.",
+   "lat": "Radnik je dobio otkaz zbog lošeg rada.",
+   "ru": "Работник получил отказ из-за плохой работы."
+  }
+ },
+ {
+  "id": "w3734",
+  "order": 3734,
+  "level": "B2",
+  "cyr": "девизни курс",
+  "lat": "devizni kurs",
+  "tr": "девизни курс",
+  "ru": "курс валюты; валютный курс",
+  "pos": "phrase",
+  "cat": "money",
+  "ex": {
+   "cyr": "Девизни курс се често мења.",
+   "lat": "Devizni kurs se često menja.",
+   "ru": "Курс валюты часто меняется."
+  }
+ },
+ {
+  "id": "w3735",
+  "order": 3735,
+  "level": "B2",
+  "cyr": "отпремнина",
+  "lat": "otpremnina",
+  "tr": "отпремнина",
+  "ru": "компенсация; вознаграждение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Отпремнина је део уговора о раду.",
+   "lat": "Otpremnina je deo ugovora o radu.",
+   "ru": "Компенсация — часть трудового договора."
+  }
+ },
+ {
+  "id": "w3736",
+  "order": 3736,
+  "level": "B2",
+  "cyr": "потрошачка корпа",
+  "lat": "potrošačka korpa",
+  "tr": "потрошачка корпа",
+  "ru": "потребительская корзина",
+  "pos": "phrase",
+  "cat": "money",
+  "ex": {
+   "cyr": "Цена потрошачке корпе се повећава сваке године.",
+   "lat": "Cena potrošačke korpe se povećava svake godine.",
+   "ru": "Цена потребительской корзины увеличивается каждый год."
+  }
+ },
+ {
+  "id": "w3737",
+  "order": 3737,
+  "level": "B2",
+  "cyr": "очекивање",
+  "lat": "očekivanje",
+  "tr": "очекиванье",
+  "ru": "ожидание; надежда",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Очекивање одговора траје неколико дана.",
+   "lat": "Očekivanje odgovora traje nekoliko dana.",
+   "ru": "Ожидание ответа длится несколько дней."
+  }
+ },
+ {
+  "id": "w3738",
+  "order": 3738,
+  "level": "B2",
+  "cyr": "партнер",
+  "lat": "partner",
+  "tr": "партнер",
+  "ru": "партнёр; партнёрство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Партнер предлаже нову сарадњу.",
+   "lat": "Partner predlaže novu saradnju.",
+   "ru": "Партнёр предлагает новое сотрудничество."
+  }
+ },
+ {
+  "id": "w3739",
+  "order": 3739,
+  "level": "B2",
+  "cyr": "пензионисање",
+  "lat": "penzionisanje",
+  "tr": "пензионисанье",
+  "ru": "выход на пенсию; пенсионирование",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пензионисање је важан животни корак.",
+   "lat": "Penzionisanje je važan životni korak.",
+   "ru": "Выход на пенсию — важный жизненный шаг."
+  }
+ },
+ {
+  "id": "w3740",
+  "order": 3740,
+  "level": "B2",
+  "cyr": "повишица",
+  "lat": "povišica",
+  "tr": "повишица",
+  "ru": "надбавка; премия; повышение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Радник је добио повишицу за допунски рад.",
+   "lat": "Radnik je dobio povišicu za dopunski rad.",
+   "ru": "Рабочий получил надбавку за дополнительную работу."
+  }
+ },
+ {
+  "id": "w3741",
+  "order": 3741,
+  "level": "B2",
+  "cyr": "подстицај",
+  "lat": "podsticaj",
+  "tr": "подстицај",
+  "ru": "стимул; поощрение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Подстицај мотивише запослене.",
+   "lat": "Podsticaj motiviše zaposlene.",
+   "ru": "Стимул мотивирует сотрудников."
+  }
+ },
+ {
+  "id": "w3742",
+  "order": 3742,
+  "level": "B2",
+  "cyr": "пословање",
+  "lat": "poslovanje",
+  "tr": "послованье",
+  "ru": "ведение дел; деятельность",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пословање компаније је стабилно.",
+   "lat": "Poslovanje kompanije je stabilno.",
+   "ru": "Деятельность компании стабильна."
+  }
+ },
+ {
+  "id": "w3743",
+  "order": 3743,
+  "level": "B2",
+  "cyr": "послодавац",
+  "lat": "poslodavac",
+  "tr": "послодавац",
+  "ru": "работодатель; наниматель",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Послодавац је обавезан да плати раднике.",
+   "lat": "Poslodavac je obavezan da plati radnike.",
+   "ru": "Работодатель обязан платить работникам."
+  }
+ },
+ {
+  "id": "w3744",
+  "order": 3744,
+  "level": "B2",
+  "cyr": "посредник",
+  "lat": "posrednik",
+  "tr": "посредник",
+  "ru": "посредник; посредница",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Посредник успева да измири зараћене стране.",
+   "lat": "Posrednik uspeva da izmiri zaraćene strane.",
+   "ru": "Посредник удается примирить враждующие стороны."
+  }
+ },
+ {
+  "id": "w3745",
+  "order": 3745,
+  "level": "B2",
+  "cyr": "потрошач",
+  "lat": "potrošač",
+  "tr": "потрошач",
+  "ru": "потребитель",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Потрошач бира најбољу понуду.",
+   "lat": "Potrošač bira najbolju ponudu.",
+   "ru": "Потребитель выбирает лучшее предложение."
+  }
+ },
+ {
+  "id": "w3746",
+  "order": 3746,
+  "level": "B2",
+  "cyr": "пошиљка",
+  "lat": "pošiljka",
+  "tr": "пошилька",
+  "ru": "посылка; груз",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пошиљка је стигла на време.",
+   "lat": "Pošiljka je stigla na vreme.",
+   "ru": "Посылка пришла вовремя."
+  }
+ },
+ {
+  "id": "w3747",
+  "order": 3747,
+  "level": "B2",
+  "cyr": "пракса",
+  "lat": "praksa",
+  "tr": "пракса",
+  "ru": "практика (стажировка)",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Праксу обављам у великој фирми.",
+   "lat": "Praksu obavljam u velikoj firmi.",
+   "ru": "Практику прохожу в большой фирме."
+  }
+ },
+ {
+  "id": "w3748",
+  "order": 3748,
+  "level": "B2",
+  "cyr": "преговор",
+  "lat": "pregovor",
+  "tr": "преговор",
+  "ru": "переговоры; обсуждение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Директори су започели преговор о сарадњи.",
+   "lat": "Direktori su započeli pregovor o saradnji.",
+   "ru": "Директоры начали переговоры о сотрудничестве."
+  }
+ },
+ {
+  "id": "w3749",
+  "order": 3749,
+  "level": "B2",
+  "cyr": "предузетник",
+  "lat": "preduzetnik",
+  "tr": "предузетник",
+  "ru": "предприниматель",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Предузетник отвара ново предузеће.",
+   "lat": "Preduzetnik otvara novo preduzeće.",
+   "ru": "Предприниматель открывает новое предприятие."
+  }
+ },
+ {
+  "id": "w3750",
+  "order": 3750,
+  "level": "B2",
+  "cyr": "преписка",
+  "lat": "prepiska",
+  "tr": "преписка",
+  "ru": "переписка; переписывание",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Преписка са партнерима траје недељама.",
+   "lat": "Prepiska sa partnerima traje nedeljama.",
+   "ru": "Переписка с партнерами длится неделями."
+  }
+ },
+ {
+  "id": "w3751",
+  "order": 3751,
+  "level": "B2",
+  "cyr": "претпостављени",
+  "lat": "pretpostavljeni",
+  "tr": "претпоставлени",
+  "ru": "начальник; вышестоящий",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Мој претпостављени је директор.",
+   "lat": "Moj pretpostavljeni je direktor.",
+   "ru": "Мой начальник — это директор."
+  }
+ }
+]

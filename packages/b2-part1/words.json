@@ -1,0 +1,4217 @@
+[
+ {
+  "id": "w3252",
+  "order": 3252,
+  "level": "B2",
+  "cyr": "аутономија",
+  "lat": "autonomija",
+  "tr": "аутономија",
+  "ru": "автономия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова област ужива велику аутономију.",
+   "lat": "Ova oblast uživa veliku autonomiju.",
+   "ru": "Эта область пользуется большой автономией."
+  }
+ },
+ {
+  "id": "w3253",
+  "order": 3253,
+  "level": "B2",
+  "cyr": "владати",
+  "lat": "vladati",
+  "tr": "владати",
+  "ru": "владеть; править",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Краљ вековима влада државом.",
+   "lat": "Kralj vekovima vlada državom.",
+   "ru": "Король веками правит государством."
+  }
+ },
+ {
+  "id": "w3254",
+  "order": 3254,
+  "level": "B2",
+  "cyr": "Успоставити",
+  "lat": "Uspostaviti",
+  "tr": "Успоставити",
+  "ru": "установить; наладить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Они успостављају дипломатске односе.",
+   "lat": "Oni uspostavljaju diplomatske odnose.",
+   "ru": "Они устанавливают дипломатические отношения."
+  }
+ },
+ {
+  "id": "w3255",
+  "order": 3255,
+  "level": "B2",
+  "cyr": "заједница",
+  "lat": "zajednica",
+  "tr": "заједница",
+  "ru": "сообщество; объединение",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мала заједница живи у планинском селу.",
+   "lat": "Mala zajednica živi u planinskom selu.",
+   "ru": "Небольшое сообщество живёт в горной деревне."
+  }
+ },
+ {
+  "id": "w3256",
+  "order": 3256,
+  "level": "B2",
+  "cyr": "власништво",
+  "lat": "vlasništvo",
+  "tr": "власништво",
+  "ru": "собственность; владение",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ово земљиште је заједничко власништво.",
+   "lat": "Ovo zemljište je zajedničko vlasništvo.",
+   "ru": "Эта земля является совместной собственностью."
+  }
+ },
+ {
+  "id": "w3257",
+  "order": 3257,
+  "level": "B2",
+  "cyr": "нетрпељивост",
+  "lat": "netrpeljivost",
+  "tr": "нетрпеливост",
+  "ru": "нетерпимость; нетерпение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Нетрпељивост према другима је велики недостатак.",
+   "lat": "Netrpeljivost prema drugima je veliki nedostatak.",
+   "ru": "Нетерпимость к другим — большой недостаток."
+  }
+ },
+ {
+  "id": "w3258",
+  "order": 3258,
+  "level": "B2",
+  "cyr": "градоначелник",
+  "lat": "gradonačelnik",
+  "tr": "градоначелник",
+  "ru": "мэр; глава города",
+  "pos": "noun",
+  "cat": "city",
+  "gender": "m",
+  "ex": {
+   "cyr": "Градоначелник је отворио нови парк за грађане.",
+   "lat": "Gradonačelnik je otvorio novi park za građane.",
+   "ru": "Мэр открыл новый парк для горожан."
+  }
+ },
+ {
+  "id": "w3259",
+  "order": 3259,
+  "level": "B2",
+  "cyr": "заснивати се",
+  "lat": "zasnivati se",
+  "tr": "заснивати се",
+  "ru": "начинать сновать; засыпать",
+  "pos": "verb",
+  "cat": "body",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Деца се тешко заснивају у новој соби.",
+   "lat": "Deca se teško zasnivaju u novoj sobi.",
+   "ru": "Дети с трудом засыпают в новой комнате."
+  }
+ },
+ {
+  "id": "w3260",
+  "order": 3260,
+  "level": "B2",
+  "cyr": "умерен",
+  "lat": "umeren",
+  "tr": "умерен",
+  "ru": "умеренный; сдержанный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Његов одговор био је врло умерен.",
+   "lat": "Njegov odgovor bio je vrlo umeren.",
+   "ru": "Его ответ был очень умеренным."
+  }
+ },
+ {
+  "id": "w3261",
+  "order": 3261,
+  "level": "B2",
+  "cyr": "локални",
+  "lat": "lokalni",
+  "tr": "локални",
+  "ru": "местный; локальный",
+  "pos": "adj",
+  "cat": "basics",
+  "ex": {
+   "cyr": "Локални становници иду на пиће.",
+   "lat": "Lokalni stanovnici idu na piće.",
+   "ru": "Местные жители идут выпить."
+  }
+ },
+ {
+  "id": "w3262",
+  "order": 3262,
+  "level": "B2",
+  "cyr": "излазност",
+  "lat": "izlaznost",
+  "tr": "излазност",
+  "ru": "явка; посещаемость",
+  "pos": "noun",
+  "cat": "school",
+  "gender": "f",
+  "ex": {
+   "cyr": "Излазност на изборима била је врло ниска.",
+   "lat": "Izlaznost na izborima bila je vrlo niska.",
+   "ru": "Явка на выборках была очень низкой."
+  }
+ },
+ {
+  "id": "w3263",
+  "order": 3263,
+  "level": "B2",
+  "cyr": "законодавство",
+  "lat": "zakonodavstvo",
+  "tr": "законодавство",
+  "ru": "законодательство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ово законодавство је донето прошле године.",
+   "lat": "Ovo zakonodavstvo je doneto prošle godine.",
+   "ru": "Это законодательство было принято в прошлом году."
+  }
+ },
+ {
+  "id": "w3264",
+  "order": 3264,
+  "level": "B2",
+  "cyr": "дискриминисати",
+  "lat": "diskriminisati",
+  "tr": "дискриминисати",
+  "ru": "дискриминировать; обделять",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Закон забрањује да се дискриминише запослене.",
+   "lat": "Zakon zabranjuje da se diskriminiše zaposlene.",
+   "ru": "Закон запрещает дискриминировать работников."
+  }
+ },
+ {
+  "id": "w3265",
+  "order": 3265,
+  "level": "B2",
+  "cyr": "бојкотовати",
+  "lat": "bojkotovati",
+  "tr": "бојкотовати",
+  "ru": "бойкотировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Студенти бојкотује наставу због повећаног школарине.",
+   "lat": "Studenti bojkotuje nastavu zbog povećanog školarine.",
+   "ru": "Студенты бойкотируют занятия из-за повышения платы за обучение."
+  }
+ },
+ {
+  "id": "w3266",
+  "order": 3266,
+  "level": "B2",
+  "cyr": "избеглица",
+  "lat": "izbeglica",
+  "tr": "избеглица",
+  "ru": "беженец; эмигрант",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "f",
+  "ex": {
+   "cyr": "Породица избеглица тражи азил у земљи.",
+   "lat": "Porodica izbeglica traži azil u zemlji.",
+   "ru": "Семья беженцев просит убежище в стране."
+  }
+ },
+ {
+  "id": "w3267",
+  "order": 3267,
+  "level": "B2",
+  "cyr": "имовина",
+  "lat": "imovina",
+  "tr": "имовина",
+  "ru": "имущество; собственность",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Тајна имовина била је добро чувана.",
+   "lat": "Tajna imovina bila je dobro čuvana.",
+   "ru": "Тайное имущество было хорошо охраняемо."
+  }
+ },
+ {
+  "id": "w3268",
+  "order": 3268,
+  "level": "B2",
+  "cyr": "тајанствен",
+  "lat": "tajanstven",
+  "tr": "тајанствен",
+  "ru": "таинственный; загадочный",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Тајанствен глас је чуо са улице.",
+   "lat": "Tajanstven glas je čuo sa ulice.",
+   "ru": "Таинственный голос услышали с улицы."
+  }
+ },
+ {
+  "id": "w3269",
+  "order": 3269,
+  "level": "B2",
+  "cyr": "јавни",
+  "lat": "javni",
+  "tr": "јавни",
+  "ru": "общественный; публичный",
+  "pos": "adj",
+  "cat": "city",
+  "ex": {
+   "cyr": "У јавним парковима увек има много људи.",
+   "lat": "U javnim parkovima uvek ima mnogo ljudi.",
+   "ru": "В общественных парках всегда много людей."
+  }
+ },
+ {
+  "id": "w3270",
+  "order": 3270,
+  "level": "B2",
+  "cyr": "монархија",
+  "lat": "monarhija",
+  "tr": "монархија",
+  "ru": "монархия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "У овој земљи је успостављена монархија.",
+   "lat": "U ovoj zemlji je uspostavljena monarhija.",
+   "ru": "В этой стране установлена монархия."
+  }
+ },
+ {
+  "id": "w3271",
+  "order": 3271,
+  "level": "B2",
+  "cyr": "изгласати",
+  "lat": "izglasati",
+  "tr": "изгласати",
+  "ru": "принять (голосованием); проголосовать за",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Парламент је изгласао буџет.",
+   "lat": "Parlament je izglasao budžet.",
+   "ru": "Парламент принял бюджет."
+  }
+ },
+ {
+  "id": "w3272",
+  "order": 3272,
+  "level": "B2",
+  "cyr": "важити",
+  "lat": "važiti",
+  "tr": "важити",
+  "ru": "весить; иметь значение",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Ова врећа жито важи десет килограма.",
+   "lat": "Ova vreća žito važi deset kilograma.",
+   "ru": "Этот мешок с мукой весит десять килограммов."
+  }
+ },
+ {
+  "id": "w3273",
+  "order": 3273,
+  "level": "B2",
+  "cyr": "мањина",
+  "lat": "manjina",
+  "tr": "манина",
+  "ru": "меньшинство",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова група представља малу мањину.",
+   "lat": "Ova grupa predstavlja malu manjinu.",
+   "ru": "Эта группа представляет собой малое меньшинство."
+  }
+ },
+ {
+  "id": "w3274",
+  "order": 3274,
+  "level": "B2",
+  "cyr": "субвенција",
+  "lat": "subvencija",
+  "tr": "субвенција",
+  "ru": "субсидия; дотация",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Компанија је добила субвенцију од државе.",
+   "lat": "Kompanija je dobila subvenciju od države.",
+   "ru": "Компания получила субсидию от государства."
+  }
+ },
+ {
+  "id": "w3275",
+  "order": 3275,
+  "level": "B2",
+  "cyr": "побуна",
+  "lat": "pobuna",
+  "tr": "побуна",
+  "ru": "восстание; бунт",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Побуна војника је брзо угушена.",
+   "lat": "Pobuna vojnika je brzo ugušena.",
+   "ru": "Восстание солдат было быстро подавлено."
+  }
+ },
+ {
+  "id": "w3276",
+  "order": 3276,
+  "level": "B2",
+  "cyr": "изручити",
+  "lat": "izručiti",
+  "tr": "изручити",
+  "ru": "вручить; выдать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Судски извршилац изручује налог.",
+   "lat": "Sudski izvršilac izručuje nalog.",
+   "ru": "Судебный пристав вручает предписание."
+  }
+ },
+ {
+  "id": "w3277",
+  "order": 3277,
+  "level": "B2",
+  "cyr": "гарантовати",
+  "lat": "garantovati",
+  "tr": "гарантовати",
+  "ru": "гарантировать; обеспечивать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Фирма гарантује квалитет свог производа.",
+   "lat": "Firma garantuje kvalitet svog proizvoda.",
+   "ru": "Компания гарантирует качество своей продукции."
+  }
+ },
+ {
+  "id": "w3278",
+  "order": 3278,
+  "level": "B2",
+  "cyr": "националност",
+  "lat": "nacionalnost",
+  "tr": "националност",
+  "ru": "национальность",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "f",
+  "ex": {
+   "cyr": "У Србији живе људи различитих националности.",
+   "lat": "U Srbiji žive ljudi različitih nacionalnosti.",
+   "ru": "В Сербии живут люди разных национальностей."
+  }
+ },
+ {
+  "id": "w3279",
+  "order": 3279,
+  "level": "B2",
+  "cyr": "такса",
+  "lat": "taksa",
+  "tr": "такса",
+  "ru": "пошлина; плата",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Такса за услугу је била висока.",
+   "lat": "Taksa za uslugu je bila visoka.",
+   "ru": "Плата за услугу была высокой."
+  }
+ },
+ {
+  "id": "w3280",
+  "order": 3280,
+  "level": "B2",
+  "cyr": "правилник",
+  "lat": "pravilnik",
+  "tr": "правилник",
+  "ru": "инструкция; устав; правила",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај правилник важи за све запослене.",
+   "lat": "Ovaj pravilnik važi za sve zaposlene.",
+   "ru": "Этот инструкция действует для всех сотрудников."
+  }
+ },
+ {
+  "id": "w3281",
+  "order": 3281,
+  "level": "B2",
+  "cyr": "легализовати",
+  "lat": "legalizovati",
+  "tr": "легализовати",
+  "ru": "легализовать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Парламент ће легализовати марихуану следеће године.",
+   "lat": "Parlament će legalizovati marihuanu sledeće godine.",
+   "ru": "Парламент легализует марихуану в следующем году."
+  }
+ },
+ {
+  "id": "w3282",
+  "order": 3282,
+  "level": "B2",
+  "cyr": "доказати",
+  "lat": "dokazati",
+  "tr": "доказати",
+  "ru": "доказать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тужилац мора доказати да је крив.",
+   "lat": "Tužilac mora dokazati da je kriv.",
+   "ru": "Прокурор должен доказать его вину."
+  }
+ },
+ {
+  "id": "w3283",
+  "order": 3283,
+  "level": "B2",
+  "cyr": "становништво",
+  "lat": "stanovništvo",
+  "tr": "становништво",
+  "ru": "население; жители",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "n",
+  "ex": {
+   "cyr": "Становништво града је више од милиона.",
+   "lat": "Stanovništvo grada je više od miliona.",
+   "ru": "Население города превышает миллион."
+  }
+ },
+ {
+  "id": "w3284",
+  "order": 3284,
+  "level": "B2",
+  "cyr": "преврат",
+  "lat": "prevrat",
+  "tr": "преврат",
+  "ru": "переворот; переворот",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Војни преврат је променио владу.",
+   "lat": "Vojni prevrat je promenio vladu.",
+   "ru": "Военный переворот изменил правительство."
+  }
+ },
+ {
+  "id": "w3285",
+  "order": 3285,
+  "level": "B2",
+  "cyr": "оверити",
+  "lat": "overiti",
+  "tr": "оверити",
+  "ru": "заверить; удостоверить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Адвокат је оверио документ.",
+   "lat": "Advokat je overio dokument.",
+   "ru": "Адвокат заверил документ."
+  }
+ },
+ {
+  "id": "w3286",
+  "order": 3286,
+  "level": "B2",
+  "cyr": "захтевати",
+  "lat": "zahtevati",
+  "tr": "захтевати",
+  "ru": "требовать; требоваться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Директор захтева извештај до краја дана.",
+   "lat": "Direktor zahteva izveštaj do kraja dana.",
+   "ru": "Директор требует отчет до конца дня."
+  }
+ },
+ {
+  "id": "w3287",
+  "order": 3287,
+  "level": "B2",
+  "cyr": "преговори",
+  "lat": "pregovori",
+  "tr": "преговори",
+  "ru": "переговоры",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Преговори су трајали цео дан.",
+   "lat": "Pregovori su trajali ceo dan.",
+   "ru": "Переговоры длились весь день."
+  }
+ },
+ {
+  "id": "w3288",
+  "order": 3288,
+  "level": "B2",
+  "cyr": "приватизовати",
+  "lat": "privatizovati",
+  "tr": "приватизовати",
+  "ru": "приватизировать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Влада приватизује државна предузећа.",
+   "lat": "Vlada privatizuje državna preduzeća.",
+   "ru": "Правительство приватизирует государственные предприятия."
+  }
+ },
+ {
+  "id": "w3289",
+  "order": 3289,
+  "level": "B2",
+  "cyr": "изјавити",
+  "lat": "izjaviti",
+  "tr": "изјавити",
+  "ru": "заявить; заявить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Политичар је изјавио своју подршку.",
+   "lat": "Političar je izjavio svoju podršku.",
+   "ru": "Политик заявил о своей поддержке."
+  }
+ },
+ {
+  "id": "w3290",
+  "order": 3290,
+  "level": "B2",
+  "cyr": "суверенитет",
+  "lat": "suverenitet",
+  "tr": "суверенитет",
+  "ru": "суверенитет",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Свака земља има право на сопствени суверенитет.",
+   "lat": "Svaka zemlja ima pravo na sopstveni suverenitet.",
+   "ru": "Каждая страна имеет право на собственный суверенитет."
+  }
+ },
+ {
+  "id": "w3291",
+  "order": 3291,
+  "level": "B2",
+  "cyr": "прогонити",
+  "lat": "progoniti",
+  "tr": "прогонити",
+  "ru": "выгнать; изгнать",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Директор прогања запосленог због грешака.",
+   "lat": "Direktor proganja zaposlenog zbog grešaka.",
+   "ru": "Директор гонит сотрудника из-за ошибок."
+  }
+ },
+ {
+  "id": "w3292",
+  "order": 3292,
+  "level": "B2",
+  "cyr": "именовати",
+  "lat": "imenovati",
+  "tr": "именовати",
+  "ru": "назначить; именовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Парламент је именовао новог министра здравља.",
+   "lat": "Parlament je imenovao novog ministra zdravlja.",
+   "ru": "Парламент назначил нового министра здравоохранения."
+  }
+ },
+ {
+  "id": "w3293",
+  "order": 3293,
+  "level": "B2",
+  "cyr": "федерација",
+  "lat": "federacija",
+  "tr": "федерација",
+  "ru": "федерация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова држава је федерација са двадесет јединица.",
+   "lat": "Ova država je federacija sa dvadeset jedinica.",
+   "ru": "Это государство — федерация из двадцати единиц."
+  }
+ },
+ {
+  "id": "w3294",
+  "order": 3294,
+  "level": "B2",
+  "cyr": "распустити",
+  "lat": "raspustiti",
+  "tr": "распустити",
+  "ru": "рассеять; распустить (парламент)",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Председник је распустио скупштину.",
+   "lat": "Predsednik je raspustio skupštinu.",
+   "ru": "Президент распустил парламент."
+  }
+ },
+ {
+  "id": "w3295",
+  "order": 3295,
+  "level": "B2",
+  "cyr": "надгледати",
+  "lat": "nadgledati",
+  "tr": "надгледати",
+  "ru": "надзирать; контролировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Полиција надгледа кретање сумњивих особа.",
+   "lat": "Policija nadgleda kretanje sumnjivih osoba.",
+   "ru": "Полиция следит за передвижением подозрительных лиц."
+  }
+ },
+ {
+  "id": "w3296",
+  "order": 3296,
+  "level": "B2",
+  "cyr": "агенција",
+  "lat": "agencija",
+  "tr": "агенција",
+  "ru": "агентство; фирма",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Туристичка агенција нуди повољне цене.",
+   "lat": "Turistička agencija nudi povoljne cene.",
+   "ru": "Туристическое агентство предлагает выгодные цены."
+  }
+ },
+ {
+  "id": "w3297",
+  "order": 3297,
+  "level": "B2",
+  "cyr": "сарађивати",
+  "lat": "sarađivati",
+  "tr": "сарадживати",
+  "ru": "сотрудничать; работать вместе",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Колеге често сарађују на пројектима.",
+   "lat": "Kolege često sarađuju na projektima.",
+   "ru": "Коллеги часто сотрудничают в проектах."
+  }
+ },
+ {
+  "id": "w3298",
+  "order": 3298,
+  "level": "B2",
+  "cyr": "наметнути",
+  "lat": "nametnuti",
+  "tr": "наметнути",
+  "ru": "навязать; установить (обязательство)",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Влада је наметнула нове порезе грађанима.",
+   "lat": "Vlada je nametnula nove poreze građanima.",
+   "ru": "Правительство ввело новые налоги для граждан."
+  }
+ },
+ {
+  "id": "w3299",
+  "order": 3299,
+  "level": "B2",
+  "cyr": "азил",
+  "lat": "azil",
+  "tr": "азил",
+  "ru": "убежище; политическое убежище",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тражи азил у тој земљи због рата.",
+   "lat": "Traži azil u toj zemlji zbog rata.",
+   "ru": "Он просит убежище в той стране из-за войны."
+  }
+ },
+ {
+  "id": "w3300",
+  "order": 3300,
+  "level": "B2",
+  "cyr": "спровести",
+  "lat": "sprovesti",
+  "tr": "спровести",
+  "ru": "провести (мероприятие); провести (расследование)",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Полиција је спровела акцију.",
+   "lat": "Policija je sprovela akciju.",
+   "ru": "Полиция провела операцию."
+  }
+ },
+ {
+  "id": "w3301",
+  "order": 3301,
+  "level": "B2",
+  "cyr": "овластити",
+  "lat": "ovlastiti",
+  "tr": "овластити",
+  "ru": "уполномочить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Директор је овластио свог помоћника.",
+   "lat": "Direktor je ovlastio svog pomoćnika.",
+   "ru": "Директор уполномочил своего помощника."
+  }
+ },
+ {
+  "id": "w3302",
+  "order": 3302,
+  "level": "B2",
+  "cyr": "амбасада",
+  "lat": "ambasada",
+  "tr": "амбасада",
+  "ru": "посольство; посол",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Амбасада Србије налази се у главном граду.",
+   "lat": "Ambasada Srbije nalazi se u glavnom gradu.",
+   "ru": "Посольство Сербии находится в столице."
+  }
+ },
+ {
+  "id": "w3303",
+  "order": 3303,
+  "level": "B2",
+  "cyr": "ублажити",
+  "lat": "ublažiti",
+  "tr": "ублажити",
+  "ru": "смягчить; ослабить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Дипломата је ублажио тензије.",
+   "lat": "Diplomata je ublažio tenzije.",
+   "ru": "Дипломат смягчил напряженность."
+  }
+ },
+ {
+  "id": "w3304",
+  "order": 3304,
+  "level": "B2",
+  "cyr": "ограничавати",
+  "lat": "ograničavati",
+  "tr": "ограничавати",
+  "ru": "ограничивать; сдерживать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Ограничавају се права грађана у ванредном стању.",
+   "lat": "Ograničavaju se prava građana u vanrednom stanju.",
+   "ru": "Права граждан ограничиваются в чрезвычайном положении."
+  }
+ },
+ {
+  "id": "w3305",
+  "order": 3305,
+  "level": "B2",
+  "cyr": "амбасадор",
+  "lat": "ambasador",
+  "tr": "амбасадор",
+  "ru": "посол; посланник",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Амбасадор представља своју земљу у иностранству.",
+   "lat": "Ambasador predstavlja svoju zemlju u inostranstvu.",
+   "ru": "Посол представляет свою страну за границей."
+  }
+ },
+ {
+  "id": "w3306",
+  "order": 3306,
+  "level": "B2",
+  "cyr": "управљати",
+  "lat": "upravljati",
+  "tr": "управляти",
+  "ru": "управлять; руководить",
+  "pos": "verb",
+  "cat": "work",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Менаџер управља целом компанијом.",
+   "lat": "Menadžer upravlja celom kompanijom.",
+   "ru": "Менеджер управляет всей компанией."
+  }
+ },
+ {
+  "id": "w3307",
+  "order": 3307,
+  "level": "B2",
+  "cyr": "одбацити",
+  "lat": "odbaciti",
+  "tr": "одбацити",
+  "ru": "отбросить; отвергнуть; отклонить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Предлог је одбијен због нејасности.",
+   "lat": "Predlog je odbijen zbog nejasnosti.",
+   "ru": "Предложение было отклонено из-за неясности."
+  }
+ },
+ {
+  "id": "w3308",
+  "order": 3308,
+  "level": "B2",
+  "cyr": "амнестија",
+  "lat": "amnestija",
+  "tr": "амнестија",
+  "ru": "амнистия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Нова амнестија је објављена у новинама.",
+   "lat": "Nova amnestija je objavljena u novinama.",
+   "ru": "Новая амнистия была объявлена в газетах."
+  }
+ },
+ {
+  "id": "w3309",
+  "order": 3309,
+  "level": "B2",
+  "cyr": "администрација",
+  "lat": "administracija",
+  "tr": "администрација",
+  "ru": "администрация; управление",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Школска администрација обрађује документе.",
+   "lat": "Školska administracija obrađuje dokumente.",
+   "ru": "Школьная администрация обрабатывает документы."
+  }
+ },
+ {
+  "id": "w3310",
+  "order": 3310,
+  "level": "B2",
+  "cyr": "одобрити",
+  "lat": "odobriti",
+  "tr": "одобрити",
+  "ru": "одобрить; санкционировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Комитет је одобрио финансирање истраживања.",
+   "lat": "Komitet je odobrio finansiranje istraživanja.",
+   "ru": "Комитет одобрил финансирование исследования."
+  }
+ },
+ {
+  "id": "w3311",
+  "order": 3311,
+  "level": "B2",
+  "cyr": "асимилација",
+  "lat": "asimilacija",
+  "tr": "асимилација",
+  "ru": "ассимиляция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Странац брзо пролази кроз асимилацију.",
+   "lat": "Stranac brzo prolazi kroz asimilaciju.",
+   "ru": "Иностранец быстро проходит через ассимиляцию."
+  }
+ },
+ {
+  "id": "w3312",
+  "order": 3312,
+  "level": "B2",
+  "cyr": "арбитража",
+  "lat": "arbitraža",
+  "tr": "арбитража",
+  "ru": "арбитраж; третейский суд",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Спор је решен путем арбитраже.",
+   "lat": "Spor je rešen putem arbitraže.",
+   "ru": "Спор разрешен путем арбитража."
+  }
+ },
+ {
+  "id": "w3313",
+  "order": 3313,
+  "level": "B2",
+  "cyr": "оповргнути",
+  "lat": "opovrgnuti",
+  "tr": "оповргнути",
+  "ru": "опровергнуть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Нови подаци оповргну стару теорију.",
+   "lat": "Novi podaci opovrgnu staru teoriju.",
+   "ru": "Новые данные опровергают старую теорию."
+  }
+ },
+ {
+  "id": "w3314",
+  "order": 3314,
+  "level": "B2",
+  "cyr": "аутократија",
+  "lat": "autokratija",
+  "tr": "аутократија",
+  "ru": "автократия; самодержавие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "У аутократији сву власт има један човјек.",
+   "lat": "U autokratiji svu vlast ima jedan čovjek.",
+   "ru": "В автократии вся власть у одного человека."
+  }
+ },
+ {
+  "id": "w3315",
+  "order": 3315,
+  "level": "B2",
+  "cyr": "аташе",
+  "lat": "ataše",
+  "tr": "аташе",
+  "ru": "атташе",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Културни аташе представља нашу земљу у иностранству.",
+   "lat": "Kulturni ataše predstavlja našu zemlju u inostranstvu.",
+   "ru": "Культурный атташе представляет нашу страну за границей."
+  }
+ },
+ {
+  "id": "w3316",
+  "order": 3316,
+  "level": "B2",
+  "cyr": "оптужити",
+  "lat": "optužiti",
+  "tr": "оптужити",
+  "ru": "обвинить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тужилац је оптужио политичара за корупцију.",
+   "lat": "Tužilac je optužio političara za korupciju.",
+   "ru": "Прокурор обвинил политика в коррупции."
+  }
+ },
+ {
+  "id": "w3317",
+  "order": 3317,
+  "level": "B2",
+  "cyr": "ауторитет",
+  "lat": "autoritet",
+  "tr": "ауторитет",
+  "ru": "авторитет; влияние",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај професор има велики ауторитет међу студентима.",
+   "lat": "Ovaj profesor ima veliki autoritet među studentima.",
+   "ru": "Этот профессор имеет большой авторитет среди студентов."
+  }
+ },
+ {
+  "id": "w3318",
+  "order": 3318,
+  "level": "B2",
+  "cyr": "аутономија",
+  "lat": "autonomija",
+  "tr": "аутономија",
+  "ru": "автономия",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Овај регион има широку аутономију.",
+   "lat": "Ovaj region ima široku autonomiju.",
+   "ru": "Этот регион имеет широкую автономию."
+  }
+ },
+ {
+  "id": "w3319",
+  "order": 3319,
+  "level": "B2",
+  "cyr": "ослободити",
+  "lat": "osloboditi",
+  "tr": "ослободити",
+  "ru": "освободить; оправдать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Суд је ослободио оптуженог због недостатка доказа.",
+   "lat": "Sud je oslobodio optuženog zbog nedostatka dokaza.",
+   "ru": "Суд оправдал обвиняемого из-за нехватки доказательств."
+  }
+ },
+ {
+  "id": "w3320",
+  "order": 3320,
+  "level": "B2",
+  "cyr": "бескућник",
+  "lat": "beskućnik",
+  "tr": "бескучник",
+  "ru": "бездомный; бродяга",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Зими градска управа помаже бескућницима.",
+   "lat": "Zimi gradska uprava pomaže beskućnicima.",
+   "ru": "Зимой городская власть помогает бездомным."
+  }
+ },
+ {
+  "id": "w3321",
+  "order": 3321,
+  "level": "B2",
+  "cyr": "бирократија",
+  "lat": "birokratija",
+  "tr": "бирократија",
+  "ru": "бюрократия; чиновничество",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Овај процес је споро због бирократије.",
+   "lat": "Ovaj proces je sporo zbog birokratije.",
+   "ru": "Этот процесс медленный из-за бюрократии."
+  }
+ },
+ {
+  "id": "w3322",
+  "order": 3322,
+  "level": "B2",
+  "cyr": "остваривати",
+  "lat": "ostvarivati",
+  "tr": "остваривати",
+  "ru": "осуществлять; достигать; реализовывать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Предузеће редовно остварује добре профите.",
+   "lat": "Preduzeće redovno ostvaruje dobre profite.",
+   "ru": "Компания регулярно достигает хорошие прибыли."
+  }
+ },
+ {
+  "id": "w3323",
+  "order": 3323,
+  "level": "B2",
+  "cyr": "благостање",
+  "lat": "blagostanje",
+  "tr": "благостанье",
+  "ru": "благосостояние; процветание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Економско благостање зависи од многих фактора.",
+   "lat": "Ekonomsko blagostanje zavisi od mnogih faktora.",
+   "ru": "Экономическое благосостояние зависит от многих факторов."
+  }
+ },
+ {
+  "id": "w3324",
+  "order": 3324,
+  "level": "B2",
+  "cyr": "глоба",
+  "lat": "globa",
+  "tr": "глоба",
+  "ru": "штраф; пеня",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Глобу платио због прекршаја.",
+   "lat": "Globu platio zbog prekršaja.",
+   "ru": "Штраф заплатил за нарушение."
+  }
+ },
+ {
+  "id": "w3325",
+  "order": 3325,
+  "level": "B2",
+  "cyr": "осудити",
+  "lat": "osuditi",
+  "tr": "осудити",
+  "ru": "осудить; приговорить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Суд осуди кривца на дугогодишњу казну.",
+   "lat": "Sud osudi krivca na dugogodišnju kaznu.",
+   "ru": "Суд осудил преступника на длительный срок."
+  }
+ },
+ {
+  "id": "w3326",
+  "order": 3326,
+  "level": "B2",
+  "cyr": "бојкот",
+  "lat": "bojkot",
+  "tr": "бојкот",
+  "ru": "бойкот",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Потрошачи су покренули бојкот те компаније.",
+   "lat": "Potrošači su pokrenuli bojkot te kompanije.",
+   "ru": "Потребители начали бойкот той компании."
+  }
+ },
+ {
+  "id": "w3327",
+  "order": 3327,
+  "level": "B2",
+  "cyr": "делегација",
+  "lat": "delegacija",
+  "tr": "делегација",
+  "ru": "делегация; представительство",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Делегација стиже из суседне земље.",
+   "lat": "Delegacija stiže iz susedne zemlje.",
+   "ru": "Делегация прибывает из соседней страны."
+  }
+ },
+ {
+  "id": "w3328",
+  "order": 3328,
+  "level": "B2",
+  "cyr": "поднети",
+  "lat": "podneti",
+  "tr": "поднети",
+  "ru": "подать (документ); внести",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тужбу је поднео суду прошле недеље.",
+   "lat": "Tužbu je podneo sudu prošle nedelje.",
+   "ru": "Иск он подал в суд на прошлой неделе."
+  }
+ },
+ {
+  "id": "w3329",
+  "order": 3329,
+  "level": "B2",
+  "cyr": "бранилац",
+  "lat": "branilac",
+  "tr": "бранилац",
+  "ru": "защитник; адвокат",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Бранилац бранио је клијента.",
+   "lat": "Branilac branio je klijenta.",
+   "ru": "Адвокат защищал клиента."
+  }
+ },
+ {
+  "id": "w3330",
+  "order": 3330,
+  "level": "B2",
+  "cyr": "елита",
+  "lat": "elita",
+  "tr": "елита",
+  "ru": "элита; лучшие представители",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Економска елита одлучује о политици.",
+   "lat": "Ekonomska elita odlučuje o politici.",
+   "ru": "Экономическая элита решает о политике."
+  }
+ },
+ {
+  "id": "w3331",
+  "order": 3331,
+  "level": "B2",
+  "cyr": "посредовати",
+  "lat": "posredovati",
+  "tr": "посредовати",
+  "ru": "посредничать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Дипломата посредује у спору између две стране.",
+   "lat": "Diplomata posreduje u sporu između dve strane.",
+   "ru": "Дипломат посредничает в споре между двумя сторонами."
+  }
+ },
+ {
+  "id": "w3332",
+  "order": 3332,
+  "level": "B2",
+  "cyr": "гласач",
+  "lat": "glasač",
+  "tr": "гласач",
+  "ru": "избиратель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гласач је пажљиво попунио листић.",
+   "lat": "Glasač je pažljivo popunio listić.",
+   "ru": "Избиратель внимательно заполнил бюллетень."
+  }
+ },
+ {
+  "id": "w3333",
+  "order": 3333,
+  "level": "B2",
+  "cyr": "емиграција",
+  "lat": "emigracija",
+  "tr": "емиграција",
+  "ru": "эмиграция; исход",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Емиграција је честа у тим земљама.",
+   "lat": "Emigracija je česta u tim zemljama.",
+   "ru": "Эмиграция часта в тех странах."
+  }
+ },
+ {
+  "id": "w3334",
+  "order": 3334,
+  "level": "B2",
+  "cyr": "поставити",
+  "lat": "postaviti",
+  "tr": "поставити",
+  "ru": "поставить; установить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тајник је поставио сат на зиду канцеларије.",
+   "lat": "Tajnik je postavio sat na zidu kancelarije.",
+   "ru": "Секретарь поставил часы на стене кабинета."
+  }
+ },
+ {
+  "id": "w3335",
+  "order": 3335,
+  "level": "B2",
+  "cyr": "демократија",
+  "lat": "demokratija",
+  "tr": "демократија",
+  "ru": "демократия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "У демократији грађани бирају своје представнике.",
+   "lat": "U demokratiji građani biraju svoje predstavnike.",
+   "ru": "В демократии граждане выбирают своих представителей."
+  }
+ },
+ {
+  "id": "w3336",
+  "order": 3336,
+  "level": "B2",
+  "cyr": "закуп",
+  "lat": "zakup",
+  "tr": "закуп",
+  "ru": "аренда; контракт",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Закуп за ту зграду је истекао.",
+   "lat": "Zakup za tu zgradu je istekao.",
+   "ru": "Аренда на это здание истекла."
+  }
+ },
+ {
+  "id": "w3337",
+  "order": 3337,
+  "level": "B2",
+  "cyr": "поткупити",
+  "lat": "potkupiti",
+  "tr": "поткупити",
+  "ru": "подкупить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Они су покушали да поткупе судију.",
+   "lat": "Oni su pokušali da potkupe sudiju.",
+   "ru": "Они попытались подкупить судью."
+  }
+ },
+ {
+  "id": "w3338",
+  "order": 3338,
+  "level": "B2",
+  "cyr": "демонстрација",
+  "lat": "demonstracija",
+  "tr": "демонстрација",
+  "ru": "демонстрация; митинг",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Демонстрација је прошла мирно уз полицијски пратњу.",
+   "lat": "Demonstracija je prošla mirno uz policijski pratnju.",
+   "ru": "Демонстрация прошла мирно при полицейском сопровождении."
+  }
+ },
+ {
+  "id": "w3339",
+  "order": 3339,
+  "level": "B2",
+  "cyr": "злочин",
+  "lat": "zločin",
+  "tr": "злочин",
+  "ru": "преступление; преступление",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Полиција истражује тежак злочин.",
+   "lat": "Policija istražuje težak zločin.",
+   "ru": "Полиция расследует тяжкое преступление."
+  }
+ },
+ {
+  "id": "w3340",
+  "order": 3340,
+  "level": "B2",
+  "cyr": "потчињавати",
+  "lat": "potčinjavati",
+  "tr": "потчиньявати",
+  "ru": "подчинять; покорять",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Нови краљ потчињава све побуњенике.",
+   "lat": "Novi kralj potčinjava sve pobunjenike.",
+   "ru": "Новый король покоряет всех восставших."
+  }
+ },
+ {
+  "id": "w3341",
+  "order": 3341,
+  "level": "B2",
+  "cyr": "диктатура",
+  "lat": "diktatura",
+  "tr": "диктатура",
+  "ru": "диктатура; неограниченная власть",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "У земљи је успостављена војна диктатура.",
+   "lat": "U zemlji je uspostavljena vojna diktatura.",
+   "ru": "В стране установлена военная диктатура."
+  }
+ },
+ {
+  "id": "w3342",
+  "order": 3342,
+  "level": "B2",
+  "cyr": "изасланик",
+  "lat": "izaslanik",
+  "tr": "изасланик",
+  "ru": "посол; представитель; делегат",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Изасланик преноси поруке своје владе.",
+   "lat": "Izaslanik prenosi poruke svoje vlade.",
+   "ru": "Посол передает послания своего правительства."
+  }
+ },
+ {
+  "id": "w3343",
+  "order": 3343,
+  "level": "B2",
+  "cyr": "поштовати",
+  "lat": "poštovati",
+  "tr": "поштовати",
+  "ru": "уважать; соблюдать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Гости су поштовали традицију домаћина.",
+   "lat": "Gosti su poštovali tradiciju domaćina.",
+   "ru": "Гости соблюдали традиции хозяина."
+  }
+ },
+ {
+  "id": "w3344",
+  "order": 3344,
+  "level": "B2",
+  "cyr": "дискриминација",
+  "lat": "diskriminacija",
+  "tr": "дискриминација",
+  "ru": "дискриминация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Закон забрањује било какву дискриминацију на раду.",
+   "lat": "Zakon zabranjuje bilo kakvu diskriminaciju na radu.",
+   "ru": "Закон запрещает любую дискриминацию на работе."
+  }
+ },
+ {
+  "id": "w3345",
+  "order": 3345,
+  "level": "B2",
+  "cyr": "изборна јединица",
+  "lat": "izborna jedinica",
+  "tr": "изборна јединица",
+  "ru": "избирательный округ",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова изборна јединица има посланика.",
+   "lat": "Ova izborna jedinica ima poslanika.",
+   "ru": "Этот избирательный округ имеет депутата."
+  }
+ },
+ {
+  "id": "w3346",
+  "order": 3346,
+  "level": "B2",
+  "cyr": "предводити",
+  "lat": "predvoditi",
+  "tr": "предводити",
+  "ru": "возглавлять; предводить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Генерал је предводио своје трупе у битку.",
+   "lat": "General je predvodio svoje trupe u bitku.",
+   "ru": "Генерал повел свои войска в бой."
+  }
+ },
+ {
+  "id": "w3347",
+  "order": 3347,
+  "level": "B2",
+  "cyr": "дијаспора",
+  "lat": "dijaspora",
+  "tr": "дијаспора",
+  "ru": "диаспора",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Српска дијаспора је велика широм света.",
+   "lat": "Srpska dijaspora je velika širom sveta.",
+   "ru": "Сербская диаспора велика по всему миру."
+  }
+ },
+ {
+  "id": "w3348",
+  "order": 3348,
+  "level": "B2",
+  "cyr": "институција",
+  "lat": "institucija",
+  "tr": "институција",
+  "ru": "институт; учреждение; организация",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ова институција помаже младима.",
+   "lat": "Ova institucija pomaže mladima.",
+   "ru": "Эта организация помогает молодым."
+  }
+ },
+ {
+  "id": "w3349",
+  "order": 3349,
+  "level": "B2",
+  "cyr": "предложити",
+  "lat": "predložiti",
+  "tr": "предложити",
+  "ru": "предложить; предложить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Шеф је предложио нови пројекат за састанак.",
+   "lat": "Šef je predložio novi projekat za sastanak.",
+   "ru": "Начальник предложил новый проект на совещание."
+  }
+ },
+ {
+  "id": "w3350",
+  "order": 3350,
+  "level": "B2",
+  "cyr": "доказ",
+  "lat": "dokaz",
+  "tr": "доказ",
+  "ru": "доказательство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тај предмет је главни доказ у случају.",
+   "lat": "Taj predmet je glavni dokaz u slučaju.",
+   "ru": "Этот предмет — главное доказательство по делу."
+  }
+ },
+ {
+  "id": "w3351",
+  "order": 3351,
+  "level": "B2",
+  "cyr": "интерпелација",
+  "lat": "interpelacija",
+  "tr": "интерпелација",
+  "ru": "вопрос правительству; запрос",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Посланик је поднео интерпелацију премијеру.",
+   "lat": "Poslanik je podneo interpelaciju premijeru.",
+   "ru": "Депутат задал вопрос премьер-министру."
+  }
+ },
+ {
+  "id": "w3352",
+  "order": 3352,
+  "level": "B2",
+  "cyr": "прекршити",
+  "lat": "prekršiti",
+  "tr": "прекршити",
+  "ru": "нарушить; преступить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Возач је прекршио саобраћајне прописе.",
+   "lat": "Vozač je prekršio saobraćajne propise.",
+   "ru": "Водитель нарушил правила дорожного движения."
+  }
+ },
+ {
+  "id": "w3353",
+  "order": 3353,
+  "level": "B2",
+  "cyr": "допринос",
+  "lat": "doprinos",
+  "tr": "допринос",
+  "ru": "вклад; содействие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Њен допринос пројекту био је одлучујући.",
+   "lat": "Njen doprinos projektu bio je odlučujući.",
+   "ru": "Её вклад в проект был решающим."
+  }
+ },
+ {
+  "id": "w3354",
+  "order": 3354,
+  "level": "B2",
+  "cyr": "кворум",
+  "lat": "kvorum",
+  "tr": "кворум",
+  "ru": "кворум; необходимое число присутствующих",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "За почетак седнице потребан је кворум.",
+   "lat": "Za početak sednice potreban je kvorum.",
+   "ru": "Для начала заседания необходим кворум."
+  }
+ },
+ {
+  "id": "w3355",
+  "order": 3355,
+  "level": "B2",
+  "cyr": "признати",
+  "lat": "priznati",
+  "tr": "признати",
+  "ru": "признать; признаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тужени је признао кривицу на суду.",
+   "lat": "Tuženi je priznao krivicu na sudu.",
+   "ru": "Обвиняемый признал свою вину в суде."
+  }
+ },
+ {
+  "id": "w3356",
+  "order": 3356,
+  "level": "B2",
+  "cyr": "електорат",
+  "lat": "elektorat",
+  "tr": "електорат",
+  "ru": "электорат",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Електорат је скуп бирача за једну странку.",
+   "lat": "Elektorat je skup birača za jednu stranku.",
+   "ru": "Электорат — это совокупность избирателей за одну партию."
+  }
+ },
+ {
+  "id": "w3357",
+  "order": 3357,
+  "level": "B2",
+  "cyr": "кодекс",
+  "lat": "kodeks",
+  "tr": "кодекс",
+  "ru": "кодекс; свод",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Грађански кодекс прописује права.",
+   "lat": "Građanski kodeks propisuje prava.",
+   "ru": "Гражданский кодекс определяет права."
+  }
+ },
+ {
+  "id": "w3358",
+  "order": 3358,
+  "level": "B2",
+  "cyr": "применити",
+  "lat": "primeniti",
+  "tr": "применити",
+  "ru": "применить; использовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Суд је применио ново правило у процесу.",
+   "lat": "Sud je primenio novo pravilo u procesu.",
+   "ru": "Суд применил новое правило в процессе."
+  }
+ },
+ {
+  "id": "w3359",
+  "order": 3359,
+  "level": "B2",
+  "cyr": "жртва",
+  "lat": "žrtva",
+  "tr": "жртва",
+  "ru": "жертва; пострадавший",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Она је била жртва несрећног случаја.",
+   "lat": "Ona je bila žrtva nesrećnog slučaja.",
+   "ru": "Она была жертвой несчастного случая."
+  }
+ },
+ {
+  "id": "w3360",
+  "order": 3360,
+  "level": "B2",
+  "cyr": "компетенција",
+  "lat": "kompetencija",
+  "tr": "компетенција",
+  "ru": "компетенция; полномочие; квалификация",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова компетенција је одлична.",
+   "lat": "Njegova kompetencija je odlična.",
+   "ru": "Его компетенция отлична."
+  }
+ },
+ {
+  "id": "w3361",
+  "order": 3361,
+  "level": "B2",
+  "cyr": "расписати",
+  "lat": "raspisati",
+  "tr": "расписати",
+  "ru": "расписать; распределить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Шеф је расписао нове дужности.",
+   "lat": "Šef je raspisao nove dužnosti.",
+   "ru": "Начальник расписал новые обязанности."
+  }
+ },
+ {
+  "id": "w3362",
+  "order": 3362,
+  "level": "B2",
+  "cyr": "зависност",
+  "lat": "zavisnost",
+  "tr": "зависност",
+  "ru": "зависимость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Имао је зависност од дувана.",
+   "lat": "Imao je zavisnost od duvana.",
+   "ru": "У него была зависимость от табака."
+  }
+ },
+ {
+  "id": "w3363",
+  "order": 3363,
+  "level": "B2",
+  "cyr": "конвенција",
+  "lat": "konvencija",
+  "tr": "конвенција",
+  "ru": "конвенция; соглашение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Међународна конвенција регулише права бродова.",
+   "lat": "Međunarodna konvencija reguliše prava brodova.",
+   "ru": "Международная конвенция регулирует права судов."
+  }
+ },
+ {
+  "id": "w3364",
+  "order": 3364,
+  "level": "B2",
+  "cyr": "ратификовати",
+  "lat": "ratifikovati",
+  "tr": "ратификовати",
+  "ru": "ратифицировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Парламент је ратификовао нови међународни уговор.",
+   "lat": "Parlament je ratifikovao novi međunarodni ugovor.",
+   "ru": "Парламент ратифицировал новый международный договор."
+  }
+ },
+ {
+  "id": "w3365",
+  "order": 3365,
+  "level": "B2",
+  "cyr": "заклетва",
+  "lat": "zakletva",
+  "tr": "заклетва",
+  "ru": "клятва; присяга",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Млади официр дао је заклетву на верност.",
+   "lat": "Mladi oficir dao je zakletvu na vernost.",
+   "ru": "Молодой офицер дал клятву верности."
+  }
+ },
+ {
+  "id": "w3366",
+  "order": 3366,
+  "level": "B2",
+  "cyr": "конзул",
+  "lat": "konzul",
+  "tr": "конзул",
+  "ru": "консул; консульский служащий",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Конзул помаже грађанима у иностранству.",
+   "lat": "Konzul pomaže građanima u inostranstvu.",
+   "ru": "Консул помогает гражданам за границей."
+  }
+ },
+ {
+  "id": "w3367",
+  "order": 3367,
+  "level": "B2",
+  "cyr": "руководити",
+  "lat": "rukovoditi",
+  "tr": "руководити",
+  "ru": "руководить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Он руководи компанијом већ више од деценије.",
+   "lat": "On rukovodi kompanijom već više od decenije.",
+   "ru": "Он руководит компанией уже более десяти лет."
+  }
+ },
+ {
+  "id": "w3368",
+  "order": 3368,
+  "level": "B2",
+  "cyr": "злостављање",
+  "lat": "zlostavljanje",
+  "tr": "злоставлянье",
+  "ru": "побои; насмешки; притеснение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Злостављање на радном месту је незаконито.",
+   "lat": "Zlostavljanje na radnom mestu je nezakonito.",
+   "ru": "Побои на рабочем месте незаконны."
+  }
+ },
+ {
+  "id": "w3369",
+  "order": 3369,
+  "level": "B2",
+  "cyr": "мандат",
+  "lat": "mandat",
+  "tr": "мандат",
+  "ru": "мандат; полномочие",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Председник добије мандат за формирање владе.",
+   "lat": "Predsednik dobije mandat za formiranje vlade.",
+   "ru": "Президент получает мандат на формирование правительства."
+  }
+ },
+ {
+  "id": "w3370",
+  "order": 3370,
+  "level": "B2",
+  "cyr": "сазвати",
+  "lat": "sazvati",
+  "tr": "сазвати",
+  "ru": "созвать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Министар је сазвао хитан састанак.",
+   "lat": "Ministar je sazvao hitan sastanak.",
+   "ru": "Министр созвал экстренное совещание."
+  }
+ },
+ {
+  "id": "w3371",
+  "order": 3371,
+  "level": "B2",
+  "cyr": "злоупотреба",
+  "lat": "zloupotreba",
+  "tr": "злоупотреба",
+  "ru": "злоупотребление; абуз",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Злоупотреба моћи доводи до корупције.",
+   "lat": "Zloupotreba moći dovodi do korupcije.",
+   "ru": "Злоупотребление властью ведёт к коррупции."
+  }
+ },
+ {
+  "id": "w3372",
+  "order": 3372,
+  "level": "B2",
+  "cyr": "монархија",
+  "lat": "monarhija",
+  "tr": "монархија",
+  "ru": "монархия",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "У овој земљи је уставна монархија.",
+   "lat": "U ovoj zemlji je ustavna monarhija.",
+   "ru": "В этой стране конституционная монархия."
+  }
+ },
+ {
+  "id": "w3373",
+  "order": 3373,
+  "level": "B2",
+  "cyr": "сведочити",
+  "lat": "svedočiti",
+  "tr": "сведочити",
+  "ru": "свидетельствовать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Сведок је сведочио о свим детаљима несреће.",
+   "lat": "Svedok je svedočio o svim detaljima nesreće.",
+   "ru": "Свидетель показал все детали несчастного случая."
+  }
+ },
+ {
+  "id": "w3374",
+  "order": 3374,
+  "level": "B2",
+  "cyr": "идеологија",
+  "lat": "ideologija",
+  "tr": "идеологија",
+  "ru": "идеология",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Свака политичка партија има своју идеологију.",
+   "lat": "Svaka politička partija ima svoju ideologiju.",
+   "ru": "Каждая политическая партия имеет свою идеологию."
+  }
+ },
+ {
+  "id": "w3375",
+  "order": 3375,
+  "level": "B2",
+  "cyr": "надзор",
+  "lat": "nadzor",
+  "tr": "надзор",
+  "ru": "надзор; контроль",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Надзор над границом је појачан због безбедности.",
+   "lat": "Nadzor nad granicom je pojačan zbog bezbednosti.",
+   "ru": "Надзор над границей усилен из соображений безопасности."
+  }
+ },
+ {
+  "id": "w3376",
+  "order": 3376,
+  "level": "B2",
+  "cyr": "свргнути",
+  "lat": "svrgnuti",
+  "tr": "свргнути",
+  "ru": "свергнуть; свалить с престола",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Народ је свргнуо старог владара са власти.",
+   "lat": "Narod je svrgnuo starog vladara sa vlasti.",
+   "ru": "Народ свергнул старого правителя с власти."
+  }
+ },
+ {
+  "id": "w3377",
+  "order": 3377,
+  "level": "B2",
+  "cyr": "империја",
+  "lat": "imperija",
+  "tr": "империја",
+  "ru": "империя",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Римска империја је била огромна.",
+   "lat": "Rimska imperija je bila ogromna.",
+   "ru": "Римская империя была огромна."
+  }
+ },
+ {
+  "id": "w3378",
+  "order": 3378,
+  "level": "B2",
+  "cyr": "надлежност",
+  "lat": "nadležnost",
+  "tr": "надлежност",
+  "ru": "подведомственность; компетенция; полномочие",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Он нема надлежност за тај случај.",
+   "lat": "On nema nadležnost za taj slučaj.",
+   "ru": "Он не имеет компетенции по этому делу."
+  }
+ },
+ {
+  "id": "w3379",
+  "order": 3379,
+  "level": "B2",
+  "cyr": "стицати",
+  "lat": "sticati",
+  "tr": "стицати",
+  "ru": "приобретать; добиваться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Стицају се нове вештине кроз сталну праксу.",
+   "lat": "Sticaju se nove veštine kroz stalnu praksu.",
+   "ru": "Новые навыки приобретаются через постоянную практику."
+  }
+ },
+ {
+  "id": "w3380",
+  "order": 3380,
+  "level": "B2",
+  "cyr": "истрага",
+  "lat": "istraga",
+  "tr": "истрага",
+  "ru": "расследование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Полиција је започела званичну истрагу.",
+   "lat": "Policija je započela zvaničnu istragu.",
+   "ru": "Полиция начала официальное расследование."
+  }
+ },
+ {
+  "id": "w3381",
+  "order": 3381,
+  "level": "B2",
+  "cyr": "незапосленост",
+  "lat": "nezaposlenost",
+  "tr": "незапосленост",
+  "ru": "безработица",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Незапосленост је висока у многим земљама.",
+   "lat": "Nezaposlenost je visoka u mnogim zemljama.",
+   "ru": "Безработица высока во многих странах."
+  }
+ },
+ {
+  "id": "w3382",
+  "order": 3382,
+  "level": "B2",
+  "cyr": "уводити",
+  "lat": "uvoditi",
+  "tr": "уводити",
+  "ru": "вводить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Влада уводи нове мере за контролу инфлације.",
+   "lat": "Vlada uvodi nove mere za kontrolu inflacije.",
+   "ru": "Правительство вводит новые меры для контроля инфляции."
+  }
+ },
+ {
+  "id": "w3383",
+  "order": 3383,
+  "level": "B2",
+  "cyr": "кампања",
+  "lat": "kampanja",
+  "tr": "кампанья",
+  "ru": "кампания",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Изборна кампања траје месец дана.",
+   "lat": "Izborna kampanja traje mesec dana.",
+   "ru": "Предвыборная кампания длится месяц."
+  }
+ },
+ {
+  "id": "w3384",
+  "order": 3384,
+  "level": "B2",
+  "cyr": "неутралност",
+  "lat": "neutralnost",
+  "tr": "неутралност",
+  "ru": "нейтралитет",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Швајцарска позната је по својој дугогодишњој неутралности.",
+   "lat": "Švajcarska poznata je po svojoj dugogodišnjoj neutralnosti.",
+   "ru": "Швейцарка известна своей долголетней нейтральностью."
+  }
+ },
+ {
+  "id": "w3385",
+  "order": 3385,
+  "level": "B2",
+  "cyr": "усагласити",
+  "lat": "usaglasiti",
+  "tr": "усагласити",
+  "ru": "согласовать; унифицировать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Мораћемо да усагласимо наше планове са партнером.",
+   "lat": "Moraćemo da usaglasimo naše planove sa partnerom.",
+   "ru": "Нам придется согласовать наши планы с партнером."
+  }
+ },
+ {
+  "id": "w3386",
+  "order": 3386,
+  "level": "B2",
+  "cyr": "коалиција",
+  "lat": "koalicija",
+  "tr": "коалиција",
+  "ru": "коалиция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Коалиција две странке освојила је победу.",
+   "lat": "Koalicija dve stranke osvojila je pobedu.",
+   "ru": "Коалиция двух партий одстояла победу."
+  }
+ },
+ {
+  "id": "w3387",
+  "order": 3387,
+  "level": "B2",
+  "cyr": "овлашћење",
+  "lat": "ovlašćenje",
+  "tr": "овлашченье",
+  "ru": "полномочие; уполномочивание; разрешение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Добио је овлашћење за посао.",
+   "lat": "Dobio je ovlašćenje za posao.",
+   "ru": "Он получил полномочие на работу."
+  }
+ },
+ {
+  "id": "w3388",
+  "order": 3388,
+  "level": "B2",
+  "cyr": "ухапсити",
+  "lat": "uhapsiti",
+  "tr": "ухапсити",
+  "ru": "арестовать; задержать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Двојицу људи ухапсили су у ноћи.",
+   "lat": "Dvojicu ljudi uhapsili su u noći.",
+   "ru": "Двое людей были арестованы ночью."
+  }
+ },
+ {
+  "id": "w3389",
+  "order": 3389,
+  "level": "B2",
+  "cyr": "комунизам",
+  "lat": "komunizam",
+  "tr": "комунизам",
+  "ru": "коммунизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Комунизам је политички систем са заједничким власништвом.",
+   "lat": "Komunizam je politički sistem sa zajedničkim vlasništvom.",
+   "ru": "Коммунизм — это политическая система с общим владением."
+  }
+ },
+ {
+  "id": "w3390",
+  "order": 3390,
+  "level": "B2",
+  "cyr": "окупација",
+  "lat": "okupacija",
+  "tr": "окупација",
+  "ru": "оккупация; захват",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Окупација траје већ годинама.",
+   "lat": "Okupacija traje već godinama.",
+   "ru": "Оккупация длится уже годами."
+  }
+ },
+ {
+  "id": "w3391",
+  "order": 3391,
+  "level": "B2",
+  "cyr": "конзервативац",
+  "lat": "konzervativac",
+  "tr": "конзервативац",
+  "ru": "консерватор",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Конзервативац жели да очува традиције.",
+   "lat": "Konzervativac želi da očuva tradicije.",
+   "ru": "Консерватор хочет сохранить традиции."
+  }
+ },
+ {
+  "id": "w3392",
+  "order": 3392,
+  "level": "B2",
+  "cyr": "оптужница",
+  "lat": "optužnica",
+  "tr": "оптужница",
+  "ru": "обвинительное заключение; обвинение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Тужилац је предао оптужницу суду.",
+   "lat": "Tužilac je predao optužnicu sudu.",
+   "ru": "Прокурор передал обвинительное заключение суду."
+  }
+ },
+ {
+  "id": "w3393",
+  "order": 3393,
+  "level": "B2",
+  "cyr": "конзерватизам",
+  "lat": "konzervatizam",
+  "tr": "конзерватизам",
+  "ru": "консерватизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ова партија заступа традиционални конзерватизам.",
+   "lat": "Ova partija zastupa tradicionalni konzervatizam.",
+   "ru": "Эта партия представляет традиционный консерватизм."
+  }
+ },
+ {
+  "id": "w3394",
+  "order": 3394,
+  "level": "B2",
+  "cyr": "парламентаризам",
+  "lat": "parlamentarizam",
+  "tr": "парламентаризам",
+  "ru": "парламентаризм; система парламентарного правления",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Парламентаризам је темељ наше државе.",
+   "lat": "Parlamentarizam je temelj naše države.",
+   "ru": "Парламентаризм — основа нашего государства."
+  }
+ },
+ {
+  "id": "w3395",
+  "order": 3395,
+  "level": "B2",
+  "cyr": "конзулат",
+  "lat": "konzulat",
+  "tr": "конзулат",
+  "ru": "консульство; консул",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Грађани су се обратили конзулату за помоћ.",
+   "lat": "Građani su se obratili konzulatu za pomoć.",
+   "ru": "Граждане обратились в консульство за помощью."
+  }
+ },
+ {
+  "id": "w3396",
+  "order": 3396,
+  "level": "B2",
+  "cyr": "петиција",
+  "lat": "peticija",
+  "tr": "петиција",
+  "ru": "петиция; просьба",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Скупили смо више потписа за петицију.",
+   "lat": "Skupili smo više potpisa za peticiju.",
+   "ru": "Мы собрали много подписей для петиции."
+  }
+ },
+ {
+  "id": "w3397",
+  "order": 3397,
+  "level": "B2",
+  "cyr": "конфедерација",
+  "lat": "konfederacija",
+  "tr": "конфедерација",
+  "ru": "конфедерация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Конфедерација је лабави савез држава.",
+   "lat": "Konfederacija je labavi savez država.",
+   "ru": "Конфедерация это loose союз государств."
+  }
+ },
+ {
+  "id": "w3398",
+  "order": 3398,
+  "level": "B2",
+  "cyr": "повластица",
+  "lat": "povlastica",
+  "tr": "повластица",
+  "ru": "льгота; привилегия",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Старији грађани уживају посебне повластице.",
+   "lat": "Stariji građani uživaju posebne povlastice.",
+   "ru": "Пожилые граждане пользуются особыми льготами."
+  }
+ },
+ {
+  "id": "w3399",
+  "order": 3399,
+  "level": "B2",
+  "cyr": "корупција",
+  "lat": "korupcija",
+  "tr": "корупција",
+  "ru": "коррупция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Корупција је велики проблем у држави.",
+   "lat": "Korupcija je veliki problem u državi.",
+   "ru": "Коррупция — это большая проблема в государстве."
+  }
+ },
+ {
+  "id": "w3400",
+  "order": 3400,
+  "level": "B2",
+  "cyr": "порота",
+  "lat": "porota",
+  "tr": "порота",
+  "ru": "присяжные; коллегия присяжных",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Порота је одлучила о кривици оптуженог.",
+   "lat": "Porota je odlučila o krivici optuženog.",
+   "ru": "Присяжные вынесли решение о виновности подсудимого."
+  }
+ },
+ {
+  "id": "w3401",
+  "order": 3401,
+  "level": "B2",
+  "cyr": "кривица",
+  "lat": "krivica",
+  "tr": "кривица",
+  "ru": "вина; виновность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Чувство кривице га је пратило целог живота.",
+   "lat": "Čuvstvo krivice ga je pratilo celog života.",
+   "ru": "Чувство вины преследовало его всю жизнь."
+  }
+ },
+ {
+  "id": "w3402",
+  "order": 3402,
+  "level": "B2",
+  "cyr": "посланик",
+  "lat": "poslanik",
+  "tr": "посланик",
+  "ru": "депутат; член парламента",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Посланик је поднео предлог закона.",
+   "lat": "Poslanik je podneo predlog zakona.",
+   "ru": "Депутат внес законопроект."
+  }
+ },
+ {
+  "id": "w3403",
+  "order": 3403,
+  "level": "B2",
+  "cyr": "криминал",
+  "lat": "kriminal",
+  "tr": "криминал",
+  "ru": "преступность; криминал",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Полиција бори се против организованог криминала.",
+   "lat": "Policija bori se protiv organizovanog kriminala.",
+   "ru": "Полиция борется с организованной преступностью."
+  }
+ },
+ {
+  "id": "w3404",
+  "order": 3404,
+  "level": "B2",
+  "cyr": "правилник",
+  "lat": "pravilnik",
+  "tr": "правилник",
+  "ru": "инструкция; правила; устав",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Компанија има строг правилник о радном времену.",
+   "lat": "Kompanija ima strog pravilnik o radnom vremenu.",
+   "ru": "У компании есть строгий правила рабочего времени."
+  }
+ },
+ {
+  "id": "w3405",
+  "order": 3405,
+  "level": "B2",
+  "cyr": "либерал",
+  "lat": "liberal",
+  "tr": "либерал",
+  "ru": "либерал",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Либерал подржава грађанска права и слободе.",
+   "lat": "Liberal podržava građanska prava i slobode.",
+   "ru": "Либерал поддерживает гражданские права и свободы."
+  }
+ },
+ {
+  "id": "w3406",
+  "order": 3406,
+  "level": "B2",
+  "cyr": "привилегија",
+  "lat": "privilegija",
+  "tr": "привилегија",
+  "ru": "привилегия; преимущество",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Овај положај доноси многе привилегије.",
+   "lat": "Ovaj položaj donosi mnoge privilegije.",
+   "ru": "Этот должность даёт много привилегий."
+  }
+ },
+ {
+  "id": "w3407",
+  "order": 3407,
+  "level": "B2",
+  "cyr": "либерализам",
+  "lat": "liberalizam",
+  "tr": "либерализам",
+  "ru": "либерализм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Либерализам подржава слободу појединца.",
+   "lat": "Liberalizam podržava slobodu pojedinca.",
+   "ru": "Либерализм поддерживает свободу личности."
+  }
+ },
+ {
+  "id": "w3408",
+  "order": 3408,
+  "level": "B2",
+  "cyr": "пропис",
+  "lat": "propis",
+  "tr": "пропис",
+  "ru": "предписание; норма; закон",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Нови пропис прописује строже мере безбедности.",
+   "lat": "Novi propis propisuje strože mere bezbednosti.",
+   "ru": "Новый предписание предписывает более строгие меры безопасности."
+  }
+ },
+ {
+  "id": "w3409",
+  "order": 3409,
+  "level": "B2",
+  "cyr": "листић",
+  "lat": "listić",
+  "tr": "листич",
+  "ru": "бюллетень",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гласач мора ставити листић у конверт.",
+   "lat": "Glasač mora staviti listić u konvert.",
+   "ru": "Избиратель должен положить бюллетень в конверт."
+  }
+ },
+ {
+  "id": "w3410",
+  "order": 3410,
+  "level": "B2",
+  "cyr": "ратификација",
+  "lat": "ratifikacija",
+  "tr": "ратификација",
+  "ru": "ратификация",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Процес ратификације у парламенту траје неколико месеци.",
+   "lat": "Proces ratifikacije u parlamentu traje nekoliko meseci.",
+   "ru": "Процесс ратификации в парламенте длится несколько месяцев."
+  }
+ },
+ {
+  "id": "w3411",
+  "order": 3411,
+  "level": "B2",
+  "cyr": "министарство",
+  "lat": "ministarstvo",
+  "tr": "министарство",
+  "ru": "министерство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Министарство одлучује о новим законима.",
+   "lat": "Ministarstvo odlučuje o novim zakonima.",
+   "ru": "Министерство принимает решения о новых законах."
+  }
+ },
+ {
+  "id": "w3412",
+  "order": 3412,
+  "level": "B2",
+  "cyr": "репресија",
+  "lat": "represija",
+  "tr": "репресија",
+  "ru": "репрессия; подавление",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Репресије често крше људска права.",
+   "lat": "Represije često krše ljudska prava.",
+   "ru": "Репрессии часто нарушают права человека."
+  }
+ },
+ {
+  "id": "w3413",
+  "order": 3413,
+  "level": "B2",
+  "cyr": "мито",
+  "lat": "mito",
+  "tr": "мито",
+  "ru": "взятка; мзда",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Функционар је узео мито.",
+   "lat": "Funkcionar je uzeo mito.",
+   "ru": "Чиновник взял взятку."
+  }
+ },
+ {
+  "id": "w3414",
+  "order": 3414,
+  "level": "B2",
+  "cyr": "ресор",
+  "lat": "resor",
+  "tr": "ресор",
+  "ru": "подразделение; сфера деятельности",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Ово питање је у ресору министарства.",
+   "lat": "Ovo pitanje je u resoru ministarstva.",
+   "ru": "Этот вопрос в компетенции министерства."
+  }
+ },
+ {
+  "id": "w3415",
+  "order": 3415,
+  "level": "B2",
+  "cyr": "накнада",
+  "lat": "naknada",
+  "tr": "накнада",
+  "ru": "компенсация; вознаграждение; возмещение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Тражио је накнаду за одложени лет.",
+   "lat": "Tražio je naknadu za odloženi let.",
+   "ru": "Он требовал компенсацию за задержанный рейс."
+  }
+ },
+ {
+  "id": "w3416",
+  "order": 3416,
+  "level": "B2",
+  "cyr": "референдум",
+  "lat": "referendum",
+  "tr": "референдум",
+  "ru": "референдум",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Грађани одлучују на референдуму.",
+   "lat": "Građani odlučuju na referendumu.",
+   "ru": "Граждане решают на референдуме."
+  }
+ },
+ {
+  "id": "w3417",
+  "order": 3417,
+  "level": "B2",
+  "cyr": "насиље",
+  "lat": "nasilje",
+  "tr": "насиле",
+  "ru": "насилие; агрессия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Насиље никада није решење проблема.",
+   "lat": "Nasilje nikada nije rešenje problema.",
+   "ru": "Насилие никогда не является решением проблемы."
+  }
+ },
+ {
+  "id": "w3418",
+  "order": 3418,
+  "level": "B2",
+  "cyr": "реформа",
+  "lat": "reforma",
+  "tr": "реформа",
+  "ru": "реформа; преобразование",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Одржана је важна реформа образовања.",
+   "lat": "Održana je važna reforma obrazovanja.",
+   "ru": "Была проведена важная реформа образования."
+  }
+ },
+ {
+  "id": "w3419",
+  "order": 3419,
+  "level": "B2",
+  "cyr": "невиност",
+  "lat": "nevinost",
+  "tr": "невиност",
+  "ru": "невиновность; невинность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Суђење је потврдило његову невиност.",
+   "lat": "Suđenje je potvrdilo njegovu nevinost.",
+   "ru": "Суд подтвердил его невиновность."
+  }
+ },
+ {
+  "id": "w3420",
+  "order": 3420,
+  "level": "B2",
+  "cyr": "самоуправа",
+  "lat": "samouprava",
+  "tr": "самоуправа",
+  "ru": "местное самоуправление; самоуправление",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Град има своју локалну самоуправу.",
+   "lat": "Grad ima svoju lokalnu samoupravu.",
+   "ru": "Город имеет своё местное самоуправление."
+  }
+ },
+ {
+  "id": "w3421",
+  "order": 3421,
+  "level": "B2",
+  "cyr": "независност",
+  "lat": "nezavisnost",
+  "tr": "независност",
+  "ru": "независимость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Независност земље је најважнији национални интерес.",
+   "lat": "Nezavisnost zemlje je najvažniji nacionalni interes.",
+   "ru": "Независимость страны — самый важный национальный интерес."
+  }
+ },
+ {
+  "id": "w3422",
+  "order": 3422,
+  "level": "B2",
+  "cyr": "санкција",
+  "lat": "sankcija",
+  "tr": "санкција",
+  "ru": "санкция; штраф",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Економске санкције су веома тешке.",
+   "lat": "Ekonomske sankcije su veoma teške.",
+   "ru": "Экономические санкции очень тяжелы."
+  }
+ },
+ {
+  "id": "w3423",
+  "order": 3423,
+  "level": "B2",
+  "cyr": "неписменост",
+  "lat": "nepismenost",
+  "tr": "неписменост",
+  "ru": "безграмотность; неграмотность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Неписменост је честа у руралним областима.",
+   "lat": "Nepismenost je česta u ruralnim oblastima.",
+   "ru": "Безграмотность распространена в сельских районах."
+  }
+ },
+ {
+  "id": "w3424",
+  "order": 3424,
+  "level": "B2",
+  "cyr": "сведок",
+  "lat": "svedok",
+  "tr": "сведок",
+  "ru": "свидетель; очевидец",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сведок даје исказ на суду.",
+   "lat": "Svedok daje iskaz na sudu.",
+   "ru": "Свидетель даёт показания в суде."
+  }
+ },
+ {
+  "id": "w3425",
+  "order": 3425,
+  "level": "B2",
+  "cyr": "неједнакост",
+  "lat": "nejednakost",
+  "tr": "неједнакост",
+  "ru": "неравенство; несоответствие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Друштвена неједнакост расте сваке године.",
+   "lat": "Društvena nejednakost raste svake godine.",
+   "ru": "Социальное неравенство растёт каждый год."
+  }
+ },
+ {
+  "id": "w3426",
+  "order": 3426,
+  "level": "B2",
+  "cyr": "седница",
+  "lat": "sednica",
+  "tr": "седница",
+  "ru": "заседание; совещание",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Влада је одржала седницу о новој уредби.",
+   "lat": "Vlada je održala sednicu o novoj uredbi.",
+   "ru": "Правительство провело заседание о новом постановлении."
+  }
+ },
+ {
+  "id": "w3427",
+  "order": 3427,
+  "level": "B2",
+  "cyr": "одштета",
+  "lat": "odšteta",
+  "tr": "одштета",
+  "ru": "возмещение; компенсация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Тражио је одштету због штете.",
+   "lat": "Tražio je odštetu zbog štete.",
+   "ru": "Он требовало возмещение за ущерб."
+  }
+ },
+ {
+  "id": "w3428",
+  "order": 3428,
+  "level": "B2",
+  "cyr": "сецесија",
+  "lat": "secesija",
+  "tr": "сецесија",
+  "ru": "сецессия; выход",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сецесија доводи до грађанског рата.",
+   "lat": "Secesija dovodi do građanskog rata.",
+   "ru": "Сецессия приводит к гражданской войне."
+  }
+ },
+ {
+  "id": "w3429",
+  "order": 3429,
+  "level": "B2",
+  "cyr": "опозиција",
+  "lat": "opozicija",
+  "tr": "опозиција",
+  "ru": "оппозиция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Опозиција критикује политику владе.",
+   "lat": "Opozicija kritikuje politiku vlade.",
+   "ru": "Оппозиция критикует политику правительства."
+  }
+ },
+ {
+  "id": "w3430",
+  "order": 3430,
+  "level": "B2",
+  "cyr": "скупштина",
+  "lat": "skupština",
+  "tr": "скупштина",
+  "ru": "собрание; парламент; ассамблея",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Градска скупштина је донела одлуку.",
+   "lat": "Gradska skupština je donela odluku.",
+   "ru": "Городской совет принял решение."
+  }
+ },
+ {
+  "id": "w3431",
+  "order": 3431,
+  "level": "B2",
+  "cyr": "плурализам",
+  "lat": "pluralizam",
+  "tr": "плурализам",
+  "ru": "плюрализм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Плурализам омогућава постојање више мишљења.",
+   "lat": "Pluralizam omogućava postojanje više mišljenja.",
+   "ru": "Плюрализм позволяет существование множества мнений."
+  }
+ },
+ {
+  "id": "w3432",
+  "order": 3432,
+  "level": "B2",
+  "cyr": "службеник",
+  "lat": "službenik",
+  "tr": "службеник",
+  "ru": "служащий; чиновник; клерк",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Службеник у банци је обрадио мој захтев.",
+   "lat": "Službenik u banci je obradio moj zahtev.",
+   "ru": "Клерк в банке обработал мою заявку."
+  }
+ },
+ {
+  "id": "w3433",
+  "order": 3433,
+  "level": "B2",
+  "cyr": "подмићивање",
+  "lat": "podmićivanje",
+  "tr": "подмичиванье",
+  "ru": "взятничество; подкуп",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Подмићивање је озбиљан кривични преступ.",
+   "lat": "Podmićivanje je ozbiljan krivični prestup.",
+   "ru": "Взятничество — серьёзное уголовное преступление."
+  }
+ },
+ {
+  "id": "w3434",
+  "order": 3434,
+  "level": "B2",
+  "cyr": "споразум",
+  "lat": "sporazum",
+  "tr": "споразум",
+  "ru": "соглашение; договоренность",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Две стране потписују важан споразум.",
+   "lat": "Dve strane potpisuju važan sporazum.",
+   "ru": "Две стороны подписывают важное соглашение."
+  }
+ },
+ {
+  "id": "w3435",
+  "order": 3435,
+  "level": "B2",
+  "cyr": "помиловање",
+  "lat": "pomilovanje",
+  "tr": "помилованье",
+  "ru": "помилование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Председник је донео помиловање за осуђеника.",
+   "lat": "Predsednik je doneo pomilovanje za osuđenika.",
+   "ru": "Президент помиловал осуждённого."
+  }
+ },
+ {
+  "id": "w3436",
+  "order": 3436,
+  "level": "B2",
+  "cyr": "суверенитет",
+  "lat": "suverenitet",
+  "tr": "суверенитет",
+  "ru": "суверенитет",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "m",
+  "ex": {
+   "cyr": "Свака држава брани свој суверенитет.",
+   "lat": "Svaka država brani svoj suverenitet.",
+   "ru": "Каждое государство защищает свой суверенитет."
+  }
+ },
+ {
+  "id": "w3437",
+  "order": 3437,
+  "level": "B2",
+  "cyr": "попис",
+  "lat": "popis",
+  "tr": "попис",
+  "ru": "перепись; подсчёт",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Попис становништва обавља се сваких десет година.",
+   "lat": "Popis stanovništva obavlja se svakih deset godina.",
+   "ru": "Перепись населения проводится каждые десять лет."
+  }
+ },
+ {
+  "id": "w3438",
+  "order": 3438,
+  "level": "B2",
+  "cyr": "уредба",
+  "lat": "uredba",
+  "tr": "уредба",
+  "ru": "постановление; распоряжение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Министарство је донело нову уредбу.",
+   "lat": "Ministarstvo je donelo novu uredbu.",
+   "ru": "Министерство издало новое постановление."
+  }
+ },
+ {
+  "id": "w3439",
+  "order": 3439,
+  "level": "B2",
+  "cyr": "портпарол",
+  "lat": "portparol",
+  "tr": "портпарол",
+  "ru": "пресс-секретарь; официальный представитель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Портпарол компаније одговара на питања новинара.",
+   "lat": "Portparol kompanije odgovara na pitanja novinara.",
+   "ru": "Пресс-секретарь компании отвечает на вопросы журналистов."
+  }
+ },
+ {
+  "id": "w3440",
+  "order": 3440,
+  "level": "B2",
+  "cyr": "федерација",
+  "lat": "federacija",
+  "tr": "федерација",
+  "ru": "федерация",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Федерација се састоји из десет држава.",
+   "lat": "Federacija se sastoji iz deset država.",
+   "ru": "Федерация состоит из десяти государств."
+  }
+ },
+ {
+  "id": "w3441",
+  "order": 3441,
+  "level": "B2",
+  "cyr": "правник",
+  "lat": "pravnik",
+  "tr": "правник",
+  "ru": "юрист; правовед",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Правник је објаснио закон.",
+   "lat": "Pravnik je objasnio zakon.",
+   "ru": "Юрист объяснил закон."
+  }
+ },
+ {
+  "id": "w3442",
+  "order": 3442,
+  "level": "B2",
+  "cyr": "фракција",
+  "lat": "frakcija",
+  "tr": "фракција",
+  "ru": "фракция; группа",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Унутар странке постоји више фракција.",
+   "lat": "Unutar stranke postoji više frakcija.",
+   "ru": "Внутри партии существует несколько фракций."
+  }
+ },
+ {
+  "id": "w3443",
+  "order": 3443,
+  "level": "B2",
+  "cyr": "правосуђе",
+  "lat": "pravosuđe",
+  "tr": "правосудже",
+  "ru": "правосудие; судебная система",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Правосуђе треба да буде независно.",
+   "lat": "Pravosuđe treba da bude nezavisno.",
+   "ru": "Правосудие должно быть независимым."
+  }
+ },
+ {
+  "id": "w3444",
+  "order": 3444,
+  "level": "B2",
+  "cyr": "хапшење",
+  "lat": "hapšenje",
+  "tr": "хапшенье",
+  "ru": "арест; задержание",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Хапшење је извршено у јутарњим сатима.",
+   "lat": "Hapšenje je izvršeno u jutarnjim satima.",
+   "ru": "Арест был совершён утренними часами."
+  }
+ },
+ {
+  "id": "w3445",
+  "order": 3445,
+  "level": "B2",
+  "cyr": "предрасуда",
+  "lat": "predrasuda",
+  "tr": "предрасуда",
+  "ru": "предрассудок",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Предрасуде често заснивају на незнању.",
+   "lat": "Predrasude često zasnivaju na neznanju.",
+   "ru": "Предрассудки часто основаны на незнании."
+  }
+ },
+ {
+  "id": "w3446",
+  "order": 3446,
+  "level": "B2",
+  "cyr": "јурисдикција",
+  "lat": "jurisdikcija",
+  "tr": "јурисдикција",
+  "ru": "юрисдикция; судебная власть",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Тужба је у јурисдикцији овог суда.",
+   "lat": "Tužba je u jurisdikciji ovog suda.",
+   "ru": "Иск находится в юрисдикции этого суда."
+  }
+ },
+ {
+  "id": "w3447",
+  "order": 3447,
+  "level": "B2",
+  "cyr": "пропаганда",
+  "lat": "propaganda",
+  "tr": "пропаганда",
+  "ru": "пропаганда",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пропаганда у медијима често искривљује стварност.",
+   "lat": "Propaganda u medijima često iskrivljuje stvarnost.",
+   "ru": "Пропаганда в СМИ часто искажает реальность."
+  }
+ },
+ {
+  "id": "w3448",
+  "order": 3448,
+  "level": "B2",
+  "cyr": "бирачки",
+  "lat": "birački",
+  "tr": "бирачки",
+  "ru": "избирательный; связанный с выборами",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Бирачки листи су објављени.",
+   "lat": "Birački listi su objavljeni.",
+   "ru": "Списки избирателей опубликованы."
+  }
+ },
+ {
+  "id": "w3449",
+  "order": 3449,
+  "level": "B2",
+  "cyr": "протест",
+  "lat": "protest",
+  "tr": "протест",
+  "ru": "протест; демонстрация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Студенти организују велики протест.",
+   "lat": "Studenti organizuju veliki protest.",
+   "ru": "Студенты организуют большую демонстрацию."
+  }
+ },
+ {
+  "id": "w3450",
+  "order": 3450,
+  "level": "B2",
+  "cyr": "владајући",
+  "lat": "vladajući",
+  "tr": "владајучи",
+  "ru": "правящий; господствующий",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Владајућа партија је променила политику.",
+   "lat": "Vladajuća partija je promenila politiku.",
+   "ru": "Правящая партия изменила политику."
+  }
+ },
+ {
+  "id": "w3451",
+  "order": 3451,
+  "level": "B2",
+  "cyr": "режим",
+  "lat": "režim",
+  "tr": "режим",
+  "ru": "режим; порядок",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "У земљи је успостављен нови политички режим.",
+   "lat": "U zemlji je uspostavljen novi politički režim.",
+   "ru": "В стране установлен новый политический режим."
+  }
+ },
+ {
+  "id": "w3452",
+  "order": 3452,
+  "level": "B2",
+  "cyr": "дипломатски",
+  "lat": "diplomatski",
+  "tr": "дипломатски",
+  "ru": "дипломатический",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Дипломатски кордон је око амбасаде.",
+   "lat": "Diplomatski kordon je oko ambasade.",
+   "ru": "Дипломатический кордон вокруг посольства."
+  }
+ },
+ {
+  "id": "w3453",
+  "order": 3453,
+  "level": "B2",
+  "cyr": "савез",
+  "lat": "savez",
+  "tr": "савез",
+  "ru": "союз; федерация; альянс",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Спортски савез организује годишње такмичење.",
+   "lat": "Sportski savez organizuje godišnje takmičenje.",
+   "ru": "Спортивный союз организует ежегодное соревнование."
+  }
+ },
+ {
+  "id": "w3454",
+  "order": 3454,
+  "level": "B2",
+  "cyr": "државни",
+  "lat": "državni",
+  "tr": "државни",
+  "ru": "государственный; официальный",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Државни службеник има одређена права.",
+   "lat": "Državni službenik ima određena prava.",
+   "ru": "Государственный служащий имеет определенные права."
+  }
+ },
+ {
+  "id": "w3455",
+  "order": 3455,
+  "level": "B2",
+  "cyr": "сарадња",
+  "lat": "saradnja",
+  "tr": "сараднья",
+  "ru": "сотрудничество; совместная работа",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Добра сарадња кључна је за успех пројекта.",
+   "lat": "Dobra saradnja ključna je za uspeh projekta.",
+   "ru": "Хорошее сотрудничество является ключом к успеху проекта."
+  }
+ },
+ {
+  "id": "w3456",
+  "order": 3456,
+  "level": "B2",
+  "cyr": "илегалан",
+  "lat": "ilegalan",
+  "tr": "илегалан",
+  "ru": "незаконный; нелегальный",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Илегална радња је забрањена.",
+   "lat": "Ilegalna radnja je zabranjena.",
+   "ru": "Незаконная деятельность запрещена."
+  }
+ },
+ {
+  "id": "w3457",
+  "order": 3457,
+  "level": "B2",
+  "cyr": "сепаратизам",
+  "lat": "separatizam",
+  "tr": "сепаратизам",
+  "ru": "сепаратизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сепаратизам угрожава јединство земље.",
+   "lat": "Separatizam ugrožava jedinstvo zemlje.",
+   "ru": "Сепаратизм угрожает единство страны."
+  }
+ },
+ {
+  "id": "w3458",
+  "order": 3458,
+  "level": "B2",
+  "cyr": "кривични",
+  "lat": "krivični",
+  "tr": "кривични",
+  "ru": "уголовный",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Кривични законик прописује казне.",
+   "lat": "Krivični zakonik propisuje kazne.",
+   "ru": "Уголовный кодекс предписывает наказания."
+  }
+ },
+ {
+  "id": "w3459",
+  "order": 3459,
+  "level": "B2",
+  "cyr": "синдикат",
+  "lat": "sindikat",
+  "tr": "синдикат",
+  "ru": "профсоюз; объединение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Радници су основали синдикат за боље услове.",
+   "lat": "Radnici su osnovali sindikat za bolje uslove.",
+   "ru": "Рабочие основали профсоюз для лучших условий."
+  }
+ },
+ {
+  "id": "w3460",
+  "order": 3460,
+  "level": "B2",
+  "cyr": "легитиман",
+  "lat": "legitiman",
+  "tr": "легитиман",
+  "ru": "легитимный; законный",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Легитимна власт је изабрана на изборима.",
+   "lat": "Legitimna vlast je izabrana na izborima.",
+   "ru": "Легитимная власть избрана на выборах."
+  }
+ },
+ {
+  "id": "w3461",
+  "order": 3461,
+  "level": "B2",
+  "cyr": "сиромаштија",
+  "lat": "siromaštija",
+  "tr": "сиромаштија",
+  "ru": "бедность; нищета",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сиромаштија је велики друштвени проблем.",
+   "lat": "Siromaštija je veliki društveni problem.",
+   "ru": "Бедность — большая социальная проблема."
+  }
+ },
+ {
+  "id": "w3462",
+  "order": 3462,
+  "level": "B2",
+  "cyr": "надлежан",
+  "lat": "nadležan",
+  "tr": "надлежан",
+  "ru": "уполномоченный; компетентный; надлежащий",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Надлежан министар је одговорио на питање.",
+   "lat": "Nadležan ministar je odgovorio na pitanje.",
+   "ru": "Компетентный министр ответил на вопрос."
+  }
+ },
+ {
+  "id": "w3463",
+  "order": 3463,
+  "level": "B2",
+  "cyr": "солидарност",
+  "lat": "solidarnost",
+  "tr": "солидарност",
+  "ru": "солидарность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Радници су показали солидарност са штрајкачима.",
+   "lat": "Radnici su pokazali solidarnost sa štrajkačima.",
+   "ru": "Рабочие проявили солидарность с забастовщиками."
+  }
+ },
+ {
+  "id": "w3464",
+  "order": 3464,
+  "level": "B2",
+  "cyr": "парламентарни",
+  "lat": "parlamentarni",
+  "tr": "парламентарни",
+  "ru": "парламентский; связанный с парламентом",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Парламентарни избори одржавају се сваке четири године.",
+   "lat": "Parlamentarni izbori održavaju se svake četiri godine.",
+   "ru": "Парламентские выборы проводятся каждые четыре года."
+  }
+ },
+ {
+  "id": "w3465",
+  "order": 3465,
+  "level": "B2",
+  "cyr": "странка",
+  "lat": "stranka",
+  "tr": "странка",
+  "ru": "партия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Политичка странка је организована група грађана.",
+   "lat": "Politička stranka je organizovana grupa građana.",
+   "ru": "Политическая партия — это организованная группа граждан."
+  }
+ },
+ {
+  "id": "w3466",
+  "order": 3466,
+  "level": "B2",
+  "cyr": "правни",
+  "lat": "pravni",
+  "tr": "правни",
+  "ru": "правовой; юридический",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Правни саветник је прегледао уговор.",
+   "lat": "Pravni savetnik je pregledao ugovor.",
+   "ru": "Юридический консультант проверил договор."
+  }
+ },
+ {
+  "id": "w3467",
+  "order": 3467,
+  "level": "B2",
+  "cyr": "тоталитаризам",
+  "lat": "totalitarizam",
+  "tr": "тоталитаризам",
+  "ru": "тоталитаризм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тоталитаризам потискује све слободе грађана.",
+   "lat": "Totalitarizam potiskuje sve slobode građana.",
+   "ru": "Тоталитаризм подавляет все свободы граждан."
+  }
+ },
+ {
+  "id": "w3468",
+  "order": 3468,
+  "level": "B2",
+  "cyr": "председнички",
+  "lat": "predsednički",
+  "tr": "председнички",
+  "ru": "президентский; связанный с президентом",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Председнички избори су најважнији.",
+   "lat": "Predsednički izbori su najvažniji.",
+   "ru": "Президентские выборы самые важные."
+  }
+ },
+ {
+  "id": "w3469",
+  "order": 3469,
+  "level": "B2",
+  "cyr": "тужба",
+  "lat": "tužba",
+  "tr": "тужба",
+  "ru": "иск; судебный иск",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Поднео је тужбу против компаније.",
+   "lat": "Podneo je tužbu protiv kompanije.",
+   "ru": "Он подал иск против компании."
+  }
+ },
+ {
+  "id": "w3470",
+  "order": 3470,
+  "level": "B2",
+  "cyr": "суверен",
+  "lat": "suveren",
+  "tr": "суверен",
+  "ru": "суверенный; верховный",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Држава је суверена у својим одлукама.",
+   "lat": "Država je suverena u svojim odlukama.",
+   "ru": "Государство суверенно в своих решениях."
+  }
+ },
+ {
+  "id": "w3471",
+  "order": 3471,
+  "level": "B2",
+  "cyr": "тужилац",
+  "lat": "tužilac",
+  "tr": "тужилац",
+  "ru": "прокурор; обвинитель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тужилац је изнео доказе.",
+   "lat": "Tužilac je izneo dokaze.",
+   "ru": "Прокурор представил доказательства."
+  }
+ },
+ {
+  "id": "w3472",
+  "order": 3472,
+  "level": "B2",
+  "cyr": "судски",
+  "lat": "sudski",
+  "tr": "судски",
+  "ru": "судебный; судебный",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Судски поступак траје више месеци.",
+   "lat": "Sudski postupak traje više meseci.",
+   "ru": "Судебный процесс длится несколько месяцев."
+  }
+ },
+ {
+  "id": "w3473",
+  "order": 3473,
+  "level": "B2",
+  "cyr": "тужилаштво",
+  "lat": "tužilaštvo",
+  "tr": "тужилаштво",
+  "ru": "прокуратура; обвинение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Тужилаштво истражује случај.",
+   "lat": "Tužilaštvo istražuje slučaj.",
+   "ru": "Прокуратура расследует дело."
+  }
+ },
+ {
+  "id": "w3474",
+  "order": 3474,
+  "level": "B2",
+  "cyr": "уставни",
+  "lat": "ustavni",
+  "tr": "уставни",
+  "ru": "уставный; конституционный",
+  "pos": "adj",
+  "cat": "work",
+  "ex": {
+   "cyr": "Уставни суд је оценио закон.",
+   "lat": "Ustavni sud je ocenio zakon.",
+   "ru": "Конституционный суд оценил закон."
+  }
+ },
+ {
+  "id": "w3475",
+  "order": 3475,
+  "level": "B2",
+  "cyr": "удружење",
+  "lat": "udruženje",
+  "tr": "удруженье",
+  "ru": "объединение; ассоциация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ово удружење окупља писце из целе земље.",
+   "lat": "Ovo udruženje okuplja pisce iz cele zemlje.",
+   "ru": "Это объединение собирает писателей со всей страны."
+  }
+ },
+ {
+  "id": "w3476",
+  "order": 3476,
+  "level": "B2",
+  "cyr": "дневни ред",
+  "lat": "dnevni red",
+  "tr": "дневни ред",
+  "ru": "повестка дня",
+  "pos": "phrase",
+  "cat": "work",
+  "ex": {
+   "cyr": "Дневни ред састанка је већ одређен.",
+   "lat": "Dnevni red sastanka je već određen.",
+   "ru": "Повестка дня собрания уже определена."
+  }
+ },
+ {
+  "id": "w3477",
+  "order": 3477,
+  "level": "B2",
+  "cyr": "унија",
+  "lat": "unija",
+  "tr": "унија",
+  "ru": "союз; объединение; союз (полит.)",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Европска унија има двадесет седам чланица.",
+   "lat": "Evropska unija ima dvadeset sedam članica.",
+   "ru": "Европейский союз имеет двадцать семь членов."
+  }
+ },
+ {
+  "id": "w3478",
+  "order": 3478,
+  "level": "B2",
+  "cyr": "управа",
+  "lat": "uprava",
+  "tr": "управа",
+  "ru": "управление; администрация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Месна управа одржава састанак ове недеље.",
+   "lat": "Mesna uprava održava sastanak ove nedelje.",
+   "ru": "Местное управление проводит встречу на этой неделе."
+  }
+ },
+ {
+  "id": "w3479",
+  "order": 3479,
+  "level": "B2",
+  "cyr": "фашизам",
+  "lat": "fašizam",
+  "tr": "фашизам",
+  "ru": "фашизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Фашизам је ауторитарна политичка идеологија.",
+   "lat": "Fašizam je autoritarna politička ideologija.",
+   "ru": "Фашизм — это авторитарная политическая идеология."
+  }
+ },
+ {
+  "id": "w3480",
+  "order": 3480,
+  "level": "B2",
+  "cyr": "фонд",
+  "lat": "fond",
+  "tr": "фонд",
+  "ru": "фонд; капитал",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај фонд помаже сиромашним породицама.",
+   "lat": "Ovaj fond pomaže siromašnim porodicama.",
+   "ru": "Этот фонд помогает бедным семьям."
+  }
+ },
+ {
+  "id": "w3481",
+  "order": 3481,
+  "level": "B2",
+  "cyr": "функционер",
+  "lat": "funkcioner",
+  "tr": "функционер",
+  "ru": "функционер; деятель",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Партијски функционер је одржао важан говор.",
+   "lat": "Partijski funkcioner je održao važan govor.",
+   "ru": "Партийный функционер произнёс важную речь."
+  }
+ },
+ {
+  "id": "w3482",
+  "order": 3482,
+  "level": "B2",
+  "cyr": "чланство",
+  "lat": "članstvo",
+  "tr": "чланство",
+  "ru": "членство; состав",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Чланство у клубу захтева годишњу доплату.",
+   "lat": "Članstvo u klubu zahteva godišnju doplatu.",
+   "ru": "Членство в клубе требует ежегодный взнос."
+  }
+ },
+ {
+  "id": "w3483",
+  "order": 3483,
+  "level": "B2",
+  "cyr": "шовинизам",
+  "lat": "šovinizam",
+  "tr": "шовинизам",
+  "ru": "шовинизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Шовинизам је опасан за друштво.",
+   "lat": "Šovinizam je opasan za društvo.",
+   "ru": "Шовинизм опасен для общества."
+  }
+ },
+ {
+  "id": "w3484",
+  "order": 3484,
+  "level": "B2",
+  "cyr": "штрајк",
+  "lat": "štrajk",
+  "tr": "штрајк",
+  "ru": "забастовка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Радници су објавили штрајк због недовољне плате.",
+   "lat": "Radnici su objavili štrajk zbog nedovoljne plate.",
+   "ru": "Рабочие объявили забастовку из-за низкой зарплаты."
+  }
+ },
+ {
+  "id": "w3485",
+  "order": 3485,
+  "level": "B2",
+  "cyr": "једнакост",
+  "lat": "jednakost",
+  "tr": "једнакост",
+  "ru": "равенство; равенство (правовое)",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Право на једнакост је темељ правног друштва.",
+   "lat": "Pravo na jednakost je temelj pravnog društva.",
+   "ru": "Право на равенство — основа правового общества."
+  }
+ },
+ {
+  "id": "w3486",
+  "order": 3486,
+  "level": "B2",
+  "cyr": "аутономни",
+  "lat": "autonomni",
+  "tr": "аутономни",
+  "ru": "автономный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Аутономни регион има своју владу.",
+   "lat": "Autonomni region ima svoju vladu.",
+   "ru": "Автономный регион имеет свое правительство."
+  }
+ },
+ {
+  "id": "w3487",
+  "order": 3487,
+  "level": "B2",
+  "cyr": "бирократски",
+  "lat": "birokratski",
+  "tr": "бирократски",
+  "ru": "бюрократический; чиновничий",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Бирократски поступак траје дуже него што треба.",
+   "lat": "Birokratski postupak traje duže nego što treba.",
+   "ru": "Бюрократическая процедура длится дольше, чем следует."
+  }
+ },
+ {
+  "id": "w3488",
+  "order": 3488,
+  "level": "B2",
+  "cyr": "грађански",
+  "lat": "građanski",
+  "tr": "граджански",
+  "ru": "гражданский",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Грађански рат уништио је земљу.",
+   "lat": "Građanski rat uništio je zemlju.",
+   "ru": "Гражданская война разрушила страну."
+  }
+ },
+ {
+  "id": "w3489",
+  "order": 3489,
+  "level": "B2",
+  "cyr": "законодавни",
+  "lat": "zakonodavni",
+  "tr": "законодавни",
+  "ru": "законодательный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Законодавна власт је у рукама парламента.",
+   "lat": "Zakonodavna vlast je u rukama parlamenta.",
+   "ru": "Законодательная власть в руках парламента."
+  }
+ },
+ {
+  "id": "w3490",
+  "order": 3490,
+  "level": "B2",
+  "cyr": "званични",
+  "lat": "zvanični",
+  "tr": "званични",
+  "ru": "официальный; служебный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Званични представник владе одржао је конференцију.",
+   "lat": "Zvanični predstavnik vlade održao je konferenciju.",
+   "ru": "Официальный представитель правительства провел пресс-конференцию."
+  }
+ },
+ {
+  "id": "w3491",
+  "order": 3491,
+  "level": "B2",
+  "cyr": "изборни",
+  "lat": "izborni",
+  "tr": "изборни",
+  "ru": "избирательный; выборный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Изборни процес је био веома споран.",
+   "lat": "Izborni proces je bio veoma sporan.",
+   "ru": "Избирательный процесс был очень спорным."
+  }
+ },
+ {
+  "id": "w3492",
+  "order": 3492,
+  "level": "B2",
+  "cyr": "имовински",
+  "lat": "imovinski",
+  "tr": "имовински",
+  "ru": "имущественный; имущественно-правовой",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Имовински спор траје већ неколико месеци.",
+   "lat": "Imovinski spor traje već nekoliko meseci.",
+   "ru": "Имущественный спор длится уже несколько месяцев."
+  }
+ },
+ {
+  "id": "w3493",
+  "order": 3493,
+  "level": "B2",
+  "cyr": "коалициони",
+  "lat": "koalicioni",
+  "tr": "коалициони",
+  "ru": "коалиционный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Коалициони споразум потписан је у свечаној сали.",
+   "lat": "Koalicioni sporazum potpisan je u svečanoj sali.",
+   "ru": "Коалиционное соглашение подписано в торжественном зале."
+  }
+ },
+ {
+  "id": "w3494",
+  "order": 3494,
+  "level": "B2",
+  "cyr": "компетентан",
+  "lat": "kompetentan",
+  "tr": "компетентан",
+  "ru": "компетентный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Он је врло компетентан стручњак.",
+   "lat": "On je vrlo kompetentan stručnjak.",
+   "ru": "Он очень компетентный специалист."
+  }
+ },
+ {
+  "id": "w3495",
+  "order": 3495,
+  "level": "B2",
+  "cyr": "либералан",
+  "lat": "liberalan",
+  "tr": "либералан",
+  "ru": "либеральный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Она је позната по либералним ставовима.",
+   "lat": "Ona je poznata po liberalnim stavovima.",
+   "ru": "Она известна своими либеральными взглядами."
+  }
+ },
+ {
+  "id": "w3496",
+  "order": 3496,
+  "level": "B2",
+  "cyr": "мањински",
+  "lat": "manjinski",
+  "tr": "манински",
+  "ru": "меньшинственный; незначительный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Мањинска влада је нестабилна.",
+   "lat": "Manjinska vlada je nestabilna.",
+   "ru": "Министерство меньшинства нестабильно."
+  }
+ },
+ {
+  "id": "w3497",
+  "order": 3497,
+  "level": "B2",
+  "cyr": "национални",
+  "lat": "nacionalni",
+  "tr": "национални",
+  "ru": "национальный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Национални празник се слави са великим одушевљењем.",
+   "lat": "Nacionalni praznik se slavi sa velikim oduševljenjem.",
+   "ru": "Национальный праздник отмечается с большим энтузиазмом."
+  }
+ },
+ {
+  "id": "w3498",
+  "order": 3498,
+  "level": "B2",
+  "cyr": "опозициони",
+  "lat": "opozicioni",
+  "tr": "опозициони",
+  "ru": "оппозиционный; противодействующий",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Опозициони лидер критикује нови закон.",
+   "lat": "Opozicioni lider kritikuje novi zakon.",
+   "ru": "Лидер оппозиции критикует новый закон."
+  }
+ },
+ {
+  "id": "w3499",
+  "order": 3499,
+  "level": "B2",
+  "cyr": "правомоћан",
+  "lat": "pravomoćan",
+  "tr": "правомочан",
+  "ru": "уполномоченный; имеющий право",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Правомоћан орган донео је одлуку.",
+   "lat": "Pravomoćan organ doneo je odluku.",
+   "ru": "Уполномоченный орган принял решение."
+  }
+ },
+ {
+  "id": "w3500",
+  "order": 3500,
+  "level": "B2",
+  "cyr": "предизборни",
+  "lat": "predizborni",
+  "tr": "предизборни",
+  "ru": "предвыборный",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Предизборна кампања је почела у јануару.",
+   "lat": "Predizborna kampanja je počela u januaru.",
+   "ru": "Предвыборная кампания началась в январе."
+  }
+ },
+ {
+  "id": "w3501",
+  "order": 3501,
+  "level": "B2",
+  "cyr": "рањив",
+  "lat": "ranjiv",
+  "tr": "ранив",
+  "ru": "уязвимый; ранимый",
+  "pos": "adj",
+  "cat": "misc",
+  "ex": {
+   "cyr": "Старији људи су рањиви на ову болест.",
+   "lat": "Stariji ljudi su ranjivi na ovu bolest.",
+   "ru": "Пожилые люди уязвимы к этой болезни."
+  }
+ }
+]

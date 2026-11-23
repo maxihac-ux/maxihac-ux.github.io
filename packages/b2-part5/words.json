@@ -1,0 +1,4220 @@
+[
+ {
+  "id": "w4002",
+  "order": 4002,
+  "level": "B2",
+  "cyr": "алтруизам",
+  "lat": "altruizam",
+  "tr": "алтруизам",
+  "ru": "альтруизм",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Алтруизам је реткост данас.",
+   "lat": "Altruizam je retkost danas.",
+   "ru": "Альтруизм сегодня редкость."
+  }
+ },
+ {
+  "id": "w4003",
+  "order": 4003,
+  "level": "B2",
+  "cyr": "поносити се",
+  "lat": "ponositi se",
+  "tr": "поносити се",
+  "ru": "гордиться",
+  "pos": "verb",
+  "cat": "emotions",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Она се поноси својим успесима у кулинарству.",
+   "lat": "Ona se ponosi svojim uspesima u kulinarstvu.",
+   "ru": "Она гордится своими успехами в кулинарии."
+  }
+ },
+ {
+  "id": "w4004",
+  "order": 4004,
+  "level": "B2",
+  "cyr": "осуђивати",
+  "lat": "osuđivati",
+  "tr": "осудживати",
+  "ru": "осуждать; критиковать",
+  "pos": "verb",
+  "cat": "adjectives",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Народ често осуђује лоше поступке политичара.",
+   "lat": "Narod često osuđuje loše postupke političara.",
+   "ru": "Народ часто осуждает плохие поступки политиков."
+  }
+ },
+ {
+  "id": "w4005",
+  "order": 4005,
+  "level": "B2",
+  "cyr": "замислити",
+  "lat": "zamisliti",
+  "tr": "замислити",
+  "ru": "представить; вообразить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Он је замислио нови пројекат.",
+   "lat": "On je zamislio novi projekat.",
+   "ru": "Он представил новый проект."
+  }
+ },
+ {
+  "id": "w4006",
+  "order": 4006,
+  "level": "B2",
+  "cyr": "лењост",
+  "lat": "lenjost",
+  "tr": "леньост",
+  "ru": "леность; лень",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "f",
+  "ex": {
+   "cyr": "Лењост га је спречила да заврши посао.",
+   "lat": "Lenjost ga je sprečila da završi posao.",
+   "ru": "Лень помешала ему закончить работу."
+  }
+ },
+ {
+  "id": "w4007",
+  "order": 4007,
+  "level": "B2",
+  "cyr": "издржљивост",
+  "lat": "izdržljivost",
+  "tr": "издржливост",
+  "ru": "выносливость; терпение",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Издржљивост се гради дуготрајним вежбањем.",
+   "lat": "Izdržljivost se gradi dugotrajnim vežbanjem.",
+   "ru": "Выносливость развивается долгими тренировками."
+  }
+ },
+ {
+  "id": "w4008",
+  "order": 4008,
+  "level": "B2",
+  "cyr": "доследност",
+  "lat": "doslednost",
+  "tr": "доследност",
+  "ru": "последовательность; последовательность",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Доследност је кључна у научном раду.",
+   "lat": "Doslednost je ključna u naučnom radu.",
+   "ru": "Последовательность ключева в научной работе."
+  }
+ },
+ {
+  "id": "w4009",
+  "order": 4009,
+  "level": "B2",
+  "cyr": "шкртост",
+  "lat": "škrtost",
+  "tr": "шкртост",
+  "ru": "скупость; бережливость",
+  "pos": "noun",
+  "cat": "money",
+  "gender": "f",
+  "ex": {
+   "cyr": "Шкртост му онемогућава да ужива у животу.",
+   "lat": "Škrtost mu onemogućava da uživa u životu.",
+   "ru": "Его скупость мешает ему наслаждаться жизнью."
+  }
+ },
+ {
+  "id": "w4010",
+  "order": 4010,
+  "level": "B2",
+  "cyr": "онемоћ",
+  "lat": "onemoć",
+  "tr": "онемоч",
+  "ru": "немощь; бессилие",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "m",
+  "ex": {
+   "cyr": "Старац је осетио онемоћ.",
+   "lat": "Starac je osetio onemoć.",
+   "ru": "Старик почувствовал немощь."
+  }
+ },
+ {
+  "id": "w4011",
+  "order": 4011,
+  "level": "B2",
+  "cyr": "аргумент",
+  "lat": "argument",
+  "tr": "аргумент",
+  "ru": "аргумент; довод",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Његов последњи аргумент је био одлучујући.",
+   "lat": "Njegov poslednji argument je bio odlučujući.",
+   "ru": "Его последний аргумент был решающим."
+  }
+ },
+ {
+  "id": "w4012",
+  "order": 4012,
+  "level": "B2",
+  "cyr": "амбиција",
+  "lat": "ambicija",
+  "tr": "амбиција",
+  "ru": "амбиция; стремление",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Њена амбиција не познаје границе.",
+   "lat": "Njena ambicija ne poznaje granice.",
+   "ru": "Её амбиция не знает границ."
+  }
+ },
+ {
+  "id": "w4013",
+  "order": 4013,
+  "level": "B2",
+  "cyr": "благородан",
+  "lat": "blagorodan",
+  "tr": "благородан",
+  "ru": "благородный; великодушный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Било је то благородан чин.",
+   "lat": "Bilo je to blagorodan čin.",
+   "ru": "Это был благородный поступок."
+  }
+ },
+ {
+  "id": "w4014",
+  "order": 4014,
+  "level": "B2",
+  "cyr": "замишљати",
+  "lat": "zamišljati",
+  "tr": "замишляти",
+  "ru": "представлять себе; думать о чем-то",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Он често замишља о будућности.",
+   "lat": "On često zamišlja o budućnosti.",
+   "ru": "Он часто представляет себе будущее."
+  }
+ },
+ {
+  "id": "w4015",
+  "order": 4015,
+  "level": "B2",
+  "cyr": "посредовање",
+  "lat": "posredovanje",
+  "tr": "посредованье",
+  "ru": "посредничество; посредничество",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "n",
+  "ex": {
+   "cyr": "Посредовање је решило спор.",
+   "lat": "Posredovanje je rešilo spor.",
+   "ru": "Посредничество разрешило спор."
+  }
+ },
+ {
+  "id": "w4016",
+  "order": 4016,
+  "level": "B2",
+  "cyr": "памет",
+  "lat": "pamet",
+  "tr": "памет",
+  "ru": "ум; сообразительность",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Памет је највећа људска добра.",
+   "lat": "Pamet je najveća ljudska dobra.",
+   "ru": "Ум — величайшее человеческое достояние."
+  }
+ },
+ {
+  "id": "w4017",
+  "order": 4017,
+  "level": "B2",
+  "cyr": "наређење",
+  "lat": "naređenje",
+  "tr": "наредженье",
+  "ru": "приказ; распоряжение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "n",
+  "ex": {
+   "cyr": "Капетан је издао наређење за полазак.",
+   "lat": "Kapetan je izdao naređenje za polazak.",
+   "ru": "Капитан отдал приказ о выходе в море."
+  }
+ },
+ {
+  "id": "w4018",
+  "order": 4018,
+  "level": "B2",
+  "cyr": "аргументација",
+  "lat": "argumentacija",
+  "tr": "аргументација",
+  "ru": "аргументация; обоснование",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова аргументација је била снажна.",
+   "lat": "Njegova argumentacija je bila snažna.",
+   "ru": "Его аргументация была сильной."
+  }
+ },
+ {
+  "id": "w4019",
+  "order": 4019,
+  "level": "B2",
+  "cyr": "антипатија",
+  "lat": "antipatija",
+  "tr": "антипатија",
+  "ru": "антипатия",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Антипатија према лажи је природна.",
+   "lat": "Antipatija prema laži je prirodna.",
+   "ru": "Антипатия к лжи естественна."
+  }
+ },
+ {
+  "id": "w4020",
+  "order": 4020,
+  "level": "B2",
+  "cyr": "вечан",
+  "lat": "večan",
+  "tr": "вечан",
+  "ru": "вечный; бесконечный; вечный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Вечна љубав је сан многих људи.",
+   "lat": "Večna ljubav je san mnogih ljudi.",
+   "ru": "Вечная любовь — это мечта многих людей."
+  }
+ },
+ {
+  "id": "w4021",
+  "order": 4021,
+  "level": "B2",
+  "cyr": "занети се",
+  "lat": "zaneti se",
+  "tr": "занети се",
+  "ru": "заинтересоваться; увлечься",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Деца су се заузела за нови пројекат.",
+   "lat": "Deca su se zauzela za novi projekat.",
+   "ru": "Дети увлеклись новым проектом."
+  }
+ },
+ {
+  "id": "w4022",
+  "order": 4022,
+  "level": "B2",
+  "cyr": "темперамент",
+  "lat": "temperament",
+  "tr": "темперамент",
+  "ru": "темперамент; характер",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Живахан темперамент често привлачи пажњу.",
+   "lat": "Živahan temperament često privlači pažnju.",
+   "ru": "Живой темперамент часто привлекает внимание."
+  }
+ },
+ {
+  "id": "w4023",
+  "order": 4023,
+  "level": "B2",
+  "cyr": "памћење",
+  "lat": "pamćenje",
+  "tr": "памченье",
+  "ru": "память (способность)",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "n",
+  "ex": {
+   "cyr": "Његово памћење је одлично.",
+   "lat": "Njegovo pamćenje je odlično.",
+   "ru": "Его память отличная."
+  }
+ },
+ {
+  "id": "w4024",
+  "order": 4024,
+  "level": "B2",
+  "cyr": "примедба",
+  "lat": "primedba",
+  "tr": "примедба",
+  "ru": "замечание; возражение",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Одборник је упутио озбиљну примедбу на предлог.",
+   "lat": "Odbornik je uputio ozbiljnu primedbu na predlog.",
+   "ru": "Член комиссии высказал серьезное замечание по предложению."
+  }
+ },
+ {
+  "id": "w4025",
+  "order": 4025,
+  "level": "B2",
+  "cyr": "ароганција",
+  "lat": "arogancija",
+  "tr": "ароганција",
+  "ru": "высокомерие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ароганција отуђује пријатеље.",
+   "lat": "Arogancija otuđuje prijatelje.",
+   "ru": "Высокомерие отталкивает друзей."
+  }
+ },
+ {
+  "id": "w4026",
+  "order": 4026,
+  "level": "B2",
+  "cyr": "апатија",
+  "lat": "apatija",
+  "tr": "апатија",
+  "ru": "апатия",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Апатија је одбрана од стреса.",
+   "lat": "Apatija je odbrana od stresa.",
+   "ru": "Апатия — защита от стресса."
+  }
+ },
+ {
+  "id": "w4027",
+  "order": 4027,
+  "level": "B2",
+  "cyr": "говорљив",
+  "lat": "govorljiv",
+  "tr": "говорлив",
+  "ru": "разговорчивый; болтливый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Говорљиви дечак причајући са пријатељима.",
+   "lat": "Govorljivi dečak pričajući sa prijateljima.",
+   "ru": "Разговорчивый мальчик, разговаривая с друзьями."
+  }
+ },
+ {
+  "id": "w4028",
+  "order": 4028,
+  "level": "B2",
+  "cyr": "згрешити",
+  "lat": "zgrešiti",
+  "tr": "згрешити",
+  "ru": "сгрешить; ошибиться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тај гласник је згрешио у извештају.",
+   "lat": "Taj glasnik je zgrešio u izveštaju.",
+   "ru": "Той гонец сгрешил в отчёте."
+  }
+ },
+ {
+  "id": "w4029",
+  "order": 4029,
+  "level": "B2",
+  "cyr": "харизма",
+  "lat": "harizma",
+  "tr": "харизма",
+  "ru": "харизма",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "f",
+  "ex": {
+   "cyr": "Вођа треба да има харизму.",
+   "lat": "Vođa treba da ima harizmu.",
+   "ru": "Лидер должен иметь харизму."
+  }
+ },
+ {
+  "id": "w4030",
+  "order": 4030,
+  "level": "B2",
+  "cyr": "подсвест",
+  "lat": "podsvest",
+  "tr": "подсвест",
+  "ru": "бессознательное; подсознание",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова подсвест га је упозорила на опасност.",
+   "lat": "Njegova podsvest ga je upozorila na opasnost.",
+   "ru": "Его подсознание предупредило его об опасности."
+  }
+ },
+ {
+  "id": "w4031",
+  "order": 4031,
+  "level": "B2",
+  "cyr": "савесност",
+  "lat": "savesnost",
+  "tr": "савесност",
+  "ru": "добросовестность; ответственность",
+  "pos": "noun",
+  "cat": "work",
+  "gender": "f",
+  "ex": {
+   "cyr": "Савесност је кључна за успех у бизнису.",
+   "lat": "Savesnost je ključna za uspeh u biznisu.",
+   "ru": "Добросовестность ключева для успеха в бизнесе."
+  }
+ },
+ {
+  "id": "w4032",
+  "order": 4032,
+  "level": "B2",
+  "cyr": "аспект",
+  "lat": "aspekt",
+  "tr": "аспект",
+  "ru": "аспект; сторона",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Радимо на свим аспектима пројекта.",
+   "lat": "Radimo na svim aspektima projekta.",
+   "ru": "Работаем над всеми аспектами проекта."
+  }
+ },
+ {
+  "id": "w4033",
+  "order": 4033,
+  "level": "B2",
+  "cyr": "благост",
+  "lat": "blagost",
+  "tr": "благост",
+  "ru": "милость; доброта; мягкость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Благост је била у њеном поступању.",
+   "lat": "Blagost je bila u njenom postupanju.",
+   "ru": "Милость была в ее поведении."
+  }
+ },
+ {
+  "id": "w4034",
+  "order": 4034,
+  "level": "B2",
+  "cyr": "дарежљив",
+  "lat": "darežljiv",
+  "tr": "дарежлив",
+  "ru": "щедрый; liberal",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Дарежљив човек често помаже другима.",
+   "lat": "Darežljiv čovek često pomaže drugima.",
+   "ru": "Щедрый человек часто помогает другим."
+  }
+ },
+ {
+  "id": "w4035",
+  "order": 4035,
+  "level": "B2",
+  "cyr": "изнервирати",
+  "lat": "iznervirati",
+  "tr": "изнервирати",
+  "ru": "раздражить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тај гласник је изнервирао читаву екипу.",
+   "lat": "Taj glasnik je iznervirao čitavu ekipu.",
+   "ru": "Той гонец раздражил всю команду."
+  }
+ },
+ {
+  "id": "w4036",
+  "order": 4036,
+  "level": "B2",
+  "cyr": "човечност",
+  "lat": "čovečnost",
+  "tr": "човечност",
+  "ru": "человечность; гуманность",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "f",
+  "ex": {
+   "cyr": "У том тренутку показао је истинску човечност.",
+   "lat": "U tom trenutku pokazao je istinsku čovečnost.",
+   "ru": "В тот момент он проявил подлинную человечность."
+  }
+ },
+ {
+  "id": "w4037",
+  "order": 4037,
+  "level": "B2",
+  "cyr": "свест",
+  "lat": "svest",
+  "tr": "свест",
+  "ru": "сознание; разум",
+  "pos": "noun",
+  "cat": "body",
+  "gender": "f",
+  "ex": {
+   "cyr": "Након несреће, враћао се свести полако.",
+   "lat": "Nakon nesreće, vraćao se svesti polako.",
+   "ru": "После аварии он приходил в сознание медленно."
+  }
+ },
+ {
+  "id": "w4038",
+  "order": 4038,
+  "level": "B2",
+  "cyr": "безобзирност",
+  "lat": "bezobzirnost",
+  "tr": "безобзирност",
+  "ru": "безобидность; беспринципность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова безобзирност је шокантна.",
+   "lat": "Njegova bezobzirnost je šokantna.",
+   "ru": "Его безобидность шокирующая."
+  }
+ },
+ {
+  "id": "w4039",
+  "order": 4039,
+  "level": "B2",
+  "cyr": "вероломство",
+  "lat": "verolomstvo",
+  "tr": "вероломство",
+  "ru": "предательство; коварство",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Вероломство бившег пријатеља га је дубоко ранило.",
+   "lat": "Verolomstvo bivšeg prijatelja ga je duboko ranilo.",
+   "ru": "Предательство бывшего друга его глубоко ранило."
+  }
+ },
+ {
+  "id": "w4040",
+  "order": 4040,
+  "level": "B2",
+  "cyr": "доследан",
+  "lat": "dosledan",
+  "tr": "доследан",
+  "ru": "последовательный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Он је доследан у раду.",
+   "lat": "On je dosledan u radu.",
+   "ru": "Он последователен в работе."
+  }
+ },
+ {
+  "id": "w4041",
+  "order": 4041,
+  "level": "B2",
+  "cyr": "исповедити се",
+  "lat": "ispovediti se",
+  "tr": "исповедити се",
+  "ru": "исповедаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тај гласник се је исповедио свештенику.",
+   "lat": "Taj glasnik se je ispovedio svešteniku.",
+   "ru": "Той гонец исповедался священнику."
+  }
+ },
+ {
+  "id": "w4042",
+  "order": 4042,
+  "level": "B2",
+  "cyr": "шарм",
+  "lat": "šarm",
+  "tr": "шарм",
+  "ru": "шарм",
+  "pos": "noun",
+  "cat": "people",
+  "gender": "m",
+  "ex": {
+   "cyr": "Шарм је убедио публику.",
+   "lat": "Šarm je ubedio publiku.",
+   "ru": "Шарм убедил публику."
+  }
+ },
+ {
+  "id": "w4043",
+  "order": 4043,
+  "level": "B2",
+  "cyr": "беседа",
+  "lat": "beseda",
+  "tr": "беседа",
+  "ru": "разговор; беседа",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Одржана је дуга беседа.",
+   "lat": "Održana je duga beseda.",
+   "ru": "Была проведена долгая беседа."
+  }
+ },
+ {
+  "id": "w4044",
+  "order": 4044,
+  "level": "B2",
+  "cyr": "гнев",
+  "lat": "gnev",
+  "tr": "гнев",
+  "ru": "гнев",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Гнев је лоши саветник.",
+   "lat": "Gnev je loši savetnik.",
+   "ru": "Гнев — плохой советчик."
+  }
+ },
+ {
+  "id": "w4045",
+  "order": 4045,
+  "level": "B2",
+  "cyr": "категоричан",
+  "lat": "kategoričan",
+  "tr": "категоричан",
+  "ru": "категоричный; решительный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Категоричан шеф не прихвата одлагање.",
+   "lat": "Kategoričan šef ne prihvata odlaganje.",
+   "ru": "Категоричный начальник не принимает отсрочку."
+  }
+ },
+ {
+  "id": "w4046",
+  "order": 4046,
+  "level": "B2",
+  "cyr": "наступити",
+  "lat": "nastupiti",
+  "tr": "наступити",
+  "ru": "наступить; начаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Пролеће ће убрзо наступити.",
+   "lat": "Proleće će ubrzo nastupiti.",
+   "ru": "Весна скоро наступит."
+  }
+ },
+ {
+  "id": "w4047",
+  "order": 4047,
+  "level": "B2",
+  "cyr": "бесмисао",
+  "lat": "besmisao",
+  "tr": "бесмисао",
+  "ru": "бессмыслица; бессмыслие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Његов одговор је чист бесмисао.",
+   "lat": "Njegov odgovor je čist besmisao.",
+   "ru": "Его ответ — чистая бессмыслица."
+  }
+ },
+ {
+  "id": "w4048",
+  "order": 4048,
+  "level": "B2",
+  "cyr": "гордост",
+  "lat": "gordost",
+  "tr": "гордост",
+  "ru": "гордость; высокомерие",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Гордост може да буде његов највећи непријатељ.",
+   "lat": "Gordost može da bude njegov najveći neprijatelj.",
+   "ru": "Гордость может стать его главным врагом."
+  }
+ },
+ {
+  "id": "w4049",
+  "order": 4049,
+  "level": "B2",
+  "cyr": "кобан",
+  "lat": "koban",
+  "tr": "кобан",
+  "ru": "роковой; губительный; фатальный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Кобан дан је обележио крај његове каријере.",
+   "lat": "Koban dan je obeležio kraj njegove karijere.",
+   "ru": "Роковой день ознаменовал конец его карьеры."
+  }
+ },
+ {
+  "id": "w4050",
+  "order": 4050,
+  "level": "B2",
+  "cyr": "негирати",
+  "lat": "negirati",
+  "tr": "негирати",
+  "ru": "отрицать; отрицать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Он негира своје учешће у акцији.",
+   "lat": "On negira svoje učešće u akciji.",
+   "ru": "Он отрицает своё участие в акции."
+  }
+ },
+ {
+  "id": "w4051",
+  "order": 4051,
+  "level": "B2",
+  "cyr": "блискост",
+  "lat": "bliskost",
+  "tr": "блискост",
+  "ru": "близость; родство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Блискост са пријатељима ми је веома важна.",
+   "lat": "Bliskost sa prijateljima mi je veoma važna.",
+   "ru": "Близость с друзьями для меня очень важна."
+  }
+ },
+ {
+  "id": "w4052",
+  "order": 4052,
+  "level": "B2",
+  "cyr": "грубост",
+  "lat": "grubost",
+  "tr": "грубост",
+  "ru": "грубость; грубость поведения",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова грубост је одбила све његове пријатеље.",
+   "lat": "Njegova grubost je odbila sve njegove prijatelje.",
+   "ru": "Его грубость оттолкнула всех его друзей."
+  }
+ },
+ {
+  "id": "w4053",
+  "order": 4053,
+  "level": "B2",
+  "cyr": "краткотрајан",
+  "lat": "kratkotrajan",
+  "tr": "краткотрајан",
+  "ru": "кратковременный; недолговечный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Његов ентузијазам је краткотрајан.",
+   "lat": "Njegov entuzijazam je kratkotrajan.",
+   "ru": "Его энтузиазм недолговечен."
+  }
+ },
+ {
+  "id": "w4054",
+  "order": 4054,
+  "level": "B2",
+  "cyr": "обухватити",
+  "lat": "obuhvatiti",
+  "tr": "обухватити",
+  "ru": "охватить; включать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Пројекат обухвати све градове у земљи.",
+   "lat": "Projekat obuhvati sve gradove u zemlji.",
+   "ru": "Проект охватит все города в стране."
+  }
+ },
+ {
+  "id": "w4055",
+  "order": 4055,
+  "level": "B2",
+  "cyr": "ведрина",
+  "lat": "vedrina",
+  "tr": "ведрина",
+  "ru": "ясность; бодрость духа",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ведрина на њеном лицу је завидна.",
+   "lat": "Vedrina na njenom licu je zavidna.",
+   "ru": "Ясность на её лице завидная."
+  }
+ },
+ {
+  "id": "w4056",
+  "order": 4056,
+  "level": "B2",
+  "cyr": "дивљење",
+  "lat": "divljenje",
+  "tr": "дивленье",
+  "ru": "удивление; восхищение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Дивљење је видљиво на њеном лицу.",
+   "lat": "Divljenje je vidljivo na njenom licu.",
+   "ru": "Удивление видно на её лице."
+  }
+ },
+ {
+  "id": "w4057",
+  "order": 4057,
+  "level": "B2",
+  "cyr": "ласкав",
+  "lat": "laskav",
+  "tr": "ласкав",
+  "ru": "ласковый; добрый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Ласкави деда причају бајке ујутру.",
+   "lat": "Laskavi deda pričaju bajke ujutru.",
+   "ru": "Ласковый дедушки рассказывает сказки утром."
+  }
+ },
+ {
+  "id": "w4058",
+  "order": 4058,
+  "level": "B2",
+  "cyr": "омразити",
+  "lat": "omraziti",
+  "tr": "омразити",
+  "ru": "возненавидеть",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тај гласник је брзо омразио све.",
+   "lat": "Taj glasnik je brzo omrazio sve.",
+   "ru": "Той гонец быстро возненавидел всех."
+  }
+ },
+ {
+  "id": "w4059",
+  "order": 4059,
+  "level": "B2",
+  "cyr": "великодушност",
+  "lat": "velikodušnost",
+  "tr": "великодушност",
+  "ru": "великодушие; щедрость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Великодушност тог човека импресионирала је све.",
+   "lat": "Velikodušnost tog čoveka impresionirala je sve.",
+   "ru": "Великодушие того человека впечатлило всех."
+  }
+ },
+ {
+  "id": "w4060",
+  "order": 4060,
+  "level": "B2",
+  "cyr": "добрина",
+  "lat": "dobrina",
+  "tr": "добрина",
+  "ru": "доброта; добрая воля",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Српска добрина увек је запањујућа.",
+   "lat": "Srpska dobrina uvek je zapanjujuća.",
+   "ru": "Сербская доброта всегда удивляет."
+  }
+ },
+ {
+  "id": "w4061",
+  "order": 4061,
+  "level": "B2",
+  "cyr": "логичан",
+  "lat": "logičan",
+  "tr": "логичан",
+  "ru": "логичный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Његово објашњење је потпуно логично.",
+   "lat": "Njegovo objašnjenje je potpuno logično.",
+   "ru": "Его объяснение совершенно логично."
+  }
+ },
+ {
+  "id": "w4062",
+  "order": 4062,
+  "level": "B2",
+  "cyr": "оправдати",
+  "lat": "opravdati",
+  "tr": "оправдати",
+  "ru": "оправдать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тај гласник је оправдао своје поступке.",
+   "lat": "Taj glasnik je opravdao svoje postupke.",
+   "ru": "Той гонец оправдал свои поступки."
+  }
+ },
+ {
+  "id": "w4063",
+  "order": 4063,
+  "level": "B2",
+  "cyr": "вечност",
+  "lat": "večnost",
+  "tr": "вечност",
+  "ru": "вечность; бесконечность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Вечност је тешко схватити.",
+   "lat": "Večnost je teško shvatiti.",
+   "ru": "Вечность трудно понять."
+  }
+ },
+ {
+  "id": "w4064",
+  "order": 4064,
+  "level": "B2",
+  "cyr": "досада",
+  "lat": "dosada",
+  "tr": "досада",
+  "ru": "скука; скука",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Досада га је натерала да оде кући.",
+   "lat": "Dosada ga je naterala da ode kući.",
+   "ru": "Скука заставила его пойти домой."
+  }
+ },
+ {
+  "id": "w4065",
+  "order": 4065,
+  "level": "B2",
+  "cyr": "лукав",
+  "lat": "lukav",
+  "tr": "лукав",
+  "ru": "хитрый; коварный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Лукав лисица проналази пут из јаме.",
+   "lat": "Lukav lisica pronalazi put iz jame.",
+   "ru": "Хитрая лиса находит выход из ямы."
+  }
+ },
+ {
+  "id": "w4066",
+  "order": 4066,
+  "level": "B2",
+  "cyr": "ослонити се",
+  "lat": "osloniti se",
+  "tr": "ослонити се",
+  "ru": "опереться; опереться на что-л.",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Старији човек се ослања на штап.",
+   "lat": "Stariji čovek se oslanja na štap.",
+   "ru": "Старик опирается на трость."
+  }
+ },
+ {
+  "id": "w4067",
+  "order": 4067,
+  "level": "B2",
+  "cyr": "врлина",
+  "lat": "vrlina",
+  "tr": "врлина",
+  "ru": "добродетель; добродетельность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стрпљивост је велика врлина.",
+   "lat": "Strpljivost je velika vrlina.",
+   "ru": "Терпение — великая добродетель."
+  }
+ },
+ {
+  "id": "w4068",
+  "order": 4068,
+  "level": "B2",
+  "cyr": "емотивност",
+  "lat": "emotivnost",
+  "tr": "емотивност",
+  "ru": "эмоциональность; чувствительность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Емотивност у њеним писмима је изражена.",
+   "lat": "Emotivnost u njenim pismima je izražena.",
+   "ru": "Эмоциональность в её письмах выражена."
+  }
+ },
+ {
+  "id": "w4069",
+  "order": 4069,
+  "level": "B2",
+  "cyr": "милостив",
+  "lat": "milostiv",
+  "tr": "милостив",
+  "ru": "милостивый; снисходительный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Милостив судија смањује казну.",
+   "lat": "Milostiv sudija smanjuje kaznu.",
+   "ru": "Милостивый судья снижает наказание."
+  }
+ },
+ {
+  "id": "w4070",
+  "order": 4070,
+  "level": "B2",
+  "cyr": "отуђити се",
+  "lat": "otuđiti se",
+  "tr": "отуджити се",
+  "ru": "отдалечиться; отстраниться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Он се је одвојио од старих пријатеља.",
+   "lat": "On se je odvojio od starih prijatelja.",
+   "ru": "Он отдалился от старых друзей."
+  }
+ },
+ {
+  "id": "w4071",
+  "order": 4071,
+  "level": "B2",
+  "cyr": "гледиште",
+  "lat": "gledište",
+  "tr": "гледиште",
+  "ru": "точка зрения; взгляд",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Моје гледиште је другачије од његовог.",
+   "lat": "Moje gledište je drugačije od njegovog.",
+   "ru": "Моя точка зрения отличается от его."
+  }
+ },
+ {
+  "id": "w4072",
+  "order": 4072,
+  "level": "B2",
+  "cyr": "емпатија",
+  "lat": "empatija",
+  "tr": "емпатија",
+  "ru": "эмпатия; сопереживание",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Емпатија је кључна за добре односе.",
+   "lat": "Empatija je ključna za dobre odnose.",
+   "ru": "Эмпатия — ключ к хорошим отношениям."
+  }
+ },
+ {
+  "id": "w4073",
+  "order": 4073,
+  "level": "B2",
+  "cyr": "наиван",
+  "lat": "naivan",
+  "tr": "наиван",
+  "ru": "наивный; простодушный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Дете је било превише наивно.",
+   "lat": "Dete je bilo previše naivno.",
+   "ru": "Ребенок был слишком наивным."
+  }
+ },
+ {
+  "id": "w4074",
+  "order": 4074,
+  "level": "B2",
+  "cyr": "порицати",
+  "lat": "poricati",
+  "tr": "порицати",
+  "ru": "порицать; осуждать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Порицам његово понашање пред свима.",
+   "lat": "Poricam njegovo ponašanje pred svima.",
+   "ru": "Я порицаю его поведение перед всеми."
+  }
+ },
+ {
+  "id": "w4075",
+  "order": 4075,
+  "level": "B2",
+  "cyr": "говор",
+  "lat": "govor",
+  "tr": "говор",
+  "ru": "речь; говор; разговор",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Његов говор је врло јасан.",
+   "lat": "Njegov govor je vrlo jasan.",
+   "ru": "Его речь очень ясна."
+  }
+ },
+ {
+  "id": "w4076",
+  "order": 4076,
+  "level": "B2",
+  "cyr": "задовољство",
+  "lat": "zadovoljstvo",
+  "tr": "задовольство",
+  "ru": "удовлетворение; удовольствие",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Нови посао доноси велико задовољство.",
+   "lat": "Novi posao donosi veliko zadovoljstvo.",
+   "ru": "Новая работа приносит большое удовлетворение."
+  }
+ },
+ {
+  "id": "w4077",
+  "order": 4077,
+  "level": "B2",
+  "cyr": "неизбежан",
+  "lat": "neizbežan",
+  "tr": "неизбежан",
+  "ru": "неизбежный; неминуемый; необходимый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Неизбежан резултат је његов рад.",
+   "lat": "Neizbežan rezultat je njegov rad.",
+   "ru": "Неизбежный результат — это его работа."
+  }
+ },
+ {
+  "id": "w4078",
+  "order": 4078,
+  "level": "B2",
+  "cyr": "поступати",
+  "lat": "postupati",
+  "tr": "поступати",
+  "ru": "поступать; обращаться",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Тај гласник је поступао веома пажљиво.",
+   "lat": "Taj glasnik je postupao veoma pažljivo.",
+   "ru": "Той гонец поступал очень осторожно."
+  }
+ },
+ {
+  "id": "w4079",
+  "order": 4079,
+  "level": "B2",
+  "cyr": "гостопримство",
+  "lat": "gostoprimstvo",
+  "tr": "гостопримство",
+  "ru": "гостеприимство; радушие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Гостопримство је традиција у њиховој породици.",
+   "lat": "Gostoprimstvo je tradicija u njihovoj porodici.",
+   "ru": "Гостеприимство — традиция в их семье."
+  }
+ },
+ {
+  "id": "w4080",
+  "order": 4080,
+  "level": "B2",
+  "cyr": "замишљање",
+  "lat": "zamišljanje",
+  "tr": "замишлянье",
+  "ru": "представление; размышление; мечтание",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "У тишини је његово замишљање било дубоко.",
+   "lat": "U tišini je njegovo zamišljanje bilo duboko.",
+   "ru": "В тишине его размышление было глубоким."
+  }
+ },
+ {
+  "id": "w4081",
+  "order": 4081,
+  "level": "B2",
+  "cyr": "неискрен",
+  "lat": "neiskren",
+  "tr": "неискрен",
+  "ru": "неискренний; фальшивый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Неискрен пријатељ увек говори нешто лажно.",
+   "lat": "Neiskren prijatelj uvek govori nešto lažno.",
+   "ru": "Неискренный друг всегда говорит что-то ложное."
+  }
+ },
+ {
+  "id": "w4082",
+  "order": 4082,
+  "level": "B2",
+  "cyr": "предодредити",
+  "lat": "predodrediti",
+  "tr": "предодредити",
+  "ru": "предопределить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Судбина га је предодредила за тај посао.",
+   "lat": "Sudbina ga je predodredila za taj posao.",
+   "ru": "Судьба предопределила его для этой работы."
+  }
+ },
+ {
+  "id": "w4083",
+  "order": 4083,
+  "level": "B2",
+  "cyr": "грех",
+  "lat": "greh",
+  "tr": "грех",
+  "ru": "грех; греховный поступок",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тај поступак сматрам за грех.",
+   "lat": "Taj postupak smatram za greh.",
+   "ru": "Я считаю этот поступок грехом."
+  }
+ },
+ {
+  "id": "w4084",
+  "order": 4084,
+  "level": "B2",
+  "cyr": "занос",
+  "lat": "zanos",
+  "tr": "занос",
+  "ru": "восторг; воодушевление",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Победа је изазвала велики занос међу навијачима.",
+   "lat": "Pobeda je izazvala veliki zanos među navijačima.",
+   "ru": "Победа вызвала большой восторг среди болельщиков."
+  }
+ },
+ {
+  "id": "w4085",
+  "order": 4085,
+  "level": "B2",
+  "cyr": "неодлучан",
+  "lat": "neodlučan",
+  "tr": "неодлучан",
+  "ru": "нерешительный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Он је неодлучан у избору.",
+   "lat": "On je neodlučan u izboru.",
+   "ru": "Он нерешителен в выборе."
+  }
+ },
+ {
+  "id": "w4086",
+  "order": 4086,
+  "level": "B2",
+  "cyr": "разликовати",
+  "lat": "razlikovati",
+  "tr": "разликовати",
+  "ru": "различать; отличать",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "ipf",
+  "ex": {
+   "cyr": "Тој разликује добре и лоше људе.",
+   "lat": "Toj razlikuje dobre i loše ljude.",
+   "ru": "Он различает хороших и плохих людей."
+  }
+ },
+ {
+  "id": "w4087",
+  "order": 4087,
+  "level": "B2",
+  "cyr": "данашњица",
+  "lat": "današnjica",
+  "tr": "данашница",
+  "ru": "современность; нынешние дни",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Данашњица захтева брзе одлуке.",
+   "lat": "Današnjica zahteva brze odluke.",
+   "ru": "Современность требует быстрых решений."
+  }
+ },
+ {
+  "id": "w4088",
+  "order": 4088,
+  "level": "B2",
+  "cyr": "зебња",
+  "lat": "zebnja",
+  "tr": "зебнья",
+  "ru": "тревога; беспокойство",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Зебња је све више расла у њој.",
+   "lat": "Zebnja je sve više rasla u njoj.",
+   "ru": "Тревога все росла в ней."
+  }
+ },
+ {
+  "id": "w4089",
+  "order": 4089,
+  "level": "B2",
+  "cyr": "непостојан",
+  "lat": "nepostojan",
+  "tr": "непостојан",
+  "ru": "непостоянный; изменчивый; неустойчивый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Време је непостојано и променљиво.",
+   "lat": "Vreme je nepostojano i promenljivo.",
+   "ru": "Погода непостоянна и изменчива."
+  }
+ },
+ {
+  "id": "w4090",
+  "order": 4090,
+  "level": "B2",
+  "cyr": "уочити",
+  "lat": "uočiti",
+  "tr": "уочити",
+  "ru": "заметить; обнаружить",
+  "pos": "verb",
+  "cat": "verbs",
+  "aspect": "pf",
+  "ex": {
+   "cyr": "Тренер је уочио грешку у техници.",
+   "lat": "Trener je uočio grešku u tehnici.",
+   "ru": "Тренер заметил ошибку в технике."
+  }
+ },
+ {
+  "id": "w4091",
+  "order": 4091,
+  "level": "B2",
+  "cyr": "дарежљивост",
+  "lat": "darežljivost",
+  "tr": "дарежливост",
+  "ru": "щедрость; щедрость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дарежљивост богаташиње била је легендарна.",
+   "lat": "Darežljivost bogatašinje bila je legendarna.",
+   "ru": "Щедрость богачки была легендарной."
+  }
+ },
+ {
+  "id": "w4092",
+  "order": 4092,
+  "level": "B2",
+  "cyr": "злоба",
+  "lat": "zloba",
+  "tr": "злоба",
+  "ru": "злоба; злоба; зависть",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Злоба у њеним очима била је очигледна.",
+   "lat": "Zloba u njenim očima bila je očigledna.",
+   "ru": "Злоба в её глазах была очевидна."
+  }
+ },
+ {
+  "id": "w4093",
+  "order": 4093,
+  "level": "B2",
+  "cyr": "неук",
+  "lat": "neuk",
+  "tr": "неук",
+  "ru": "неграмотный; невежественный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Стари неук не зна да чита књиге.",
+   "lat": "Stari neuk ne zna da čita knjige.",
+   "ru": "Старый неграмотный не умеет читать книги."
+  }
+ },
+ {
+  "id": "w4094",
+  "order": 4094,
+  "level": "B2",
+  "cyr": "дешавање",
+  "lat": "dešavanje",
+  "tr": "дешаванье",
+  "ru": "событие; происшествие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Дешавање у парку привукло је пажњу пролазника.",
+   "lat": "Dešavanje u parku privuklo je pažnju prolaznika.",
+   "ru": "Происшествие в公园у привлекло внимание прохожих."
+  }
+ },
+ {
+  "id": "w4095",
+  "order": 4095,
+  "level": "B2",
+  "cyr": "злоћа",
+  "lat": "zloća",
+  "tr": "злоча",
+  "ru": "злость; злоба",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Злоћа је видна у њеном изразу лица.",
+   "lat": "Zloća je vidna u njenom izrazu lica.",
+   "ru": "Злость видна на её лице."
+  }
+ },
+ {
+  "id": "w4096",
+  "order": 4096,
+  "level": "B2",
+  "cyr": "површан",
+  "lat": "površan",
+  "tr": "површан",
+  "ru": "поверхностный; поверхностный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Површан човек не размишља дубоко.",
+   "lat": "Površan čovek ne razmišlja duboko.",
+   "ru": "Поверхностный человек не думает глубоко."
+  }
+ },
+ {
+  "id": "w4097",
+  "order": 4097,
+  "level": "B2",
+  "cyr": "дилема",
+  "lat": "dilema",
+  "tr": "дилема",
+  "ru": "дилемма; затруднительное положение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дилема је пред нама.",
+   "lat": "Dilema je pred nama.",
+   "ru": "Дилемма перед нами."
+  }
+ },
+ {
+  "id": "w4098",
+  "order": 4098,
+  "level": "B2",
+  "cyr": "искреност",
+  "lat": "iskrenost",
+  "tr": "искреност",
+  "ru": "искренность; откровенность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Искреност је основа сваког пријатељства.",
+   "lat": "Iskrenost je osnova svakog prijateljstva.",
+   "ru": "Искренность основа любого дружбы."
+  }
+ },
+ {
+  "id": "w4099",
+  "order": 4099,
+  "level": "B2",
+  "cyr": "постојан",
+  "lat": "postojan",
+  "tr": "постојан",
+  "ru": "постоянный; устойчивый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Постојан рад доводи до успеха.",
+   "lat": "Postojan rad dovodi do uspeha.",
+   "ru": "Постоянный труд ведёт к успеху."
+  }
+ },
+ {
+  "id": "w4100",
+  "order": 4100,
+  "level": "B2",
+  "cyr": "дискреција",
+  "lat": "diskrecija",
+  "tr": "дискреција",
+  "ru": "дискретность; тактичность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Дискреција је била неопходна.",
+   "lat": "Diskrecija je bila neophodna.",
+   "ru": "Дискретность была необходима."
+  }
+ },
+ {
+  "id": "w4101",
+  "order": 4101,
+  "level": "B2",
+  "cyr": "коректност",
+  "lat": "korektnost",
+  "tr": "коректност",
+  "ru": "корректность; вежливость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Коректност у разговору је веома важна.",
+   "lat": "Korektnost u razgovoru je veoma važna.",
+   "ru": "Корректность в общении очень важна."
+  }
+ },
+ {
+  "id": "w4102",
+  "order": 4102,
+  "level": "B2",
+  "cyr": "противречан",
+  "lat": "protivrečan",
+  "tr": "противречан",
+  "ru": "противоречивый; несогласованный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Противречан план изазива сумње.",
+   "lat": "Protivrečan plan izaziva sumnje.",
+   "ru": "Проторечивый план вызывает сомнения."
+  }
+ },
+ {
+  "id": "w4103",
+  "order": 4103,
+  "level": "B2",
+  "cyr": "дистанца",
+  "lat": "distanca",
+  "tr": "дистанца",
+  "ru": "дистанция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Потребна ми је дистанца.",
+   "lat": "Potrebna mi je distanca.",
+   "ru": "Мне нужна дистанция."
+  }
+ },
+ {
+  "id": "w4104",
+  "order": 4104,
+  "level": "B2",
+  "cyr": "ласкање",
+  "lat": "laskanje",
+  "tr": "ласканье",
+  "ru": "ласкательство; льстение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ласкање често не искрено.",
+   "lat": "Laskanje često ne iskreno.",
+   "ru": "Ласкательство часто неискренно."
+  }
+ },
+ {
+  "id": "w4105",
+  "order": 4105,
+  "level": "B2",
+  "cyr": "радознао",
+  "lat": "radoznao",
+  "tr": "радознао",
+  "ru": "любопытный; любознательный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Радознао ученик поставља питања.",
+   "lat": "Radoznao učenik postavlja pitanja.",
+   "ru": "Любознательный ученик задает вопросы."
+  }
+ },
+ {
+  "id": "w4106",
+  "order": 4106,
+  "level": "B2",
+  "cyr": "доба",
+  "lat": "doba",
+  "tr": "доба",
+  "ru": "эпоха; время; пора",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Доба технолошког напретка је започела.",
+   "lat": "Doba tehnološkog napretka je započela.",
+   "ru": "Эпоха технологического прогресса началась."
+  }
+ },
+ {
+  "id": "w4107",
+  "order": 4107,
+  "level": "B2",
+  "cyr": "мерак",
+  "lat": "merak",
+  "tr": "мерак",
+  "ru": "кайф; тихая радость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Лежање на мору је чисти мерак.",
+   "lat": "Ležanje na moru je čisti merak.",
+   "ru": "Полежать у моря — чистый кайф."
+  }
+ },
+ {
+  "id": "w4108",
+  "order": 4108,
+  "level": "B2",
+  "cyr": "разуман",
+  "lat": "razuman",
+  "tr": "разуман",
+  "ru": "разумный; здравомыслящий",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Разуман савет је највреднији.",
+   "lat": "Razuman savet je najvredniji.",
+   "ru": "Разумный совет самый ценный."
+  }
+ },
+ {
+  "id": "w4109",
+  "order": 4109,
+  "level": "B2",
+  "cyr": "догађај",
+  "lat": "događaj",
+  "tr": "догаджај",
+  "ru": "событие; происшествие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Догађај је обележио цео град.",
+   "lat": "Dogadjaj je obeležio ceo grad.",
+   "ru": "Событие ознаменовало весь город."
+  }
+ },
+ {
+  "id": "w4110",
+  "order": 4110,
+  "level": "B2",
+  "cyr": "мржња",
+  "lat": "mržnja",
+  "tr": "мржнья",
+  "ru": "ненависть; злоба",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Мржња је најјача негативна емоција.",
+   "lat": "Mržnja je najjača negativna emocija.",
+   "ru": "Ненависть — самая сильная негативная эмоция."
+  }
+ },
+ {
+  "id": "w4111",
+  "order": 4111,
+  "level": "B2",
+  "cyr": "свестан",
+  "lat": "svestan",
+  "tr": "свестан",
+  "ru": "сознательный; осведомленный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Свестан грађанин поштује законе.",
+   "lat": "Svestan građanin poštuje zakone.",
+   "ru": "Сознательный гражданин соблюдает законы."
+  }
+ },
+ {
+  "id": "w4112",
+  "order": 4112,
+  "level": "B2",
+  "cyr": "дрскост",
+  "lat": "drskost",
+  "tr": "дрскост",
+  "ru": "наглость; дерзость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова дрскост изазвала је гнев колега.",
+   "lat": "Njegova drskost izazvala je gnev kolega.",
+   "ru": "Его наглость вызвала гнев коллег."
+  }
+ },
+ {
+  "id": "w4113",
+  "order": 4113,
+  "level": "B2",
+  "cyr": "мук",
+  "lat": "muk",
+  "tr": "мук",
+  "ru": "мука; страдание",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Човек је претрпео велики мук.",
+   "lat": "Čovek je pretrpeo veliki muk.",
+   "ru": "Человек претерпел великие муки."
+  }
+ },
+ {
+  "id": "w4114",
+  "order": 4114,
+  "level": "B2",
+  "cyr": "стрпљив",
+  "lat": "strpljiv",
+  "tr": "стрплив",
+  "ru": "терпеливый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Стрпљив отац чека децу дуже.",
+   "lat": "Strpljiv otac čeka decu duže.",
+   "ru": "Терпеливый отец долго ждёт детей."
+  }
+ },
+ {
+  "id": "w4115",
+  "order": 4115,
+  "level": "B2",
+  "cyr": "дух",
+  "lat": "duh",
+  "tr": "дух",
+  "ru": "дух",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Дух тима је непобедив.",
+   "lat": "Duh tima je nepobediv.",
+   "ru": "Дух команды непобедим."
+  }
+ },
+ {
+  "id": "w4116",
+  "order": 4116,
+  "level": "B2",
+  "cyr": "наивност",
+  "lat": "naivnost",
+  "tr": "наивност",
+  "ru": "наивность; простодушие",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Наивност га је направила лако ометљивог.",
+   "lat": "Naivnost ga je napravila lako ometljivog.",
+   "ru": "Его наивность сделала его легко уязвимым."
+  }
+ },
+ {
+  "id": "w4117",
+  "order": 4117,
+  "level": "B2",
+  "cyr": "судбоносан",
+  "lat": "sudbonosan",
+  "tr": "судбоносан",
+  "ru": "роковой; судьбоносный; переломный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Судбоносан тренутак променио његов живот.",
+   "lat": "Sudbonosan trenutak promenio njegov život.",
+   "ru": "Судьбоносный момент изменил его жизнь."
+  }
+ },
+ {
+  "id": "w4118",
+  "order": 4118,
+  "level": "B2",
+  "cyr": "заблуда",
+  "lat": "zabluda",
+  "tr": "заблуда",
+  "ru": "заблуждение; ошибка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Заблуда је довела до погрешних закључака.",
+   "lat": "Zabluda je dovela do pogrešnih zaključaka.",
+   "ru": "Его заблуждение привело к неверным выводам."
+  }
+ },
+ {
+  "id": "w4119",
+  "order": 4119,
+  "level": "B2",
+  "cyr": "наклоност",
+  "lat": "naklonost",
+  "tr": "наклоност",
+  "ru": "наклонность; симпатия",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Она осећа искрену наклоност према њему.",
+   "lat": "Ona oseća iskrenu naklonost prema njemu.",
+   "ru": "Она чувствует искреннюю наклонность к нему."
+  }
+ },
+ {
+  "id": "w4120",
+  "order": 4120,
+  "level": "B2",
+  "cyr": "тврдокоран",
+  "lat": "tvrdokoran",
+  "tr": "тврдокоран",
+  "ru": "упрямый; упорный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Тврдокоран дечак не слуша родитеље.",
+   "lat": "Tvrdokoran dečak ne sluša roditelje.",
+   "ru": "Упрямый мальчик не слушает родителей."
+  }
+ },
+ {
+  "id": "w4121",
+  "order": 4121,
+  "level": "B2",
+  "cyr": "замисао",
+  "lat": "zamisao",
+  "tr": "замисао",
+  "ru": "представление; замысел",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Замисао о путовању зауставила је киша.",
+   "lat": "Zamisao o putovanju zaustavila je kiša.",
+   "ru": "Мысль о поездке остановила дождь."
+  }
+ },
+ {
+  "id": "w4122",
+  "order": 4122,
+  "level": "B2",
+  "cyr": "недоверљивост",
+  "lat": "nedoverljivost",
+  "tr": "недоверливост",
+  "ru": "недоверие; подозрительность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Недоверљивост је била у његовом погледу.",
+   "lat": "Nedoverljivost je bila u njegovom pogledu.",
+   "ru": "Недоверие было в его взгляде."
+  }
+ },
+ {
+  "id": "w4123",
+  "order": 4123,
+  "level": "B2",
+  "cyr": "темељан",
+  "lat": "temeljan",
+  "tr": "темелян",
+  "ru": "основательный; тщательный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Темељан рад захтева пуно времена.",
+   "lat": "Temeljan rad zahteva puno vremena.",
+   "ru": "Основательная работа требует много времени."
+  }
+ },
+ {
+  "id": "w4124",
+  "order": 4124,
+  "level": "B2",
+  "cyr": "заједништво",
+  "lat": "zajedništvo",
+  "tr": "заједништво",
+  "ru": "общность; сплочённость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Заједништво осећају само најближи пријатељи.",
+   "lat": "Zajedništvo osećaju samo najbliži prijatelji.",
+   "ru": "Общность чувствуют только самые близкие друзья."
+  }
+ },
+ {
+  "id": "w4125",
+  "order": 4125,
+  "level": "B2",
+  "cyr": "недоумица",
+  "lat": "nedoumica",
+  "tr": "недоумица",
+  "ru": "сомнение; недоумение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Недоумица је била видљива на његовом лицу.",
+   "lat": "Nedoumica je bila vidljiva na njegovom licu.",
+   "ru": "Его сомнение было видно на его лице."
+  }
+ },
+ {
+  "id": "w4126",
+  "order": 4126,
+  "level": "B2",
+  "cyr": "трајан",
+  "lat": "trajan",
+  "tr": "трајан",
+  "ru": "долговечный; постоянный; прочный",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Овај мост је направљен за трајан коришћење.",
+   "lat": "Ovaj most je napravljen za trajan korišćenje.",
+   "ru": "Этот мост построен для долговечного использования."
+  }
+ },
+ {
+  "id": "w4127",
+  "order": 4127,
+  "level": "B2",
+  "cyr": "збивање",
+  "lat": "zbivanje",
+  "tr": "збиванье",
+  "ru": "событие; происшествие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Није знао за збивање у другој соби.",
+   "lat": "Nije znao za zbivanje u drugoj sobi.",
+   "ru": "Он не знал о происшествии в другой комнате."
+  }
+ },
+ {
+  "id": "w4128",
+  "order": 4128,
+  "level": "B2",
+  "cyr": "незадовољство",
+  "lat": "nezadovoljstvo",
+  "tr": "незадовольство",
+  "ru": "недовольство; неудовлетворенность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Незадовољство се види на његовом лицу.",
+   "lat": "Nezadovoljstvo se vidi na njegovom licu.",
+   "ru": "Недовольство видно на его лице."
+  }
+ },
+ {
+  "id": "w4129",
+  "order": 4129,
+  "level": "B2",
+  "cyr": "упоран",
+  "lat": "uporan",
+  "tr": "упоран",
+  "ru": "упорный; настойчивый",
+  "pos": "adj",
+  "cat": "adjectives",
+  "ex": {
+   "cyr": "Упоран студент увек учи ноћима.",
+   "lat": "Uporan student uvek uči noćima.",
+   "ru": "Упорный студент учит по ночам."
+  }
+ },
+ {
+  "id": "w4130",
+  "order": 4130,
+  "level": "B2",
+  "cyr": "злорадост",
+  "lat": "zloradost",
+  "tr": "злорадост",
+  "ru": "злорадство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Злорадост је ружна особина.",
+   "lat": "Zloradost je ružna osobina.",
+   "ru": "Злорадство — некрасивая черта."
+  }
+ },
+ {
+  "id": "w4131",
+  "order": 4131,
+  "level": "B2",
+  "cyr": "неискреност",
+  "lat": "neiskrenost",
+  "tr": "неискреност",
+  "ru": "неискренность; фальшь",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Неискреност се лако препознаје у говору.",
+   "lat": "Neiskrenost se lako prepoznaje u govoru.",
+   "ru": "Неискренность легко узнаётся в речи."
+  }
+ },
+ {
+  "id": "w4132",
+  "order": 4132,
+  "level": "B2",
+  "cyr": "значај",
+  "lat": "značaj",
+  "tr": "значај",
+  "ru": "значение; важность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Овај догађај има велики значај.",
+   "lat": "Ovaj događaj ima veliki značaj.",
+   "ru": "Это событие имеет большое значение."
+  }
+ },
+ {
+  "id": "w4133",
+  "order": 4133,
+  "level": "B2",
+  "cyr": "неодлучност",
+  "lat": "neodlučnost",
+  "tr": "неодлучност",
+  "ru": "нерешительность; неопределенность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Неодлучност је изазвала проблеме у тиму.",
+   "lat": "Neodlučnost je izazvala probleme u timu.",
+   "ru": "Ее нерешительность вызвала проблемы в команде."
+  }
+ },
+ {
+  "id": "w4134",
+  "order": 4134,
+  "level": "B2",
+  "cyr": "идентитет",
+  "lat": "identitet",
+  "tr": "идентитет",
+  "ru": "идентичность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Језик гради национални идентитет заједнице.",
+   "lat": "Jezik gradi nacionalni identitet zajednice.",
+   "ru": "Язык формирует национальную идентичность общины."
+  }
+ },
+ {
+  "id": "w4135",
+  "order": 4135,
+  "level": "B2",
+  "cyr": "несебичност",
+  "lat": "nesebičnost",
+  "tr": "несебичност",
+  "ru": "несобственничество; альтруизм",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Несебичност је темељ сваког великог дела.",
+   "lat": "Nesebičnost je temelj svakog velikog dela.",
+   "ru": "Альтруизм — основа всякого великого дела."
+  }
+ },
+ {
+  "id": "w4136",
+  "order": 4136,
+  "level": "B2",
+  "cyr": "интегритет",
+  "lat": "integritet",
+  "tr": "интегритет",
+  "ru": "интегритет",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Интегритет је најважнија лична особина.",
+   "lat": "Integritet je najvažnija lična osobina.",
+   "ru": "Интегритет — самая важная личная черта."
+  }
+ },
+ {
+  "id": "w4137",
+  "order": 4137,
+  "level": "B2",
+  "cyr": "несигурност",
+  "lat": "nesigurnost",
+  "tr": "несигурност",
+  "ru": "неуверенность; неопределенность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Та несигурност га је спречавала да одлучи.",
+   "lat": "Ta nesigurnost ga je sprečavala da odluči.",
+   "ru": "Эта неуверенность мешала ему решиться."
+  }
+ },
+ {
+  "id": "w4138",
+  "order": 4138,
+  "level": "B2",
+  "cyr": "интелигенција",
+  "lat": "inteligencija",
+  "tr": "интелигенција",
+  "ru": "интеллект; ум; сообразительность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Висока интелигенција се често види код њега.",
+   "lat": "Visoka inteligencija se često vidi kod njega.",
+   "ru": "Высокий интеллект часто виден в нём."
+  }
+ },
+ {
+  "id": "w4139",
+  "order": 4139,
+  "level": "B2",
+  "cyr": "нестрпљење",
+  "lat": "nestrpljenje",
+  "tr": "нестрпленье",
+  "ru": "нетерпение; нетерпеливость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Нестрпљење га је навело да прекине разговор.",
+   "lat": "Nestrpljenje ga je navelo da prekine razgovor.",
+   "ru": "Нетерпение заставило его прервать разговор."
+  }
+ },
+ {
+  "id": "w4140",
+  "order": 4140,
+  "level": "B2",
+  "cyr": "интуиција",
+  "lat": "intuicija",
+  "tr": "интуиција",
+  "ru": "интуиция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Интуиција га је спасила од грешке.",
+   "lat": "Intuicija ga je spasila od greške.",
+   "ru": "Интуиция спасла его от ошибки."
+  }
+ },
+ {
+  "id": "w4141",
+  "order": 4141,
+  "level": "B2",
+  "cyr": "носталгија",
+  "lat": "nostalgija",
+  "tr": "носталгија",
+  "ru": "ностальгия",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Носталгија га је задесила у туђини.",
+   "lat": "Nostalgija ga je zadesila u tuđini.",
+   "ru": "Ностальгия настигла его в чужой стране."
+  }
+ },
+ {
+  "id": "w4142",
+  "order": 4142,
+  "level": "B2",
+  "cyr": "исход",
+  "lat": "ishod",
+  "tr": "исход",
+  "ru": "исход; результат",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Исход тог догађаја је био неочекиван.",
+   "lat": "Ishod tog događaja je bio neočekivan.",
+   "ru": "Исход того события был неожиданным."
+  }
+ },
+ {
+  "id": "w4143",
+  "order": 4143,
+  "level": "B2",
+  "cyr": "огорчење",
+  "lat": "ogorčenje",
+  "tr": "огорченье",
+  "ru": "раздражение; огорчение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Огорчење га је спречавало да говори.",
+   "lat": "Ogorčenje ga je sprečavalo da govori.",
+   "ru": "Раздражение мешало ему говорить."
+  }
+ },
+ {
+  "id": "w4144",
+  "order": 4144,
+  "level": "B2",
+  "cyr": "коб",
+  "lat": "kob",
+  "tr": "коб",
+  "ru": "рок; злой рок",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стара коб прати туђака.",
+   "lat": "Stara kob prati tuđaka.",
+   "ru": "Старый рок преследует чужака."
+  }
+ },
+ {
+  "id": "w4145",
+  "order": 4145,
+  "level": "B2",
+  "cyr": "одвратност",
+  "lat": "odvratnost",
+  "tr": "одвратност",
+  "ru": "отвращение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Одвратност према лажи је здрава.",
+   "lat": "Odvratnost prema laži je zdrava.",
+   "ru": "Отвращение к лжи — здоровое чувство."
+  }
+ },
+ {
+  "id": "w4146",
+  "order": 4146,
+  "level": "B2",
+  "cyr": "крајност",
+  "lat": "krajnost",
+  "tr": "крајност",
+  "ru": "крайность; крайняя мера",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "У ситуацији крајности морали смо да поступимо.",
+   "lat": "U situaciji krajnosti morali smo da postupimo.",
+   "ru": "В экстремальной ситуации нам пришлось поступить так."
+  }
+ },
+ {
+  "id": "w4147",
+  "order": 4147,
+  "level": "B2",
+  "cyr": "озлојеђеност",
+  "lat": "ozlojeđenost",
+  "tr": "озлоједженост",
+  "ru": "раздражение; озлобленность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Озлојеђеност је била у његовом гласу.",
+   "lat": "Ozlojeđenost je bila u njegovom glasu.",
+   "ru": "Раздражение было в его голосе."
+  }
+ },
+ {
+  "id": "w4148",
+  "order": 4148,
+  "level": "B2",
+  "cyr": "критеријум",
+  "lat": "kriterijum",
+  "tr": "критеријум",
+  "ru": "критерий; стандарт",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Главни критеријум за успех је упорност.",
+   "lat": "Glavni kriterijum za uspeh je upornost.",
+   "ru": "Главный критерий успеха — это настойчивость."
+  }
+ },
+ {
+  "id": "w4149",
+  "order": 4149,
+  "level": "B2",
+  "cyr": "окрутност",
+  "lat": "okrutnost",
+  "tr": "окрутност",
+  "ru": "окрутность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Окрутност је његова највећа мана.",
+   "lat": "Okrutnost je njegova najveća mana.",
+   "ru": "Его главный недостаток — это окрутность."
+  }
+ },
+ {
+  "id": "w4150",
+  "order": 4150,
+  "level": "B2",
+  "cyr": "кротост",
+  "lat": "krotost",
+  "tr": "кротост",
+  "ru": "кротость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Кротост је често погрешно схваћена.",
+   "lat": "Krotost je često pogrešno shvaćena.",
+   "ru": "Кротость часто неправильно понимают."
+  }
+ },
+ {
+  "id": "w4151",
+  "order": 4151,
+  "level": "B2",
+  "cyr": "оригиналност",
+  "lat": "originalnost",
+  "tr": "оригиналност",
+  "ru": "оригинальность; новизна",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Оригиналност његовог стила је препознатљива.",
+   "lat": "Originalnost njegovog stila je prepoznatljiva.",
+   "ru": "Оригинальность его стиля узнаваема."
+  }
+ },
+ {
+  "id": "w4152",
+  "order": 4152,
+  "level": "B2",
+  "cyr": "логика",
+  "lat": "logika",
+  "tr": "логика",
+  "ru": "логика",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова логика је заснована на чињеницама.",
+   "lat": "Njegova logika je zasnovana na činjenicama.",
+   "ru": "Его логика основана на фактах."
+  }
+ },
+ {
+  "id": "w4153",
+  "order": 4153,
+  "level": "B2",
+  "cyr": "осетљивост",
+  "lat": "osetljivost",
+  "tr": "осетливост",
+  "ru": "чувствительность; ранимость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Осетљивост на хладно захтева топлу одећу.",
+   "lat": "Osetljivost na hladno zahteva toplu odeću.",
+   "ru": "Чувствительность к холоду требует теплой одежды."
+  }
+ },
+ {
+  "id": "w4154",
+  "order": 4154,
+  "level": "B2",
+  "cyr": "лукавство",
+  "lat": "lukavstvo",
+  "tr": "лукавство",
+  "ru": "хитрость; коварство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Лукавство му је помогло да реши проблем.",
+   "lat": "Lukavstvo mu je pomoglo da reši problem.",
+   "ru": "Хитрость помогла ему решить проблему."
+  }
+ },
+ {
+  "id": "w4155",
+  "order": 4155,
+  "level": "B2",
+  "cyr": "осећај",
+  "lat": "osećaj",
+  "tr": "осечај",
+  "ru": "чувство",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Осетила је пријатан осећај.",
+   "lat": "Osetila je prijatan osećaj.",
+   "ru": "Она испытала приятное чувство."
+  }
+ },
+ {
+  "id": "w4156",
+  "order": 4156,
+  "level": "B2",
+  "cyr": "машта",
+  "lat": "mašta",
+  "tr": "машта",
+  "ru": "воображение; фантазия",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Њена машта је безгранична.",
+   "lat": "Njena mašta je bezgranična.",
+   "ru": "Ее воображение безгранично."
+  }
+ },
+ {
+  "id": "w4157",
+  "order": 4157,
+  "level": "B2",
+  "cyr": "отуђеност",
+  "lat": "otuđenost",
+  "tr": "отудженост",
+  "ru": "отчуждение; отчаяние",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Отуђеност од друштва га је мучила.",
+   "lat": "Otuđenost od društva ga je mučila.",
+   "ru": "Отчуждение от общества мучило его."
+  }
+ },
+ {
+  "id": "w4158",
+  "order": 4158,
+  "level": "B2",
+  "cyr": "маштање",
+  "lat": "maštanje",
+  "tr": "маштанье",
+  "ru": "фантазирование; мечтание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Маштање је њен омиљени хоби.",
+   "lat": "Maštanje je njen omiljeni hobi.",
+   "ru": "Фантазирование — ее любимое хобби."
+  }
+ },
+ {
+  "id": "w4159",
+  "order": 4159,
+  "level": "B2",
+  "cyr": "охолост",
+  "lat": "oholost",
+  "tr": "охолост",
+  "ru": "высокомерие; заносчивость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Охолост га је одвела од правог пута.",
+   "lat": "Oholost ga je odvela od pravog puta.",
+   "ru": "Высокомерие свело его с правильного пути."
+  }
+ },
+ {
+  "id": "w4160",
+  "order": 4160,
+  "level": "B2",
+  "cyr": "менталитет",
+  "lat": "mentalitet",
+  "tr": "менталитет",
+  "ru": "менталитет",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Балкански менталитет је посебан.",
+   "lat": "Balkanski mentalitet je poseban.",
+   "ru": "Балканский менталитет особенный."
+  }
+ },
+ {
+  "id": "w4161",
+  "order": 4161,
+  "level": "B2",
+  "cyr": "очај",
+  "lat": "očaj",
+  "tr": "очај",
+  "ru": "отчаяние; безнадежность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Очај га је приморао на тежак потез.",
+   "lat": "Očaj ga je primorao na težak potez.",
+   "ru": "Отчаяние заставило его на тяжелый шаг."
+  }
+ },
+ {
+  "id": "w4162",
+  "order": 4162,
+  "level": "B2",
+  "cyr": "мерило",
+  "lat": "merilo",
+  "tr": "мерило",
+  "ru": "мерило; критерий",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Његово понашање је мерило његовог карактера.",
+   "lat": "Njegovo ponašanje je merilo njegovog karaktera.",
+   "ru": "Его поведение — мера его характера."
+  }
+ },
+ {
+  "id": "w4163",
+  "order": 4163,
+  "level": "B2",
+  "cyr": "педантност",
+  "lat": "pedantnost",
+  "tr": "педантност",
+  "ru": "педантичность; скрупулёзность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Педантност професора је легендарна.",
+   "lat": "Pedantnost profesora je legendarna.",
+   "ru": "Педантичность профессора легендарна."
+  }
+ },
+ {
+  "id": "w4164",
+  "order": 4164,
+  "level": "B2",
+  "cyr": "милосрђе",
+  "lat": "milosrđe",
+  "tr": "милосрдже",
+  "ru": "милосердие; сострадание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Милосрђе је највеће људско добро.",
+   "lat": "Milosrđe je najveće ljudsko dobro.",
+   "ru": "Милосердие — величайшее человеческое благо."
+  }
+ },
+ {
+  "id": "w4165",
+  "order": 4165,
+  "level": "B2",
+  "cyr": "подсмех",
+  "lat": "podsmeh",
+  "tr": "подсмех",
+  "ru": "смех; насмешка",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Подсмех је пратио његов неуспешан покушај.",
+   "lat": "Podsmeh je pratio njegov neuspešan pokušaj.",
+   "ru": "Насмешка сопровождала его неудачную попытку."
+  }
+ },
+ {
+  "id": "w4166",
+  "order": 4166,
+  "level": "B2",
+  "cyr": "милост",
+  "lat": "milost",
+  "tr": "милост",
+  "ru": "милость; милосердие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Цар је показао милост заробљенику.",
+   "lat": "Car je pokazao milost zarobljeniku.",
+   "ru": "Царь проявил милосердие к пленнику."
+  }
+ },
+ {
+  "id": "w4167",
+  "order": 4167,
+  "level": "B2",
+  "cyr": "покајање",
+  "lat": "pokajanje",
+  "tr": "покајанье",
+  "ru": "покаяние; раскаяние",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Покајање је тешко, али неопходно.",
+   "lat": "Pokajanje je teško, ali neophodno.",
+   "ru": "Покаяние тяжело, но необходимо."
+  }
+ },
+ {
+  "id": "w4168",
+  "order": 4168,
+  "level": "B2",
+  "cyr": "мисао",
+  "lat": "misao",
+  "tr": "мисао",
+  "ru": "мысль; идея",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова нова мисао је веома занимљива.",
+   "lat": "Njegova nova misao je veoma zanimljiva.",
+   "ru": "Его новая мысль очень интересная."
+  }
+ },
+ {
+  "id": "w4169",
+  "order": 4169,
+  "level": "B2",
+  "cyr": "помирење",
+  "lat": "pomirenje",
+  "tr": "помиренье",
+  "ru": "примирение; примирение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Помирење је донело мир кући.",
+   "lat": "Pomirenje je donelo mir kući.",
+   "ru": "Примирение принесло мир в дом."
+  }
+ },
+ {
+  "id": "w4170",
+  "order": 4170,
+  "level": "B2",
+  "cyr": "могућност",
+  "lat": "mogućnost",
+  "tr": "могучност",
+  "ru": "возможность; шанс",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Овај посао отвара нове могућности.",
+   "lat": "Ovaj posao otvara nove mogućnosti.",
+   "ru": "Эта работа открывает новые возможности."
+  }
+ },
+ {
+  "id": "w4171",
+  "order": 4171,
+  "level": "B2",
+  "cyr": "похвала",
+  "lat": "pohvala",
+  "tr": "похвала",
+  "ru": "похвала; похвала",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Похвала је уживала у великом поштовању.",
+   "lat": "Pohvala je uživala u velikom poštovanju.",
+   "ru": "Похвала пользовалась большим уважением."
+  }
+ },
+ {
+  "id": "w4172",
+  "order": 4172,
+  "level": "B2",
+  "cyr": "молба",
+  "lat": "molba",
+  "tr": "молба",
+  "ru": "мольба; просьба",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Њена тиха молба је дочекана са саосећањем.",
+   "lat": "Njena tiha molba je dočekana sa saosećanjem.",
+   "ru": "Её тихая просьба была встречена с сочувствием."
+  }
+ },
+ {
+  "id": "w4173",
+  "order": 4173,
+  "level": "B2",
+  "cyr": "празнина",
+  "lat": "praznina",
+  "tr": "празнина",
+  "ru": "пустота; пустота",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Празнина у души је била огромна.",
+   "lat": "Praznina u duši je bila ogromna.",
+   "ru": "Пустота в душе была огромна."
+  }
+ },
+ {
+  "id": "w4174",
+  "order": 4174,
+  "level": "B2",
+  "cyr": "моћ",
+  "lat": "moć",
+  "tr": "моч",
+  "ru": "сила; власть; возможность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Он има моћ да доноси одлуке.",
+   "lat": "On ima moć da donosi odluke.",
+   "ru": "Он имеет власть принимать решения."
+  }
+ },
+ {
+  "id": "w4175",
+  "order": 4175,
+  "level": "B2",
+  "cyr": "презир",
+  "lat": "prezir",
+  "tr": "презир",
+  "ru": "презрение; пренебрежение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Презир је био у његовом погледу.",
+   "lat": "Prezir je bio u njegovom pogledu.",
+   "ru": "Презрение было в его взгляде."
+  }
+ },
+ {
+  "id": "w4176",
+  "order": 4176,
+  "level": "B2",
+  "cyr": "мудрост",
+  "lat": "mudrost",
+  "tr": "мудрост",
+  "ru": "мудрость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Стариња доноси мудрост.",
+   "lat": "Starinja donosi mudrost.",
+   "ru": "Старость приносит мудрость."
+  }
+ },
+ {
+  "id": "w4177",
+  "order": 4177,
+  "level": "B2",
+  "cyr": "претња",
+  "lat": "pretnja",
+  "tr": "претнья",
+  "ru": "угроза; опасность; запугивание",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова претња је узбудила све у просторији.",
+   "lat": "Njegova pretnja je uzbudila sve u prostoriji.",
+   "ru": "Его угроза взволновала всех в комнате."
+  }
+ },
+ {
+  "id": "w4178",
+  "order": 4178,
+  "level": "B2",
+  "cyr": "навод",
+  "lat": "navod",
+  "tr": "навод",
+  "ru": "ссылка; упоминание; цитата",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "У чланку постоји навод.",
+   "lat": "U članku postoji navod.",
+   "ru": "В статье есть ссылка."
+  }
+ },
+ {
+  "id": "w4179",
+  "order": 4179,
+  "level": "B2",
+  "cyr": "приврженост",
+  "lat": "privrženost",
+  "tr": "приврженост",
+  "ru": "преданность; привязанность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Приврженост принципима је његова снага.",
+   "lat": "Privrženost principima je njegova snaga.",
+   "ru": "Преданность принципам — его сила."
+  }
+ },
+ {
+  "id": "w4180",
+  "order": 4180,
+  "level": "B2",
+  "cyr": "неблагодарност",
+  "lat": "neblagodarnost",
+  "tr": "неблагодарност",
+  "ru": "неблагодарность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Неблагодарност је најгора особина код човека.",
+   "lat": "Neblagodarnost je najgora osobina kod čoveka.",
+   "ru": "Неблагодарность — худшее качество в человеке."
+  }
+ },
+ {
+  "id": "w4181",
+  "order": 4181,
+  "level": "B2",
+  "cyr": "разочарање",
+  "lat": "razočaranje",
+  "tr": "разочаранье",
+  "ru": "разочарование",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Разочарање га је спречило да настави.",
+   "lat": "Razočaranje ga je sprečilo da nastavi.",
+   "ru": "Разочарование помешало ему продолжить."
+  }
+ },
+ {
+  "id": "w4182",
+  "order": 4182,
+  "level": "B2",
+  "cyr": "невоља",
+  "lat": "nevolja",
+  "tr": "неволя",
+  "ru": "беда; неприятность; трудность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Сусед је у великој невољи нашао.",
+   "lat": "Sused je u velikoj nevolji našao.",
+   "ru": "Сосед нашелся в большой беде."
+  }
+ },
+ {
+  "id": "w4183",
+  "order": 4183,
+  "level": "B2",
+  "cyr": "расејаност",
+  "lat": "rasejanost",
+  "tr": "расејаност",
+  "ru": "рассеянность; невнимательность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Расејаност га је спречила да пронађе кључеве.",
+   "lat": "Rasejanost ga je sprečila da pronađe ključeve.",
+   "ru": "Его рассеянность помешала ему найти ключи."
+  }
+ },
+ {
+  "id": "w4184",
+  "order": 4184,
+  "level": "B2",
+  "cyr": "незнање",
+  "lat": "neznanje",
+  "tr": "незнанье",
+  "ru": "неведение; незнание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Његово незнање је шокантно.",
+   "lat": "Njegovo neznanje je šokantno.",
+   "ru": "Его неведение шокирует."
+  }
+ },
+ {
+  "id": "w4185",
+  "order": 4185,
+  "level": "B2",
+  "cyr": "рањивост",
+  "lat": "ranjivost",
+  "tr": "ранивост",
+  "ru": "уязвимость; ранимость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова рањивост је видна у очима.",
+   "lat": "Njegova ranjivost je vidna u očima.",
+   "ru": "Его уязвимость видна в глазах."
+  }
+ },
+ {
+  "id": "w4186",
+  "order": 4186,
+  "level": "B2",
+  "cyr": "неповерење",
+  "lat": "nepoverenje",
+  "tr": "неповеренье",
+  "ru": "недоверие; подозрительность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Неповерење често води до великих грешака.",
+   "lat": "Nepoverenje često vodi do velikih grešaka.",
+   "ru": "Недоверие часто приводит к большим ошибкам."
+  }
+ },
+ {
+  "id": "w4187",
+  "order": 4187,
+  "level": "B2",
+  "cyr": "сажаљење",
+  "lat": "sažaljenje",
+  "tr": "сажаленье",
+  "ru": "сожаление; жалость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Говорио је без сажаљења.",
+   "lat": "Govorio je bez sažaljenja.",
+   "ru": "Он говорил без сожаления."
+  }
+ },
+ {
+  "id": "w4188",
+  "order": 4188,
+  "level": "B2",
+  "cyr": "неслагање",
+  "lat": "neslaganje",
+  "tr": "неслаганье",
+  "ru": "несогласие; разногласие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Његово неслагање је било очигледно.",
+   "lat": "Njegovo neslaganje je bilo očigledno.",
+   "ru": "Его несогласие было очевидно."
+  }
+ },
+ {
+  "id": "w4189",
+  "order": 4189,
+  "level": "B2",
+  "cyr": "самоувереност",
+  "lat": "samouverenost",
+  "tr": "самоувереност",
+  "ru": "уверенность в себе; самоуверенность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Самоувереност му помоће на послу.",
+   "lat": "Samouverenost mu pomoće na poslu.",
+   "ru": "Его уверенность в себе помогает ему на работе."
+  }
+ },
+ {
+  "id": "w4190",
+  "order": 4190,
+  "level": "B2",
+  "cyr": "нужност",
+  "lat": "nužnost",
+  "tr": "нужност",
+  "ru": "необходимость; нужда",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Овај посао је за њега права нужност.",
+   "lat": "Ovaj posao je za njega prava nužnost.",
+   "ru": "Эта работа для него настоящая необходимость."
+  }
+ },
+ {
+  "id": "w4191",
+  "order": 4191,
+  "level": "B2",
+  "cyr": "саучешће",
+  "lat": "saučešće",
+  "tr": "саучешче",
+  "ru": "сочувствие; сострадание",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "n",
+  "ex": {
+   "cyr": "Показао је саучешће породици у тешком тренутку.",
+   "lat": "Pokazao je saučešće porodici u teškom trenutku.",
+   "ru": "Он проявил сочувствие семье в трудный момент."
+  }
+ },
+ {
+  "id": "w4192",
+  "order": 4192,
+  "level": "B2",
+  "cyr": "обећање",
+  "lat": "obećanje",
+  "tr": "обечанье",
+  "ru": "обещание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Он је дао обећање да ће доћи.",
+   "lat": "On je dao obećanje da će doći.",
+   "ru": "Он дал обещание прийти."
+  }
+ },
+ {
+  "id": "w4193",
+  "order": 4193,
+  "level": "B2",
+  "cyr": "себичност",
+  "lat": "sebičnost",
+  "tr": "себичност",
+  "ru": "эгоизм; эгоистичность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Себичност често уништава најлепше односе.",
+   "lat": "Sebičnost često uništava najlepše odnose.",
+   "ru": "Эгоизм часто разрушает最美的关系。"
+  }
+ },
+ {
+  "id": "w4194",
+  "order": 4194,
+  "level": "B2",
+  "cyr": "оговарање",
+  "lat": "ogovaranje",
+  "tr": "оговаранье",
+  "ru": "клевета; оклеветание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Оговарање је штетило његовој репутацији.",
+   "lat": "Ogovaranje je štetilo njegovoj reputaciji.",
+   "ru": "Клевета вредила его репутации."
+  }
+ },
+ {
+  "id": "w4195",
+  "order": 4195,
+  "level": "B2",
+  "cyr": "смиреност",
+  "lat": "smirenost",
+  "tr": "смиреност",
+  "ru": "спокойствие; смирение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Старац је поседовао смиреност и мудрост.",
+   "lat": "Starac je posedovao smirenost i mudrost.",
+   "ru": "Старец обладал спокойствием и мудростью."
+  }
+ },
+ {
+  "id": "w4196",
+  "order": 4196,
+  "level": "B2",
+  "cyr": "оданост",
+  "lat": "odanost",
+  "tr": "оданост",
+  "ru": "верность; преданность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пас је показао велику оданост свом власнику.",
+   "lat": "Pas je pokazao veliku odanost svom vlasniku.",
+   "ru": "Показал большую верность своему хозяину."
+  }
+ },
+ {
+  "id": "w4197",
+  "order": 4197,
+  "level": "B2",
+  "cyr": "спокој",
+  "lat": "spokoj",
+  "tr": "спокој",
+  "ru": "спокойствие; покой",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Спокој је преовладао у соби.",
+   "lat": "Spokoj je preovladao u sobi.",
+   "ru": "Спокойствие воцарилось в комнате."
+  }
+ },
+ {
+  "id": "w4198",
+  "order": 4198,
+  "level": "B2",
+  "cyr": "одлучност",
+  "lat": "odlučnost",
+  "tr": "одлучност",
+  "ru": "решительность; твердость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова одлучност је импресионирала читав тим.",
+   "lat": "Njegova odlučnost je impresionirala čitav tim.",
+   "ru": "Его решительность впечатлила всю команду."
+  }
+ },
+ {
+  "id": "w4199",
+  "order": 4199,
+  "level": "B2",
+  "cyr": "срамота",
+  "lat": "sramota",
+  "tr": "срамота",
+  "ru": "стыд; позор; позорное поведение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Таква срамота никада неће бити заборављена.",
+   "lat": "Takva sramota nikada neće biti zaboravljena.",
+   "ru": "Такой позор никогда не будет забыт."
+  }
+ },
+ {
+  "id": "w4200",
+  "order": 4200,
+  "level": "B2",
+  "cyr": "околишање",
+  "lat": "okolišanje",
+  "tr": "околишанье",
+  "ru": "околичничание; отлыгивание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Он је вешто вршио околишање.",
+   "lat": "On je vešto vršio okolišanje.",
+   "ru": "Он искусно отлыгивал."
+  }
+ },
+ {
+  "id": "w4201",
+  "order": 4201,
+  "level": "B2",
+  "cyr": "тактичност",
+  "lat": "taktičnost",
+  "tr": "тактичност",
+  "ru": "тактичность; деликатность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Тактичност му је одлика доброг човека.",
+   "lat": "Taktičnost mu je odlika dobrog čoveka.",
+   "ru": "Тактичность — черта хорошего человека."
+  }
+ },
+ {
+  "id": "w4202",
+  "order": 4202,
+  "level": "B2",
+  "cyr": "околност",
+  "lat": "okolnost",
+  "tr": "околност",
+  "ru": "обстоятельство; ситуация",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Ове околности захтевају брзу одлуку.",
+   "lat": "Ove okolnosti zahtevaju brzu odluku.",
+   "ru": "Эти обстоятельства требуют быстрого решения."
+  }
+ },
+ {
+  "id": "w4203",
+  "order": 4203,
+  "level": "B2",
+  "cyr": "тврдоглавост",
+  "lat": "tvrdoglavost",
+  "tr": "тврдоглавост",
+  "ru": "упрямство; упёртость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Тврдоглавост га често доводи у невоље.",
+   "lat": "Tvrdoglavost ga često dovodi u nevolje.",
+   "ru": "Его упрямство часто приводит в беду."
+  }
+ },
+ {
+  "id": "w4204",
+  "order": 4204,
+  "level": "B2",
+  "cyr": "оправдање",
+  "lat": "opravdanje",
+  "tr": "оправданье",
+  "ru": "оправдание; извинение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Тражио је оправдање за свој поступак.",
+   "lat": "Tražio je opravdanje za svoj postupak.",
+   "ru": "Он просил оправдания за свой поступок."
+  }
+ },
+ {
+  "id": "w4205",
+  "order": 4205,
+  "level": "B2",
+  "cyr": "трепет",
+  "lat": "trepet",
+  "tr": "трепет",
+  "ru": "дрожь; волнение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Трепет је обухватио његове руке.",
+   "lat": "Trepet je obuhvatio njegove ruke.",
+   "ru": "Дрожь охватила его руки."
+  }
+ },
+ {
+  "id": "w4206",
+  "order": 4206,
+  "level": "B2",
+  "cyr": "осуда",
+  "lat": "osuda",
+  "tr": "осуда",
+  "ru": "осуда; порицание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Његова осуда је била немилосрдна.",
+   "lat": "Njegova osuda je bila nemilosrdna.",
+   "ru": "Его осуда была беспощадной."
+  }
+ },
+ {
+  "id": "w4207",
+  "order": 4207,
+  "level": "B2",
+  "cyr": "ужас",
+  "lat": "užas",
+  "tr": "ужас",
+  "ru": "ужас; ужас",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "m",
+  "ex": {
+   "cyr": "Сцена из филма изазвала је прави ужас.",
+   "lat": "Scena iz filma izazvala je pravi užas.",
+   "ru": "Сцена из фильма вызвала настоящий ужас."
+  }
+ },
+ {
+  "id": "w4208",
+  "order": 4208,
+  "level": "B2",
+  "cyr": "парадокс",
+  "lat": "paradoks",
+  "tr": "парадокс",
+  "ru": "парадокс",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Парадокс ситуације је очигледан.",
+   "lat": "Paradoks situacije je očigledan.",
+   "ru": "Парадокс ситуации очевиден."
+  }
+ },
+ {
+  "id": "w4209",
+  "order": 4209,
+  "level": "B2",
+  "cyr": "уздржаност",
+  "lat": "uzdržanost",
+  "tr": "уздржаност",
+  "ru": "сдержанность; умеренность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Уздржаност му је донела поштовање.",
+   "lat": "Uzdržanost mu je donela poštovanje.",
+   "ru": "Его сдержанность принесла ему уважение."
+  }
+ },
+ {
+  "id": "w4210",
+  "order": 4210,
+  "level": "B2",
+  "cyr": "партнерство",
+  "lat": "partnerstvo",
+  "tr": "партнерство",
+  "ru": "партнёрство; партнёрские отношения",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Партнерство је кључ за успех у бизнису.",
+   "lat": "Partnerstvo je ključ za uspeh u biznisu.",
+   "ru": "Партнёрство — ключ к успеху в бизнесе."
+  }
+ },
+ {
+  "id": "w4211",
+  "order": 4211,
+  "level": "B2",
+  "cyr": "узнемиреност",
+  "lat": "uznemirenost",
+  "tr": "узнемиреност",
+  "ru": "беспокойство",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Узнемиреност је видљива на његовом лицу.",
+   "lat": "Uznemirenost je vidljiva na njegovom licu.",
+   "ru": "Беспокойство заметно на его лице."
+  }
+ },
+ {
+  "id": "w4212",
+  "order": 4212,
+  "level": "B2",
+  "cyr": "период",
+  "lat": "period",
+  "tr": "период",
+  "ru": "период; этап",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тешки период је зашао у живот.",
+   "lat": "Teški period je zašao u život.",
+   "ru": "Тяжёлый период вошёл в жизнь."
+  }
+ },
+ {
+  "id": "w4213",
+  "order": 4213,
+  "level": "B2",
+  "cyr": "упорност",
+  "lat": "upornost",
+  "tr": "упорност",
+  "ru": "упорство; настойчивость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Упорност га је довела до циља.",
+   "lat": "Upornost ga je dovela do cilja.",
+   "ru": "Его упорство привело его к цели."
+  }
+ },
+ {
+  "id": "w4214",
+  "order": 4214,
+  "level": "B2",
+  "cyr": "поимање",
+  "lat": "poimanje",
+  "tr": "поиманье",
+  "ru": "понимание; осознание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Поимање сложених проблема захтева време.",
+   "lat": "Poimanje složenih problema zahteva vreme.",
+   "ru": "Понимание сложных проблем требует времени."
+  }
+ },
+ {
+  "id": "w4215",
+  "order": 4215,
+  "level": "B2",
+  "cyr": "усредсређеност",
+  "lat": "usredsređenost",
+  "tr": "усредсредженост",
+  "ru": "концентрация; сосредоточенность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Усредсређеност му је омогућила да реши задатак.",
+   "lat": "Usredsređenost mu je omogućila da reši zadatak.",
+   "ru": "Его сосредоточенность позволила ему решить задачу."
+  }
+ },
+ {
+  "id": "w4216",
+  "order": 4216,
+  "level": "B2",
+  "cyr": "полемика",
+  "lat": "polemika",
+  "tr": "полемика",
+  "ru": "полемика; спор",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Академска полемика траје већ неколико дана.",
+   "lat": "Akademska polemika traje već nekoliko dana.",
+   "ru": "Академическая полемика длится уже несколько дней."
+  }
+ },
+ {
+  "id": "w4217",
+  "order": 4217,
+  "level": "B2",
+  "cyr": "утеха",
+  "lat": "uteha",
+  "tr": "утеха",
+  "ru": "утешение; утешение",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Утеха је дошла из пријатељевих речи.",
+   "lat": "Uteha je došla iz prijateljevih reči.",
+   "ru": "Утешение пришло из слов друга."
+  }
+ },
+ {
+  "id": "w4218",
+  "order": 4218,
+  "level": "B2",
+  "cyr": "положај",
+  "lat": "položaj",
+  "tr": "положај",
+  "ru": "положение; статус; место",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Имао је висок положај у друштву.",
+   "lat": "Imao je visok položaj u društvu.",
+   "ru": "Он занимал высокое положение в обществе."
+  }
+ },
+ {
+  "id": "w4219",
+  "order": 4219,
+  "level": "B2",
+  "cyr": "учтивост",
+  "lat": "učtivost",
+  "tr": "учтивост",
+  "ru": "вежливость; учтивость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Учтивост је основа добрих односа.",
+   "lat": "Učtivost je osnova dobrih odnosa.",
+   "ru": "Вежливость — основа хороших отношений."
+  }
+ },
+ {
+  "id": "w4220",
+  "order": 4220,
+  "level": "B2",
+  "cyr": "порок",
+  "lat": "porok",
+  "tr": "порок",
+  "ru": "порок; порочность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Његов највећи порок је похлепа.",
+   "lat": "Njegov najveći porok je pohlepa.",
+   "ru": "Его главный порок — это жадность."
+  }
+ },
+ {
+  "id": "w4221",
+  "order": 4221,
+  "level": "B2",
+  "cyr": "фрустрација",
+  "lat": "frustracija",
+  "tr": "фрустрација",
+  "ru": "фрустрация",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Фрустрација расте када нема напретка.",
+   "lat": "Frustracija raste kada nema napretka.",
+   "ru": "Фрустрация растёт без прогресса."
+  }
+ },
+ {
+  "id": "w4222",
+  "order": 4222,
+  "level": "B2",
+  "cyr": "последица",
+  "lat": "posledica",
+  "tr": "последица",
+  "ru": "последствие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Непажња често доводи до тешких последица.",
+   "lat": "Nepažnja često dovodi do teških posledica.",
+   "ru": "Неосторожность часто приводит к тяжёлым последствиям."
+  }
+ },
+ {
+  "id": "w4223",
+  "order": 4223,
+  "level": "B2",
+  "cyr": "храброст",
+  "lat": "hrabrost",
+  "tr": "храброст",
+  "ru": "храбрость; мужество",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Храброст је обележавала његов карактер.",
+   "lat": "Hrabrost je obeležavala njegov karakter.",
+   "ru": "Храбрость характеризовала его характер."
+  }
+ },
+ {
+  "id": "w4224",
+  "order": 4224,
+  "level": "B2",
+  "cyr": "поштење",
+  "lat": "poštenje",
+  "tr": "поштенье",
+  "ru": "честность; порядочность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Поштење је вредност коју ценим.",
+   "lat": "Poštenje je vrednost koju cenim.",
+   "ru": "Честность ценность, которую я ценю."
+  }
+ },
+ {
+  "id": "w4225",
+  "order": 4225,
+  "level": "B2",
+  "cyr": "чежња",
+  "lat": "čežnja",
+  "tr": "чежнья",
+  "ru": "тоска; стремление",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Чежња за домом не стари.",
+   "lat": "Čežnja za domom ne stari.",
+   "ru": "Тоска по дому не стареет."
+  }
+ },
+ {
+  "id": "w4226",
+  "order": 4226,
+  "level": "B2",
+  "cyr": "поштовање",
+  "lat": "poštovanje",
+  "tr": "поштованье",
+  "ru": "уважение; уважительность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Поштовање је темељ сваког здравог односа.",
+   "lat": "Poštovanje je temelj svakog zdravog odnosa.",
+   "ru": "Уважение — основа каждого здорового отношения."
+  }
+ },
+ {
+  "id": "w4227",
+  "order": 4227,
+  "level": "B2",
+  "cyr": "честитост",
+  "lat": "čestitost",
+  "tr": "честитост",
+  "ru": "честность; правдивость",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Честитост је видна у њеним поступцима.",
+   "lat": "Čestitost je vidna u njenim postupcima.",
+   "ru": "Честность видна в её поступках."
+  }
+ },
+ {
+  "id": "w4228",
+  "order": 4228,
+  "level": "B2",
+  "cyr": "појам",
+  "lat": "pojam",
+  "tr": "појам",
+  "ru": "понятие; представление; представление о чем-л.",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Тој појам му је био потпуно непознат.",
+   "lat": "Toj pojam mu je bio potpuno nepoznat.",
+   "ru": "Это понятие ему было совершенно незнакомо."
+  }
+ },
+ {
+  "id": "w4229",
+  "order": 4229,
+  "level": "B2",
+  "cyr": "љубазност",
+  "lat": "ljubaznost",
+  "tr": "любазност",
+  "ru": "вежливость; любезность",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Продавац је показао велику љубазност према купцу.",
+   "lat": "Prodavac je pokazao veliku ljubaznost prema kupcu.",
+   "ru": "Продемонстрировал большую вежливость по отношению к покупателю."
+  }
+ },
+ {
+  "id": "w4230",
+  "order": 4230,
+  "level": "B2",
+  "cyr": "праведност",
+  "lat": "pravednost",
+  "tr": "праведност",
+  "ru": "справедливость; праведность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Праведност судије је изнад сваке сумње.",
+   "lat": "Pravednost sudije je iznad svake sumnje.",
+   "ru": "Справедливость судьи превыше всяких сомнений."
+  }
+ },
+ {
+  "id": "w4231",
+  "order": 4231,
+  "level": "B2",
+  "cyr": "љубомора",
+  "lat": "ljubomora",
+  "tr": "любомора",
+  "ru": "ревность; зависть",
+  "pos": "noun",
+  "cat": "emotions",
+  "gender": "f",
+  "ex": {
+   "cyr": "Љубомора је уништила њихов однос.",
+   "lat": "Ljubomora je uništila njihov odnos.",
+   "ru": "Ревность уничтожила их отношения."
+  }
+ },
+ {
+  "id": "w4232",
+  "order": 4232,
+  "level": "B2",
+  "cyr": "премиса",
+  "lat": "premisa",
+  "tr": "премиса",
+  "ru": "премиса; предпосылка",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Логичка премиса је основа свог закључка.",
+   "lat": "Logička premisa je osnova svog zaključka.",
+   "ru": "Логическая премиса — основа каждого вывода."
+  }
+ },
+ {
+  "id": "w4233",
+  "order": 4233,
+  "level": "B2",
+  "cyr": "дрзак",
+  "lat": "drzak",
+  "tr": "дрзак",
+  "ru": "дерзкий; наглый",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Дрзак младић је прекинуо професора на предавању.",
+   "lat": "Drzak mladić je prekinuo profesora na predavanju.",
+   "ru": "Дерзкий парень прервал профессора на лекции."
+  }
+ },
+ {
+  "id": "w4234",
+  "order": 4234,
+  "level": "B2",
+  "cyr": "преокрет",
+  "lat": "preokret",
+  "tr": "преокрет",
+  "ru": "перелом; поворот; изменение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Последњи минут донео је преокрет у игри.",
+   "lat": "Poslednji minut doneo je preokret u igri.",
+   "ru": "Последняя минута принесла перелом в игре."
+  }
+ },
+ {
+  "id": "w4235",
+  "order": 4235,
+  "level": "B2",
+  "cyr": "срамежљив",
+  "lat": "sramežljiv",
+  "tr": "срамежлив",
+  "ru": "стеснительный; застенчивый",
+  "pos": "adj",
+  "cat": "emotions",
+  "ex": {
+   "cyr": "Срамежљиви дечак се крије иза мајке.",
+   "lat": "Sramežljivi dečak se krije iza majke.",
+   "ru": "Застенчивый мальчик прячется за маму."
+  }
+ },
+ {
+  "id": "w4236",
+  "order": 4236,
+  "level": "B2",
+  "cyr": "препирка",
+  "lat": "prepirka",
+  "tr": "препирка",
+  "ru": "спор; пререкание; ссора",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Супружничка препирка је била веома гласна.",
+   "lat": "Supružnička prepirka je bila veoma glasna.",
+   "ru": "Супружеский спор был очень громким."
+  }
+ },
+ {
+  "id": "w4237",
+  "order": 4237,
+  "level": "B2",
+  "cyr": "претеривање",
+  "lat": "preterivanje",
+  "tr": "претериванье",
+  "ru": "преувеличение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Без претеривања, то је најбоље дело.",
+   "lat": "Bez preterivanja, to je najbolje delo.",
+   "ru": "Без преувеличения — это лучшая работа."
+  }
+ },
+ {
+  "id": "w4238",
+  "order": 4238,
+  "level": "B2",
+  "cyr": "прибраност",
+  "lat": "pribranost",
+  "tr": "прибраност",
+  "ru": "аккуратность; опрятность",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Прибраност у канцеларији говори о професионализму.",
+   "lat": "Pribranost u kancelariji govori o profesionalizmu.",
+   "ru": "Аккуратность в офисе говорит о профессионализме."
+  }
+ },
+ {
+  "id": "w4239",
+  "order": 4239,
+  "level": "B2",
+  "cyr": "пристојност",
+  "lat": "pristojnost",
+  "tr": "пристојност",
+  "ru": "приличность; приличное поведение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пристојност је од суштинског значаја.",
+   "lat": "Pristojnost je od suštinskog značaja.",
+   "ru": "Приличность имеет первостепенное значение."
+  }
+ },
+ {
+  "id": "w4240",
+  "order": 4240,
+  "level": "B2",
+  "cyr": "проклетство",
+  "lat": "prokletstvo",
+  "tr": "проклетство",
+  "ru": "проклятие; злословие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Старица је изрекла проклетство над неверником.",
+   "lat": "Starica je izrekla prokletstvo nad nevernikom.",
+   "ru": "Старуха произнесла проклятие над неверным."
+  }
+ },
+ {
+  "id": "w4241",
+  "order": 4241,
+  "level": "B2",
+  "cyr": "пролазност",
+  "lat": "prolaznost",
+  "tr": "пролазност",
+  "ru": "мимолетность; непостоянство",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Пролазност живота често забрињава младе људе.",
+   "lat": "Prolaznost života često zabrinjava mlade ljude.",
+   "ru": "Мимолетность жизни часто беспокоит молодых людей."
+  }
+ },
+ {
+  "id": "w4242",
+  "order": 4242,
+  "level": "B2",
+  "cyr": "пророчанство",
+  "lat": "proročanstvo",
+  "tr": "пророчанство",
+  "ru": "пророчество; предсказание",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Пророчанство се обично објављује.",
+   "lat": "Proročanstvo se obično objavljuje.",
+   "ru": "Пророчество обычно публикуется."
+  }
+ },
+ {
+  "id": "w4243",
+  "order": 4243,
+  "level": "B2",
+  "cyr": "противречност",
+  "lat": "protivrečnost",
+  "tr": "противречност",
+  "ru": "противоречие",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "У његовој причи има противречности.",
+   "lat": "U njegovoj priči ima protivrečnosti.",
+   "ru": "В его истории есть противоречия."
+  }
+ },
+ {
+  "id": "w4244",
+  "order": 4244,
+  "level": "B2",
+  "cyr": "раздобље",
+  "lat": "razdoblje",
+  "tr": "раздобле",
+  "ru": "период; эпоха",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Раздобље мира је било кратко.",
+   "lat": "Razdoblje mira je bilo kratko.",
+   "ru": "Период мира был коротким."
+  }
+ },
+ {
+  "id": "w4245",
+  "order": 4245,
+  "level": "B2",
+  "cyr": "размак",
+  "lat": "razmak",
+  "tr": "размак",
+  "ru": "интервал; разница; дистанция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Између два воза постоји велики размак.",
+   "lat": "Između dva voza postoji veliki razmak.",
+   "ru": "Между двумя поездами существует большой интервал."
+  }
+ },
+ {
+  "id": "w4246",
+  "order": 4246,
+  "level": "B2",
+  "cyr": "размишљање",
+  "lat": "razmišljanje",
+  "tr": "размишлянье",
+  "ru": "раздумье; размышление",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Размишљање је потребно за добар одговор.",
+   "lat": "Razmišljanje je potrebno za dobar odgovor.",
+   "ru": "Раздумье нужно для хорошего ответа."
+  }
+ },
+ {
+  "id": "w4247",
+  "order": 4247,
+  "level": "B2",
+  "cyr": "разноликост",
+  "lat": "raznolikost",
+  "tr": "разноликост",
+  "ru": "разнообразие; разноликость",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Разноликост у природи је фасцинантна.",
+   "lat": "Raznolikost u prirodi je fascinantna.",
+   "ru": "Разнообразие в природе очаровательно."
+  }
+ },
+ {
+  "id": "w4248",
+  "order": 4248,
+  "level": "B2",
+  "cyr": "разум",
+  "lat": "razum",
+  "tr": "разум",
+  "ru": "разум; ум; рассудок",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "m",
+  "ex": {
+   "cyr": "Разум је заиста велика снага.",
+   "lat": "Razum je zaista velika snaga.",
+   "ru": "Разум — это действительно большая сила."
+  }
+ },
+ {
+  "id": "w4249",
+  "order": 4249,
+  "level": "B2",
+  "cyr": "расправа",
+  "lat": "rasprava",
+  "tr": "расправа",
+  "ru": "разбирательство; прение; спор",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "f",
+  "ex": {
+   "cyr": "Судска расправа траје цео дан.",
+   "lat": "Sudska rasprava traje ceo dan.",
+   "ru": "Судебное разбирательство длится весь день."
+  }
+ },
+ {
+  "id": "w4250",
+  "order": 4250,
+  "level": "B2",
+  "cyr": "расуђивање",
+  "lat": "rasuđivanje",
+  "tr": "расудживанье",
+  "ru": "суждение; умозаключение",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Расуђивање му не иде добро.",
+   "lat": "Rasuđivanje mu ne ide dobro.",
+   "ru": "Ему не удаются умозаключения."
+  }
+ },
+ {
+  "id": "w4251",
+  "order": 4251,
+  "level": "B2",
+  "cyr": "ривалство",
+  "lat": "rivalstvo",
+  "tr": "ривалство",
+  "ru": "соперничество; конкуренция",
+  "pos": "noun",
+  "cat": "misc",
+  "gender": "n",
+  "ex": {
+   "cyr": "Ривалство између два тима је велико.",
+   "lat": "Rivalstvo između dva tima je veliko.",
+   "ru": "Соперничество между двумя командами велико."
+  }
+ }
+]
